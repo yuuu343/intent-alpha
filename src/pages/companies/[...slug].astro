@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const companies = await getCollection('companies');
+  return companies.map((company) => ({
+    params: { slug: company.id },
+    props: { company },
+  }));
+}
+
+const { company } = Astro.props;
+
+const articles = (await getCollection('articles', ({ data }) => !data.draft && data.company === company.id))
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: company.data.name,
+  url: company.data.website,
+  description: company.data.description,
+};
+---
+<Layout
+  title={company.data.name}
+  description={`Hiring-signal analysis and future-direction hypotheses for ${company.data.name}.`}
+  jsonLd={jsonLd}
+>
+  <p class="muted" style="margin-bottom: 0.5rem;">
+    <a href={company.data.website} rel="noopener">{new URL(company.data.website).host}</a>
+    {company.data.sector && <> &nbsp;·&nbsp; {company.data.sector}</>}
+    {company.data.headquarters && <> &nbsp;·&nbsp; {company.data.headquarters}</>}
+  </p>
+  <h1>{company.data.name}</h1>
+  <p>{company.data.description}</p>
+
+  <h2>Hypotheses ({articles.length})</h2>
+  {articles.length === 0 && <p class="muted">No articles yet for {company.data.name}.</p>}
+  {articles.map((a) => (
+    <a class="card" href={`/articles/${a.id}`} style="display:block; color:inherit;">
+      <h3>{a.data.title}</h3>
+      <p class="muted" style="margin-bottom: 0.5rem;">
+        <span class={`confidence confidence-${a.data.confidence}`}>{a.data.confidence}</span>
+        &nbsp;<time datetime={a.data.publishedAt.toISOString()}>
+          {a.data.publishedAt.toISOString().slice(0, 10)}
+        </time>
+      </p>
+      <p>{a.data.description}</p>
+    </a>
+  ))}
+</Layout>

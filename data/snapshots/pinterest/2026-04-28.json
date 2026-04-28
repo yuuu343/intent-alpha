@@ -1,0 +1,1401 @@
+{
+  "company": "pinterest",
+  "ats": "greenhouse",
+  "atsIdentifier": "pinterest",
+  "fetchedAt": "2026-04-28T00:14:34.846Z",
+  "count": 174,
+  "jobs": [
+    {
+      "id": "7671745",
+      "title": "Agency Lead",
+      "location": "Sydney, AU",
+      "department": "Agency Sales",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7671745"
+    },
+    {
+      "id": "7714127",
+      "title": "AI Solutions Engineer",
+      "location": "San Francisco, CA, Seattle, WA, US; Remote, US",
+      "department": "Engineering, Product and Design (L2)",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7714127"
+    },
+    {
+      "id": "7798605",
+      "title": "Business Systems Analyst II, Sales Systems",
+      "location": "San Francisco, CA, US; New York, NY, US",
+      "department": "Sales Strategy, Operations, and Enablement",
+      "updated_at": "2026-04-22T15:36:49-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7798605"
+    },
+    {
+      "id": "7789148",
+      "title": "Client Account Manager II, CPG",
+      "location": "New York, NY, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-14T19:04:56-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7789148"
+    },
+    {
+      "id": "7770877",
+      "title": "Client Account Manager II, E-Commerce",
+      "location": "New York, NY, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-22T10:47:31-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770877"
+    },
+    {
+      "id": "7770074",
+      "title": "Country Head",
+      "location": "Mexico City, MX",
+      "department": "LATAM Enterprise Sales",
+      "updated_at": "2026-04-23T18:20:26-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770074"
+    },
+    {
+      "id": "7586364",
+      "title": "Director, Machine Learning Engineering – Growth ",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7586364"
+    },
+    {
+      "id": "7539190",
+      "title": "Director of Data Science, Trust & Safety, Signals and Content Understanding",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7539190"
+    },
+    {
+      "id": "7630636",
+      "title": "Director of Product Management, Personalized Experiences",
+      "location": "San Francisco, CA, US; Remote, CA, US",
+      "department": "Core Product",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7630636"
+    },
+    {
+      "id": "7648625",
+      "title": "Director, Partner Marketing",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Marketing",
+      "updated_at": "2026-04-13T04:59:31-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7648625"
+    },
+    {
+      "id": "7783242",
+      "title": "Director, Technical Program Management, Pinner Journeys",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-22T17:53:31-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7783242"
+    },
+    {
+      "id": "6482797",
+      "title": "Director TPM, InfraGov",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6482797"
+    },
+    {
+      "id": "7494628",
+      "title": "Engineering Manager, Agent Foundations",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-25T03:32:16-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494628"
+    },
+    {
+      "id": "7683723",
+      "title": "Engineering Manager I, Growth AI",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683723"
+    },
+    {
+      "id": "7747067",
+      "title": "Engineering Manager II, Cache Infra",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-15T19:05:42-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7747067"
+    },
+    {
+      "id": "7494960",
+      "title": "Engineering Manager II, Enterprise AI Solutions",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "IT",
+      "updated_at": "2026-04-13T12:50:11-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494960"
+    },
+    {
+      "id": "7494658",
+      "title": "Engineering Manager II, Machine Learning – User Understanding",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-25T03:32:22-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494658"
+    },
+    {
+      "id": "7684573",
+      "title": "Engineering Manager I, Innovative Ad Formats",
+      "location": "San Francisco, CA, US; Palo Alo, CA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-08T14:21:18-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684573"
+    },
+    {
+      "id": "7494773",
+      "title": "Engineering Manager II, Programmatic Offsite Ads ",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494773"
+    },
+    {
+      "id": "7423679",
+      "title": "Experiential Manager",
+      "location": "London, UK",
+      "department": "Marketing",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7423679"
+    },
+    {
+      "id": "7743039",
+      "title": "Finance Manager I, Marketing Finance",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Finance",
+      "updated_at": "2026-04-15T08:28:28-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7743039"
+    },
+    {
+      "id": "7678163",
+      "title": "Integrated Marketing Specialist",
+      "location": "Berlin, DE",
+      "department": "Marketing",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678163"
+    },
+    {
+      "id": "7838803",
+      "title": "IT/AV Production Events Specialist II",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "IT",
+      "updated_at": "2026-04-22T14:39:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838803"
+    },
+    {
+      "id": "7770883",
+      "title": "Lead Ads Product Marketing Manager, Programmatic Supply & Inventory",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Product Marketing",
+      "updated_at": "2026-04-09T12:10:10-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770883"
+    },
+    {
+      "id": "7758926",
+      "title": "Lead Business Systems Analyst, Sales Systems",
+      "location": "San Francisco, CA, US; New York, NY, US",
+      "department": "Sales Strategy, Operations, and Enablement",
+      "updated_at": "2026-04-22T15:35:24-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7758926"
+    },
+    {
+      "id": "7678170",
+      "title": "Lead Client Partner (Auto)",
+      "location": "London, UK",
+      "department": "Europe Enterprise Sales",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678170"
+    },
+    {
+      "id": "7641102",
+      "title": "Lead Client Partner, Beauty",
+      "location": "New York, NY, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-10T18:27:06-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7641102"
+    },
+    {
+      "id": "7746359",
+      "title": "Lead Client Partner, Restaurants & Delivery Apps",
+      "location": "Los Angeles, CA, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7746359"
+    },
+    {
+      "id": "7671749",
+      "title": "Lead Client Partner, Retail",
+      "location": "New York, NY, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-27T13:06:29-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7671749"
+    },
+    {
+      "id": "7787615",
+      "title": "Lead Client Partner, Tech",
+      "location": "New York, NY, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-23T17:55:24-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7787615"
+    },
+    {
+      "id": "7678754",
+      "title": "Lead Client Partner, Tech & Telco",
+      "location": "Seattle, WA, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678754"
+    },
+    {
+      "id": "7671704",
+      "title": "Lead Client Partner, Travel",
+      "location": "Atlanta, GA, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-27T15:46:58-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7671704"
+    },
+    {
+      "id": "7495002",
+      "title": "Lead Industry Manager - Partner Sales",
+      "location": "Singapore, SG",
+      "department": "SMB Sales",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7495002"
+    },
+    {
+      "id": "7678730",
+      "title": "Lead Program Manager, Global SMB Vendor Operations",
+      "location": "Los Angeles, CA, US; Remote, US",
+      "department": "SMB Sales",
+      "updated_at": "2026-04-24T20:02:56-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678730"
+    },
+    {
+      "id": "6121450",
+      "title": "Machine Learning Engineer, Core Engineering",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450"
+    },
+    {
+      "id": "7681666",
+      "title": "Machine Learning Engineer II",
+      "location": "Dublin, IE",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7681666"
+    },
+    {
+      "id": "7473497",
+      "title": "Machine Learning Engineer II, Core Engineering ",
+      "location": "Toronto, ON, CA",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-23T18:19:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7473497"
+    },
+    {
+      "id": "6121543",
+      "title": "Machine Learning Engineer, Monetization Engineering",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543"
+    },
+    {
+      "id": "7426610",
+      "title": "Manager II, Engineering",
+      "location": "Toronto, ON, CA",
+      "department": "Monetization",
+      "updated_at": "2026-04-23T18:19:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7426610"
+    },
+    {
+      "id": "7528427",
+      "title": "Manager II, Machine Learning-Content Success",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7528427"
+    },
+    {
+      "id": "7752846",
+      "title": "Manager II, Machine Learning Engineering",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-08T20:59:26-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7752846"
+    },
+    {
+      "id": "7075176",
+      "title": "Manager II, Machine Learning Engineering, Core Engineering ",
+      "location": "San Francisco, CA, US;  Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7075176"
+    },
+    {
+      "id": "7239260",
+      "title": "Manager II, Machine Learning-Search",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-21T15:17:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7239260"
+    },
+    {
+      "id": "7651306",
+      "title": "Manager I, Revenue Operations",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Accounting",
+      "updated_at": "2026-04-08T18:00:32-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7651306"
+    },
+    {
+      "id": "7253017",
+      "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "department": "University",
+      "updated_at": "2026-04-23T12:40:28-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017"
+    },
+    {
+      "id": "7782571",
+      "title": "ML Platform Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-23T14:29:22-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782571"
+    },
+    {
+      "id": "7494536",
+      "title": "Payroll Administrator II",
+      "location": "Dublin, IE",
+      "department": "Accounting",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494536"
+    },
+    {
+      "id": "7808444",
+      "title": "Performance Solutions Lead",
+      "location": "Sydney, AU",
+      "department": "Global Client Solutions",
+      "updated_at": "2026-04-13T21:04:17-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7808444"
+    },
+    {
+      "id": "7255640",
+      "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "department": "University Engineering",
+      "updated_at": "2026-04-23T12:39:10-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640"
+    },
+    {
+      "id": "7775690",
+      "title": "Principal Engineer, Agentic Engineering",
+      "location": "Chicago, IL, US; Remote, US",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-16T17:29:09-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7775690"
+    },
+    {
+      "id": "7623786",
+      "title": "Principal Engineer, Compute Platform",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Infrastructure and SRE",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7623786"
+    },
+    {
+      "id": "7782229",
+      "title": "Principal Engineer, Online Systems",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-27T12:49:08-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782229"
+    },
+    {
+      "id": "6963868",
+      "title": "Principal Machine Learning Engineer, Ads Delivery",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6963868"
+    },
+    {
+      "id": "7494948",
+      "title": "Principal Product Manager, AI Compliance",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Product",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494948"
+    },
+    {
+      "id": "7767473",
+      "title": "Procurement Operations Specialist I",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Accounting",
+      "updated_at": "2026-04-27T13:14:59-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7767473"
+    },
+    {
+      "id": "7682040",
+      "title": "Programmatic Ads Sales Lead",
+      "location": "Chicago, IL, US; New York, NY, US",
+      "department": "Programmatic Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7682040"
+    },
+    {
+      "id": "6898100",
+      "title": "Revenue Accountant II",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Accounting",
+      "updated_at": "2026-04-10T19:37:52-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6898100"
+    },
+    {
+      "id": "7649668",
+      "title": "Sales Director, tvScientific",
+      "location": "San Francisco, CA US; Los Angeles, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7649668"
+    },
+    {
+      "id": "7782565",
+      "title": "Sales Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-14T05:11:43-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782565"
+    },
+    {
+      "id": "7685105",
+      "title": "Sales Finance Manager I",
+      "location": "San Francisco, CA, US; Chicago, IL, US; New York, NY, US",
+      "department": "Finance",
+      "updated_at": "2026-04-13T10:17:11-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7685105"
+    },
+    {
+      "id": "7068780",
+      "title": "Sales Strategy & Operations Lead, CPG",
+      "location": "New York, NY, US",
+      "department": "Sales Strategy, Operations, and Enablement",
+      "updated_at": "2026-04-17T14:24:33-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7068780"
+    },
+    {
+      "id": "7494666",
+      "title": "Security Software Engineer II, Corporate Security",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Security",
+      "updated_at": "2026-04-22T16:16:39-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494666"
+    },
+    {
+      "id": "7770914",
+      "title": "Security Software Engineer II, Detection and Response",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Security",
+      "updated_at": "2026-04-14T14:54:02-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770914"
+    },
+    {
+      "id": "7770900",
+      "title": "Security Software Engineer II, Internal Identity & Access Management",
+      "location": "Seattle, WA, US; Remote, US",
+      "department": "Security",
+      "updated_at": "2026-04-07T17:58:19-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770900"
+    },
+    {
+      "id": "7649666",
+      "title": "Senior Account Executive, tvScientific (Affiliate/CPA)",
+      "location": "New York, NY, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7649666"
+    },
+    {
+      "id": "7649674",
+      "title": "Senior Account Manager, tvScientific (Gaming) ",
+      "location": "Singapore, SG",
+      "department": "tvScientific",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7649674"
+    },
+    {
+      "id": "7649660",
+      "title": "Senior Account Manager, tvScientific (Gaming) ",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-22T19:21:17-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7649660"
+    },
+    {
+      "id": "7434494",
+      "title": "Senior Channel Lead, Marketing Sites",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Marketing",
+      "updated_at": "2026-04-14T12:18:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7434494"
+    },
+    {
+      "id": "5601194",
+      "title": "Senior Software Engineer, Fullstack",
+      "location": "Seattle, WA; San Francisco, CA ",
+      "department": "Engineering, Product and Design (L2)",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5601194"
+    },
+    {
+      "id": "7494576",
+      "title": "Senior Tax Manager",
+      "location": "Singapore, SG",
+      "department": "Accounting",
+      "updated_at": "2026-04-16T06:05:55-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494576"
+    },
+    {
+      "id": "6816337",
+      "title": "Software Engineer I, Backend",
+      "location": "Seattle, WA, US; Bay Area, CA",
+      "department": "Monetization",
+      "updated_at": "2026-04-13T14:24:02-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6816337"
+    },
+    {
+      "id": "7767046",
+      "title": "Software Engineer II",
+      "location": "Dublin, IE",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-22T10:51:59-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7767046"
+    },
+    {
+      "id": "5132899",
+      "title": "Software Engineer II, Backend",
+      "location": "Toronto, ON, CA",
+      "department": "Engineering, Product and Design (L2)",
+      "updated_at": "2026-04-23T18:19:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5132899"
+    },
+    {
+      "id": "4813946",
+      "title": "Software Engineer II, Backend",
+      "location": "San Francisco, CA, US; Seattle, WA, US",
+      "department": "Engineering, Product and Design (L2)",
+      "updated_at": "2026-04-22T15:56:28-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4813946"
+    },
+    {
+      "id": "7848208",
+      "title": "Software Engineer II, Web Platform",
+      "location": "Toronto, ON, CA",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-27T13:56:58-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7848208"
+    },
+    {
+      "id": "7258004",
+      "title": "Software Engineer Intern Fall 2026 (Toronto)",
+      "location": "Toronto, ON, CA",
+      "department": "University Engineering",
+      "updated_at": "2026-04-23T18:19:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7258004"
+    },
+    {
+      "id": "7642265",
+      "title": "Software Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642265"
+    },
+    {
+      "id": "7782548",
+      "title": "Sr. Backend Engineer,  tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-23T14:35:17-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782548"
+    },
+    {
+      "id": "7641119",
+      "title": "Sr. Client Account Manager",
+      "location": "Atlanta, GA, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7641119"
+    },
+    {
+      "id": "7656243",
+      "title": "Sr. Client Account Manager",
+      "location": "Chicago, IL, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7656243"
+    },
+    {
+      "id": "7641114",
+      "title": "Sr. Client Account Manager",
+      "location": "San Francisco, CA, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7641114"
+    },
+    {
+      "id": "6483186",
+      "title": "Sr. Client Account Manager",
+      "location": "Singapore, SG",
+      "department": "SMB Sales",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6483186"
+    },
+    {
+      "id": "7682058",
+      "title": "Sr. Client Account Manager",
+      "location": "Sydney, AU",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-22T10:09:39-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7682058"
+    },
+    {
+      "id": "7791340",
+      "title": "Sr. Client Account Manager, CPG",
+      "location": "Toronto, ON, CA",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-23T18:19:35-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7791340"
+    },
+    {
+      "id": "7836254",
+      "title": "Sr. Client Account Manager, Retail (Italian Market)",
+      "location": "Dublin, IE",
+      "department": "Europe Enterprise Sales",
+      "updated_at": "2026-04-22T03:25:11-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7836254"
+    },
+    {
+      "id": "7682052",
+      "title": "Sr. Client Partner",
+      "location": "Sydney, AU",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-22T10:09:49-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7682052"
+    },
+    {
+      "id": "7678185",
+      "title": "Sr. Client Partner, CPG Nordics ",
+      "location": "Stockholm, SE",
+      "department": "Europe Enterprise Sales",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678185"
+    },
+    {
+      "id": "7351104",
+      "title": "Sr. Client Partner, Retail",
+      "location": "Atlanta, GA, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7351104"
+    },
+    {
+      "id": "7338444",
+      "title": "Sr. Content Designer, Growth",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Design",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7338444"
+    },
+    {
+      "id": "7833586",
+      "title": "Sr. Counsel, Regulatory",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Legal",
+      "updated_at": "2026-04-23T15:13:01-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7833586"
+    },
+    {
+      "id": "7642272",
+      "title": "Sr. Data Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-20T15:32:45-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642272"
+    },
+    {
+      "id": "6659114",
+      "title": "Sr. Data Scientist",
+      "location": "Toronto, ON, CA",
+      "department": "Engineering, Product and Design (L2)",
+      "updated_at": "2026-04-23T18:19:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6659114"
+    },
+    {
+      "id": "6087213",
+      "title": "Sr. Data Scientist, Core",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Engineering, Product and Design (L2)",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6087213"
+    },
+    {
+      "id": "7527221",
+      "title": "Sr. Data Scientist, Gen AI Automation",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "IT",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7527221"
+    },
+    {
+      "id": "5740948",
+      "title": "Sr. Data Scientist, Monetization",
+      "location": "San Francisco, CA, US; Seattle, WA, US",
+      "department": "Engineering, Product and Design (L2)",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5740948"
+    },
+    {
+      "id": "7494923",
+      "title": "Sr. Data Scientist, Responsible AI",
+      "location": "San Francisco, CA, US; Remote, CA, US",
+      "department": "ATG",
+      "updated_at": "2026-04-14T15:32:02-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494923"
+    },
+    {
+      "id": "7642251",
+      "title": "Sr. Data Scientist, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642251"
+    },
+    {
+      "id": "7683967",
+      "title": "Sr. Director, Product Management - Ads Measurement",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Los Angeles, CA, US; Seattle, WA, US; New York, NY, US",
+      "department": "Ads Product",
+      "updated_at": "2026-04-21T17:51:11-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683967"
+    },
+    {
+      "id": "7818535",
+      "title": "Sr. Director, Product Management - Ads Quality",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Los Angeles, CA, US",
+      "department": "Ads Product",
+      "updated_at": "2026-04-22T11:41:03-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7818535"
+    },
+    {
+      "id": "7569150",
+      "title": "Sr. Engineering Manager, AI/ML Serving Platform",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7569150"
+    },
+    {
+      "id": "7680804",
+      "title": "Sr. Engineering Manager, CAMP",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-23T17:04:07-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7680804"
+    },
+    {
+      "id": "7807888",
+      "title": "Sr. Industry Manager",
+      "location": "Tokyo, JP",
+      "department": "APAC Enterprise Sales",
+      "updated_at": "2026-04-13T19:59:43-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7807888"
+    },
+    {
+      "id": "7641096",
+      "title": "Sr. Industry Manager, Fashion",
+      "location": "New York, NY, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7641096"
+    },
+    {
+      "id": "7678748",
+      "title": "Sr. Industry Manager, Travel",
+      "location": "Atlanta, GA, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678748"
+    },
+    {
+      "id": "7679183",
+      "title": "Sr. IT Project & Program Manager, SAM",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "IT",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7679183"
+    },
+    {
+      "id": "7663075",
+      "title": "Sr. Lead Client Partner, Financial Services",
+      "location": "New York, NY, US",
+      "department": "North America Enterprise Sales",
+      "updated_at": "2026-04-09T12:38:58-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7663075"
+    },
+    {
+      "id": "6121464",
+      "title": "Sr. Machine Learning Engineer, Core Engineering ",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121464"
+    },
+    {
+      "id": "6121551",
+      "title": "Sr. Machine Learning Engineer, Monetization Engineering",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121551"
+    },
+    {
+      "id": "7494938",
+      "title": "Sr. Machine Learning Engineer, Responsible AI– Applied Research Science",
+      "location": "San Francisco, CA, US; Remote, CA, US",
+      "department": "ATG",
+      "updated_at": "2026-04-13T17:08:43-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494938"
+    },
+    {
+      "id": "7642268",
+      "title": "Sr. Machine Learning Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642268"
+    },
+    {
+      "id": "7782411",
+      "title": "Sr. Manager, Sales Finance",
+      "location": "New York, NY, US",
+      "department": "Finance",
+      "updated_at": "2026-04-13T10:17:45-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782411"
+    },
+    {
+      "id": "7605865",
+      "title": "Sr. Measurement Partner",
+      "location": "Sydney, AU",
+      "department": "Global Client Solutions",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7605865"
+    },
+    {
+      "id": "7642249",
+      "title": "Sr. ML Platform Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-23T04:51:50-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642249"
+    },
+    {
+      "id": "7572846",
+      "title": "Sr. Product Manager, Ads Formats",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Ads Product",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7572846"
+    },
+    {
+      "id": "6972495",
+      "title": "Sr. Product Manager, Advertiser Experience",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Ads Product",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6972495"
+    },
+    {
+      "id": "7527881",
+      "title": "Sr. Product Manager, Enforcement Systems",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Trust and Safety Ops",
+      "updated_at": "2026-04-17T16:27:25-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7527881"
+    },
+    {
+      "id": "7572197",
+      "title": "Sr. Product Manager, Performance Marketing",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Product",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7572197"
+    },
+    {
+      "id": "7682046",
+      "title": "Sr. Programmatic Ads Sales Specialist",
+      "location": "Chicago, IL, US; New York, NY, US",
+      "department": "Programmatic Sales",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7682046"
+    },
+    {
+      "id": "7763574",
+      "title": "Sr. Programmatic Tech Operations Specialist ",
+      "location": "New York, NY, US; Chicago, IL, US",
+      "department": "Programmatic Sales",
+      "updated_at": "2026-04-14T16:59:26-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7763574"
+    },
+    {
+      "id": "7642256",
+      "title": "Sr. QA Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-09T06:06:15-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642256"
+    },
+    {
+      "id": "7672076",
+      "title": "Sr. Sales Manager, CPG (Beauty, Household and Health)",
+      "location": "Hamburg, DE",
+      "department": "Europe Enterprise Sales",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7672076"
+    },
+    {
+      "id": "7276167",
+      "title": "Sr. Sales Manager, DE Emerging Verticals",
+      "location": "Hamburg, DE; Berlin, DE; Munich, DE",
+      "department": "Europe Enterprise Sales",
+      "updated_at": "2026-04-27T12:33:08-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7276167"
+    },
+    {
+      "id": "7746411",
+      "title": "Sr. Sales Strategy & Operations Lead",
+      "location": "San Francisco, CA, US; New York, NY, US",
+      "department": "Sales Strategy, Operations, and Enablement",
+      "updated_at": "2026-04-22T15:37:15-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7746411"
+    },
+    {
+      "id": "7494708",
+      "title": "Sr. Security Software Engineer, Application Security",
+      "location": "Chicago, IL, US; Remote, US",
+      "department": "Security",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494708"
+    },
+    {
+      "id": "7732971",
+      "title": "Sr. Security Software Engineer, Corporate Security",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Security",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7732971"
+    },
+    {
+      "id": "7494702",
+      "title": "Sr. Security Software Engineer, Internal Identity & Access Management",
+      "location": "Chicago, IL, US; Remote, US",
+      "department": "Security",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494702"
+    },
+    {
+      "id": "7747172",
+      "title": "Sr. Site Reliability Engineer",
+      "location": "Toronto, ON, Canada",
+      "department": "Infrastructure and SRE",
+      "updated_at": "2026-04-24T04:49:55-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7747172"
+    },
+    {
+      "id": "7335888",
+      "title": "Sr. Software Engineer",
+      "location": "Dublin, IE",
+      "department": "Security",
+      "updated_at": "2026-04-13T12:26:47-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7335888"
+    },
+    {
+      "id": "4902175",
+      "title": "Sr. Software Engineer, Backend",
+      "location": "San Francisco, CA, US; Seattle, WA; Remote, US",
+      "department": "Engineering, Product and Design (L2)",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4902175"
+    },
+    {
+      "id": "5572858",
+      "title": "Sr. Software Engineer, Backend",
+      "location": "Toronto, ON, CA",
+      "department": "Engineering, Product and Design (L2)",
+      "updated_at": "2026-04-23T18:19:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5572858"
+    },
+    {
+      "id": "7782563",
+      "title": "Sr. Software Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-23T14:32:08-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782563"
+    },
+    {
+      "id": "7848210",
+      "title": "Sr. Software Engineer, Web Platform",
+      "location": "Toronto, ON, CA",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-24T18:16:13-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7848210"
+    },
+    {
+      "id": "7684632",
+      "title": "Sr. Staff GenAI Content & Conversational Designer, Monetization",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Design",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684632"
+    },
+    {
+      "id": "7724254",
+      "title": "Sr. Staff Machine Learning Engineer, Content Quality",
+      "location": "San Francisco, CA, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-27T19:14:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7724254"
+    },
+    {
+      "id": "7770916",
+      "title": "Sr. Staff Product Manager, Merchants",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Product",
+      "updated_at": "2026-04-15T21:22:44-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770916"
+    },
+    {
+      "id": "7684630",
+      "title": "Sr. Staff Product Owner, Accounting Systems",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "IT",
+      "updated_at": "2026-04-09T12:21:26-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684630"
+    },
+    {
+      "id": "7782478",
+      "title": "Sr. Staff Software Engineer, Ads Measurement",
+      "location": "Seattle, WA, US; Palo Alto, CA, US; San Francisco, CA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-24T16:15:08-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782478"
+    },
+    {
+      "id": "7746946",
+      "title": "Sr. Staff Software Engineer, Data Product Platform",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-09T13:57:14-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7746946"
+    },
+    {
+      "id": "7770918",
+      "title": "Sr. Staff Software Engineer, Merchants",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-14T23:34:08-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770918"
+    },
+    {
+      "id": "7295394",
+      "title": "Sr. Staff Technical Program Manager, GenAI",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-22T18:29:27-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7295394"
+    },
+    {
+      "id": "7700981",
+      "title": "Sr. Strategic Sourcing Specialist, Corporate Services & Support",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Accounting",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7700981"
+    },
+    {
+      "id": "7368683",
+      "title": "Sr. Strategy & Operations Lead",
+      "location": "San Francisco, CA, US;  Los Angeles, CA, US",
+      "department": "Global Content Organization",
+      "updated_at": "2026-04-16T20:28:33-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7368683"
+    },
+    {
+      "id": "7770927",
+      "title": "Sr. Technical Program Manager, Ads Performance",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-23T15:00:14-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770927"
+    },
+    {
+      "id": "7713147",
+      "title": "Staff Collaboration Systems Engineer, Google Workspace",
+      "location": "Chicago, IL, US; Remote, US",
+      "department": "IT",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7713147"
+    },
+    {
+      "id": "7642270",
+      "title": "Staff Data Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-20T15:32:43-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642270"
+    },
+    {
+      "id": "7642253",
+      "title": "Staff Data Engineer, tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "tvScientific",
+      "updated_at": "2026-04-20T15:32:36-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642253"
+    },
+    {
+      "id": "6482819",
+      "title": "Staff Data Scientist, Ad Measurement Products",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6482819"
+    },
+    {
+      "id": "6819404",
+      "title": "Staff Data Scientist, Engagement Ecosystem ",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-16T06:04:42-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6819404"
+    },
+    {
+      "id": "7435596",
+      "title": "Staff Data Scientist, Monetization",
+      "location": "Toronto, ON, Canada",
+      "department": "Monetization",
+      "updated_at": "2026-04-23T18:19:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7435596"
+    },
+    {
+      "id": "7531060",
+      "title": "Staff Machine Learning Engineer, Content Quality Signals",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7531060"
+    },
+    {
+      "id": "7494896",
+      "title": "Staff Machine Learning Engineer, Conversion Visibility",
+      "location": "Seattle, WA, US; San Francisco, CA, US; Palo Alto, US, CA",
+      "department": "Monetization",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494896"
+    },
+    {
+      "id": "7545031",
+      "title": "Staff Product Designer, Closeup",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Design",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7545031"
+    },
+    {
+      "id": "7747116",
+      "title": "Staff Product Designer, Patterns & Design Innovation",
+      "location": "San Francisco, CA, US;  Remote, US",
+      "department": "Design",
+      "updated_at": "2026-04-21T11:48:45-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7747116"
+    },
+    {
+      "id": "7684626",
+      "title": "Staff Product Designer, Social Experiences",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Design",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684626"
+    },
+    {
+      "id": "7368194",
+      "title": "Staff Product Manager, AI/ML Personalization",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Product",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7368194"
+    },
+    {
+      "id": "7718015",
+      "title": "Staff Product Manager, AI Safety",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Trust and Safety Ops",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7718015"
+    },
+    {
+      "id": "7684618",
+      "title": "Staff Product Owner, Finance & Business Operations",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "IT",
+      "updated_at": "2026-04-23T19:40:52-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684618"
+    },
+    {
+      "id": "7681015",
+      "title": "Staff Software Engineer, Activation Team",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Core Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7681015"
+    },
+    {
+      "id": "7494915",
+      "title": "Staff Software Engineer, Ads Measurement Products",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-14T19:46:52-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494915"
+    },
+    {
+      "id": "7494904",
+      "title": "Staff Software Engineer, Ads Measurement Signal ",
+      "location": "Seattle, WA, US; Remote, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494904"
+    },
+    {
+      "id": "7494612",
+      "title": "Staff Software Engineer, Agent Foundations",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-25T03:32:03-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494612"
+    },
+    {
+      "id": "7351198",
+      "title": "Staff Software Engineer, Cloud Platform",
+      "location": "Zurich, CH",
+      "department": "Data Engineering",
+      "updated_at": "2026-04-27T11:24:33-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7351198"
+    },
+    {
+      "id": "7494917",
+      "title": "Staff Software Engineer, Conversion Data Privacy",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494917"
+    },
+    {
+      "id": "7684634",
+      "title": "Staff Software Engineer, Merchants & Ads Review",
+      "location": "San Fransisco, CA, US; Palo Alto, CA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-16T12:05:15-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684634"
+    },
+    {
+      "id": "7402918",
+      "title": "Staff Software Engineer, Programmatic Ads",
+      "location": "Seattle, WA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7402918"
+    },
+    {
+      "id": "7794123",
+      "title": "Staff Technical Program Manager, Ads Measurement",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-23T14:59:14-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7794123"
+    },
+    {
+      "id": "7770921",
+      "title": "Staff Technical Program Manager, Infrastructure FinOps",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-22T16:11:12-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770921"
+    },
+    {
+      "id": "7766478",
+      "title": "Staff Technical Program Manager, ML/AI Platform",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-07T17:33:23-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7766478"
+    },
+    {
+      "id": "7494686",
+      "title": "Staff Technical Program Manager, Monetization Data Science",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-23T14:59:36-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494686"
+    },
+    {
+      "id": "7494562",
+      "title": "Technical Accounting, Manager I",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Accounting",
+      "updated_at": "2026-04-24T13:16:34-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494562"
+    },
+    {
+      "id": "7774042",
+      "title": "Technical Program Manager II, Advanced Technology Group",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-24T16:44:38-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7774042"
+    },
+    {
+      "id": "7562128",
+      "title": "Technical Program Manager II, Platforms",
+      "location": "San Francisco, CA, US; Remote, US",
+      "department": "Oversight Engineering",
+      "updated_at": "2026-04-09T12:21:08-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7562128"
+    },
+    {
+      "id": "7494921",
+      "title": "Vendor Security Analyst",
+      "location": "Chicago, IL, US; Remote, US",
+      "department": "Security",
+      "updated_at": "2026-04-09T06:32:18-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494921"
+    },
+    {
+      "id": "7366112",
+      "title": "VP, Ads Quality Engineering",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Los Angeles, CA, US",
+      "department": "Monetization",
+      "updated_at": "2026-04-21T17:50:22-04:00",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7366112"
+    }
+  ]
+}

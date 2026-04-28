@@ -1,0 +1,67 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map((article) => ({
+    params: { slug: article.id },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+
+const company = (await getCollection('companies')).find((c) => c.id === article.data.company);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: article.data.title,
+  description: article.data.description,
+  datePublished: article.data.publishedAt.toISOString(),
+  dateModified: (article.data.updatedAt ?? article.data.publishedAt).toISOString(),
+  author: { '@type': 'Organization', name: 'Intent Alpha' },
+  publisher: { '@type': 'Organization', name: 'Intent Alpha' },
+  about: company ? { '@type': 'Organization', name: company.data.name, url: company.data.website } : undefined,
+};
+---
+<Layout
+  title={article.data.title}
+  description={article.data.description}
+  ogType="article"
+  publishedAt={article.data.publishedAt}
+  updatedAt={article.data.updatedAt}
+  jsonLd={jsonLd}
+>
+  <p class="muted" style="margin-bottom: 0.5rem;">
+    <a href={company ? `/companies/${company.id}` : '#'}>{company?.data.name ?? article.data.company}</a>
+    &nbsp;·&nbsp;
+    <time datetime={article.data.publishedAt.toISOString()}>
+      {article.data.publishedAt.toISOString().slice(0, 10)}
+    </time>
+  </p>
+  <h1>{article.data.title}</h1>
+  <p style="font-size: 1.05rem;" class="muted">{article.data.description}</p>
+
+  <div class="card" style="margin: 1.25rem 0;">
+    <p style="margin: 0;">
+      <strong>Hypothesis:</strong> {article.data.hypothesis}
+    </p>
+    <p style="margin: 0.5rem 0 0;">
+      <span class={`confidence confidence-${article.data.confidence}`}>{article.data.confidence} confidence</span>
+      &nbsp;·&nbsp; horizon: {article.data.horizon}
+    </p>
+  </div>
+
+  <article class="prose">
+    <Content />
+  </article>
+
+  {article.data.tags.length > 0 && (
+    <p style="margin-top: 2rem;">
+      {article.data.tags.map((t) => <span class="tag">{t}</span>)}
+    </p>
+  )}
+</Layout>

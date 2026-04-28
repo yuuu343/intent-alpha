@@ -1,0 +1,10 @@
+{
+  "name": "Airbnb",
+  "slug": "airbnb",
+  "website": "https://www.airbnb.com",
+  "ats": "greenhouse",
+  "atsIdentifier": "airbnb",
+  "description": "Online marketplace for short- and long-term homestays and travel experiences.",
+  "sector": "Travel / Marketplace",
+  "headquarters": "San Francisco, CA"
+}

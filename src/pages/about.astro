@@ -1,0 +1,35 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout
+  title="About"
+  description="What Intent Alpha is, how it works, and what it isn't."
+>
+  <h1>About</h1>
+  <p>
+    <strong>Intent Alpha</strong> reads the public job postings of leading technology
+    companies and infers what they are building next. Each article is an explicit hypothesis
+    grounded in the hiring signals it rests on.
+  </p>
+
+  <h2>How it works</h2>
+  <ul>
+    <li>We pull job postings from public sources: Greenhouse, Lever, and Workday.</li>
+    <li>We track changes over time — what roles appear, disappear, and cluster.</li>
+    <li>From those patterns we form a hypothesis about the company's direction.</li>
+    <li>Each hypothesis ships with a confidence label and an explicit horizon.</li>
+  </ul>
+
+  <h2>What this is not</h2>
+  <ul>
+    <li>Not investment advice.</li>
+    <li>Not insider information &mdash; everything is sourced from public listings.</li>
+    <li>Not a guarantee &mdash; hypotheses are falsifiable by design.</li>
+  </ul>
+
+  <h2>Sources</h2>
+  <p>
+    Job postings are read from publicly accessible endpoints provided by the applicant
+    tracking systems each company uses. We respect <code>robots.txt</code> and stated terms.
+  </p>
+</Layout>

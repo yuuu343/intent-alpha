@@ -1,0 +1,44 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const articles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
+  .slice(0, 10);
+
+const companies = await getCollection('companies');
+
+const description = 'Intent Alpha infers what companies are building next from the patterns in their public job postings. Updated regularly across leading technology companies.';
+---
+<Layout title="Intent Alpha" description={description}>
+  <h1>What companies are building next.</h1>
+  <p class="muted">
+    We read public job postings (Greenhouse, Lever, Workday) and infer where companies are
+    pointing their next 12&ndash;18 months. Each article is an explicit hypothesis with the
+    hiring signals it rests on.
+  </p>
+
+  <h2>Latest hypotheses</h2>
+  {articles.length === 0 && <p class="muted">No articles yet — first ones land soon.</p>}
+  {articles.map((a) => (
+    <a class="card" href={`/articles/${a.id}`} style="display:block; color:inherit;">
+      <h3>{a.data.title}</h3>
+      <p class="muted" style="margin-bottom: 0.5rem;">
+        <span class={`confidence confidence-${a.data.confidence}`}>{a.data.confidence}</span>
+        &nbsp;<time datetime={a.data.publishedAt.toISOString()}>
+          {a.data.publishedAt.toISOString().slice(0, 10)}
+        </time>
+        &nbsp;·&nbsp; {a.data.company}
+      </p>
+      <p>{a.data.description}</p>
+    </a>
+  ))}
+
+  <h2>Tracked companies</h2>
+  <p class="muted">{companies.length} so far.</p>
+  <ul>
+    {companies.map((c) => (
+      <li><a href={`/companies/${c.id}`}>{c.data.name}</a> <span class="muted">— {c.data.sector ?? c.data.description.slice(0, 80)}</span></li>
+    ))}
+  </ul>
+</Layout>

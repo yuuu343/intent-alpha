@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const articles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+---
+<Layout title="Articles" description="All hypothesis articles on Intent Alpha.">
+  <h1>Articles</h1>
+  <p class="muted">{articles.length} hypothesis article{articles.length === 1 ? '' : 's'}.</p>
+  {articles.map((a) => (
+    <a class="card" href={`/articles/${a.id}`} style="display:block; color:inherit;">
+      <h3>{a.data.title}</h3>
+      <p class="muted" style="margin-bottom: 0.5rem;">
+        <span class={`confidence confidence-${a.data.confidence}`}>{a.data.confidence}</span>
+        &nbsp;<time datetime={a.data.publishedAt.toISOString()}>
+          {a.data.publishedAt.toISOString().slice(0, 10)}
+        </time>
+        &nbsp;·&nbsp; {a.data.company}
+      </p>
+      <p>{a.data.description}</p>
+    </a>
+  ))}
+</Layout>
