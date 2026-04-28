@@ -17,6 +17,29 @@ const company = (await getCollection('companies')).find((c) => c.id === article.
 
 const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 
+// ---- A: tokenize title.
+// Italicize words that match a frontmatter tag (case-insensitive); break out
+// trailing punctuation so it can render in vermillion italic.
+const tagSet = new Set((article.data.tags ?? []).map((t) => t.toLowerCase()));
+type Token = { kind: 'italic' | 'plain'; text: string };
+const rawTokens: string[] = article.data.title.match(/([A-Za-z0-9']+)|([^A-Za-z0-9']+)/g) ?? [];
+const tokens: Token[] = rawTokens.map((t) => ({
+  kind: /^[A-Za-z0-9']+$/.test(t) && tagSet.has(t.toLowerCase()) ? 'italic' : 'plain',
+  text: t,
+}));
+let trailingPunct = '';
+for (let i = tokens.length - 1; i >= 0; i--) {
+  const tok = tokens[i];
+  if (tok.kind !== 'plain') break;
+  const m = tok.text.match(/^(.*?)([.?!:…]+)\s*$/);
+  if (m) {
+    tok.text = m[1];
+    trailingPunct = m[2];
+    break;
+  }
+  if (/\S/.test(tok.text)) break;
+}
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -51,7 +74,10 @@ const jsonLd = {
       {article.data.provId && <span class="meta" style="color: var(--fg-faint);">{article.data.provId}</span>}
     </div>
 
-    <h1>{article.data.title}</h1>
+    <h1>
+      {tokens.map((t) => (t.kind === 'italic' ? <em class="kicker">{t.text}</em> : t.text))}
+      {trailingPunct && <span class="period">{trailingPunct}</span>}
+    </h1>
     <p class="deck">{article.data.description}</p>
   </header>
 

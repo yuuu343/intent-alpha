@@ -1,6 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
 
 export async function getStaticPaths() {
   const companies = await getCollection('companies');
@@ -16,6 +18,28 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft && d
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
 const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
+
+// ---- B: read the most recent snapshot at build time for live posting / fetch stats.
+function loadCompanyStats(slug: string) {
+  const dir = path.resolve(process.cwd(), 'data', 'snapshots', slug);
+  if (!fs.existsSync(dir)) return { postings: null, lastFetch: null } as const;
+  const files = fs.readdirSync(dir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+  if (files.length === 0) return { postings: null, lastFetch: null } as const;
+  const latest = files[files.length - 1];
+  try {
+    const raw = fs.readFileSync(path.join(dir, latest), 'utf8');
+    const snap = JSON.parse(raw);
+    const count = typeof snap.count === 'number'
+      ? snap.count
+      : Array.isArray(snap.jobs) ? snap.jobs.length : null;
+    return { postings: count, lastFetch: latest.replace('.json', '').replaceAll('-', '.') };
+  } catch {
+    return { postings: null, lastFetch: null } as const;
+  }
+}
+const { postings, lastFetch } = loadCompanyStats(company.id);
+const dispatchesCount = articles.length;
+const signalsSum = articles.reduce((s, a) => s + (a.data.signalCount ?? 0), 0);
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -47,6 +71,25 @@ const host = new URL(company.data.website).host;
       <a href={company.data.website} rel="noopener" style="color: var(--fg-muted); text-decoration-color: var(--rule);">{host}</a>
     </p>
   </header>
+
+  <section class="stats stats--small">
+    <div class="item">
+      <span class="num">{postings ?? '—'}</span>
+      <span class="lbl">Postings tracked</span>
+    </div>
+    <div class="item">
+      <span class="num">{signalsSum > 0 ? <em>{signalsSum}</em> : '—'}</span>
+      <span class="lbl">Signals isolated</span>
+    </div>
+    <div class="item">
+      <span class="num">{dispatchesCount > 0 ? dispatchesCount : '—'}</span>
+      <span class="lbl">Dispatches</span>
+    </div>
+    <div class="item">
+      <span class="num num--date">{lastFetch ?? '—'}</span>
+      <span class="lbl">Last fetch</span>
+    </div>
+  </section>
 
   <div class="section-head">
     <h2>Dispatches on {company.data.name}</h2>
