@@ -27,7 +27,6 @@ const siteName = 'Intent Alpha';
 const canonical = new URL(Astro.url.pathname, Astro.site).toString();
 const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
 
-// Issue stamp at the masthead — derived from the first day the site shipped
 const issueLabel = 'Vol. 01';
 ---
 <!doctype html>
@@ -65,23 +64,6 @@ const issueLabel = 'Vol. 01';
   </head>
   <body>
     <div class="spine" aria-hidden="true"><span class="glyph">{spineGlyph}</span></div>
-    {bgEquation && (
-      <div class="eq-watermark" aria-hidden="true">
-        <span class="eq-line">
-          {Array.from(bgEquation).map((ch, i) => {
-            // Deterministic pseudo-random per character index — irregular but stable
-            // build-to-build. Knuth multiplicative hash mod 4 picks the direction.
-            const dir = ['from-top', 'from-bottom', 'from-left', 'from-right'][((i * 2654435761) >>> 0) % 4];
-            const delay = 250 + (((i * 7919) % 18) * 55);
-            return (
-              <span class={`eq-ch ${dir}`} style={`animation-delay: ${delay}ms;`}>
-                {ch === ' ' ? ' ' : ch}
-              </span>
-            );
-          })}
-        </span>
-      </div>
-    )}
     <header class="site-header">
       <div class="inner">
         <a class="brand" href="/">Intent<span class="slash"> // </span>Alpha</a>
@@ -101,8 +83,9 @@ const issueLabel = 'Vol. 01';
       <div class="eq-watermark" aria-hidden="true">
         <span class="eq-line">
           {Array.from(bgEquation).map((ch, i) => {
-            // Deterministic pseudo-random per character index — irregular but stable
-            // build-to-build. Knuth multiplicative hash mod 4 picks the direction.
+            // Deterministic pseudo-random per character index — irregular but
+            // stable build-to-build. Knuth multiplicative hash mod 4 picks the
+            // direction; a different prime mod 18 picks the delay.
             const dir = ['from-top', 'from-bottom', 'from-left', 'from-right'][((i * 2654435761) >>> 0) % 4];
             const delay = 250 + (((i * 7919) % 18) * 55);
             return (
