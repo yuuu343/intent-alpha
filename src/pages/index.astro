@@ -18,7 +18,12 @@ const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 <Layout title="Intent Alpha" description={description}>
   <section class="hero">
     <span class="meta meta--accent">An editorial register on hiring as strategy</span>
-    <h1>What companies are building next.</h1>
+    <h1 class="hero-art" aria-label="What companies are building next.">
+      <span class="line line-1"><em>What</em></span>
+      <span class="line line-2">companies</span>
+      <span class="line line-3"><em>are building</em></span>
+      <span class="line line-4">next<span class="period">.</span></span>
+    </h1>
     <p class="lede">
       We read the public job boards of leading technology companies — Greenhouse, Lever,
       Workday — and infer where each is pointing the next twelve to eighteen months.

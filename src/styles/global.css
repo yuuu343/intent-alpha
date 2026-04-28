@@ -187,6 +187,162 @@ main {
   color: var(--fg-soft);
 }
 
+/* ---- hero-art: staircased / mixed-weight headline (anime-logo register) ---- */
+.hero-art {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-display);
+  font-size: clamp(2.75rem, 9.5vw, 7rem);
+  line-height: 0.96;
+  letter-spacing: -0.035em;
+  margin: 0.5rem 0 0.75rem;
+  user-select: none;
+}
+.hero-art .line {
+  display: inline-block;
+  transform-origin: 20% center;
+  white-space: nowrap;
+  will-change: transform, opacity;
+}
+.hero-art em {
+  font-style: italic;
+  font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+}
+.hero-art .line-1 {
+  font-size: 0.46em;
+  margin-left: 1.1em;
+  color: var(--fg-soft);
+  font-style: italic;
+  font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+  transform: translateY(0.06em) rotate(-1.4deg);
+  margin-bottom: -0.05em;
+}
+.hero-art .line-2 {
+  margin-left: 0;
+  font-weight: 360;
+  font-variation-settings: "opsz" 144, "SOFT" 30, "WONK" 0;
+  letter-spacing: -0.05em;
+}
+.hero-art .line-2 .alt {
+  font-style: italic;
+  font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+  color: var(--fg-soft);
+}
+.hero-art .line-3 {
+  font-size: 0.42em;
+  margin-left: 3.4em;
+  margin-top: 0.18em;
+  margin-bottom: 0.05em;
+  color: var(--fg-soft);
+  font-style: italic;
+  font-variation-settings: "opsz" 144, "SOFT" 80, "WONK" 1;
+  transform: rotate(0.7deg);
+}
+.hero-art .line-4 {
+  margin-left: 1.4em;
+  font-weight: 360;
+  font-variation-settings: "opsz" 144, "SOFT" 30, "WONK" 0;
+  letter-spacing: -0.03em;
+  transform: translateX(-0.2em) rotate(-0.3deg);
+}
+.hero-art .period {
+  color: var(--accent);
+  font-style: italic;
+  font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+  display: inline-block;
+  transform: translateY(-0.05em);
+  padding-left: 0.02em;
+}
+
+/* entrance animation — staggered rise per line */
+.hero-art .line { animation: hero-rise 900ms cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+.hero-art .line-1 { animation-delay: 50ms; animation-name: hero-rise-tilt-l; }
+.hero-art .line-2 { animation-delay: 130ms; }
+.hero-art .line-3 { animation-delay: 230ms; animation-name: hero-rise-tilt-r; }
+.hero-art .line-4 { animation-delay: 320ms; }
+
+@keyframes hero-rise {
+  from { opacity: 0; transform: translateY(0.5em); }
+  to   { opacity: 1; }
+}
+@keyframes hero-rise-tilt-l {
+  from { opacity: 0; transform: translateY(0.5em) rotate(2deg); }
+  to   { opacity: 1; transform: translateY(0.06em) rotate(-1.4deg); }
+}
+@keyframes hero-rise-tilt-r {
+  from { opacity: 0; transform: translateY(0.5em) rotate(-2deg); }
+  to   { opacity: 1; transform: rotate(0.7deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-art .line { animation: none; opacity: 1; }
+}
+
+/* ---- spine: fixed right-side platinum hairline + slowly rotating α ornament ---- */
+.spine {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: clamp(0.85rem, 2.4vw, 2rem);
+  width: 1.5rem;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 5;
+}
+.spine::before {
+  content: "";
+  position: absolute;
+  top: 12%;
+  bottom: 12%;
+  left: 50%;
+  width: 1px;
+  transform: translateX(-50%);
+  background:
+    linear-gradient(
+      to bottom,
+      transparent 0%,
+      rgba(120, 110, 95, 0.0) 4%,
+      rgba(120, 110, 95, 0.5) 22%,
+      rgba(178, 168, 148, 0.95) 50%,
+      rgba(120, 110, 95, 0.5) 78%,
+      rgba(120, 110, 95, 0.0) 96%,
+      transparent 100%
+    );
+}
+.spine .glyph {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.55rem;
+  font-weight: 400;
+  font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+  color: var(--fg-soft);
+  background: var(--bg);
+  padding: 0.55rem 0;
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  transform-origin: 50% 50%;
+  line-height: 1;
+}
+@supports (animation-timeline: scroll()) {
+  .spine .glyph {
+    animation: spine-spin linear forwards;
+    animation-timeline: scroll(root block);
+  }
+  @keyframes spine-spin {
+    from { transform: rotate(0deg); }
+    to   { transform: rotate(540deg); }
+  }
+}
+@media (max-width: 760px) {
+  .spine { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .spine .glyph { animation: none; transform: none; }
+}
+
 /* ---- stats panel ---- */
 .stats {
   display: grid;
