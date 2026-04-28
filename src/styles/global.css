@@ -17,6 +17,12 @@
   --accent:    #c0421a;   /* vermillion */
   --accent-deep: #8c2e0e;
 
+  /* golden-ratio constants — used for hero proportions, hero font scale, and stats grid */
+  --phi:        1.618;
+  --phi-inv:    0.618;
+  --phi-sq:     2.618;
+  --phi-cu:     4.236;
+
   /* type */
   --font-display: "Fraunces", "Cormorant Garamond", Georgia, "Times New Roman", serif;
   --font-body:    "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -163,12 +169,19 @@ main {
 .column--lead { max-width: 44rem; }
 
 /* ---- hero (home) ---- */
+/* golden ratio: hero column is 1/φ (~61.8%) of the wide container.
+   Keeps the headline left-weighted with deliberate breathing room on the right
+   — the visual mass falls on the spiral's "eye" near "next." */
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   gap: 1.25rem;
   padding-bottom: 3rem;
+  max-width: calc(var(--measure-full) * var(--phi-inv));
   border-bottom: var(--rule-thick) solid var(--rule);
+}
+@media (max-width: 760px) {
+  .hero { max-width: 100%; }
 }
 .hero h1 {
   font-size: var(--fs-hero);
@@ -188,14 +201,15 @@ main {
 }
 
 /* ---- hero-art: staircased / mixed-weight headline (anime-logo register) ---- */
+/* hero font scale follows powers of φ: small lines = base, large lines = base*φ */
 .hero-art {
   display: flex;
   flex-direction: column;
   font-family: var(--font-display);
-  font-size: clamp(2.75rem, 9.5vw, 7rem);
-  line-height: 0.96;
+  font-size: clamp(3rem, 10.2vw, 7.4rem);
+  line-height: 0.92;
   letter-spacing: -0.035em;
-  margin: 0.5rem 0 0.75rem;
+  margin: 0.25rem 0 1rem;
   user-select: none;
 }
 .hero-art .line {
@@ -208,74 +222,107 @@ main {
   font-style: italic;
   font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
 }
+
+/* ---- per-line typographic register ---- */
+/* small lines ("What", "are building") = 1/φ² of base ≈ 0.38em
+   large lines ("companies", "next.")    = base */
 .hero-art .line-1 {
-  font-size: 0.46em;
-  margin-left: 1.1em;
+  font-size: calc(1em / var(--phi-sq));   /* ≈ 0.382em */
+  margin-left: 1.05em;
   color: var(--fg-soft);
   font-style: italic;
   font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
-  transform: translateY(0.06em) rotate(-1.4deg);
-  margin-bottom: -0.05em;
+  margin-bottom: -0.1em;
 }
 .hero-art .line-2 {
   margin-left: 0;
   font-weight: 360;
-  font-variation-settings: "opsz" 144, "SOFT" 30, "WONK" 0;
+  font-variation-settings: "opsz" 144, "SOFT" 25, "WONK" 0;
   letter-spacing: -0.05em;
-}
-.hero-art .line-2 .alt {
-  font-style: italic;
-  font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
-  color: var(--fg-soft);
+  position: relative;  /* for swash anchor */
 }
 .hero-art .line-3 {
-  font-size: 0.42em;
-  margin-left: 3.4em;
-  margin-top: 0.18em;
+  font-size: calc(1em / var(--phi-sq));   /* ≈ 0.382em */
+  margin-left: 3.6em;
+  margin-top: 0.05em;
   margin-bottom: 0.05em;
   color: var(--fg-soft);
   font-style: italic;
   font-variation-settings: "opsz" 144, "SOFT" 80, "WONK" 1;
-  transform: rotate(0.7deg);
 }
 .hero-art .line-4 {
-  margin-left: 1.4em;
+  margin-left: 1.5em;
   font-weight: 360;
-  font-variation-settings: "opsz" 144, "SOFT" 30, "WONK" 0;
+  font-variation-settings: "opsz" 144, "SOFT" 25, "WONK" 0;
   letter-spacing: -0.03em;
-  transform: translateX(-0.2em) rotate(-0.3deg);
 }
 .hero-art .period {
   color: var(--accent);
   font-style: italic;
   font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
   display: inline-block;
-  transform: translateY(-0.05em);
-  padding-left: 0.02em;
+  transform: translateY(-0.04em) translateX(0.02em);
 }
 
-/* entrance animation — staggered rise per line */
-.hero-art .line { animation: hero-rise 900ms cubic-bezier(0.2, 0.7, 0.2, 1) both; }
-.hero-art .line-1 { animation-delay: 50ms; animation-name: hero-rise-tilt-l; }
-.hero-art .line-2 { animation-delay: 130ms; }
-.hero-art .line-3 { animation-delay: 230ms; animation-name: hero-rise-tilt-r; }
-.hero-art .line-4 { animation-delay: 320ms; }
+/* ---- entrance: each word from a different direction, slow, cascading ---- */
+/* timing: 1600ms per line, easing = expo-out, stagger ~300ms per line.
+   prefers-reduced-motion stops the motion but leaves the static composition. */
+.hero-art .line {
+  animation: 1600ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.hero-art .line-1 { animation-name: from-above;  animation-delay: 200ms; }
+.hero-art .line-2 { animation-name: from-left;   animation-delay: 500ms; }
+.hero-art .line-3 { animation-name: from-below;  animation-delay: 800ms; }
+.hero-art .line-4 { animation-name: from-right;  animation-delay: 1100ms; }
 
-@keyframes hero-rise {
-  from { opacity: 0; transform: translateY(0.5em); }
-  to   { opacity: 1; }
+@keyframes from-above {
+  from { opacity: 0; transform: translateY(-1.4em) rotate(-2deg); }
+  to   { opacity: 1; transform: translateY(0) rotate(-1.2deg); }
 }
-@keyframes hero-rise-tilt-l {
-  from { opacity: 0; transform: translateY(0.5em) rotate(2deg); }
-  to   { opacity: 1; transform: translateY(0.06em) rotate(-1.4deg); }
+@keyframes from-left {
+  from { opacity: 0; transform: translateX(-1.6em); }
+  to   { opacity: 1; transform: translateX(0); }
 }
-@keyframes hero-rise-tilt-r {
-  from { opacity: 0; transform: translateY(0.5em) rotate(-2deg); }
-  to   { opacity: 1; transform: rotate(0.7deg); }
+@keyframes from-below {
+  from { opacity: 0; transform: translateY(1.6em) rotate(3deg); }
+  to   { opacity: 1; transform: translateY(0) rotate(0.7deg); }
+}
+@keyframes from-right {
+  from { opacity: 0; transform: translateX(1.6em); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+/* ---- decorative swash under "companies" (Solo-Leveling-style flourish, restrained) ----
+   Drawn-in vermillion hairline that completes after "companies" lands. */
+.hero-art .swash {
+  position: absolute;
+  left: 0.05em;
+  right: 0.05em;
+  bottom: -0.05em;
+  width: auto;
+  height: 0.34em;
+  pointer-events: none;
+  overflow: visible;
+}
+.hero-art .swash path {
+  stroke: var(--accent);
+  stroke-width: 1.2;
+  fill: none;
+  stroke-linecap: round;
+  stroke-dasharray: 460;
+  stroke-dashoffset: 460;
+  animation: swash-draw 1500ms cubic-bezier(0.6, 0.05, 0.2, 1) 1500ms forwards;
+  opacity: 0.85;
+}
+@keyframes swash-draw {
+  to { stroke-dashoffset: 0; }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .hero-art .line { animation: none; opacity: 1; }
+  .hero-art .line { animation: none; opacity: 1; transform: none; }
+  .hero-art .line-1 { transform: rotate(-1.2deg); }
+  .hero-art .line-3 { transform: rotate(0.7deg); }
+  .hero-art .swash path { animation: none; stroke-dashoffset: 0; }
 }
 
 /* ---- spine: fixed right-side platinum hairline + slowly rotating α ornament ---- */
