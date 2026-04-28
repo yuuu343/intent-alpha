@@ -472,37 +472,70 @@ main {
   .spine .glyph { animation: none; transform: none; }
 }
 
-/* ---- equation watermark — page-specific topical hint, drawn faintly behind content
-   - bottom-left, tilted, very faint
-   - serif italic with Fraunces' high-WONK alternates for the math glyphs to feel
-     handwritten rather than typeset
-   - hidden on small screens to avoid crowding */
+/* ---- equation watermark — page-specific topical hint, set in the right-side
+   margin as decorative marginalia.
+   - position: absolute (scrolls with the page, NOT fixed to viewport)
+   - top-right whitespace beside the masthead/hero
+   - larger and clearer than the previous fixed version (admin direction)
+   - per-character entrance animation: each glyph flies in from a random
+     direction (top / bottom / left / right) with irregular stagger
+   - hidden under 900px (no whitespace to host it) */
 .eq-watermark {
-  position: fixed;
-  bottom: 4.5rem;
-  left: clamp(1.25rem, 3vw, 3rem);
+  position: absolute;
+  top: clamp(6.5rem, 11vw, 10rem);
+  right: clamp(0.75rem, 2.5vw, 2.5rem);
   pointer-events: none;
   user-select: none;
-  z-index: 4;
-  max-width: 36vw;
-  transform: rotate(-7deg);
-  transform-origin: left bottom;
+  z-index: 0;
+  max-width: 32vw;
+  transform: rotate(-5deg);
+  transform-origin: right top;
 }
-.eq-watermark span {
+.eq-watermark .eq-line {
   font-family: var(--font-display);
   font-style: italic;
-  font-variation-settings: "opsz" 60, "SOFT" 100, "WONK" 1;
+  font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
   font-weight: 380;
-  font-size: clamp(0.95rem, 1.6vw, 1.25rem);
+  font-size: clamp(1.6rem, 3.4vw, 2.8rem);
   color: var(--fg-faint);
   letter-spacing: 0.01em;
-  line-height: 1.2;
+  line-height: 1.05;
   white-space: nowrap;
   display: inline-block;
-  border-bottom: 1px solid var(--rule-soft);
-  padding: 0 0.4em 0.15em;
 }
+.eq-watermark .eq-ch {
+  display: inline-block;
+  animation-duration: 1200ms;
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform, opacity;
+}
+.eq-watermark .eq-ch.from-top    { animation-name: eq-from-top; }
+.eq-watermark .eq-ch.from-bottom { animation-name: eq-from-bottom; }
+.eq-watermark .eq-ch.from-left   { animation-name: eq-from-left; }
+.eq-watermark .eq-ch.from-right  { animation-name: eq-from-right; }
+
+@keyframes eq-from-top {
+  from { opacity: 0; transform: translateY(-1.8em) rotate(8deg); }
+  to   { opacity: 1; transform: translateY(0) rotate(0); }
+}
+@keyframes eq-from-bottom {
+  from { opacity: 0; transform: translateY(1.8em) rotate(-8deg); }
+  to   { opacity: 1; transform: translateY(0) rotate(0); }
+}
+@keyframes eq-from-left {
+  from { opacity: 0; transform: translateX(-1.6em) rotate(-6deg); }
+  to   { opacity: 1; transform: translateX(0) rotate(0); }
+}
+@keyframes eq-from-right {
+  from { opacity: 0; transform: translateX(1.6em) rotate(6deg); }
+  to   { opacity: 1; transform: translateX(0) rotate(0); }
+}
+
 @media (max-width: 900px) { .eq-watermark { display: none; } }
+@media (prefers-reduced-motion: reduce) {
+  .eq-watermark .eq-ch { animation: none; opacity: 1; transform: none; }
+}
 
 /* ---- stats panel ---- */
 .stats {
