@@ -1,0 +1,106 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { THEMES } from '../../data/themes';
+
+// Aggregate cluster counts across the AI-relevant roster from each company's
+// most recent snapshot, at build time.
+const aiCompanies = (await getCollection('companies'))
+  .filter((c) => c.data.aiRelevance !== 'non_ai');
+
+const SNAPSHOTS = path.resolve(process.cwd(), 'data', 'snapshots');
+
+interface CompanySnap { slug: string; name: string; total: number; jobs: { title: string }[]; }
+const snaps: CompanySnap[] = [];
+for (const c of aiCompanies) {
+  const dir = path.join(SNAPSHOTS, c.id);
+  if (!fs.existsSync(dir)) continue;
+  const files = fs.readdirSync(dir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+  if (!files.length) continue;
+  const snap = JSON.parse(fs.readFileSync(path.join(dir, files[files.length - 1]), 'utf8'));
+  snaps.push({ slug: c.id, name: c.data.name, total: snap.count ?? snap.jobs?.length ?? 0, jobs: snap.jobs ?? [] });
+}
+
+// Compute per-theme totals
+type ThemeStat = { slug: string; name: string; blurb: string; total: number; topCompany: { name: string; share: number } | null; companyCount: number };
+const themeStats: ThemeStat[] = THEMES.map((t) => {
+  let total = 0;
+  let topCompany: { name: string; count: number; share: number } | null = null;
+  let companyCount = 0;
+  for (const s of snaps) {
+    const m = s.jobs.filter((j) => t.regex.test(j.title || '')).length;
+    if (m === 0) continue;
+    total += m;
+    companyCount++;
+    const share = m / Math.max(s.total, 1);
+    if (!topCompany || share > topCompany.share) topCompany = { name: s.name, count: m, share };
+  }
+  return { slug: t.slug, name: t.name, blurb: t.blurb, total, topCompany, companyCount };
+});
+
+const totalRoles = snaps.reduce((s, x) => s + x.total, 0);
+const aiCompanyCount = snaps.length;
+
+const description = "What AI is becoming — industry-wide hiring panorama across foundation labs, compute & silicon, and AI-adjacent platforms.";
+---
+<Layout title="Themes — What AI is becoming" description={description}>
+  <section class="hero" style="border-bottom: 0; padding-bottom: 1.5rem;">
+    <span class="meta meta--accent">The Panorama</span>
+    <h1>What AI is becoming.</h1>
+    <p class="lede">
+      Eight curated themes, aggregated across {aiCompanyCount} AI-relevant companies in the
+      register. Each is a regex over public job titles; the count is the field's collective
+      bet on that direction.
+    </p>
+  </section>
+
+  <section class="stats stats--small" style="margin: 1rem 0 2rem;">
+    <div class="item">
+      <span class="num">{aiCompanyCount}</span>
+      <span class="lbl">AI companies aggregated</span>
+    </div>
+    <div class="item">
+      <span class="num">{totalRoles.toLocaleString()}</span>
+      <span class="lbl">Open roles in panorama</span>
+    </div>
+    <div class="item">
+      <span class="num">{THEMES.length}</span>
+      <span class="lbl">Themes tracked</span>
+    </div>
+    <div class="item">
+      <span class="num num--date">2026.04.28</span>
+      <span class="lbl">First snapshot</span>
+    </div>
+  </section>
+
+  <div class="section-head">
+    <h2>Themes</h2>
+    <span class="count">№ 01–{String(THEMES.length).padStart(2, '0')}</span>
+  </div>
+
+  <div class="dispatch-list">
+    {themeStats.map((t, i) => (
+      <a class="dispatch" href={`/themes/${t.slug}/`}>
+        <div class="meta-col">
+          <span class="meta meta--accent">№ {String(i + 1).padStart(2, '0')}</span>
+          <span class="meta">{t.companyCount} companies</span>
+          <span class="meta" style="color: var(--fg-soft);">{t.total.toLocaleString()} roles</span>
+        </div>
+        <div>
+          <h3>{t.name}</h3>
+          <p class="desc">{t.blurb}</p>
+        </div>
+        <div class="stamp-col">
+          {t.topCompany && (
+            <span class="stamp" style="border-color: var(--rule);">
+              <span class="v">{t.topCompany.name}</span>
+              <span class="h">{(t.topCompany.share * 100).toFixed(1)}% share</span>
+            </span>
+          )}
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>

@@ -1,0 +1,158 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { THEMES, THEMES_BY_SLUG } from '../../data/themes';
+
+export async function getStaticPaths() {
+  return THEMES.map((t) => ({ params: { theme: t.slug }, props: { theme: t.slug } }));
+}
+
+const { theme } = Astro.props;
+const t = THEMES_BY_SLUG[theme];
+
+const aiCompanies = (await getCollection('companies'))
+  .filter((c) => c.data.aiRelevance !== 'non_ai');
+
+const SNAPSHOTS = path.resolve(process.cwd(), 'data', 'snapshots');
+
+interface Row {
+  slug: string;
+  name: string;
+  relevance: string;
+  total: number;
+  matches: number;
+  share: number;
+  samples: { id: string; title: string }[];
+}
+
+const rows: Row[] = [];
+for (const c of aiCompanies) {
+  const dir = path.join(SNAPSHOTS, c.id);
+  if (!fs.existsSync(dir)) continue;
+  const files = fs.readdirSync(dir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+  if (!files.length) continue;
+  const snap = JSON.parse(fs.readFileSync(path.join(dir, files[files.length - 1]), 'utf8'));
+  const total = snap.count ?? snap.jobs?.length ?? 0;
+  const matches = (snap.jobs ?? []).filter((j: any) => t.regex.test(j.title || ''));
+  if (matches.length === 0) continue;
+  rows.push({
+    slug: c.id,
+    name: c.data.name,
+    relevance: c.data.aiRelevance,
+    total,
+    matches: matches.length,
+    share: matches.length / Math.max(total, 1),
+    samples: matches.slice(0, 3).map((m: any) => ({ id: m.id, title: m.title })),
+  });
+}
+
+rows.sort((a, b) => b.matches - a.matches);
+
+const totalMatches = rows.reduce((s, r) => s + r.matches, 0);
+const totalPostings = rows.reduce((s, r) => s + r.total, 0);
+const overallShare = totalPostings > 0 ? totalMatches / totalPostings : 0;
+
+// Related dispatches
+const articles = (await getCollection('articles', ({ data }) => !data.draft && !data.archived))
+  .filter((a) =>
+    a.data.tags.some((tag: string) => t.regex.test(tag) || tag.toLowerCase() === t.slug)
+    || t.regex.test(a.data.title)
+    || t.regex.test(a.data.description)
+  )
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+
+const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
+
+const description = `${t.name} hiring across the AI-relevant roster: ${totalMatches.toLocaleString()} roles across ${rows.length} companies. ${t.blurb}`;
+---
+<Layout title={`${t.name} — Themes`} description={description}>
+  <a class="back" href="/themes/">All Themes</a>
+
+  <header class="article-head">
+    <div class="meta-line">
+      <span class="meta meta--accent">Theme</span>
+      <span class="meta">{rows.length} companies</span>
+      <span class="meta">{totalMatches.toLocaleString()} roles</span>
+      <span class="meta">{(overallShare * 100).toFixed(1)}% of panorama</span>
+    </div>
+    <h1>{t.name}</h1>
+    <p class="deck">{t.blurb}</p>
+  </header>
+
+  <div class="hypothesis-block">
+    <div class="label">Why it matters</div>
+    <div>
+      <div class="body" style="font-size: 1.2rem; line-height: 1.45;">{t.matters}</div>
+    </div>
+  </div>
+
+  <div class="section-head">
+    <h2>Hiring concentration</h2>
+    <span class="count">{rows.length} companies, ranked</span>
+  </div>
+  <p class="meta" style="margin-bottom: 1rem; color: var(--fg-muted); text-transform: none; letter-spacing: 0;">
+    Companies ranked by absolute role count. Share is roles matching the theme regex divided
+    by all currently-fetchable open roles for that company.
+  </p>
+
+  <div class="list-rows">
+    {rows.map((r, i) => (
+      <a class="list-row" href={`/companies/${r.slug}/`} style="grid-template-columns: minmax(0, 14rem) minmax(0, 1fr) 6rem auto;">
+        <span class="name">{r.name}</span>
+        <span class="desc" style="font-family: var(--font-mono); font-size: 0.78rem; line-height: 1.5;">
+          {r.samples.length > 0 && r.samples[0].title.slice(0, 80)}
+        </span>
+        <span class="num" style="text-align: right;">
+          <span style="color: var(--fg);">{r.matches}</span>
+          <span style="color: var(--fg-faint);"> / {r.total}</span>
+        </span>
+        <span class="num" style="text-align: right; color: var(--accent);">
+          {(r.share * 100).toFixed(1)}%
+        </span>
+      </a>
+    ))}
+  </div>
+
+  {articles.length > 0 && (
+    <>
+      <div class="section-head" style="margin-top: 4rem;">
+        <h2>Related dispatches</h2>
+        <span class="count">{articles.length} {articles.length === 1 ? 'entry' : 'entries'}</span>
+      </div>
+      <div class="dispatch-list">
+        {articles.map((a) => (
+          <a class="dispatch" href={`/articles/${a.id}/`}>
+            <div class="meta-col">
+              <span class="meta meta--accent">{a.data.cycle ? `Cycle №${a.data.cycle}` : 'Cycle —'}</span>
+              <span class="meta">{fmtDate(a.data.publishedAt)}</span>
+              <span class="meta" style="color: var(--fg-soft);">{a.data.company}</span>
+            </div>
+            <div>
+              <h3>{a.data.title}</h3>
+              <p class="desc">{a.data.description}</p>
+            </div>
+            <div class="stamp-col">
+              <span class={`stamp stamp--${a.data.confidence}`}>
+                <span class="v">{a.data.confidence}</span>
+                <span class="h">{a.data.horizon}</span>
+              </span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+
+  <section class="sources">
+    <div class="label">Method</div>
+    <div>
+      <ul>
+        <li>Latest snapshot per company under data/snapshots/&lt;slug&gt;/.</li>
+        <li>Theme regex in src/data/themes.ts; defined to match diagnostic role names, not bare keywords.</li>
+        <li>Aggregated across {rows.length} of the {(await getCollection('companies')).filter((c) => c.data.aiRelevance !== 'non_ai').length} AI-relevant companies (others have no fetchable snapshot yet).</li>
+      </ul>
+    </div>
+  </section>
+</Layout>
