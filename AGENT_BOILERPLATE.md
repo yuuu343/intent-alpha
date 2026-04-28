@@ -12,14 +12,33 @@ Read `AGENTS.md` first. Follow your role section verbatim.
 - **Agent 4 Publisher**: only writes `src/content/articles/*.mdx`. Reads approved PROV; does
   not modify it.
 
-## 2. Token hygiene
-- NEVER whole-file Read of large knowledge files. Always `offset+limit` or grep first.
-- `AGENTS.md` / `AGENT_BOILERPLATE.md` (<10 KB) full read OK once per agent run.
-- Snapshots can be large (`data/snapshots/<slug>/*.json`); prefer `jq`/grep for filtering by
-  date range or department before Reading.
-- Output: markdown for knowledge files, MDX for articles. No ASCII art tables, no emoji,
-  no multi-paragraph summaries.
-- Single concise summary at end of each agent run (≤300 words).
+## 2. Token hygiene (v2 — strict)
+**Reading large data**
+- Snapshot JSONs in `data/snapshots/` are 70–150 KB and must NEVER be whole-Read.
+  Always extract via `node -e "const j=require('./...'); console.log(...)"` selecting
+  ONLY the needed fields (titles, departments, ids, urls). Reading the full file pulls
+  every job description into context — pure waste.
+- For "what departments / clusters?" queries always run
+  `node scripts/analyze.mjs <slug>` first. It prints department breakdown,
+  pre-defined cluster counts, and frequent title trigrams. Add
+  `--regex term1,term2,...` to test a custom hypothesis. This single command
+  replaces the ad-hoc `node -e ...` invocations and is the standard first
+  step of a hypothesis cycle.
+- `knowledge/hypothesis_queue.md` and `knowledge/dead_hypotheses.md`: locate target PROV
+  via `Grep ^id: PROV-NNN`, Read ±50 lines, then Edit. Never whole-Read.
+- Article MDX files in `src/content/articles/`: only Read when actually editing that
+  specific article. Title/hypothesis/cycle metadata is in frontmatter (top ~12 lines).
+
+**Operating discipline**
+- Whole-file reads are reserved for: `AGENTS.md`, `AGENT_BOILERPLATE.md`, individual
+  source files <10 KB. Anything else → grep / offset+limit / `node -e` extraction.
+- Batch independent operations: parallel `Bash` calls for independent fetches /
+  verifications. Don't sequentialize what can run together.
+- Don't re-read a file inside the same task once you have its contents. Trust the
+  conversation context.
+- Emit ≤300-word summaries. No ASCII art, no emoji, no narrating intermediate steps.
+- For company JSON creation in batch, use a single multi-Write block; don't print the
+  contents back to the user — they can read the diff in git.
 
 ## 3. Project standard (intent-alpha v1)
 - Audience: global / English. SEO is the primary distribution channel.

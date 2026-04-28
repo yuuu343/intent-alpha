@@ -1,0 +1,10 @@
+{
+  "slug": "gitlab",
+  "name": "GitLab",
+  "website": "https://about.gitlab.com",
+  "sector": "DevSecOps",
+  "headquarters": "Remote (US)",
+  "description": "Source control, CI/CD, security, AI assistance for DevSecOps.",
+  "ats": "greenhouse",
+  "atsIdentifier": "gitlab"
+}

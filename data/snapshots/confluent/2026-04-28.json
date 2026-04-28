@@ -1,0 +1,433 @@
+{
+  "company": "confluent",
+  "ats": "ashby",
+  "atsIdentifier": "confluent",
+  "fetchedAt": "2026-04-28T04:29:52.410Z",
+  "count": 53,
+  "jobs": [
+    {
+      "id": "8b41454a-1025-418b-b7eb-642dd8408219",
+      "title": "Senior Software Engineer",
+      "location": "GB Remote United Kingdom",
+      "department": "Engineering",
+      "updated_at": "2026-03-04T00:02:52.786+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/8b41454a-1025-418b-b7eb-642dd8408219"
+    },
+    {
+      "id": "5c5eb5ed-e880-447e-a76e-e056ce2acfb9",
+      "title": "Senior Manager, Engineering - KORA",
+      "location": "IN Remote India",
+      "department": "Engineering",
+      "updated_at": "2026-04-07T04:18:37.979+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/5c5eb5ed-e880-447e-a76e-e056ce2acfb9"
+    },
+    {
+      "id": "3fc1adb4-594a-484b-8e76-9a45156c83fe",
+      "title": "Senior Software Engineer",
+      "location": "Remote, Ontario, Canada",
+      "department": "Engineering",
+      "updated_at": "2026-03-03T17:13:55.086+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/3fc1adb4-594a-484b-8e76-9a45156c83fe"
+    },
+    {
+      "id": "94779f17-93f1-4890-8b11-178bd17cdde1",
+      "title": "Senior Software Engineer II",
+      "location": "GB Remote United Kingdom",
+      "department": "Engineering",
+      "updated_at": "2026-03-04T00:23:52.357+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/94779f17-93f1-4890-8b11-178bd17cdde1"
+    },
+    {
+      "id": "4ac58d2c-2003-4753-99e9-e35906297f28",
+      "title": "Staff Software Engineer",
+      "location": "GB Remote United Kingdom",
+      "department": "Engineering",
+      "updated_at": "2026-04-16T22:07:48.682+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/4ac58d2c-2003-4753-99e9-e35906297f28"
+    },
+    {
+      "id": "c9746326-522d-4a3c-b098-3496effcaded",
+      "title": "Staff Software Developer",
+      "location": "Remote, Germany",
+      "department": "Engineering",
+      "updated_at": "2025-12-30T01:55:30.682+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/c9746326-522d-4a3c-b098-3496effcaded"
+    },
+    {
+      "id": "a37ae514-357a-481a-a4be-3d5999e80039",
+      "title": "Senior Software Engineer II - Kafka Client",
+      "location": "IN Remote India",
+      "department": "Engineering",
+      "updated_at": "2026-03-12T04:29:28.151+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/a37ae514-357a-481a-a4be-3d5999e80039"
+    },
+    {
+      "id": "79c5035c-4266-40f0-86e1-84d067ed77b1",
+      "title": "Staff Software Engineer - Flink SQL",
+      "location": "Remote, United States",
+      "department": "Engineering",
+      "updated_at": "2025-10-01T19:31:48.298+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1"
+    },
+    {
+      "id": "ca3f2007-6218-4d96-93a5-32230addfd31",
+      "title": "Senior Software Engineer II",
+      "location": "Remote, Ontario, Canada",
+      "department": "Engineering",
+      "updated_at": "2026-03-13T17:54:28.746+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/ca3f2007-6218-4d96-93a5-32230addfd31"
+    },
+    {
+      "id": "2b7f816b-9f5b-4023-b38d-46fd3e117298",
+      "title": "Staff Software Engineer I - Stream Governance",
+      "location": "Remote, Ontario, Canada",
+      "department": "Engineering",
+      "updated_at": "2025-09-22T18:00:58.279+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/2b7f816b-9f5b-4023-b38d-46fd3e117298"
+    },
+    {
+      "id": "967ce671-b03f-4624-a45c-d20c9a352081",
+      "title": "Senior Software Engineer - Product Security",
+      "location": "Remote, Ontario, Canada",
+      "department": "Engineering",
+      "updated_at": "2026-01-28T19:47:17.378+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/967ce671-b03f-4624-a45c-d20c9a352081"
+    },
+    {
+      "id": "90949913-fc2b-47aa-8015-fcd264b352ae",
+      "title": "Staff Software Engineer - Apache Kafka",
+      "location": "PL Remote Poland",
+      "department": "Engineering",
+      "updated_at": "2026-03-23T23:30:38.732+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/90949913-fc2b-47aa-8015-fcd264b352ae"
+    },
+    {
+      "id": "d9698ddf-9a48-4c8b-8aa2-5b272f204f11",
+      "title": "Senior Security Engineer II",
+      "location": "IN Remote India",
+      "department": "Engineering",
+      "updated_at": "2025-11-19T07:40:15.959+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/d9698ddf-9a48-4c8b-8aa2-5b272f204f11"
+    },
+    {
+      "id": "7a2da45b-4a80-4742-bbae-a249368b74f8",
+      "title": "Staff Software Engineer I - Internal Access Management",
+      "location": "Remote, United States",
+      "department": "Engineering",
+      "updated_at": "2026-01-16T18:47:52.029+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/7a2da45b-4a80-4742-bbae-a249368b74f8"
+    },
+    {
+      "id": "2966b333-863b-4620-b0f5-220fafe76958",
+      "title": "Staff Product Manager, Confluent Cloud Kafka",
+      "location": "Remote, Ontario, Canada",
+      "department": "Product",
+      "updated_at": "2026-02-23T14:19:36.642+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/2966b333-863b-4620-b0f5-220fafe76958"
+    },
+    {
+      "id": "95960e5a-c192-4691-ac3d-c7e292e28550",
+      "title": "AI Architect ",
+      "location": "Remote, United States",
+      "department": "Business Technology",
+      "updated_at": "2026-01-05T23:21:41.904+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/95960e5a-c192-4691-ac3d-c7e292e28550"
+    },
+    {
+      "id": "0b2a4106-7f01-4205-813d-81e4fa1abdb4",
+      "title": "Staff Software Engineer I - SRE",
+      "location": "IN Remote India",
+      "department": "Engineering",
+      "updated_at": "2026-02-16T07:38:53.841+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/0b2a4106-7f01-4205-813d-81e4fa1abdb4"
+    },
+    {
+      "id": "ccc79d18-b4a7-4be8-9a93-6714d72c5147",
+      "title": "Senior Software Engineer",
+      "location": "Bangalore, India",
+      "department": "Business Technology",
+      "updated_at": "2026-01-05T05:43:22.482+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/ccc79d18-b4a7-4be8-9a93-6714d72c5147"
+    },
+    {
+      "id": "993cd972-d032-4892-bf4f-804f056604a4",
+      "title": "Staff Software Engineer I - Cloud Compute Platform",
+      "location": "Remote, United States",
+      "department": "Engineering",
+      "updated_at": "2026-02-02T19:53:26.797+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/993cd972-d032-4892-bf4f-804f056604a4"
+    },
+    {
+      "id": "3b98b217-57a2-4fa7-b321-2034ccbd1661",
+      "title": "Staff Site Reliability Engineer - Incident Management & Reliability (Remote - Canada)",
+      "location": "Remote, Ontario, Canada",
+      "department": "Engineering",
+      "updated_at": "2026-01-23T17:28:59.969+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/3b98b217-57a2-4fa7-b321-2034ccbd1661"
+    },
+    {
+      "id": "8606dc2b-3ad7-4423-9cbb-c7e6df0a1ae5",
+      "title": "Staff Software Engineer - Flink Control Plane",
+      "location": "Remote, United States",
+      "department": "Engineering",
+      "updated_at": "2026-01-15T18:31:42.191+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/8606dc2b-3ad7-4423-9cbb-c7e6df0a1ae5"
+    },
+    {
+      "id": "e12d3084-a84e-4c1a-800e-5d5dbb9e27e8",
+      "title": "Principal Engineer I - Cloud Observability",
+      "location": "IN Remote India",
+      "department": "Engineering",
+      "updated_at": "2026-04-27T06:59:04.965+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/e12d3084-a84e-4c1a-800e-5d5dbb9e27e8"
+    },
+    {
+      "id": "a39d4a62-2d73-46af-bbdd-9b9a1314c275",
+      "title": "Senior Software Engineer - Cloud Traffic",
+      "location": "Remote, Texas",
+      "department": "Engineering",
+      "updated_at": "2026-02-05T21:14:06.017+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/a39d4a62-2d73-46af-bbdd-9b9a1314c275"
+    },
+    {
+      "id": "7ea0f7ad-2445-4fac-a33c-fbfc164d5181",
+      "title": "Staff Security Engineer II",
+      "location": "IN Remote India",
+      "department": "Engineering",
+      "updated_at": "2026-02-09T09:57:53.522+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/7ea0f7ad-2445-4fac-a33c-fbfc164d5181"
+    },
+    {
+      "id": "f60bba87-9470-4238-bf6f-dce1b4da8006",
+      "title": "Senior Product Manager, Cluster Linking",
+      "location": "Remote, Ontario, Canada",
+      "department": "Product",
+      "updated_at": "2026-02-17T13:58:08.160+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/f60bba87-9470-4238-bf6f-dce1b4da8006"
+    },
+    {
+      "id": "6f9f7932-2647-4562-b10b-fe70eb27d007",
+      "title": "Manager II, Engineering – Secure Compute Platform",
+      "location": "Remote, United States",
+      "department": "Engineering",
+      "updated_at": "2026-02-20T15:20:31.933+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/6f9f7932-2647-4562-b10b-fe70eb27d007"
+    },
+    {
+      "id": "7a1908bf-ba09-48a7-92e9-f57fd4c9eb57",
+      "title": "Staff Software Engineer",
+      "location": "CA Remote Ontario",
+      "department": "Engineering",
+      "updated_at": "2026-03-02T19:02:43.564+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/7a1908bf-ba09-48a7-92e9-f57fd4c9eb57"
+    },
+    {
+      "id": "21082b9f-440a-4ba6-a469-c70d339d1aa9",
+      "title": "Staff Product Manager, Kafka Connect",
+      "location": "Remote, United States",
+      "department": "Product",
+      "updated_at": "2026-02-24T19:26:32.172+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/21082b9f-440a-4ba6-a469-c70d339d1aa9"
+    },
+    {
+      "id": "bdb98661-c475-4914-9b17-b99d03a2d56e",
+      "title": "Senior Software Engineer - II",
+      "location": "Remote, India",
+      "department": "Engineering",
+      "updated_at": "2026-01-20T07:40:12.592+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/bdb98661-c475-4914-9b17-b99d03a2d56e"
+    },
+    {
+      "id": "476b9b8a-bd75-45ce-90d1-b4dc2923980f",
+      "title": "Senior Engineering Manager - Metrics Platform",
+      "location": "IN Remote India",
+      "department": "Engineering",
+      "updated_at": "2026-03-23T18:03:06.201+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/476b9b8a-bd75-45ce-90d1-b4dc2923980f"
+    },
+    {
+      "id": "1946b144-eaa5-482f-b235-63cc06104ecc",
+      "title": "Senior Product Manager, Cloud Networking ",
+      "location": "Remote, United States",
+      "department": "Product",
+      "updated_at": "2026-02-27T19:35:31.656+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/1946b144-eaa5-482f-b235-63cc06104ecc"
+    },
+    {
+      "id": "9f49b470-2f9c-42c0-a7cb-2aabeb669da8",
+      "title": "Staff Product Manager, Flink Cloud Platform",
+      "location": "Remote, United States",
+      "department": "Product",
+      "updated_at": "2026-02-26T22:16:35.289+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/9f49b470-2f9c-42c0-a7cb-2aabeb669da8"
+    },
+    {
+      "id": "7f758710-e3c4-4eed-b801-65e1fe9827e1",
+      "title": "Director II, Engineering",
+      "location": "Palo Alto, California",
+      "department": "Engineering",
+      "updated_at": "2026-03-16T20:26:17.867+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/7f758710-e3c4-4eed-b801-65e1fe9827e1"
+    },
+    {
+      "id": "88579760-2f82-406f-8cc6-150c9164e659",
+      "title": "Software Engineer- Cloud Traffic",
+      "location": "CA Office Toronto",
+      "department": "Engineering",
+      "updated_at": "2026-03-11T15:41:32.090+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/88579760-2f82-406f-8cc6-150c9164e659"
+    },
+    {
+      "id": "ace9673e-c763-4b90-b3d8-616e55131f91",
+      "title": "Director, Engineering – Applied AI",
+      "location": "Remote, United States",
+      "department": "Business Technology",
+      "updated_at": "2026-03-12T19:19:48.297+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/ace9673e-c763-4b90-b3d8-616e55131f91"
+    },
+    {
+      "id": "1c6ffcd7-ae43-465f-ab11-ca8e7a279cf9",
+      "title": "Senior Director, Business Systems",
+      "location": "Remote, United States",
+      "department": "Business Technology",
+      "updated_at": "2026-03-12T19:21:06.955+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/1c6ffcd7-ae43-465f-ab11-ca8e7a279cf9"
+    },
+    {
+      "id": "3ffbcfdf-6650-4608-9479-e09c09a0d460",
+      "title": "Senior Finance BSA - NetSuite",
+      "location": "Bangalore, India",
+      "department": "Business Technology",
+      "updated_at": "2026-03-09T06:22:44.171+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/3ffbcfdf-6650-4608-9479-e09c09a0d460"
+    },
+    {
+      "id": "2dd084eb-207f-4e58-bc33-b5a4a9f89eec",
+      "title": "Software Engineer",
+      "location": "GB Remote United Kingdom",
+      "department": "Early Talent",
+      "updated_at": "2026-03-13T10:06:16.681+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/2dd084eb-207f-4e58-bc33-b5a4a9f89eec"
+    },
+    {
+      "id": "9f215e9a-5aeb-46b8-9cdf-05ee3eaf5229",
+      "title": "Engineering Manager - CC UI Apps (Kafka, Governance, and Tableflow)",
+      "location": "Remote, Ontario, Canada",
+      "department": "Engineering",
+      "updated_at": "2026-03-09T19:10:41.431+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/9f215e9a-5aeb-46b8-9cdf-05ee3eaf5229"
+    },
+    {
+      "id": "becdf53f-8988-4795-acf2-851a795c2f15",
+      "title": "Senior Technical Program Manager ",
+      "location": "Remote, India",
+      "department": "Engineering",
+      "updated_at": "2026-02-03T15:04:37.128+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/becdf53f-8988-4795-acf2-851a795c2f15"
+    },
+    {
+      "id": "856698ca-f3cc-4ccd-986a-c57e7ef9e574",
+      "title": "Senior Software Engineer II",
+      "location": "Seattle, Washington",
+      "department": "Engineering",
+      "updated_at": "2026-03-19T04:40:13.744+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/856698ca-f3cc-4ccd-986a-c57e7ef9e574"
+    },
+    {
+      "id": "0b65c19f-c804-4f79-b1e3-c3ea035c3d76",
+      "title": "Senior Software Engineer II",
+      "location": "Boston, Massachusetts",
+      "department": "Engineering",
+      "updated_at": "2026-03-26T02:46:21.838+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/0b65c19f-c804-4f79-b1e3-c3ea035c3d76"
+    },
+    {
+      "id": "0605ed11-ec59-428f-9f69-b24b25c575ed",
+      "title": "Senior Software Engineer - Connect Platform",
+      "location": "Remote, Ontario, Canada",
+      "department": "Engineering",
+      "updated_at": "2026-04-02T20:55:16.816+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/0605ed11-ec59-428f-9f69-b24b25c575ed"
+    },
+    {
+      "id": "fba82635-ed87-459c-b57a-00c00e001fdb",
+      "title": "Senior Product Manager - Hybrid Control Plane for Observability & Management",
+      "location": "Remote, India",
+      "department": "Product",
+      "updated_at": "2026-03-31T16:35:16.087+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/fba82635-ed87-459c-b57a-00c00e001fdb"
+    },
+    {
+      "id": "e2308c50-04dc-40d5-a5f2-984769bdb5be",
+      "title": "Senior Software Engineer II",
+      "location": "Remote, India",
+      "department": "Engineering",
+      "updated_at": "2026-03-31T07:08:05.895+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/e2308c50-04dc-40d5-a5f2-984769bdb5be"
+    },
+    {
+      "id": "51486e89-f4f6-4961-ba7a-4e60a521959d",
+      "title": "Staff Software Engineer - I",
+      "location": "Bangalore, India",
+      "department": "Engineering",
+      "updated_at": "2026-02-13T08:55:38.137+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/51486e89-f4f6-4961-ba7a-4e60a521959d"
+    },
+    {
+      "id": "ff2464db-7d56-401c-97b0-eda62adb05ea",
+      "title": "Staff Software Developer",
+      "location": "DE Remote Germany",
+      "department": "Engineering",
+      "updated_at": "2026-04-15T09:47:58.741+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/ff2464db-7d56-401c-97b0-eda62adb05ea"
+    },
+    {
+      "id": "ded86e3c-8dbe-498b-861c-1fe5dfcd1ce3",
+      "title": "Head of Product Led Growth Marketing ",
+      "location": "Remote, United States",
+      "department": "Product",
+      "updated_at": "2026-04-07T16:44:46.628+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/ded86e3c-8dbe-498b-861c-1fe5dfcd1ce3"
+    },
+    {
+      "id": "a081a7bf-9bee-4ffa-a7a6-f2a574203b79",
+      "title": "Senior Director, Business Technology Engineering",
+      "location": "IN Office Bangalore",
+      "department": "Business Technology",
+      "updated_at": "2026-03-27T00:17:28.243+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/a081a7bf-9bee-4ffa-a7a6-f2a574203b79"
+    },
+    {
+      "id": "b7e584df-6e2a-4e6b-93c6-661d507a25f8",
+      "title": "Sr. Manager, KORA Orchestration Global",
+      "location": "Remote, California",
+      "department": "Engineering",
+      "updated_at": "2026-04-15T20:20:08.093+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/b7e584df-6e2a-4e6b-93c6-661d507a25f8"
+    },
+    {
+      "id": "ddfaf293-332a-44e9-a543-49e5c898584b",
+      "title": "Engineering Manager, Connect",
+      "location": "IN Remote India",
+      "department": "Engineering",
+      "updated_at": "2026-04-16T05:12:57.586+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/ddfaf293-332a-44e9-a543-49e5c898584b"
+    },
+    {
+      "id": "09b5df3f-2e17-4b95-ab0b-5d7cdb038a0e",
+      "title": "Staff Software Engineer I – Control Plane Core Infrastructure",
+      "location": "CA Remote Ontario",
+      "department": "Engineering",
+      "updated_at": "2026-04-17T22:27:09.144+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/09b5df3f-2e17-4b95-ab0b-5d7cdb038a0e"
+    },
+    {
+      "id": "dc52dfa1-1649-442c-9344-609b8f01ed4b",
+      "title": "Senior Product Manager, Cloud Networking",
+      "location": "Remote, United States",
+      "department": "Product",
+      "updated_at": "2026-04-17T19:59:47.905+00:00",
+      "url": "https://jobs.ashbyhq.com/confluent/dc52dfa1-1649-442c-9344-609b8f01ed4b"
+    }
+  ]
+}

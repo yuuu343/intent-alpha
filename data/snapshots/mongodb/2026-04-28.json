@@ -1,0 +1,3870 @@
+{
+  "company": "mongodb",
+  "ats": "greenhouse",
+  "atsIdentifier": "mongodb",
+  "fetchedAt": "2026-04-28T04:52:00.736Z",
+  "count": 429,
+  "jobs": [
+    {
+      "id": "7574659",
+      "title": "2026 - Women in Tech Summit, EMEA",
+      "location": "Dublin",
+      "department": "Intern",
+      "offices": "Dublin",
+      "updated_at": "2026-04-24T11:09:46-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7574659"
+    },
+    {
+      "id": "7815603",
+      "title": "Account-Based Marketing Manager",
+      "location": "Austin; Chicago; Minneapolis",
+      "department": "Americas Marketing",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7815603"
+    },
+    {
+      "id": "7310506",
+      "title": "Account Development Representative",
+      "location": "New York City",
+      "department": "Sales Development",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7310506"
+    },
+    {
+      "id": "7311204",
+      "title": "Account Development Representative",
+      "location": "Austin",
+      "department": "Sales Development",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7311204"
+    },
+    {
+      "id": "7311234",
+      "title": "Account Development Representative",
+      "location": "Toronto",
+      "department": "Sales Development",
+      "offices": "Toronto",
+      "updated_at": "2026-04-23T15:33:52-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7311234"
+    },
+    {
+      "id": "7318049",
+      "title": "Account Development Representative",
+      "location": "Mexico City",
+      "department": "Sales Development",
+      "offices": "Mexico City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
+    },
+    {
+      "id": "7335567",
+      "title": "Account Development Representative, French Speaking",
+      "location": "Dublin",
+      "department": "Sales Development",
+      "offices": "Dublin",
+      "updated_at": "2026-04-24T11:09:45-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7335567"
+    },
+    {
+      "id": "7337287",
+      "title": "Account Development Representative, German Speaking",
+      "location": "Dublin",
+      "department": "Sales Development",
+      "offices": "Dublin",
+      "updated_at": "2026-04-24T11:09:45-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7337287"
+    },
+    {
+      "id": "7334938",
+      "title": "Account Development Representative, Hebrew Speaking",
+      "location": "Tel Aviv",
+      "department": "Sales Development",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-24T11:09:45-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7334938"
+    },
+    {
+      "id": "7335205",
+      "title": "Account Development Representative, Spanish Speaking",
+      "location": "Dublin",
+      "department": "Sales Development",
+      "offices": "Dublin",
+      "updated_at": "2026-04-24T11:09:45-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7335205"
+    },
+    {
+      "id": "7298536",
+      "title": "Account Development Representative, Turkish Speaking",
+      "location": "Dublin",
+      "department": "Sales Development",
+      "offices": "Barcelona / Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7298536"
+    },
+    {
+      "id": "7334895",
+      "title": "Account Development Representative, UK&I",
+      "location": "Dublin",
+      "department": "Sales Development",
+      "offices": "Dublin",
+      "updated_at": "2026-04-24T11:09:45-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7334895"
+    },
+    {
+      "id": "7154017",
+      "title": "Account Executive, Acquisition",
+      "location": "Hong Kong",
+      "department": "Sales Greater China",
+      "offices": "Hong Kong",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7154017"
+    },
+    {
+      "id": "7211619",
+      "title": "Account Executive ( Bahasa, Thai or Vietnamese Speaker)",
+      "location": "Singapore",
+      "department": "Sales APAC (ASEAN)",
+      "offices": "Singapore",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7211619"
+    },
+    {
+      "id": "5573926",
+      "title": "Account Executive, Growth",
+      "location": "Milan",
+      "department": "Sales Growth EMEA",
+      "offices": "Milan",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=5573926"
+    },
+    {
+      "id": "7839823",
+      "title": "Account Executive, Growth",
+      "location": "Singapore",
+      "department": "Sales APAC (ASEAN)",
+      "offices": "Singapore",
+      "updated_at": "2026-04-22T10:40:01-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7839823"
+    },
+    {
+      "id": "7027409",
+      "title": "Advisory Pre-Sales Solutions Architect",
+      "location": "Tysons",
+      "department": "Solutions Consulting, Growth NA",
+      "offices": "Tysons",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7027409"
+    },
+    {
+      "id": "7673691",
+      "title": "AI Staff Developer Advocate",
+      "location": "California; San Francisco",
+      "department": "Developer Advocacy",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7673691"
+    },
+    {
+      "id": "7836059",
+      "title": "Application Delivery Consultant",
+      "location": "Bulgaria",
+      "department": "AMP, EMEA Delivery",
+      "offices": "Bulgaria / Remote Bulgaria",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7836059"
+    },
+    {
+      "id": "7761021",
+      "title": "Application Engineer",
+      "location": "Bulgaria",
+      "department": "AMP, EMEA Delivery",
+      "offices": "Remote Bulgaria",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7761021"
+    },
+    {
+      "id": "7617760",
+      "title": "Associate Commercial Growth Account Executive",
+      "location": "Austin",
+      "department": "Commercial Growth",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7617760"
+    },
+    {
+      "id": "7592487",
+      "title": "Associate Commercial Growth Account Executive",
+      "location": "Toronto",
+      "department": "Commercial Growth",
+      "offices": "Toronto",
+      "updated_at": "2026-04-24T14:30:10-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7592487"
+    },
+    {
+      "id": "7769513",
+      "title": "Associate Early Talent Recruiter, Contract",
+      "location": "New York City",
+      "department": "People Team",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7769513"
+    },
+    {
+      "id": "7721092",
+      "title": "Associate Technical Services Engineer II",
+      "location": "Dublin",
+      "department": "Technical Support EMEA",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7721092"
+    },
+    {
+      "id": "7678384",
+      "title": "Associate TSE I",
+      "location": "Tel Aviv",
+      "department": "Technical Support EMEA",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7678384"
+    },
+    {
+      "id": "7760225",
+      "title": "Business Operations & Strategy Associate",
+      "location": "New York City",
+      "department": "Biz Ops, Analytics & Data Science",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T20:02:34-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7760225"
+    },
+    {
+      "id": "7760222",
+      "title": "Business Operations & Strategy Associate",
+      "location": "New York City",
+      "department": "Biz Ops, Analytics & Data Science",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7760222"
+    },
+    {
+      "id": "7722465",
+      "title": "Candidate Experience Coordinator",
+      "location": "Sydney",
+      "department": "Early Talent Recruiting",
+      "offices": "Sydney",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7722465"
+    },
+    {
+      "id": "7742585",
+      "title": "Candidate Experience Coordinator, Contract",
+      "location": "Austin; Seattle",
+      "department": "Early Talent Recruiting",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7742585"
+    },
+    {
+      "id": "7647255",
+      "title": "Cloud Operations Engineer",
+      "location": "United States",
+      "department": "Cloud Operations",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7647255"
+    },
+    {
+      "id": "7453323",
+      "title": "Cloud Operations Engineer",
+      "location": "Dublin",
+      "department": "Cloud Operations",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7453323"
+    },
+    {
+      "id": "7172630",
+      "title": "Commercial Growth Account Executive",
+      "location": "Boston; New York City",
+      "department": "Commercial Growth",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7172630"
+    },
+    {
+      "id": "7841395",
+      "title": "Commercial Growth Account Executive (Italian Speaker)",
+      "location": "Dublin",
+      "department": "Sales Growth EMEA",
+      "offices": "Dublin",
+      "updated_at": "2026-04-22T11:31:27-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7841395"
+    },
+    {
+      "id": "7771690",
+      "title": "Commercial Growth Account Executive (Spanish Speaker)",
+      "location": "Dublin",
+      "department": "Commercial Growth",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7771690"
+    },
+    {
+      "id": "6826191",
+      "title": "Commercial Growth, Account Executive - UKI Market",
+      "location": "Dublin",
+      "department": "Commercial Growth",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6826191"
+    },
+    {
+      "id": "7746692",
+      "title": "Consulting Engineer",
+      "location": "Tel Aviv",
+      "department": "PS Field Delivery",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7746692"
+    },
+    {
+      "id": "7818210",
+      "title": "Contract Associate Recruiter",
+      "location": "Dublin",
+      "department": "People Team",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7818210"
+    },
+    {
+      "id": "7738964",
+      "title": "Contract Sourcer, Talent Discovery",
+      "location": "United States",
+      "department": "Early Talent Recruiting",
+      "offices": "Remote North America",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7738964"
+    },
+    {
+      "id": "7707200",
+      "title": "Customer & Partner Advocate, Office of the CCO",
+      "location": "Austin; Dallas; New York City",
+      "department": "Field Operations Management",
+      "offices": "Austin",
+      "updated_at": "2026-04-27T16:20:00-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7707200"
+    },
+    {
+      "id": "7738880",
+      "title": "Customer Success Manager",
+      "location": "Munich",
+      "department": "Customer Success EMEA",
+      "offices": "Munich",
+      "updated_at": "2026-04-22T11:10:35-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7738880"
+    },
+    {
+      "id": "7571625",
+      "title": "Customer Success Manager",
+      "location": "Dublin",
+      "department": "Customer Success International",
+      "offices": "Dublin",
+      "updated_at": "2026-04-22T11:19:58-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7571625"
+    },
+    {
+      "id": "7604011",
+      "title": "Customer Success Manager",
+      "location": "Austin; San Francisco",
+      "department": "Customer Success Americas",
+      "offices": "Austin / San Francisco ",
+      "updated_at": "2026-04-22T11:07:06-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7604011"
+    },
+    {
+      "id": "7736115",
+      "title": "Customer Success Manager",
+      "location": "Dublin",
+      "department": "Customer Success EMEA",
+      "offices": "Munich",
+      "updated_at": "2026-04-22T11:08:21-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7736115"
+    },
+    {
+      "id": "7738871",
+      "title": "Customer Success Manager",
+      "location": "Berlin",
+      "department": "Customer Success EMEA",
+      "offices": "Munich",
+      "updated_at": "2026-04-22T11:08:39-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7738871"
+    },
+    {
+      "id": "7738873",
+      "title": "Customer Success Manager",
+      "location": "Düsseldorf",
+      "department": "Customer Success EMEA",
+      "offices": "Munich",
+      "updated_at": "2026-04-22T11:09:34-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7738873"
+    },
+    {
+      "id": "7738877",
+      "title": "Customer Success Manager",
+      "location": "Frankfurt",
+      "department": "Customer Success EMEA",
+      "offices": "Munich",
+      "updated_at": "2026-04-22T11:09:56-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7738877"
+    },
+    {
+      "id": "7738878",
+      "title": "Customer Success Manager",
+      "location": "Hamburg",
+      "department": "Customer Success EMEA",
+      "offices": "Munich",
+      "updated_at": "2026-04-22T11:10:16-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7738878"
+    },
+    {
+      "id": "7738881",
+      "title": "Customer Success Manager",
+      "location": "Stuttgart",
+      "department": "Customer Success EMEA",
+      "offices": "Munich",
+      "updated_at": "2026-04-22T11:10:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7738881"
+    },
+    {
+      "id": "7761063",
+      "title": "Customer Success Manager - French Speaking",
+      "location": "Dublin",
+      "department": "Customer Success EMEA",
+      "offices": "Paris",
+      "updated_at": "2026-04-22T11:18:22-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7761063"
+    },
+    {
+      "id": "7757113",
+      "title": "Customer Success Manager - French Speaking",
+      "location": "Paris",
+      "department": "Customer Success EMEA",
+      "offices": "Paris",
+      "updated_at": "2026-04-22T11:17:33-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7757113"
+    },
+    {
+      "id": "7657504",
+      "title": "Customer Success Manager, German Speaker",
+      "location": "Stuttgart",
+      "department": "Customer Success",
+      "offices": "Dublin / Munich",
+      "updated_at": "2026-04-22T11:13:08-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7657504"
+    },
+    {
+      "id": "7657498",
+      "title": "Customer Success Manager, German Speaker",
+      "location": "Frankfurt",
+      "department": "Customer Success",
+      "offices": "Dublin / Munich",
+      "updated_at": "2026-04-22T11:12:51-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7657498"
+    },
+    {
+      "id": "7619241",
+      "title": "Customer Success Manager, German Speaker",
+      "location": "Dublin; Germany; Munich",
+      "department": "Customer Success",
+      "offices": "Dublin / Munich",
+      "updated_at": "2026-04-22T11:12:30-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7619241"
+    },
+    {
+      "id": "7696235",
+      "title": "Customer Success Manager - Turkish Speaker",
+      "location": "Dubai",
+      "department": "Customer Success EMEA",
+      "offices": "Dubai",
+      "updated_at": "2026-04-22T11:05:24-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7696235"
+    },
+    {
+      "id": "7409019",
+      "title": "Director, CEO Communications",
+      "location": "New York City; Palo Alto",
+      "department": "Global Communications",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7409019"
+    },
+    {
+      "id": "7822078",
+      "title": "Director, Corporate Development & Ventures",
+      "location": "San Francisco",
+      "department": "Ventures - Investing & Corporate Development",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7822078"
+    },
+    {
+      "id": "7819441",
+      "title": "Director, Employee Communications",
+      "location": "Austin; New York City; San Francisco",
+      "department": "Global Communications",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7819441"
+    },
+    {
+      "id": "7711879",
+      "title": "Director, Engineering",
+      "location": "Dublin",
+      "department": "PTO Atlas Data Services",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7711879"
+    },
+    {
+      "id": "7662222",
+      "title": "Director, Global Quote-to-Cash Operations (India COE)",
+      "location": "Gurugram",
+      "department": "Finance & Accounting ",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:01:24-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7662222"
+    },
+    {
+      "id": "7566138",
+      "title": "Director, Identity & Security Product Management",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec; Toronto",
+      "department": "PTO Identity and Access Management",
+      "offices": "Seattle",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7566138"
+    },
+    {
+      "id": "7566136",
+      "title": "Director, Identity & Security Product Management",
+      "location": "New York City; Palo Alto; Seattle; United States",
+      "department": "PTO Identity and Access Management",
+      "offices": "Seattle",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7566136"
+    },
+    {
+      "id": "7811458",
+      "title": "Director, International Financial Compliance",
+      "location": "Dublin",
+      "department": "Finance & Accounting - International",
+      "offices": "Dublin",
+      "updated_at": "2026-04-22T09:18:04-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7811458"
+    },
+    {
+      "id": "7592810",
+      "title": "Director of Engineering, Query Optimization",
+      "location": "Dublin",
+      "department": "PTO Query",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7592810"
+    },
+    {
+      "id": "7658187",
+      "title": "Director of Product Management, Developer Experience, Tools and Client Libraries",
+      "location": "Dublin",
+      "department": "PTO Developer Experience PM",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7658187"
+    },
+    {
+      "id": "7434504",
+      "title": "Director, Product Marketing",
+      "location": "United States",
+      "department": "Product Marketing",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7434504"
+    },
+    {
+      "id": "7585369",
+      "title": "Director, Regional Employee Experience",
+      "location": "Gurugram",
+      "department": "Employee Experience APAC & India",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7585369"
+    },
+    {
+      "id": "7825494",
+      "title": "Director, Strategic Sourcing",
+      "location": "Atlanta; Austin; New York City",
+      "department": "Procurement",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T14:53:14-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7825494"
+    },
+    {
+      "id": "7843814",
+      "title": "Director, Tax",
+      "location": "Austin",
+      "department": "Finance & Accounting ",
+      "offices": "Austin",
+      "updated_at": "2026-04-27T20:03:49-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7843814"
+    },
+    {
+      "id": "7599693",
+      "title": "Engagement Manager (Services Sales)",
+      "location": "San Francisco",
+      "department": "PS Engagement Management",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7599693"
+    },
+    {
+      "id": "7523899",
+      "title": "Engineering Manager, Search Query Platform & Availability",
+      "location": "Toronto",
+      "department": "PTO Atlas Search",
+      "offices": "Toronto",
+      "updated_at": "2026-04-27T16:28:30-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7523899"
+    },
+    {
+      "id": "7256839",
+      "title": "Enterprise Account Executive",
+      "location": "Paris",
+      "department": "Sales Growth EMEA",
+      "offices": "Paris",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7256839"
+    },
+    {
+      "id": "6586315",
+      "title": "Enterprise Account Executive",
+      "location": "Sydney",
+      "department": "Sales APAC (ANZ)",
+      "offices": "Sydney",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6586315"
+    },
+    {
+      "id": "7026136",
+      "title": "Enterprise Account Executive",
+      "location": "London",
+      "department": "Sales Growth EMEA",
+      "offices": "London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7026136"
+    },
+    {
+      "id": "7160353",
+      "title": "Enterprise Account Executive",
+      "location": "Frankfurt",
+      "department": "Sales Growth EMEA",
+      "offices": "Frankfurt",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7160353"
+    },
+    {
+      "id": "7257330",
+      "title": "Enterprise Account Executive",
+      "location": "Madrid",
+      "department": "Sales Growth EMEA",
+      "offices": "Madrid",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7257330"
+    },
+    {
+      "id": "7721659",
+      "title": "Enterprise Account Executive",
+      "location": "Amsterdam",
+      "department": "Sales Growth EMEA",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7721659"
+    },
+    {
+      "id": "7607210",
+      "title": "Enterprise Account Executive",
+      "location": "London",
+      "department": "Sales Growth EMEA",
+      "offices": "London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7607210"
+    },
+    {
+      "id": "7362582",
+      "title": "Enterprise Account Executive",
+      "location": "New York City",
+      "department": "Sales Growth NAMER",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7362582"
+    },
+    {
+      "id": "7578590",
+      "title": "Enterprise Account Executive",
+      "location": "Dubai",
+      "department": "Sales Growth EMEA",
+      "offices": "Dubai",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7578590"
+    },
+    {
+      "id": "7219459",
+      "title": "Enterprise Account Executive\t",
+      "location": "London",
+      "department": "Sales Growth EMEA",
+      "offices": "London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7219459"
+    },
+    {
+      "id": "6587328",
+      "title": "Enterprise Account Executive\t",
+      "location": "Los Angeles",
+      "department": "Sales Growth NAMER",
+      "offices": "Los Angeles ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6587328"
+    },
+    {
+      "id": "5607962",
+      "title": "Enterprise Account Executive, Acquisition",
+      "location": "Mexico City",
+      "department": "Sales LatAm",
+      "offices": "Mexico City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=5607962"
+    },
+    {
+      "id": "7555250",
+      "title": "Enterprise Account Executive, Acquisition ( Indonesia - Bahasa Speaker Required)",
+      "location": "Singapore",
+      "department": "Sales APAC (ASEAN)",
+      "offices": "Singapore",
+      "updated_at": "2026-04-27T20:00:26-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7555250"
+    },
+    {
+      "id": "7211805",
+      "title": "Enterprise Account Executive (Bahasa, Vietnamese and Thai speaker)",
+      "location": "Singapore",
+      "department": "Sales APAC (ASEAN)",
+      "offices": "Singapore",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7211805"
+    },
+    {
+      "id": "7628750",
+      "title": "Enterprise Account Executive (Cyber)",
+      "location": "Tel Aviv",
+      "department": "Sales Growth EMEA",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7628750"
+    },
+    {
+      "id": "7028355",
+      "title": "Enterprise Account Executive, Federal",
+      "location": "Tysons",
+      "department": "Sales US Public Sector",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7028355"
+    },
+    {
+      "id": "6688075",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Taipei",
+      "department": "Sales Greater China",
+      "offices": "Taipei",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6688075"
+    },
+    {
+      "id": "7776028",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "London",
+      "department": "Sales Growth EMEA",
+      "offices": "London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7776028"
+    },
+    {
+      "id": "7257122",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Madrid",
+      "department": "Sales Growth EMEA",
+      "offices": "Madrid",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7257122"
+    },
+    {
+      "id": "7256796",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Paris",
+      "department": "Sales Growth EMEA",
+      "offices": "Paris",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7256796"
+    },
+    {
+      "id": "7191603",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Chicago",
+      "department": "Sales Growth NAMER",
+      "offices": "Chicago",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7191603"
+    },
+    {
+      "id": "7362626",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "New York City",
+      "department": "Sales Growth NAMER",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7362626"
+    },
+    {
+      "id": "7217805",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Zurich",
+      "department": "Sales Growth EMEA",
+      "offices": "Zurich",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7217805"
+    },
+    {
+      "id": "7141759",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Toronto",
+      "department": "Sales Growth NAMER",
+      "offices": "Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7141759"
+    },
+    {
+      "id": "7830989",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Seoul",
+      "department": "Sales Korea",
+      "offices": "Seoul",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7830989"
+    },
+    {
+      "id": "7032023",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "New York City",
+      "department": "Sales Growth NAMER",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7032023"
+    },
+    {
+      "id": "7027846",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Austin",
+      "department": "Sales Growth NAMER",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7027846"
+    },
+    {
+      "id": "6987968",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Poland",
+      "department": "Sales Growth EMEA",
+      "offices": "Remote Poland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6987968"
+    },
+    {
+      "id": "6848268",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Frankfurt",
+      "department": "Sales Growth EMEA",
+      "offices": "Frankfurt",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6848268"
+    },
+    {
+      "id": "6740470",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Beijing; Shanghai; Shenzhen",
+      "department": "Sales Greater China",
+      "offices": "Beijing / Shanghai / Shenzhen",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6740470"
+    },
+    {
+      "id": "7362411",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Michigan",
+      "department": "Sales Growth NAMER",
+      "offices": "Remote Michigan / Remote Ohio",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7362411"
+    },
+    {
+      "id": "6275509",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Rome",
+      "department": "Sales Growth EMEA",
+      "offices": "Rome",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6275509"
+    },
+    {
+      "id": "7840210",
+      "title": "Enterprise Account Executive, Growth",
+      "location": "Sydney",
+      "department": "Sales APAC (ANZ)",
+      "offices": "Sydney",
+      "updated_at": "2026-04-27T20:02:43-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7840210"
+    },
+    {
+      "id": "7429695",
+      "title": "Enterprise Account Executive, Growth (Arabic speaker)",
+      "location": "Dubai",
+      "department": "Sales Growth EMEA",
+      "offices": "Dubai",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7429695"
+    },
+    {
+      "id": "7552596",
+      "title": "Enterprise Account Executive, Growth ( Bahasa Speaker)",
+      "location": "Singapore",
+      "department": "Sales APAC (ASEAN)",
+      "offices": "Singapore",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7552596"
+    },
+    {
+      "id": "7363143",
+      "title": "Enterprise Account Executive, Growth (Defence & MHA)",
+      "location": "Gurugram",
+      "department": "Sales APAC (India)",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7363143"
+    },
+    {
+      "id": "6640101",
+      "title": "Enterprise Account Executive, Growth (Digital Native)",
+      "location": "Tel Aviv",
+      "department": "Sales Growth EMEA",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6640101"
+    },
+    {
+      "id": "6601414",
+      "title": "Enterprise Account Executive, Growth (FSI)",
+      "location": "Tel Aviv",
+      "department": "Sales Growth EMEA",
+      "offices": "Remote Israel / Tel Aviv",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6601414"
+    },
+    {
+      "id": "6829771",
+      "title": "Enterprise Account Manager - OEM",
+      "location": "Beijing; Shanghai; Shenzhen",
+      "department": "Sales Greater China",
+      "offices": "Beijing / Shanghai / Shenzhen",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6829771"
+    },
+    {
+      "id": "7629642",
+      "title": "Executive Business Partner",
+      "location": "Palo Alto",
+      "department": "Executive Support - G&A",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-27T15:40:19-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7629642"
+    },
+    {
+      "id": "7850243",
+      "title": "Executive Partner Specialist",
+      "location": "Austin; New Jersey; New York City",
+      "department": "Cloud Partners",
+      "offices": "New York City",
+      "updated_at": "2026-04-24T16:31:44-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7850243"
+    },
+    {
+      "id": "6381035",
+      "title": "Field CTO",
+      "location": "APAC",
+      "department": "Strategic Developer Relations",
+      "offices": "Remote India",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6381035"
+    },
+    {
+      "id": "7696222",
+      "title": "Field Marketing Specialist",
+      "location": "Austin; Chicago; Indianapolis; Minneapolis",
+      "department": "Americas Marketing",
+      "offices": "Chicago",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7696222"
+    },
+    {
+      "id": "7678934",
+      "title": "Financial Planning & Analysis Manager",
+      "location": "Dublin",
+      "department": "FP&A",
+      "offices": "Dublin",
+      "updated_at": "2026-04-27T20:01:29-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7678934"
+    },
+    {
+      "id": "7534893",
+      "title": "Growth Marketing Senior Manager",
+      "location": "New York City",
+      "department": "Growth Marketing",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7534893"
+    },
+    {
+      "id": "7826031",
+      "title": "Head of AI Platform, GM ",
+      "location": "New York City; San Francisco; United States",
+      "department": "PTO Office of the CTO",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-22T12:26:26-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7826031"
+    },
+    {
+      "id": "7706094",
+      "title": "Head of Post Sales Technology",
+      "location": "New York City; Palo Alto",
+      "department": "GTM Tech",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7706094"
+    },
+    {
+      "id": "7782910",
+      "title": "Head of Talent Discovery",
+      "location": "United States",
+      "department": "Early Talent Recruiting",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T20:00:19-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7782910"
+    },
+    {
+      "id": "7773093",
+      "title": "Head of Talent Discovery",
+      "location": "New York City",
+      "department": "Early Talent Recruiting",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T20:00:19-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7773093"
+    },
+    {
+      "id": "7782909",
+      "title": "Head of Talent Discovery",
+      "location": "Austin",
+      "department": "Early Talent Recruiting",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T20:00:19-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7782909"
+    },
+    {
+      "id": "7656724",
+      "title": "IAM Security Engineer 3",
+      "location": "United States",
+      "department": "Enterprise Security ",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7656724"
+    },
+    {
+      "id": "7818435",
+      "title": "IBM Principal Specialist",
+      "location": "Atlanta; Boston; Charlotte; Chicago; New York City; Philadelphia",
+      "department": "Cloud OEM",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7818435"
+    },
+    {
+      "id": "7767185",
+      "title": "Industry Consultant",
+      "location": "Gurugram",
+      "department": "PTO Industry Solutions",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7767185"
+    },
+    {
+      "id": "7695258",
+      "title": "Inside Account Executive",
+      "location": "United States",
+      "department": "Sales Development",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7695258"
+    },
+    {
+      "id": "7702003",
+      "title": "International Tax Manager",
+      "location": "Austin; United States",
+      "department": "Finance & Accounting - International",
+      "offices": "Austin",
+      "updated_at": "2026-04-27T20:00:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7702003"
+    },
+    {
+      "id": "7778984",
+      "title": "Lead, Bus Sys Engineering - CPQ",
+      "location": "Gurugram",
+      "department": "GTM Tech",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:03:29-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7778984"
+    },
+    {
+      "id": "7711872",
+      "title": "Lead Engineer, Atlas Clusters Fleet Signal Management",
+      "location": "Dublin",
+      "department": "PTO Atlas Data Services",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:14:28-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7711872"
+    },
+    {
+      "id": "7404533",
+      "title": "Lead Engineer, C2C",
+      "location": "Dublin",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7404533"
+    },
+    {
+      "id": "7590547",
+      "title": "Lead, Engineering",
+      "location": "Gurugram",
+      "department": "Magenta",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7590547"
+    },
+    {
+      "id": "7612606",
+      "title": "Lead, Engineering",
+      "location": "Sydney",
+      "department": "PTO App Modernization ENG",
+      "offices": "Sydney",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7612606"
+    },
+    {
+      "id": "7541875",
+      "title": "Lead Engineer, Internal Engineering",
+      "location": "Gurugram",
+      "department": "Internal Engineering",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7541875"
+    },
+    {
+      "id": "7613568",
+      "title": "Lead Engineer, Observability",
+      "location": "Dublin",
+      "department": "PTO Office of the CTO",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7613568"
+    },
+    {
+      "id": "7844159",
+      "title": "Leadership Development Manager",
+      "location": "Austin; Denver; Raleigh",
+      "department": "Learning & Development",
+      "offices": "Austin",
+      "updated_at": "2026-04-24T10:00:15-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7844159"
+    },
+    {
+      "id": "7736169",
+      "title": "Lead, Revenue",
+      "location": "Gurugram",
+      "department": "Finance & Accounting ",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:01:11-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7736169"
+    },
+    {
+      "id": "7597269",
+      "title": "Lead Software Engineer, Atlas Clusters Modernization ",
+      "location": "Dublin",
+      "department": "PTO Atlas Data Services",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7597269"
+    },
+    {
+      "id": "7698054",
+      "title": "Lead Software Engineer, Server Networking Security (Rust)",
+      "location": "Dublin",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7698054"
+    },
+    {
+      "id": "7779540",
+      "title": "Lead, Startup & Ventures Marketing",
+      "location": "San Francisco",
+      "department": "Marketing Management",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7779540"
+    },
+    {
+      "id": "7609367",
+      "title": "Manager, Customer Success",
+      "location": "Bengaluru",
+      "department": "Customer Success APAC",
+      "offices": "Bengaluru",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7609367"
+    },
+    {
+      "id": "7375469",
+      "title": "Manager, Customer Success",
+      "location": "Seoul",
+      "department": "Customer Success APAC",
+      "offices": "Seoul",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7375469"
+    },
+    {
+      "id": "7736176",
+      "title": "Manager, Revenue",
+      "location": "Gurugram",
+      "department": "Finance & Accounting ",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:01:19-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7736176"
+    },
+    {
+      "id": "7768655",
+      "title": "Manager, Sales Development",
+      "location": "Austin",
+      "department": "Sales Development",
+      "offices": "Austin",
+      "updated_at": "2026-04-28T00:30:56-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7768655"
+    },
+    {
+      "id": "7763001",
+      "title": "Manager, Sales Development",
+      "location": "Toronto",
+      "department": "Sales Development",
+      "offices": "Toronto",
+      "updated_at": "2026-04-28T00:30:56-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7763001"
+    },
+    {
+      "id": "7732991",
+      "title": "Manager, Sales Development (Kuala Lumpur Based)",
+      "location": "Malaysia",
+      "department": "Sales Development",
+      "offices": "Kuala Lumpur",
+      "updated_at": "2026-04-24T11:09:46-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7732991"
+    },
+    {
+      "id": "7728309",
+      "title": "Manager, Solutions Architecture",
+      "location": "Mexico City",
+      "department": "Solutions Consulting, LATAM",
+      "offices": "Mexico City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7728309"
+    },
+    {
+      "id": "7597734",
+      "title": "Manager, Solutions Architecture",
+      "location": "Kuala Lumpur",
+      "department": "Solutions Consulting",
+      "offices": "Kuala Lumpur",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7597734"
+    },
+    {
+      "id": "7702002",
+      "title": "Manager, Tax",
+      "location": "Gurugram",
+      "department": "Finance & Accounting - International",
+      "offices": "Remote India",
+      "updated_at": "2026-04-22T02:31:44-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7702002"
+    },
+    {
+      "id": "7837225",
+      "title": "Manager, Travel",
+      "location": "Austin",
+      "department": "Procurement",
+      "offices": "Austin",
+      "updated_at": "2026-04-27T12:02:24-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7837225"
+    },
+    {
+      "id": "7695346",
+      "title": "Marketing Manager",
+      "location": "Austin; Chicago; Indianapolis; Minneapolis",
+      "department": "Americas Marketing",
+      "offices": "Chicago",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7695346"
+    },
+    {
+      "id": "7829707",
+      "title": "Partner Programs Lead",
+      "location": "Bengaluru",
+      "department": "Partner Programs",
+      "offices": "Bengaluru",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7829707"
+    },
+    {
+      "id": "7365564",
+      "title": "Partner Specialist",
+      "location": "Bengaluru; Gurugram; Mumbai",
+      "department": "APAC Partner Specialists",
+      "offices": "Bengaluru",
+      "updated_at": "2026-04-27T20:30:15-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7365564"
+    },
+    {
+      "id": "7719083",
+      "title": "Pre-Sales Solutions Architect",
+      "location": "Mexico City",
+      "department": "Solutions Consulting",
+      "offices": "São Paulo",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7719083"
+    },
+    {
+      "id": "7458644",
+      "title": "Pre-Sales Solutions Architect",
+      "location": "San Francisco",
+      "department": "Solutions Consulting, Growth NA",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7458644"
+    },
+    {
+      "id": "7572007",
+      "title": "Pre-Sales Solutions Architect",
+      "location": "New York City",
+      "department": "Solutions Consulting",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7572007"
+    },
+    {
+      "id": "7711189",
+      "title": "Pre-Sales Solutions Architect",
+      "location": "São Paulo",
+      "department": "Solutions Consulting",
+      "offices": "São Paulo",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7711189"
+    },
+    {
+      "id": "7837073",
+      "title": "Principal Partner Specialist",
+      "location": "Sydney",
+      "department": "APAC Partner Specialists",
+      "offices": "Sydney",
+      "updated_at": "2026-04-22T06:34:29-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7837073"
+    },
+    {
+      "id": "7625229",
+      "title": "Principal Partner Specialist",
+      "location": "Gurugram",
+      "department": "APAC Partner Specialists",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7625229"
+    },
+    {
+      "id": "7818327",
+      "title": "Principal Partner Specialist, Google Cloud",
+      "location": "New York City",
+      "department": "Cloud Partners",
+      "offices": "New York City / Remote New Jersey",
+      "updated_at": "2026-04-22T12:46:36-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7818327"
+    },
+    {
+      "id": "6819978",
+      "title": "Principal Research Scientist, Database Systems",
+      "location": "New York City; Palo Alto",
+      "department": "PTO Research",
+      "offices": "Remote Great Britain",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6819978"
+    },
+    {
+      "id": "7725834",
+      "title": "Principal Sales Operations Analyst",
+      "location": "Gurugram",
+      "department": "GTM Operations",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7725834"
+    },
+    {
+      "id": "7657688",
+      "title": "Principal Solutions Architect",
+      "location": "Great Britain",
+      "department": "AMP, Sales",
+      "offices": "Remote France",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7657688"
+    },
+    {
+      "id": "7657684",
+      "title": "Principal Solutions Architect",
+      "location": "Ireland",
+      "department": "AMP, Sales",
+      "offices": "Remote France",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7657684"
+    },
+    {
+      "id": "7564234",
+      "title": "Principal Solutions Architect",
+      "location": "France",
+      "department": "AMP, Sales",
+      "offices": "Remote France",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7564234"
+    },
+    {
+      "id": "7774143",
+      "title": "Principal, Strategic AI Partnerships",
+      "location": "San Francisco",
+      "department": "Partner Programs",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7774143"
+    },
+    {
+      "id": "7476104",
+      "title": "Principal Technologist",
+      "location": "United States",
+      "department": "Strategic Developer Relations",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7476104"
+    },
+    {
+      "id": "7793281",
+      "title": "Product Manager, Developer Experience",
+      "location": "New York City",
+      "department": "PTO Developer Experience PM",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7793281"
+    },
+    {
+      "id": "7523751",
+      "title": "Product Pricing & Monetization Strategy Senior Analyst",
+      "location": "New York City",
+      "department": "PTO Product Management",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7523751"
+    },
+    {
+      "id": "7128879",
+      "title": "Product Pricing & Monetization Strategy Senior Analyst",
+      "location": "New York City",
+      "department": "PTO Product Management",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7128879"
+    },
+    {
+      "id": "7769760",
+      "title": "Program Manager",
+      "location": "Dublin",
+      "department": "Govt Risk Compliance (GRC)",
+      "offices": "Miami",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7769760"
+    },
+    {
+      "id": "7769758",
+      "title": "Program Manager",
+      "location": "Atlanta; Austin; Baltimore; Boston; Charlotte; Chicago; Columbus; Conshohocken; Hartford; Miami; Nashville; New York City; Orlando; Philadelphia; Pittsburgh; Princeton; Providence; Raleigh",
+      "department": "Govt Risk Compliance (GRC)",
+      "offices": "Miami",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7769758"
+    },
+    {
+      "id": "7768249",
+      "title": "Program Manager, Commercial Compliance",
+      "location": "New York City; United States",
+      "department": "Govt Risk Compliance (GRC)",
+      "offices": "Remote New Jersey",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7768249"
+    },
+    {
+      "id": "7743718",
+      "title": "Program Manager, Public Sector Compliance",
+      "location": "New York; United States",
+      "department": "Govt Risk Compliance (GRC)",
+      "offices": "Remote New York",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7743718"
+    },
+    {
+      "id": "6633264",
+      "title": "Public Sector Enterprise Account Executive, Growth",
+      "location": "Amsterdam",
+      "department": "Sales Growth EMEA",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6633264"
+    },
+    {
+      "id": "7835566",
+      "title": "Recruiter",
+      "location": "Dublin",
+      "department": "Recruiting ",
+      "offices": "Dublin",
+      "updated_at": "2026-04-27T20:03:46-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7835566"
+    },
+    {
+      "id": "7839844",
+      "title": "Recruiter",
+      "location": "Gurugram",
+      "department": "Recruiting ",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:03:37-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7839844"
+    },
+    {
+      "id": "7434197",
+      "title": "Regional Director, Enterprise, Growth",
+      "location": "Boston",
+      "department": "Sales Growth NAMER",
+      "offices": "Boston",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7434197"
+    },
+    {
+      "id": "7672168",
+      "title": "Regional Marketing Manager",
+      "location": "Seoul",
+      "department": "International Marketing - APAC",
+      "offices": "Seoul",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7672168"
+    },
+    {
+      "id": "7742406",
+      "title": "Regional Marketing Specialist",
+      "location": "London",
+      "department": "International Marketing - EMEA",
+      "offices": "London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7742406"
+    },
+    {
+      "id": "7766076",
+      "title": "Regional Vice President, Sales Development, Americas",
+      "location": "United States",
+      "department": "Sales Development",
+      "offices": "Austin",
+      "updated_at": "2026-04-28T00:30:56-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7766076"
+    },
+    {
+      "id": "6838251",
+      "title": "Relationship Account Manager",
+      "location": "Austin; Boston",
+      "department": "Relationship Account Management",
+      "offices": "Austin / Boston / Chicago",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6838251"
+    },
+    {
+      "id": "6934210",
+      "title": "Relationship Account Manager - German Speaker ",
+      "location": "Dublin",
+      "department": "Relationship Account Management",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6934210"
+    },
+    {
+      "id": "7785551",
+      "title": "Revenue Manager",
+      "location": "Palo Alto",
+      "department": "Finance & Accounting ",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-27T20:00:31-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7785551"
+    },
+    {
+      "id": "7380221",
+      "title": "Sales Development Representative",
+      "location": "Beijing; Shanghai; Shenzhen",
+      "department": "Sales Development",
+      "offices": "Beijing / Shanghai / Shenzhen",
+      "updated_at": "2026-04-24T11:09:45-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7380221"
+    },
+    {
+      "id": "7566671",
+      "title": "Sales Development Representative",
+      "location": "APAC",
+      "department": "Sales Development",
+      "offices": "Kuala Lumpur",
+      "updated_at": "2026-04-24T11:09:46-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7566671"
+    },
+    {
+      "id": "7746436",
+      "title": "Sales Development Representative - Thai Speaking",
+      "location": "Malaysia",
+      "department": "Sales Development",
+      "offices": "Kuala Lumpur",
+      "updated_at": "2026-04-24T11:09:46-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7746436"
+    },
+    {
+      "id": "7779016",
+      "title": "Salesforce CPQ engineer 3",
+      "location": "Gurugram",
+      "department": "GTM Tech",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:03:01-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7779016"
+    },
+    {
+      "id": "7110155",
+      "title": "Sales Support Associate",
+      "location": "Gurugram",
+      "department": "Sales Data Strategy & Insights",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7110155"
+    },
+    {
+      "id": "7727896",
+      "title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
+      "location": "Austin; New York City; San Francisco; Seattle; United States",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City / Remote North America / Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7727896"
+    },
+    {
+      "id": "7727899",
+      "title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
+      "location": "Dublin; Ireland",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City / Remote North America / Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7727899"
+    },
+    {
+      "id": "7557741",
+      "title": "Senior Accountant, Technical Revenue",
+      "location": "Austin",
+      "department": "Finance & Accounting ",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7557741"
+    },
+    {
+      "id": "7778975",
+      "title": "Senior Administrator - Business Systems",
+      "location": "Gurugram",
+      "department": "GTM Tech",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:02:26-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7778975"
+    },
+    {
+      "id": "7743704",
+      "title": "Senior Analyst, GTM Operations",
+      "location": "Austin; Boston; Chicago; Dallas; Los Angeles; New York City; San Francisco",
+      "department": "GTM Operations",
+      "offices": "Austin / Boston / Chicago / Dallas / Los Angeles  / New York City / San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7743704"
+    },
+    {
+      "id": "7523797",
+      "title": "Senior Associate, Payroll",
+      "location": "Gurugram",
+      "department": "Finance & Accounting ",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7523797"
+    },
+    {
+      "id": "6841436",
+      "title": "Senior Business Analyst, Technical Services",
+      "location": "New York City",
+      "department": "Technical Support Operations",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6841436"
+    },
+    {
+      "id": "7772609",
+      "title": "Senior Business Value Consultant",
+      "location": "Milan",
+      "department": "Solutions Consulting",
+      "offices": "Dublin / Madrid / Milan / Remote Italy / Remote Spain",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7772609"
+    },
+    {
+      "id": "7771677",
+      "title": "Senior Business Value Consultant",
+      "location": "Dublin",
+      "department": "Solutions Consulting",
+      "offices": "Dublin / Madrid / Milan / Remote Italy / Remote Spain",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7771677"
+    },
+    {
+      "id": "7822906",
+      "title": "Senior Business Value Consultant",
+      "location": "Denver; Los Angeles; Palo Alto; Phoenix; San Diego; San Francisco",
+      "department": "Solutions Consulting, Business Value",
+      "offices": "Remote Georgia",
+      "updated_at": "2026-04-22T10:44:32-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7822906"
+    },
+    {
+      "id": "7772602",
+      "title": "Senior Business Value Consultant",
+      "location": "Madrid",
+      "department": "Solutions Consulting",
+      "offices": "Dublin / Madrid / Milan / Remote Italy / Remote Spain",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7772602"
+    },
+    {
+      "id": "7656727",
+      "title": "Senior Cloud Security Engineer",
+      "location": "New York City; United States",
+      "department": "Enterprise Security ",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7656727"
+    },
+    {
+      "id": "7841358",
+      "title": "Senior Commercial Growth Account Executive, Acquisition",
+      "location": "Singapore",
+      "department": "Sales APAC (ASEAN)",
+      "offices": "Singapore",
+      "updated_at": "2026-04-27T01:45:56-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7841358"
+    },
+    {
+      "id": "7599427",
+      "title": "Senior Commercial Growth Account Executive, Acquisition",
+      "location": "Bengaluru",
+      "department": "Sales APAC (India)",
+      "offices": "Bengaluru",
+      "updated_at": "2026-04-27T19:50:27-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7599427"
+    },
+    {
+      "id": "7573532",
+      "title": "Senior Consulting Engineer",
+      "location": "Sydney",
+      "department": "PS Field Delivery",
+      "offices": "Sydney",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7573532"
+    },
+    {
+      "id": "7358843",
+      "title": "(Senior) Customer Success Manager",
+      "location": "Seoul",
+      "department": "Customer Success International",
+      "offices": "Seoul",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7358843"
+    },
+    {
+      "id": "7551285",
+      "title": "Senior Customer Success Manager",
+      "location": "Austin; Charlotte",
+      "department": "Customer Success Americas",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7551285"
+    },
+    {
+      "id": "7836453",
+      "title": "Senior Customer Success Manager",
+      "location": "Stockholm",
+      "department": "Customer Success",
+      "offices": "Dublin / Stockholm ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7836453"
+    },
+    {
+      "id": "7530648",
+      "title": "Senior Customer Success Manager",
+      "location": "San Francisco",
+      "department": "Customer Success Americas",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7530648"
+    },
+    {
+      "id": "7623498",
+      "title": "Senior Customer Success Manager",
+      "location": "Atlanta; Austin; Dallas",
+      "department": "Customer Success Americas",
+      "offices": "Atlanta / Austin / Dallas",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7623498"
+    },
+    {
+      "id": "7641491",
+      "title": "Senior Customer Success Manager",
+      "location": "Dublin; London",
+      "department": "Customer Success",
+      "offices": "Dublin / London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7641491"
+    },
+    {
+      "id": "7582813",
+      "title": "Senior Customer Success Manager ",
+      "location": "Tel Aviv",
+      "department": "Customer Success",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7582813"
+    },
+    {
+      "id": "7661621",
+      "title": "Senior Customer Success Manager - German Speaking",
+      "location": "Munich",
+      "department": "Customer Success EMEA",
+      "offices": "Berlin / Frankfurt / Hamburg / Munich / Remote Germany / Stuttgart",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7661621"
+    },
+    {
+      "id": "7661633",
+      "title": "Senior Customer Success Manager - German Speaking",
+      "location": "Dublin",
+      "department": "Customer Success EMEA",
+      "offices": "Berlin / Frankfurt / Hamburg / Munich / Remote Germany / Stuttgart",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7661633"
+    },
+    {
+      "id": "7661608",
+      "title": "Senior Customer Success Manager - German Speaking",
+      "location": "Berlin",
+      "department": "Customer Success EMEA",
+      "offices": "Berlin / Frankfurt / Hamburg / Munich / Remote Germany / Stuttgart",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7661608"
+    },
+    {
+      "id": "7661622",
+      "title": "Senior Customer Success Manager - German Speaking",
+      "location": "Frankfurt",
+      "department": "Customer Success EMEA",
+      "offices": "Berlin / Frankfurt / Hamburg / Munich / Remote Germany / Stuttgart",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7661622"
+    },
+    {
+      "id": "7661623",
+      "title": "Senior Customer Success Manager - German Speaking",
+      "location": "Hamburg",
+      "department": "Customer Success EMEA",
+      "offices": "Berlin / Frankfurt / Hamburg / Munich / Remote Germany / Stuttgart",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7661623"
+    },
+    {
+      "id": "7661624",
+      "title": "Senior Customer Success Manager - German Speaking",
+      "location": "Stuttgart",
+      "department": "Customer Success EMEA",
+      "offices": "Berlin / Frankfurt / Hamburg / Munich / Remote Germany / Stuttgart",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7661624"
+    },
+    {
+      "id": "7616983",
+      "title": "Senior Data Analyst",
+      "location": "Gurugram",
+      "department": "Biz Ops, Analytics & Data Science",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:02:13-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7616983"
+    },
+    {
+      "id": "7696633",
+      "title": "Senior Data Analyst",
+      "location": "United States",
+      "department": "Biz Ops, Analytics & Data Science",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7696633"
+    },
+    {
+      "id": "7846877",
+      "title": "Senior Data Analyst II, Product",
+      "location": "Austin",
+      "department": "Analytics-Product",
+      "offices": "Austin",
+      "updated_at": "2026-04-27T20:03:55-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7846877"
+    },
+    {
+      "id": "7187739",
+      "title": "Senior Data Product Manager, Internal GTM Data",
+      "location": "Austin; Boston; Chicago; New York City; United States",
+      "department": "Data & Platform",
+      "offices": "Austin / Boston / Chicago / New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7187739"
+    },
+    {
+      "id": "7428476",
+      "title": "Senior Data Product Manager, Product Telemetry",
+      "location": "New York City; Palo Alto; San Francisco",
+      "department": "Data & Platform",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7428476"
+    },
+    {
+      "id": "7495485",
+      "title": "Senior Developer Advocate",
+      "location": "Dublin",
+      "department": "Strategic Developer Relations",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7495485"
+    },
+    {
+      "id": "7571308",
+      "title": "Senior Developer Advocate",
+      "location": "Austin",
+      "department": "Strategic Developer Relations",
+      "offices": "Austin",
+      "updated_at": "2026-04-21T18:25:42-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7571308"
+    },
+    {
+      "id": "7241758",
+      "title": "Senior Developer Advocate",
+      "location": "Ireland",
+      "department": "Developer Advocacy",
+      "offices": "Remote Ireland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7241758"
+    },
+    {
+      "id": "7775125",
+      "title": "Senior Director, Cloud Partner Specialists, AWS NAMER & LATAM",
+      "location": "United States",
+      "department": "Cloud Partners",
+      "offices": "Austin",
+      "updated_at": "2026-04-23T16:15:16-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7775125"
+    },
+    {
+      "id": "7782814",
+      "title": "Senior Director, Cloud Partner Specialists, Microsoft Global",
+      "location": "United States",
+      "department": "Cloud Partners",
+      "offices": "New York City",
+      "updated_at": "2026-04-23T16:49:14-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7782814"
+    },
+    {
+      "id": "7705477",
+      "title": "Senior Director, Data Product Management",
+      "location": "Austin; New York City; Palo Alto; San Francisco",
+      "department": "Data & Platform",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7705477"
+    },
+    {
+      "id": "7721981",
+      "title": "Senior Director, Engineering",
+      "location": "Dublin",
+      "department": "PTO Customer Observability",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7721981"
+    },
+    {
+      "id": "7746488",
+      "title": "Senior Director, Engineering",
+      "location": "Gurugram",
+      "department": "Magenta",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7746488"
+    },
+    {
+      "id": "7768265",
+      "title": "Senior Employee Listening Manager",
+      "location": "United States",
+      "department": "Engagement & Inclusion",
+      "offices": "Raleigh",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7768265"
+    },
+    {
+      "id": "7766266",
+      "title": "Senior Employee Listening Manager",
+      "location": "Austin; New York City; Raleigh",
+      "department": "Engagement & Inclusion",
+      "offices": "Raleigh",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7766266"
+    },
+    {
+      "id": "7760047",
+      "title": "Senior Engagement Manager",
+      "location": "Bengaluru; Gurugram",
+      "department": "PS Engagement Management",
+      "offices": "Bengaluru",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7760047"
+    },
+    {
+      "id": "7778978",
+      "title": "Senior Engineer - Business Systems (Integrations)",
+      "location": "Gurugram",
+      "department": "GTM Tech",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:03:11-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7778978"
+    },
+    {
+      "id": "7779013",
+      "title": "Senior Engineer - GTM Tech",
+      "location": "India",
+      "department": "GTM Tech",
+      "offices": "Remote India",
+      "updated_at": "2026-04-27T20:03:16-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7779013"
+    },
+    {
+      "id": "7557673",
+      "title": "Senior Engineer, Internal Engineering",
+      "location": "Gurugram",
+      "department": "Internal Engineering",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7557673"
+    },
+    {
+      "id": "7484841",
+      "title": "Senior Engineer, Netsuite",
+      "location": "Gurugram",
+      "department": "FIN Tech",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7484841"
+    },
+    {
+      "id": "7228531",
+      "title": "Senior Enterprise Account Executive",
+      "location": "London",
+      "department": "Sales Growth EMEA",
+      "offices": "London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7228531"
+    },
+    {
+      "id": "7227836",
+      "title": "Senior Enterprise Account Executive",
+      "location": "London",
+      "department": "Sales Growth EMEA",
+      "offices": "London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7227836"
+    },
+    {
+      "id": "6582052",
+      "title": "Senior Enterprise Account Executive, Growth",
+      "location": "Stockholm",
+      "department": "Sales Growth EMEA",
+      "offices": "Stockholm ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6582052"
+    },
+    {
+      "id": "7687359",
+      "title": "Senior Enterprise Account Executive, Growth",
+      "location": "Denver",
+      "department": "Sales Growth NAMER",
+      "offices": "Denver",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7687359"
+    },
+    {
+      "id": "7698317",
+      "title": "Senior Enterprise Account Executive, Growth",
+      "location": "Canberra",
+      "department": "Sales APAC (ANZ)",
+      "offices": "Remote Australian Capital Territory",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7698317"
+    },
+    {
+      "id": "7490900",
+      "title": "Senior/ Enterprise Account Executive - Strategic Account",
+      "location": "Singapore",
+      "department": "Sales APAC (ASEAN)",
+      "offices": "Singapore",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7490900"
+    },
+    {
+      "id": "7550357",
+      "title": "Senior Financial Analyst",
+      "location": "New York City",
+      "department": "FP&A",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T20:01:08-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7550357"
+    },
+    {
+      "id": "7767289",
+      "title": "Senior Financial Analyst",
+      "location": "New York City",
+      "department": "FP&A",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T20:02:39-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7767289"
+    },
+    {
+      "id": "7711453",
+      "title": "Senior IRM Analyst",
+      "location": "United States",
+      "department": "Govt Risk Compliance (GRC)",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7711453"
+    },
+    {
+      "id": "7769177",
+      "title": "Senior IRM Analyst",
+      "location": "Dublin",
+      "department": "Govt Risk Compliance (GRC)",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7769177"
+    },
+    {
+      "id": "7194687",
+      "title": "Senior Java Software Engineer, Client Libraries",
+      "location": "Toronto; Vancouver",
+      "department": "PTO Developer Experience ENG",
+      "offices": "Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7194687"
+    },
+    {
+      "id": "7616248",
+      "title": "Senior Lead Engineer, Code Generation",
+      "location": "British Columbia",
+      "department": "PTO App Modernization ENG",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7616248"
+    },
+    {
+      "id": "7616246",
+      "title": "Senior Lead Engineer, Code Generation",
+      "location": "California; Oregon; Washington",
+      "department": "PTO App Modernization ENG",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7616246"
+    },
+    {
+      "id": "7613565",
+      "title": "Senior Lead Engineer, Observability",
+      "location": "Dublin",
+      "department": "PTO Office of the CTO",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7613565"
+    },
+    {
+      "id": "7723638",
+      "title": "Senior Lead Engineer, Storage Execution (RSS)",
+      "location": "New York",
+      "department": "PTO Durable TXs & Availability",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7723638"
+    },
+    {
+      "id": "7760217",
+      "title": "Senior Manager, Business Operations",
+      "location": "Austin; New York City; Palo Alto; San Francisco",
+      "department": "Biz Ops, Analytics & Data Science",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7760217"
+    },
+    {
+      "id": "7484821",
+      "title": "Senior Manager, Finance Technology",
+      "location": "Gurugram",
+      "department": "FIN Tech",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:01:02-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7484821"
+    },
+    {
+      "id": "7835609",
+      "title": "Senior Manager, HR Compliance - Americas",
+      "location": "United States",
+      "department": "Employee Experience AMER",
+      "offices": "Remote California",
+      "updated_at": "2026-04-22T15:24:31-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7835609"
+    },
+    {
+      "id": "7673696",
+      "title": "Senior Manager, Marketing",
+      "location": "London",
+      "department": "International Marketing - EMEA",
+      "offices": "London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7673696"
+    },
+    {
+      "id": "7527949",
+      "title": "Senior Manager, Martech Transformation",
+      "location": "Dublin",
+      "department": "Marketing Operations",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7527949"
+    },
+    {
+      "id": "7736164",
+      "title": "Senior Manager, Revenue",
+      "location": "Austin",
+      "department": "Finance & Accounting ",
+      "offices": "Austin",
+      "updated_at": "2026-04-27T20:01:48-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7736164"
+    },
+    {
+      "id": "7760228",
+      "title": "Senior Manager, Strategic Finance",
+      "location": "New York City",
+      "department": "FP&A",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T20:00:38-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7760228"
+    },
+    {
+      "id": "7590145",
+      "title": "Senior Manager, Strategy & Planning",
+      "location": "Boston; New York City",
+      "department": "GTM Operations",
+      "offices": "Boston",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7590145"
+    },
+    {
+      "id": "7683484",
+      "title": "Senior Partner Solutions Architect",
+      "location": "Atlanta; Austin; Dallas; Florida; Miami",
+      "department": "Solutions Consulting, Partners",
+      "offices": "Remote Florida",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7683484"
+    },
+    {
+      "id": "7700740",
+      "title": "Senior Partner Solutions Architect",
+      "location": "São Paulo",
+      "department": "Solutions Consulting, Partners",
+      "offices": "Remote Florida",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7700740"
+    },
+    {
+      "id": "6697542",
+      "title": "Senior Partner Specialist - Global System Integrators",
+      "location": "Singapore",
+      "department": "APAC Partner Specialists",
+      "offices": "Singapore",
+      "updated_at": "2026-04-24T10:20:12-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6697542"
+    },
+    {
+      "id": "7411098",
+      "title": "Senior Pre-Sales Solutions Architect",
+      "location": "New York City",
+      "department": "Solutions Consulting, Growth NA",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7411098"
+    },
+    {
+      "id": "7411100",
+      "title": "Senior Pre-Sales Solutions Architect",
+      "location": "TBD",
+      "department": "Solutions Consulting, Growth NA",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7411100"
+    },
+    {
+      "id": "7409331",
+      "title": "Senior Pre-Sales Solutions Architect",
+      "location": "Boston",
+      "department": "Solutions Consulting",
+      "offices": "Boston",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7409331"
+    },
+    {
+      "id": "7113803",
+      "title": "Senior Product Manager",
+      "location": "Dublin; Ireland",
+      "department": "PTO Product Management",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7113803"
+    },
+    {
+      "id": "7287364",
+      "title": "Senior Product Manager",
+      "location": "United States",
+      "department": "HR Tech",
+      "offices": "Dallas",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7287364"
+    },
+    {
+      "id": "7523959",
+      "title": "Senior Product Manager, Account Protection",
+      "location": "Alberta; British Columbia; Ontario; Quebec; Toronto",
+      "department": "PTO Product Management",
+      "offices": "Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7523959"
+    },
+    {
+      "id": "7705474",
+      "title": "Senior Product Manager - IT Go-to-Market AI",
+      "location": "New York City; Palo Alto",
+      "department": "GTM Tech",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7705474"
+    },
+    {
+      "id": "7388900",
+      "title": "Senior Product Manager, Python Developer Experience",
+      "location": "Ireland",
+      "department": "PTO Developer Experience PM",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7388900"
+    },
+    {
+      "id": "7378931",
+      "title": "Senior Product Manager, Python Developer Experience",
+      "location": "Dublin",
+      "department": "PTO Developer Experience PM",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7378931"
+    },
+    {
+      "id": "7851168",
+      "title": "Senior Product Manager, Replication & Storage Engines",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "department": "PTO Product Management",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T13:52:38-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7851168"
+    },
+    {
+      "id": "7851166",
+      "title": "Senior Product Manager, Replication & Storage Engines",
+      "location": "New York City; Seattle",
+      "department": "PTO Product Management",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T13:52:37-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7851166"
+    },
+    {
+      "id": "7651513",
+      "title": "Senior Product Manager, Security",
+      "location": "Alberta; British Columbia; Calgary; Edmonton; Manitoba; Montreal; Nova Scotia; Ontario; Quebec; Toronto; Vancouver",
+      "department": "PTO Identity and Access Management",
+      "offices": "Atlanta",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7651513"
+    },
+    {
+      "id": "7554555",
+      "title": "Senior Product Manager, Security",
+      "location": "United States",
+      "department": "PTO Identity and Access Management",
+      "offices": "Atlanta",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7554555"
+    },
+    {
+      "id": "7793612",
+      "title": "Senior Product Security Engineer, Cloud",
+      "location": "Dublin",
+      "department": "Platform Security",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7793612"
+    },
+    {
+      "id": "7484912",
+      "title": "Senior Product Security Engineer, Server",
+      "location": "Dublin",
+      "department": "Platform Security",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7484912"
+    },
+    {
+      "id": "7740208",
+      "title": "Senior Program Manager, Public Sector Compliance",
+      "location": "New York City",
+      "department": "Govt Risk Compliance (GRC)",
+      "offices": "Conshohocken",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7740208"
+    },
+    {
+      "id": "7742875",
+      "title": "Senior Python Engineer",
+      "location": "United States",
+      "department": "PTO Developer Experience ENG",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7742875"
+    },
+    {
+      "id": "7742877",
+      "title": "Senior Python Engineer",
+      "location": "British Columbia; Ontario",
+      "department": "PTO Developer Experience ENG",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7742877"
+    },
+    {
+      "id": "7736201",
+      "title": "Senior Recruiter",
+      "location": "Gurugram",
+      "department": "Recruiting ",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:02:21-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7736201"
+    },
+    {
+      "id": "7832984",
+      "title": "Senior Recruiter, Contract",
+      "location": "New York City; United States",
+      "department": "People Team",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7832984"
+    },
+    {
+      "id": "7604302",
+      "title": "Senior Research Scientist",
+      "location": "Sydney",
+      "department": "PTO Research",
+      "offices": "Sydney",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7604302"
+    },
+    {
+      "id": "7365646",
+      "title": "Senior Research Scientist, Voyage AI",
+      "location": "Palo Alto",
+      "department": "PTO Voyage AI",
+      "offices": "Conshohocken",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7365646"
+    },
+    {
+      "id": "7779026",
+      "title": "Senior Salesforce Administrator",
+      "location": "Gurugram",
+      "department": "GTM Tech",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:02:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7779026"
+    },
+    {
+      "id": "7716912",
+      "title": "Senior Sales Operations Analyst",
+      "location": "Dublin",
+      "department": "GTM Field Operations",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7716912"
+    },
+    {
+      "id": "7727873",
+      "title": "Senior Site Reliability Engineer,  Fleet Management",
+      "location": "Austin; Boston; Chicago; Denver; Miami; New York City; San Francisco; Seattle; United States",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City / Remote North America / Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7727873"
+    },
+    {
+      "id": "7581876",
+      "title": "Senior Software Engineer",
+      "location": "Dublin",
+      "department": "PTO Core Platforms",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7581876"
+    },
+    {
+      "id": "7648922",
+      "title": "Senior Software Engineer",
+      "location": "Georgia",
+      "department": "PTO Developer Experience ENG",
+      "offices": "Remote Georgia",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7648922"
+    },
+    {
+      "id": "7816572",
+      "title": "Senior Software Engineer",
+      "location": "Austin; New York City",
+      "department": "PTO Stream Processing",
+      "offices": "New York City",
+      "updated_at": "2026-04-23T13:03:24-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7816572"
+    },
+    {
+      "id": "7590644",
+      "title": "Senior Software Engineer",
+      "location": "Gurugram",
+      "department": "Magenta",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7590644"
+    },
+    {
+      "id": "7593676",
+      "title": "Senior Software Engineer, AMP",
+      "location": "Gurugram",
+      "department": "PTO App Modernization ENG",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7593676"
+    },
+    {
+      "id": "7736191",
+      "title": "Senior Software Engineer, Atlas Clusters",
+      "location": "New York City",
+      "department": "PTO Atlas Data Services",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7736191"
+    },
+    {
+      "id": "7588895",
+      "title": "Senior Software Engineer, Atlas Clusters",
+      "location": "Dublin",
+      "department": "PTO Atlas Data Services",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7588895"
+    },
+    {
+      "id": "7644270",
+      "title": "Senior Software Engineer, Atlas Clusters Security",
+      "location": "New York City",
+      "department": "PTO Atlas Data Services",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7644270"
+    },
+    {
+      "id": "7744398",
+      "title": "Senior Software Engineer, Atlas Stream Processing",
+      "location": "New York City",
+      "department": "PTO Stream Processing",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7744398"
+    },
+    {
+      "id": "7378959",
+      "title": "Senior Software Engineer, C2C Services",
+      "location": "Dublin",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7378959"
+    },
+    {
+      "id": "7695616",
+      "title": "Senior Software Engineer, Customer Observability",
+      "location": "Dublin",
+      "department": "Product & Technology",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7695616"
+    },
+    {
+      "id": "7449831",
+      "title": "Senior Software Engineer, Data Migration & Code Generation",
+      "location": "Alberta; British Columbia",
+      "department": "PTO App Modernization ENG",
+      "offices": "North America / Remote Alberta / Remote British Columbia / Remote California / Remote Colorado / Remote Montana / Remote Nevada / Remote New Mexico / Remote Oregon / Remote Utah",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7449831"
+    },
+    {
+      "id": "7449128",
+      "title": "Senior Software Engineer, Data Migration & Code Generation",
+      "location": "California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington",
+      "department": "PTO App Modernization ENG",
+      "offices": "North America / Remote Alberta / Remote British Columbia / Remote California / Remote Colorado / Remote Montana / Remote Nevada / Remote New Mexico / Remote Oregon / Remote Utah",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7449128"
+    },
+    {
+      "id": "7765523",
+      "title": "Senior Software Engineer, DevTools",
+      "location": "Dublin",
+      "department": "PTO Developer Experience ENG",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7765523"
+    },
+    {
+      "id": "7392902",
+      "title": "Senior Software Engineer, Forward Deployed AI Engineer",
+      "location": "Dublin",
+      "department": "PTO App Modernization PM",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7392902"
+    },
+    {
+      "id": "7590735",
+      "title": "Senior Software Engineer, Forward Deployed AI Engineer",
+      "location": "Ireland",
+      "department": "PTO App Modernization PM",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7590735"
+    },
+    {
+      "id": "7650472",
+      "title": "Senior Software Engineer - Frontend",
+      "location": "New York City",
+      "department": "PTO Developer Experience ENG",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7650472"
+    },
+    {
+      "id": "7467701",
+      "title": "Senior Software Engineer, Inference Platform",
+      "location": "Palo Alto",
+      "department": "PTO Atlas Search",
+      "offices": "Seattle",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7467701"
+    },
+    {
+      "id": "7714036",
+      "title": "Senior Software Engineer, PHP",
+      "location": "Dublin; Ireland",
+      "department": "PTO Developer Experience ENG",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7714036"
+    },
+    {
+      "id": "7578651",
+      "title": "Senior Software Engineer, Private Cloud Backup",
+      "location": "Dublin; Ireland",
+      "department": "PTO Core Platforms",
+      "offices": "Dublin / Remote Ireland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7578651"
+    },
+    {
+      "id": "7484657",
+      "title": "Senior Software Engineer, Query Execution",
+      "location": "Dublin",
+      "department": "PTO Query",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7484657"
+    },
+    {
+      "id": "7833626",
+      "title": "Senior Software Engineer - Query Integration",
+      "location": "United States",
+      "department": "PTO Query",
+      "offices": "Remote South Carolina",
+      "updated_at": "2026-04-23T16:12:32-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7833626"
+    },
+    {
+      "id": "7833628",
+      "title": "Senior Software Engineer - Query Integration",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "department": "PTO Query",
+      "offices": "Remote South Carolina",
+      "updated_at": "2026-04-22T13:22:55-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7833628"
+    },
+    {
+      "id": "7653008",
+      "title": "Senior Software Engineer, Server Networking Security (Rust)",
+      "location": "Dublin",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7653008"
+    },
+    {
+      "id": "7815679",
+      "title": "Senior Software Engineer, Server Security",
+      "location": "Toronto",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7815679"
+    },
+    {
+      "id": "7815677",
+      "title": "Senior Software Engineer, Server Security",
+      "location": "New York City",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7815677"
+    },
+    {
+      "id": "7806547",
+      "title": "Senior Solutions Architect",
+      "location": "Paris",
+      "department": "Solutions Consulting, Growth EMEA",
+      "offices": "Paris",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7806547"
+    },
+    {
+      "id": "7593532",
+      "title": "Senior Solutions Architect",
+      "location": "Kuala Lumpur",
+      "department": "Solutions Consulting Scaled Services",
+      "offices": "Kuala Lumpur",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7593532"
+    },
+    {
+      "id": "7372171",
+      "title": "Senior Solutions Architect",
+      "location": "Hong Kong",
+      "department": "Solutions Consulting, APAC",
+      "offices": "Hong Kong",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7372171"
+    },
+    {
+      "id": "7759201",
+      "title": "Senior Solutions Architect",
+      "location": "London",
+      "department": "Solutions Consulting",
+      "offices": "London",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7759201"
+    },
+    {
+      "id": "7581417",
+      "title": "Senior Solutions Architect",
+      "location": "Bengaluru",
+      "department": "Solutions Consulting, APAC",
+      "offices": "Bengaluru",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7581417"
+    },
+    {
+      "id": "7748767",
+      "title": "Senior Solutions Architect",
+      "location": "Rome",
+      "department": "Solutions Consulting",
+      "offices": "Rome",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7748767"
+    },
+    {
+      "id": "7595025",
+      "title": "Senior Solutions Architect",
+      "location": "Dublin; Ireland",
+      "department": "Solutions Consulting",
+      "offices": "Dublin / Remote Ireland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7595025"
+    },
+    {
+      "id": "7721906",
+      "title": "Senior Solutions Architect",
+      "location": "Dubai",
+      "department": "Solutions Consulting, Growth EMEA",
+      "offices": "Dubai",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7721906"
+    },
+    {
+      "id": "7560436",
+      "title": "Senior Solutions Architect",
+      "location": "Amsterdam",
+      "department": "Solutions Consulting",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7560436"
+    },
+    {
+      "id": "7157100",
+      "title": "Senior Solutions Architect",
+      "location": "Shenzhen",
+      "department": "Solutions Consulting, APAC",
+      "offices": "Shenzhen",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7157100"
+    },
+    {
+      "id": "7759585",
+      "title": "Senior Solutions Architect (Pre-Sales)",
+      "location": "Mexico City",
+      "department": "Solutions Consulting, LATAM",
+      "offices": "Mexico City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7759585"
+    },
+    {
+      "id": "7368165",
+      "title": "Senior Solutions Architect (Pre-Sales)",
+      "location": "San Francisco",
+      "department": "Solutions Consulting, Growth NA",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7368165"
+    },
+    {
+      "id": "7656545",
+      "title": "Senior Specialist 2, Accounting",
+      "location": "Gurugram",
+      "department": "Finance & Accounting - International",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:00:43-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7656545"
+    },
+    {
+      "id": "7736184",
+      "title": "Senior Specialist 2, Revenue",
+      "location": "Gurugram",
+      "department": "Finance & Accounting ",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:01:59-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7736184"
+    },
+    {
+      "id": "7704173",
+      "title": "Senior Staff Engineer",
+      "location": "Bengaluru",
+      "department": "Magenta",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7704173"
+    },
+    {
+      "id": "7613559",
+      "title": "Senior Staff Engineer",
+      "location": "Dublin",
+      "department": "PTO Office of the CTO",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7613559"
+    },
+    {
+      "id": "7588555",
+      "title": "Senior Staff Engineer",
+      "location": "Gurugram",
+      "department": "Magenta",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7588555"
+    },
+    {
+      "id": "7678147",
+      "title": "Senior Staff Engineer, AMP",
+      "location": "British Columbia",
+      "department": "PTO App Modernization ENG",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7678147"
+    },
+    {
+      "id": "7617019",
+      "title": "Senior Staff Engineer, AMP",
+      "location": "California; Oregon; Washington",
+      "department": "PTO App Modernization ENG",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7617019"
+    },
+    {
+      "id": "7672820",
+      "title": "Senior Staff Engineer, MongoDB Developer Productivity",
+      "location": "United States",
+      "department": "PTO R&D Developer Productivity",
+      "offices": "Seattle",
+      "updated_at": "2026-04-22T10:39:52-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7672820"
+    },
+    {
+      "id": "7672822",
+      "title": "Senior Staff Engineer, MongoDB Developer Productivity",
+      "location": "Alberta; British Columbia; Calgary; Edmonton; Manitoba; Montreal; Nova Scotia; Ontario; Quebec; Toronto; Vancouver",
+      "department": "PTO R&D Developer Productivity",
+      "offices": "Seattle",
+      "updated_at": "2026-04-22T10:40:07-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7672822"
+    },
+    {
+      "id": "7778985",
+      "title": "Senior Staff Engineer, Quote-to-Cash",
+      "location": "New York City; Palo Alto",
+      "department": "GTM Tech",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-27T20:03:25-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7778985"
+    },
+    {
+      "id": "7644002",
+      "title": "Senior Staff Enterprise Architect, Data",
+      "location": "Palo Alto",
+      "department": "Enterprise Architecture",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7644002"
+    },
+    {
+      "id": "7643999",
+      "title": "Senior Staff Enterprise Architect, Q2C & Monetization",
+      "location": "Palo Alto",
+      "department": "Enterprise Architecture",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7643999"
+    },
+    {
+      "id": "7340968",
+      "title": "Senior Staff Technical Program Manager",
+      "location": "Dublin; Ireland",
+      "department": "PTO Atlas Data Services",
+      "offices": "Remote Ireland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7340968"
+    },
+    {
+      "id": "7441440",
+      "title": "Senior Strategy & Operations Lead, ITPMO",
+      "location": "Gurugram",
+      "department": "IT PMO",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7441440"
+    },
+    {
+      "id": "7588631",
+      "title": "Senior Technical Program Manager",
+      "location": "Gurugram",
+      "department": "Magenta",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7588631"
+    },
+    {
+      "id": "7523888",
+      "title": "Senior Technical Program Manager, App Modernization",
+      "location": "United States",
+      "department": "PTO App Modernization ENG",
+      "offices": "Remote New York",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7523888"
+    },
+    {
+      "id": "7683696",
+      "title": "Senior Technical Program Manager, App Modernization",
+      "location": "Alberta; Ontario; Ottawa; Toronto",
+      "department": "PTO App Modernization ENG",
+      "offices": "Remote New York",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7683696"
+    },
+    {
+      "id": "7672303",
+      "title": "Senior Technical Program Manager Atlas Clusters",
+      "location": "Dublin; Ireland",
+      "department": "PTO Atlas Data Services",
+      "offices": "Remote Ireland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7672303"
+    },
+    {
+      "id": "7640020",
+      "title": "Senior Vice President, Solutions Architecture",
+      "location": "New York City",
+      "department": "Solutions Consulting, Leadership",
+      "offices": "Princeton",
+      "updated_at": "2026-04-23T00:46:27-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7640020"
+    },
+    {
+      "id": "7821316",
+      "title": "Site Reliability Engineer 3",
+      "location": "New York City",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7821316"
+    },
+    {
+      "id": "7821318",
+      "title": "Site Reliability Engineer 3",
+      "location": "Dublin",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7821318"
+    },
+    {
+      "id": "7727964",
+      "title": "Site Reliability Engineer (Senior or Staff), Atlas",
+      "location": "Austin; Boston; Chicago; Miami; New York City; Philadelphia; Pittsburgh; Raleigh; United States; Washington DC",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "Atlanta / Boston / Charlotte / Miami / New York City / Philadelphia  / Raleigh / Remote Washington DC",
+      "updated_at": "2026-04-27T13:07:25-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7727964"
+    },
+    {
+      "id": "7758610",
+      "title": "Site Reliability Engineer (Senior or Staff), Infrastructure Security",
+      "location": "Austin; New York City; San Francisco; Seattle; United States",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City / Remote North America / Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7758610"
+    },
+    {
+      "id": "7793634",
+      "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
+      "location": "Montreal; Toronto",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7793634"
+    },
+    {
+      "id": "7743366",
+      "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
+      "location": "Boston; Miami; New York City; Pittsburgh; Raleigh; United States",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7743366"
+    },
+    {
+      "id": "6984814",
+      "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS) ",
+      "location": "Dublin",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6984814"
+    },
+    {
+      "id": "7613695",
+      "title": "Software Engineer 2",
+      "location": "Dublin",
+      "department": "PTO Office of the CTO",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7613695"
+    },
+    {
+      "id": "7381061",
+      "title": "Software Engineer 2",
+      "location": "Sydney",
+      "department": "PTO R&D Developer Productivity",
+      "offices": "Sydney",
+      "updated_at": "2026-04-24T11:09:46-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7381061"
+    },
+    {
+      "id": "7744404",
+      "title": "Software Engineer 3",
+      "location": "Sydney",
+      "department": "PTO Durable TXs & Availability",
+      "offices": "Sydney",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7744404"
+    },
+    {
+      "id": "7779598",
+      "title": "Software Engineer 3",
+      "location": "New York City",
+      "department": "PTO Durable TXs & Availability",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7779598"
+    },
+    {
+      "id": "7597723",
+      "title": "Software Engineer 3",
+      "location": "Gurugram",
+      "department": "Magenta",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7597723"
+    },
+    {
+      "id": "7719763",
+      "title": "Software Engineer 3",
+      "location": "Alberta; British Columbia; Calgary; Edmonton; Nova Scotia; Ontario; Ottawa; Quebec; Toronto; Vancouver",
+      "department": "PTO Billing",
+      "offices": "Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7719763"
+    },
+    {
+      "id": "7593785",
+      "title": "Software Engineer 3, AMP",
+      "location": "Gurugram",
+      "department": "PTO App Modernization ENG",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7593785"
+    },
+    {
+      "id": "7579042",
+      "title": "Software Engineer 3, Atlas Clusters",
+      "location": "Dublin",
+      "department": "PTO Atlas Data Services",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7579042"
+    },
+    {
+      "id": "7551186",
+      "title": " Software Engineer 3, Atlas Data Federation Customer Experience",
+      "location": "New York City",
+      "department": "PTO Atlas Data Services",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7551186"
+    },
+    {
+      "id": "7523920",
+      "title": "Software Engineer 3, Atlas Search Systems",
+      "location": "San Francisco",
+      "department": "PTO Atlas Search",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7523920"
+    },
+    {
+      "id": "7662950",
+      "title": "Software Engineer 3, Atlas Search Systems",
+      "location": "Toronto",
+      "department": "PTO Atlas Search",
+      "offices": "Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7662950"
+    },
+    {
+      "id": "7523911",
+      "title": "Software Engineer 3, Atlas Vector Search",
+      "location": "San Francisco",
+      "department": "PTO Atlas Search",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-24T14:18:52-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7523911"
+    },
+    {
+      "id": "7736144",
+      "title": "Software Engineer 3, Cloud Alerts Platform",
+      "location": "Dublin",
+      "department": "PTO Customer Observability",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7736144"
+    },
+    {
+      "id": "7717350",
+      "title": "Software Engineer 3, Customer Observability",
+      "location": "Dublin",
+      "department": "PTO Atlas Data Services",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7717350"
+    },
+    {
+      "id": "7745890",
+      "title": "Software Engineer 3, DevTools",
+      "location": "Dublin",
+      "department": "PTO Developer Experience ENG",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7745890"
+    },
+    {
+      "id": "7766302",
+      "title": "Software Engineer 3, DevTools",
+      "location": "Ireland",
+      "department": "PTO Developer Experience ENG",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7766302"
+    },
+    {
+      "id": "7581867",
+      "title": "Software Engineer 3, Private Cloud Backup",
+      "location": "Dublin; Ireland",
+      "department": "PTO Core Platforms",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7581867"
+    },
+    {
+      "id": "7699932",
+      "title": "software engineer 3, query execution",
+      "location": "Dublin",
+      "department": "PTO Query",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7699932"
+    },
+    {
+      "id": "7816135",
+      "title": "Software Engineer 3 - Query Optimization",
+      "location": "Atlanta; Boston; New York City",
+      "department": "PTO Query",
+      "offices": "New York City",
+      "updated_at": "2026-04-24T12:26:23-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7816135"
+    },
+    {
+      "id": "7235322",
+      "title": "Software Engineer 3, Search Systems Replication & Routing",
+      "location": "San Francisco",
+      "department": "PTO Atlas Search",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7235322"
+    },
+    {
+      "id": "7411027",
+      "title": "Software Engineer, Atlas Growth",
+      "location": "Dublin; Ireland",
+      "department": "PTO Developer Experience ENG",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7411027"
+    },
+    {
+      "id": "7311708",
+      "title": "Software Engineer, Code Generation",
+      "location": "British Columbia; Calgary",
+      "department": "PTO App Modernization ENG",
+      "offices": "North America",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7311708"
+    },
+    {
+      "id": "7311666",
+      "title": "Software Engineer, Code Generation",
+      "location": "California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington",
+      "department": "PTO App Modernization ENG",
+      "offices": "North America",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7311666"
+    },
+    {
+      "id": "7571255",
+      "title": "Software Engineer (Internal Query Engine Testing Tools), Query",
+      "location": "Dublin; Ireland",
+      "department": "PTO Query",
+      "offices": "Dublin",
+      "updated_at": "2026-04-24T12:26:07-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7571255"
+    },
+    {
+      "id": "7672662",
+      "title": "Software Engineer, Networking & Observability",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "San Francisco ",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7672662"
+    },
+    {
+      "id": "7593738",
+      "title": "Solutions Architect",
+      "location": "Kuala Lumpur",
+      "department": "Solutions Consulting Scaled Services",
+      "offices": "Kuala Lumpur",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7593738"
+    },
+    {
+      "id": "7621674",
+      "title": "Solutions Architect",
+      "location": "South Korea",
+      "department": "Solutions Consulting, APAC",
+      "offices": "Remote South Korea",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7621674"
+    },
+    {
+      "id": "7795864",
+      "title": "Solutions Architect",
+      "location": "Kuala Lumpur",
+      "department": "Solutions Consulting Scaled Services",
+      "offices": "Kuala Lumpur",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7795864"
+    },
+    {
+      "id": "7820448",
+      "title": "Solutions Architect",
+      "location": "Seoul",
+      "department": "Solutions Consulting Scaled Services",
+      "offices": "Seoul",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7820448"
+    },
+    {
+      "id": "7721912",
+      "title": "Solutions Architect",
+      "location": "Berlin",
+      "department": "Solutions Consulting, Growth EMEA",
+      "offices": "Berlin",
+      "updated_at": "2026-04-24T09:05:42-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7721912"
+    },
+    {
+      "id": "7815441",
+      "title": "Solutions Architect",
+      "location": "Düsseldorf",
+      "department": "Solutions Consulting, Growth EMEA",
+      "offices": "Berlin",
+      "updated_at": "2026-04-24T09:06:08-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7815441"
+    },
+    {
+      "id": "7815442",
+      "title": "Solutions Architect",
+      "location": "Frankfurt",
+      "department": "Solutions Consulting, Growth EMEA",
+      "offices": "Berlin",
+      "updated_at": "2026-04-24T09:06:51-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7815442"
+    },
+    {
+      "id": "7815443",
+      "title": "Solutions Architect",
+      "location": "Hamburg",
+      "department": "Solutions Consulting, Growth EMEA",
+      "offices": "Berlin",
+      "updated_at": "2026-04-24T09:07:08-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7815443"
+    },
+    {
+      "id": "7815444",
+      "title": "Solutions Architect",
+      "location": "Munich",
+      "department": "Solutions Consulting, Growth EMEA",
+      "offices": "Berlin",
+      "updated_at": "2026-04-24T09:07:23-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7815444"
+    },
+    {
+      "id": "7815447",
+      "title": "Solutions Architect",
+      "location": "Stuttgart",
+      "department": "Solutions Consulting, Growth EMEA",
+      "offices": "Berlin",
+      "updated_at": "2026-04-24T09:07:41-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7815447"
+    },
+    {
+      "id": "7610086",
+      "title": "Solutions Architect",
+      "location": "Tel Aviv",
+      "department": "Solutions Consulting, Growth EMEA",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7610086"
+    },
+    {
+      "id": "7773483",
+      "title": "Solutions Architect",
+      "location": "Kuala Lumpur",
+      "department": "Solutions Consulting Scaled Services",
+      "offices": "Kuala Lumpur",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7773483"
+    },
+    {
+      "id": "7448861",
+      "title": "Solutions Architect, German or French Speaker",
+      "location": "Dublin",
+      "department": "Solutions Consulting Scaled Services",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7448861"
+    },
+    {
+      "id": "7557618",
+      "title": "Solutions Architect, German speaker",
+      "location": "Poland",
+      "department": "Solutions Consulting",
+      "offices": "Remote Poland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7557618"
+    },
+    {
+      "id": "7558720",
+      "title": "Specialist, Sales Compensation",
+      "location": "Gurugram",
+      "department": "Finance & Accounting ",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
+    },
+    {
+      "id": "7779543",
+      "title": "Sr. Manager, Startup & Ventures Marketing",
+      "location": "New York City",
+      "department": "Marketing Management",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7779543"
+    },
+    {
+      "id": "7659981",
+      "title": "Sr. Startup Program Operations Manager",
+      "location": "Gurugram",
+      "department": "Ventures - Investing & Corporate Development",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-27T20:01:44-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7659981"
+    },
+    {
+      "id": "7831638",
+      "title": "Staff Developer Advocate",
+      "location": "New York",
+      "department": "Technical Marketing",
+      "offices": "Remote New York",
+      "updated_at": "2026-04-23T12:44:15-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7831638"
+    },
+    {
+      "id": "7590587",
+      "title": "Staff Engineer",
+      "location": "Gurugram",
+      "department": "Magenta",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7590587"
+    },
+    {
+      "id": "7583617",
+      "title": "Staff Engineer, AMP",
+      "location": "Gurugram",
+      "department": "PTO App Modernization ENG",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7583617"
+    },
+    {
+      "id": "7773411",
+      "title": "Staff Engineer, AMP",
+      "location": "India",
+      "department": "PTO App Modernization ENG",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7773411"
+    },
+    {
+      "id": "7210817",
+      "title": "Staff Engineer, Code Generation",
+      "location": "United States",
+      "department": "Product & Technology",
+      "offices": "Remote North America",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7210817"
+    },
+    {
+      "id": "7210819",
+      "title": "Staff Engineer, Code Generation",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "department": "Product & Technology",
+      "offices": "Remote North America",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7210819"
+    },
+    {
+      "id": "7523867",
+      "title": "Staff Engineer, Data Migration",
+      "location": "California; Oregon; Washington",
+      "department": "PTO App Modernization ENG",
+      "offices": "Portland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7523867"
+    },
+    {
+      "id": "7523869",
+      "title": "Staff Engineer, Data Migration",
+      "location": "British Columbia",
+      "department": "PTO App Modernization ENG",
+      "offices": "Portland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7523869"
+    },
+    {
+      "id": "6929125",
+      "title": "Staff Engineer, Distributed Systems",
+      "location": "Sydney",
+      "department": "PTO Durable TXs & Availability",
+      "offices": "Sydney",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=6929125"
+    },
+    {
+      "id": "7613587",
+      "title": "Staff Engineer, Observability",
+      "location": "Dublin",
+      "department": "PTO Office of the CTO",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7613587"
+    },
+    {
+      "id": "7094786",
+      "title": "Staff Engineer, Search Systems",
+      "location": "Toronto",
+      "department": "PTO Atlas Search",
+      "offices": "Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7094786"
+    },
+    {
+      "id": "7781724",
+      "title": "Staff Product Manager - Internal AI",
+      "location": "Palo Alto",
+      "department": "Internal AI",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-27T20:02:52-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7781724"
+    },
+    {
+      "id": "7526003",
+      "title": "Staff Product Marketing Manager",
+      "location": "New York City",
+      "department": "Product Marketing",
+      "offices": "New York City",
+      "updated_at": "2026-04-27T20:00:50-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7526003"
+    },
+    {
+      "id": "7280132",
+      "title": "Staff Research Scientist, Voyage AI",
+      "location": "Palo Alto; United States",
+      "department": "PTO Voyage AI",
+      "offices": "Remote Ontario",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7280132"
+    },
+    {
+      "id": "7727920",
+      "title": "Staff Site Reliability Engineer, Fabric",
+      "location": "United States",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City / Remote North America / Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7727920"
+    },
+    {
+      "id": "7727923",
+      "title": "Staff Site Reliability Engineer, Fabric",
+      "location": "Toronto; Vancouver",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City / Remote North America / Toronto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7727923"
+    },
+    {
+      "id": "7411430",
+      "title": "Staff Software Engineer, Atlas Growth",
+      "location": "Dublin",
+      "department": "PTO Developer Experience ENG",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7411430"
+    },
+    {
+      "id": "7264736",
+      "title": "Staff Software Engineer, Networking & Observability",
+      "location": "Seattle; United States",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "Seattle",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7264736"
+    },
+    {
+      "id": "7264738",
+      "title": "Staff Software Engineer, Networking & Observability",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "Seattle",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7264738"
+    },
+    {
+      "id": "7696228",
+      "title": "Staff Software Engineer, Server Networking Security (Rust)",
+      "location": "Dublin",
+      "department": "PTO Clusters & Interfaces",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7696228"
+    },
+    {
+      "id": "7739531",
+      "title": "Staff Technical Program Manager",
+      "location": "Palo Alto; San Francisco; Seattle",
+      "department": "Internal AI",
+      "offices": "Remote California",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7739531"
+    },
+    {
+      "id": "7465124",
+      "title": "Staff Technical Program Manager",
+      "location": "Dublin; Ireland",
+      "department": "PTO Atlas Data Services",
+      "offices": "Remote Ireland",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7465124"
+    },
+    {
+      "id": "7493634",
+      "title": "Staff Technical Program Manager, GTM Tech",
+      "location": "Gurugram",
+      "department": "GTM Tech",
+      "offices": "Gurugram",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7493634"
+    },
+    {
+      "id": "7695474",
+      "title": "Strategic Finance Analyst",
+      "location": "New York",
+      "department": "FP&A",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7695474"
+    },
+    {
+      "id": "7650671",
+      "title": "Tax Provision Manager",
+      "location": "Austin; United States",
+      "department": "Finance & Accounting ",
+      "offices": "Austin",
+      "updated_at": "2026-04-27T20:01:39-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7650671"
+    },
+    {
+      "id": "7650199",
+      "title": "Team Lead, Site Reliability Engineering - Fleet Management",
+      "location": "Austin; Boston; Chicago; Denver; Miami; New York City; San Francisco; Seattle",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "Austin / Boston / Chicago / Denver / Miami / New York City / San Francisco  / Seattle",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7650199"
+    },
+    {
+      "id": "7743304",
+      "title": "Team Lead, Site Reliability Engineering - Storage Layer Service",
+      "location": "New York City",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7743304"
+    },
+    {
+      "id": "7818635",
+      "title": "Team Lead, Site Reliability Engineering - Storage Layer Service",
+      "location": "Dublin",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7818635"
+    },
+    {
+      "id": "7555631",
+      "title": "Technical Program Manager, Site Reliability Engineering (Senior or Staff)",
+      "location": "New York City",
+      "department": "PTO Site Reliability Engineering",
+      "offices": "New York City",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7555631"
+    },
+    {
+      "id": "7746718",
+      "title": "Technical Services Engineer",
+      "location": "Sydney",
+      "department": "Technical Support APAC",
+      "offices": "Remote New South Wales",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7746718"
+    },
+    {
+      "id": "7566221",
+      "title": "Technical Services Engineer",
+      "location": "Vancouver",
+      "department": "Technical Support Partners - Migrations",
+      "offices": "Vancouver",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7566221"
+    },
+    {
+      "id": "7460019",
+      "title": "Technical Services Engineer, Infrastructure - Weekend",
+      "location": "Palo Alto",
+      "department": "Technical Support AMER",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7460019"
+    },
+    {
+      "id": "7746616",
+      "title": "Technical Services Engineer, Named Accounts",
+      "location": "Vancouver",
+      "department": "Technical Support Premium Services",
+      "offices": "Vancouver",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7746616"
+    },
+    {
+      "id": "7368213",
+      "title": "Technical Services Engineer- Weekends",
+      "location": "Palo Alto",
+      "department": "Technical Support AMER",
+      "offices": "Palo Alto",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7368213"
+    },
+    {
+      "id": "7743754",
+      "title": "Technical Writer",
+      "location": "Dublin",
+      "department": "PTO Documentation",
+      "offices": "Dublin",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7743754"
+    },
+    {
+      "id": "7775023",
+      "title": "Treasury Manager - Operations",
+      "location": "Dublin",
+      "department": "Finance & Accounting ",
+      "offices": "Dublin",
+      "updated_at": "2026-04-27T20:01:34-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7775023"
+    },
+    {
+      "id": "7113254",
+      "title": "Turkish Speaking Enterprise Account Executive",
+      "location": "Dubai",
+      "department": "Sales Growth EMEA",
+      "offices": "Dubai",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7113254"
+    },
+    {
+      "id": "7782383",
+      "title": "Workforce Operations Manager",
+      "location": "Austin; New York City; United States",
+      "department": "Recruiting ",
+      "offices": "Remote New York",
+      "updated_at": "2026-04-21T17:41:57-04:00",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7782383"
+    }
+  ]
+}

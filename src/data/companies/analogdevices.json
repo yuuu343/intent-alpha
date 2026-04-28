@@ -1,0 +1,14 @@
+{
+  "slug": "analogdevices",
+  "name": "Analog Devices",
+  "website": "https://www.analog.com",
+  "sector": "Analog Semiconductors",
+  "headquarters": "Wilmington, MA",
+  "description": "High-performance analog, mixed-signal, and DSP semiconductors.",
+  "ats": "workday",
+  "workday": {
+    "host": "analog.wd1.myworkdayjobs.com",
+    "tenant": "analog",
+    "site": "External_Careers"
+  }
+}

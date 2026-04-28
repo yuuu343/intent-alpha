@@ -1,0 +1,10 @@
+{
+  "slug": "twilio",
+  "name": "Twilio",
+  "website": "https://www.twilio.com",
+  "sector": "Communications API",
+  "headquarters": "San Francisco, CA",
+  "description": "Programmable communications APIs (SMS, voice, email). Adding AI agents.",
+  "ats": "greenhouse",
+  "atsIdentifier": "twilio"
+}

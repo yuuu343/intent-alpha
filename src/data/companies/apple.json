@@ -1,0 +1,10 @@
+{
+  "slug": "apple",
+  "name": "Apple",
+  "website": "https://www.apple.com",
+  "sector": "Consumer Electronics / On-device AI",
+  "headquarters": "Cupertino, CA",
+  "description": "Designs and sells consumer electronics, software and services; building neural-engine silicon and on-device AI features across the device line.",
+  "ats": "custom",
+  "customNote": "jobs.apple.com — bot-protected (Akamai), requires headless browser to fetch"
+}

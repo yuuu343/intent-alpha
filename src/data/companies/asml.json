@@ -1,0 +1,14 @@
+{
+  "slug": "asml",
+  "name": "ASML",
+  "website": "https://www.asml.com",
+  "sector": "Semicon Equipment",
+  "headquarters": "Veldhoven, Netherlands",
+  "description": "Sole supplier of EUV lithography systems. Bottleneck for leading-edge chip manufacturing.",
+  "ats": "workday",
+  "workday": {
+    "host": "asml.wd3.myworkdayjobs.com",
+    "tenant": "asml",
+    "site": "ASML_Careers"
+  }
+}

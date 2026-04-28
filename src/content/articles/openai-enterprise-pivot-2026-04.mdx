@@ -1,0 +1,115 @@
+---
+title: "OpenAI's Hiring Has Finished the Pivot from Lab to Enterprise Vendor"
+description: "Forward Deployed Engineers, regional Account Directors, Applied AI engineering, and Model Deployment for Business now dominate OpenAI's open roles. Safety hiring is 4.6%."
+company: openai
+publishedAt: 2026-04-28
+hypothesis: "OpenAI has finished its operational pivot from foundation-model lab to enterprise software vendor. Hiring now matches the Palantir / Snowflake scale-up shape — Forward Deployed Engineers, regional Account Directors, applied / deployment engineering — with safety roles a small minority of open positions."
+confidence: medium
+horizon: "12-18 months"
+tags: ["AI", "enterprise", "go-to-market", "safety"]
+provId: "PROV-003"
+cycle: "0003"
+signalCount: 260
+totalPostings: 651
+---
+
+## TL;DR
+
+OpenAI's public job board carries 651 open roles on 2026-04-28. The dominant
+clusters are **Go To Market (134)**, **Applied AI (87)**, **Scaling (86)**,
+and **Model Deployment for Business (39)** — together about **40% of all open
+positions**. Safety, policy, and red-team work combined is **30 roles (4.6%)**.
+The shape is no longer a research lab. It's an enterprise software vendor that
+also happens to do research.
+
+## What the cluster shows
+
+By department (top of 651):
+
+| Department | Count | Share |
+|---|---|---|
+| Go To Market | 134 | 20.6% |
+| Applied AI | 87 | 13.4% |
+| Scaling | 86 | 13.2% |
+| Model Deployment for Business | 39 | 6.0% |
+| Research | 33 | 5.1% |
+| Security | 27 | 4.1% |
+| User Operations | 24 | 3.7% |
+| Safety Systems | 17 | 2.6% |
+| Legal | 12 | 1.8% |
+
+By keyword on titles:
+- **Forward Deployed Engineering / Applied / Customer-side**: 102
+- **Compute & infrastructure (Frontier Clusters, Fleet, Data, Capacity)**: 53
+- **Safety / policy / red-team**: 30
+- **Codex / SDK / dev tools**: 25
+- **Agents / autonomy**: 9
+
+## Why this is the enterprise-vendor shape
+
+Three patterns are diagnostic.
+
+**Forward Deployed Engineering at global scale.** Multiple postings explicitly
+use the term — `00207abc-…` Forward Deployed Software Engineer (San Francisco),
+`961f6c58-…` Forward Deployed Software Engineer (Paris),
+`305a4b22-…` Forward Deployed Engineer (San Francisco), and
+`5bbc43df-…` Manager, Forward Deployed Engineering. "Forward Deployed
+Engineering" is Palantir's signature org pattern: engineers who embed at
+customer sites and stitch together integrations until the product becomes
+sticky. Hiring for FDE at multi-region scale is not a research-lab move; it's
+the shape an enterprise software vendor takes when it has commit revenue to
+defend.
+
+**Account Directors per region.** Posting `18f58952-…` Account Director — Tokyo
+is one of many. Combined with the 134 Go To Market roles, OpenAI is staffing
+the enterprise sales motion of a public-track SaaS company.
+
+**Compute infrastructure as a product surface.** 53 keyword-matching roles in
+infrastructure / scaling / capacity — including `8fb1615c-…` TPM, Compute
+Infrastructure, `770d5c3f-…` Software Engineer, Frontier Clusters
+Infrastructure, and `c1316397-…` Software Engineer, Agent Infrastructure.
+These are the roles that exist when you're operating compute *for paying
+customers*, not just for your own research runs.
+
+The comparison point is Anthropic (PROV-001): both companies are scaling, but
+the *shape* differs. Anthropic's recent hiring centres on owned infrastructure
+build-out (datacenters, capex accounting, colocation counsel). OpenAI's hiring
+centres on customer-facing go-to-market and product deployment. Same ambition,
+different go-to-market gear.
+
+## What would change our mind
+
+Hypothesis flips to **low** confidence if any of these hold over two quarters:
+
+- Forward Deployed Engineering postings are quietly closed without backfill.
+- Safety / policy hiring share rises materially above ~10% of open roles
+  (signalling re-prioritisation toward the lab register).
+- A leadership change publicly reframes the company strategy as
+  research-first / non-commercial.
+
+Hypothesis strengthens to **high** confidence if any of these appear:
+
+- Disclosed enterprise revenue mix exceeds consumer ChatGPT revenue.
+- "Forward Deployed" expands to additional regions (Tokyo and Paris listed
+  above; APAC and EMEA expansion would be the strong signal).
+- A formal customer-success / Professional Services org emerges in the
+  posting set.
+
+## Caveats
+
+- 30 safety roles is not zero; this hypothesis is about **proportion**, not
+  abandonment. The lab work continues; it's just no longer the centre of
+  gravity in hiring.
+- OpenAI's regional GTM scale-up follows ChatGPT-Enterprise traction, not
+  necessarily new strategy. Hiring is a lagging indicator of intent decided
+  6–12 months ago.
+- "Forward Deployed Engineering" is now a borrowed term across the AI labs;
+  presence alone doesn't prove a Palantir-shape strategy. The combination
+  with regional Account Directors is what does.
+
+## Method
+
+Source: OpenAI's public Ashby job board (`api.ashbyhq.com/posting-api/job-board/openai`),
+snapshot 2026-04-28, 651 jobs. Department breakdown is from Ashby's
+`department` field; keyword counts are title regex. Snapshot at
+`data/snapshots/openai/2026-04-28.json`.

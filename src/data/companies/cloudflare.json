@@ -1,0 +1,10 @@
+{
+  "slug": "cloudflare",
+  "name": "Cloudflare",
+  "website": "https://www.cloudflare.com",
+  "sector": "Edge Cloud / Security",
+  "headquarters": "San Francisco, CA",
+  "description": "Global edge network: CDN, security, Workers serverless, R2 storage, AI inference at edge.",
+  "ats": "greenhouse",
+  "atsIdentifier": "cloudflare"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "cohere",
+  "name": "Cohere",
+  "website": "https://cohere.com",
+  "sector": "AI / Foundation Models",
+  "headquarters": "Toronto, Canada",
+  "description": "Foundation-model lab focused on enterprise deployment, RAG, and custom fine-tunes.",
+  "ats": "ashby",
+  "atsIdentifier": "cohere"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "snowflake",
+  "name": "Snowflake",
+  "website": "https://www.snowflake.com",
+  "sector": "Data Cloud",
+  "headquarters": "Bozeman, MT",
+  "description": "Cloud data warehouse / data cloud platform. Multi-cloud (AWS / Azure / GCP).",
+  "ats": "ashby",
+  "atsIdentifier": "snowflake"
+}

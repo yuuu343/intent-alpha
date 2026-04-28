@@ -1,0 +1,14 @@
+{
+  "slug": "seagate",
+  "name": "Seagate",
+  "website": "https://www.seagate.com",
+  "sector": "Storage",
+  "headquarters": "Dublin, Ireland",
+  "description": "HDD storage, hyperscaler-grade drives, enterprise data services.",
+  "ats": "workday",
+  "workday": {
+    "host": "seagate.wd5.myworkdayjobs.com",
+    "tenant": "seagate",
+    "site": "Seagate_Careers"
+  }
+}

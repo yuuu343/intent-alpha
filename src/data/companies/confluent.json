@@ -1,0 +1,10 @@
+{
+  "slug": "confluent",
+  "name": "Confluent",
+  "website": "https://www.confluent.io",
+  "sector": "Streaming Data",
+  "headquarters": "Mountain View, CA",
+  "description": "Apache Kafka commercial steward — streaming platform, Kafka-as-a-service.",
+  "ats": "ashby",
+  "atsIdentifier": "confluent"
+}

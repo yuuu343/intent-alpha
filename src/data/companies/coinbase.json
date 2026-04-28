@@ -1,0 +1,10 @@
+{
+  "slug": "coinbase",
+  "name": "Coinbase",
+  "website": "https://www.coinbase.com",
+  "sector": "Crypto / FinTech",
+  "headquarters": "Remote (US)",
+  "description": "Crypto exchange, custody, layer-2 (Base), payments. Largest US crypto company by listing.",
+  "ats": "greenhouse",
+  "atsIdentifier": "coinbase"
+}

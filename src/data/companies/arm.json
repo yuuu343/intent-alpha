@@ -1,0 +1,14 @@
+{
+  "slug": "arm",
+  "name": "Arm",
+  "website": "https://www.arm.com",
+  "sector": "Semicon IP",
+  "headquarters": "Cambridge, UK",
+  "description": "Instruction-set architecture and CPU/GPU IP licensed across mobile, automotive, datacenter.",
+  "ats": "workday",
+  "workday": {
+    "host": "arm.wd1.myworkdayjobs.com",
+    "tenant": "Arm",
+    "site": "Externalcareers"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "westerndigital",
+  "name": "Western Digital",
+  "website": "https://www.westerndigital.com",
+  "sector": "Storage",
+  "headquarters": "San Jose, CA",
+  "description": "HDD and flash storage; spinning off flash (Sandisk).",
+  "ats": "workday",
+  "workday": {
+    "host": "westerndigital.wd1.myworkdayjobs.com",
+    "tenant": "westerndigital",
+    "site": "External"
+  }
+}

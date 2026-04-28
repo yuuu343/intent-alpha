@@ -1,0 +1,10 @@
+{
+  "slug": "tesla",
+  "name": "Tesla",
+  "website": "https://www.tesla.com",
+  "sector": "EV / Autonomy / Energy",
+  "headquarters": "Austin, TX",
+  "description": "Electric vehicles, energy storage, full self-driving development, Optimus humanoid robotics, Dojo training compute.",
+  "ats": "custom",
+  "customNote": "tesla.wd1.myworkdayjobs.com — Workday endpoint exists but body schema returns HTTP 422; needs investigation"
+}

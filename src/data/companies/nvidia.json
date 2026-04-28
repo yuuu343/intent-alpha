@@ -1,0 +1,14 @@
+{
+  "slug": "nvidia",
+  "name": "NVIDIA",
+  "website": "https://www.nvidia.com",
+  "sector": "AI / Semiconductors",
+  "headquarters": "Santa Clara, CA",
+  "description": "GPUs, CUDA, AI training/inference accelerators, datacenter networking (Mellanox), Omniverse. Dominant supplier for AI compute.",
+  "ats": "workday",
+  "workday": {
+    "host": "nvidia.wd5.myworkdayjobs.com",
+    "tenant": "nvidia",
+    "site": "NVIDIAExternalCareerSite"
+  }
+}

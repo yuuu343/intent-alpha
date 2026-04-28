@@ -1,0 +1,14 @@
+{
+  "slug": "broadcom",
+  "name": "Broadcom",
+  "website": "https://www.broadcom.com",
+  "sector": "Semiconductors / Software",
+  "headquarters": "Palo Alto, CA",
+  "description": "Networking silicon, custom AI accelerators (Google TPU partner), VMware. Major hyperscaler ASIC supplier.",
+  "ats": "workday",
+  "workday": {
+    "host": "broadcom.wd1.myworkdayjobs.com",
+    "tenant": "broadcom",
+    "site": "External_Careers"
+  }
+}

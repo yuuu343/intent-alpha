@@ -1,0 +1,1314 @@
+{
+  "company": "reddit",
+  "ats": "greenhouse",
+  "atsIdentifier": "reddit",
+  "fetchedAt": "2026-04-28T04:52:01.488Z",
+  "count": 145,
+  "jobs": [
+    {
+      "id": "7011741",
+      "title": "Acquisition Client Partner, Mid-Market (Southern Europe)",
+      "location": "Amsterdam, Netherlands",
+      "department": "Mid Market & SMB",
+      "offices": "Amsterdam",
+      "updated_at": "2026-03-19T11:36:28-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7011741"
+    },
+    {
+      "id": "7792848",
+      "title": "Ads Conversion Modeling, Machine Learning Engineering Manager",
+      "location": "Remote - United States",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-14T14:08:53-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7792848"
+    },
+    {
+      "id": "7415013",
+      "title": "Android Software Engineer, Ad Formats",
+      "location": "New York City, NY",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-09T17:38:01-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7415013"
+    },
+    {
+      "id": "7415003",
+      "title": "Android Software Engineer, Ad Formats",
+      "location": "Chicago, IL",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-09T17:37:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7415003"
+    },
+    {
+      "id": "7415052",
+      "title": "Android Software Engineer, Ad Formats",
+      "location": "Remote - United States",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-09T17:38:56-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7415052"
+    },
+    {
+      "id": "7414993",
+      "title": "Android Software Engineer, Ad Formats",
+      "location": "San Francisco, CA",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-09T17:37:02-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7414993"
+    },
+    {
+      "id": "7523456",
+      "title": "Channel Partnerships Lead, APAC",
+      "location": "Remote - Singapore",
+      "department": "Mid Market & SMB",
+      "offices": "Remote - Singapore",
+      "updated_at": "2026-03-19T11:36:31-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7523456"
+    },
+    {
+      "id": "7413698",
+      "title": "Client Account Executive, Mid-Market (App Dev)",
+      "location": "New York City, NY",
+      "department": "Mid Market & SMB",
+      "offices": "New York",
+      "updated_at": "2026-03-25T15:23:05-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7413698"
+    },
+    {
+      "id": "7702238",
+      "title": "Client Account Executive, Mid-Market Sales (B2B Services)",
+      "location": "San Francisco, CA",
+      "department": "Mid Market & SMB",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-27T10:31:29-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7702238"
+    },
+    {
+      "id": "7649830",
+      "title": "Client Account Executive, Mid-Market Sales (Signature Goods)",
+      "location": "San Francisco, CA",
+      "department": "Mid Market & SMB",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-27T10:28:09-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7649830"
+    },
+    {
+      "id": "7612008",
+      "title": "Client Account Manager, Global Strategic Accounts (Tech)",
+      "location": "New York City, NY",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:28:51-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7612008"
+    },
+    {
+      "id": "7659580",
+      "title": "Client Account Manager, Mid-Market (B2B Services - Acquisitions)",
+      "location": "San Francisco, CA",
+      "department": "Mid Market & SMB",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-15T11:01:25-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7659580"
+    },
+    {
+      "id": "7843754",
+      "title": "Client Account Manager, Mid-Market (B2C Services - Acquisitions)",
+      "location": "Los Angeles, CA",
+      "department": "Mid Market & SMB",
+      "offices": "Los Angeles",
+      "updated_at": "2026-04-23T13:10:03-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7843754"
+    },
+    {
+      "id": "7772878",
+      "title": "Client Account Manager, Mid-Market (Shopping Goods - Acquisitions)",
+      "location": "Los Angeles, CA",
+      "department": "Mid Market & SMB",
+      "offices": "Los Angeles",
+      "updated_at": "2026-04-23T13:14:46-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7772878"
+    },
+    {
+      "id": "7420175",
+      "title": "Client Partner, Acquisitions DACH",
+      "location": "Amsterdam, Netherlands",
+      "department": "Mid Market & SMB",
+      "offices": "Amsterdam",
+      "updated_at": "2026-03-19T11:36:29-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7420175"
+    },
+    {
+      "id": "7801838",
+      "title": "Client Partner, Mid-Market Sales (B2B Services - Acquisitions)",
+      "location": "New York City, NY",
+      "department": "Mid Market & SMB",
+      "offices": "New York",
+      "updated_at": "2026-04-27T13:33:00-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7801838"
+    },
+    {
+      "id": "7782673",
+      "title": "Client Partner, Mid-Market (Services Acquisitions)",
+      "location": "Los Angeles, CA",
+      "department": "Mid Market & SMB",
+      "offices": "Los Angeles",
+      "updated_at": "2026-04-27T10:37:30-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7782673"
+    },
+    {
+      "id": "7746517",
+      "title": "Client Partner, Mid-Market (Shopping Goods Acquisitions)",
+      "location": "San Francisco, CA",
+      "department": "Mid Market & SMB",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-27T10:32:30-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746517"
+    },
+    {
+      "id": "7669372",
+      "title": "Community Manager - French speaker (contract)",
+      "location": "Remote - United Kingdom",
+      "department": "Community",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-03-24T14:16:39-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7669372"
+    },
+    {
+      "id": "7799480",
+      "title": "Corporate Paralegal",
+      "location": "Remote - United States",
+      "department": "Legal",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-10T18:17:18-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7799480"
+    },
+    {
+      "id": "7839117",
+      "title": "Data Science Manager, Consumer",
+      "location": "Remote - United States",
+      "department": "Consumer Data Science",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-21T16:25:27-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7839117"
+    },
+    {
+      "id": "6580815",
+      "title": "Data Scientist, Ads",
+      "location": "Remote - United States",
+      "department": "Ads Data Science",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:27-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6580815"
+    },
+    {
+      "id": "7607124",
+      "title": "Data Scientist, Ads",
+      "location": "Remote - British Columbia, Canada",
+      "department": "Ads Data Science",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:27-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7607124"
+    },
+    {
+      "id": "7519923",
+      "title": "Director, Mid-Market Sales (B2B Services)",
+      "location": "San Francisco, CA",
+      "department": "Mid Market & SMB",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-03-19T11:36:30-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7519923"
+    },
+    {
+      "id": "7532202",
+      "title": "Director, Mid-Market Sales (B2B Services)",
+      "location": "New York City, NY",
+      "department": "Mid Market & SMB",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-03-19T11:36:30-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7532202"
+    },
+    {
+      "id": "7666317",
+      "title": "Director of Design, Ads Platform",
+      "location": "Remote - United States",
+      "department": "Product Design",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-01T03:21:39-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7666317"
+    },
+    {
+      "id": "7644191",
+      "title": "Director of Design, Content Ecosystem",
+      "location": "Remote - United States",
+      "department": "Consumer, Contributor, Moderator",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-01T03:21:40-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7644191"
+    },
+    {
+      "id": "7859086",
+      "title": "Engineering Manager, Search Storage",
+      "location": "Remote - United States",
+      "department": "BE Platform",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-27T17:38:26-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7859086"
+    },
+    {
+      "id": "7700153",
+      "title": "Experience Coordinator, San Francisco",
+      "location": "San Francisco, CA",
+      "department": "Experience",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-19T11:36:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7700153"
+    },
+    {
+      "id": "7686440",
+      "title": "Experience Partner, Real Estate Leasing and Operations ",
+      "location": "Remote - United States",
+      "department": "Experience",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-19T11:36:32-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7686440"
+    },
+    {
+      "id": "7812004",
+      "title": "Global Employee Relations Lead",
+      "location": "New York City, NY",
+      "department": "HR",
+      "offices": "New York",
+      "updated_at": "2026-04-21T11:35:14-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7812004"
+    },
+    {
+      "id": "7648529",
+      "title": "Industry Manager, Global Strategic Accounts",
+      "location": "London, United Kingdom",
+      "department": "Large Customer Sales",
+      "offices": "London",
+      "updated_at": "2026-03-19T11:36:32-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7648529"
+    },
+    {
+      "id": "7520366",
+      "title": "International Strategic Finance, London",
+      "location": "London, United Kingdom",
+      "department": "Strategic Finance",
+      "offices": "London",
+      "updated_at": "2026-04-08T19:14:07-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7520366"
+    },
+    {
+      "id": "7734973",
+      "title": "Lead, Advertising Measurement - UK",
+      "location": "London, United Kingdom",
+      "department": "Marketing Sciences",
+      "offices": "London",
+      "updated_at": "2026-04-09T10:05:26-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7734973"
+    },
+    {
+      "id": "7774908",
+      "title": "Lead, Compensation Partner",
+      "location": "Remote - United States",
+      "department": "HR",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-02T08:42:56-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7774908"
+    },
+    {
+      "id": "7782477",
+      "title": "Lead Sales Enablement Program Manager, Sales Skills & Methodology",
+      "location": "Los Angeles, CA",
+      "department": "Global Client Solutions",
+      "offices": "New York",
+      "updated_at": "2026-04-27T10:34:39-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7782477"
+    },
+    {
+      "id": "7782475",
+      "title": "Lead Sales Enablement Program Manager, Sales Skills & Methodology",
+      "location": "San Francisco, CA",
+      "department": "Global Client Solutions",
+      "offices": "New York",
+      "updated_at": "2026-04-27T10:34:39-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7782475"
+    },
+    {
+      "id": "7758576",
+      "title": "Lead Sales Enablement Program Manager, Sales Skills & Methodology",
+      "location": "New York City, NY",
+      "department": "Global Client Solutions",
+      "offices": "New York",
+      "updated_at": "2026-04-27T10:34:39-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7758576"
+    },
+    {
+      "id": "7782474",
+      "title": "Lead Sales Enablement Program Manager, Sales Skills & Methodology",
+      "location": "Chicago, IL",
+      "department": "Global Client Solutions",
+      "offices": "New York",
+      "updated_at": "2026-04-27T10:34:39-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7782474"
+    },
+    {
+      "id": "7802495",
+      "title": "Machine Learning Manager, Feed Relevance",
+      "location": "Remote - United States",
+      "department": "Safety",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-10T10:59:48-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7802495"
+    },
+    {
+      "id": "7846885",
+      "title": "Machine Learning Manager, Notifications Relevance",
+      "location": "Remote - United States",
+      "department": "Growth",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-23T11:12:18-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7846885"
+    },
+    {
+      "id": "7731424",
+      "title": "Manager, Large Customer Sales - DACH",
+      "location": "Berlin, Germany",
+      "department": "Large Customer Sales",
+      "offices": "Berlin",
+      "updated_at": "2026-03-30T11:25:57-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7731424"
+    },
+    {
+      "id": "7707147",
+      "title": "Manager, Mid-Market Sales (B2C Services - Acquisitions)",
+      "location": "Los Angeles, CA",
+      "department": "Mid Market & SMB",
+      "offices": "Los Angeles",
+      "updated_at": "2026-04-03T14:06:25-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7707147"
+    },
+    {
+      "id": "7746150",
+      "title": "Manager, Mid-Market Sales (Goods)",
+      "location": "Toronto, Canada",
+      "department": "Mid Market & SMB",
+      "offices": "Toronto",
+      "updated_at": "2026-03-24T11:51:20-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746150"
+    },
+    {
+      "id": "7330347",
+      "title": "Principal Data Scientist, Ads",
+      "location": "Remote - United States",
+      "department": "Ads Data Science",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:29-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7330347"
+    },
+    {
+      "id": "7362539",
+      "title": "Product Adoption Manager, Lower Funnel",
+      "location": "Remote - United States",
+      "department": "Global Client Solutions",
+      "offices": "New York",
+      "updated_at": "2026-04-20T17:39:02-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7362539"
+    },
+    {
+      "id": "7590156",
+      "title": "Product Adoption Manager, Shopping",
+      "location": "Remote - United States",
+      "department": "Global Client Solutions",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-20T17:43:27-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7590156"
+    },
+    {
+      "id": "7682201",
+      "title": "Product Communications Lead, Global",
+      "location": "Remote - United States",
+      "department": "Communications",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-19T11:36:32-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7682201"
+    },
+    {
+      "id": "7762012",
+      "title": "Sales Manager, AUS",
+      "location": "Sydney, Australia",
+      "department": "Large Customer Sales",
+      "offices": "Sydney",
+      "updated_at": "2026-04-20T17:46:41-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7762012"
+    },
+    {
+      "id": "7842817",
+      "title": "Sales Strategy & Operations Business Partner, Agency & Partnerships",
+      "location": "New York City, NY",
+      "department": "Sales Strategy & Operations",
+      "offices": "New York",
+      "updated_at": "2026-04-27T11:38:37-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7842817"
+    },
+    {
+      "id": "7821738",
+      "title": "Senior Ads Measurement Lead",
+      "location": "New York City, NY",
+      "department": "Global Client Solutions",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-23T15:04:24-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7821738"
+    },
+    {
+      "id": "7559059",
+      "title": "Senior Ads Measurement Lead - App Dev",
+      "location": "New York City, NY",
+      "department": "Global Client Solutions",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-23T15:02:31-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7559059"
+    },
+    {
+      "id": "7445224",
+      "title": "Senior Analytics Engineer",
+      "location": "Remote - United States",
+      "department": "Safety",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:29-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7445224"
+    },
+    {
+      "id": "7727696",
+      "title": "Senior Business Engineer - Ads",
+      "location": "Remote - United States",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-31T09:32:23-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7727696"
+    },
+    {
+      "id": "7672841",
+      "title": "Senior Client Account Executive, Mid-Market - UK",
+      "location": "London, United Kingdom",
+      "department": "Mid Market & SMB",
+      "offices": "London",
+      "updated_at": "2026-04-10T06:23:03-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7672841"
+    },
+    {
+      "id": "7702201",
+      "title": "Senior Client Account Manager, App Dev Enterprise",
+      "location": "New York City, NY",
+      "department": "Mid Market & SMB",
+      "offices": "New York",
+      "updated_at": "2026-03-19T11:36:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7702201"
+    },
+    {
+      "id": "7391478",
+      "title": "Senior Client Account Manager (Contract)",
+      "location": "Remote - Ontario, Canada",
+      "department": "Large Customer Sales",
+      "offices": "Toronto",
+      "updated_at": "2026-03-19T11:36:29-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7391478"
+    },
+    {
+      "id": "7739084",
+      "title": "Senior Client Account Manager, Global Strategic Accounts (Enterprise Tech)",
+      "location": "Seattle, WA",
+      "department": "Large Customer Sales",
+      "offices": "Los Angeles",
+      "updated_at": "2026-04-27T20:28:52-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7739084"
+    },
+    {
+      "id": "7630209",
+      "title": "Senior Client Account Manager, Global Strategic Accounts (Tech)",
+      "location": "New York City, NY",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-03-19T11:36:32-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7630209"
+    },
+    {
+      "id": "7706962",
+      "title": "Senior Client Account Manager, Large Customer Sales, Canada (Financial Services)",
+      "location": "Toronto, Canada",
+      "department": "Large Customer Sales",
+      "offices": "Toronto",
+      "updated_at": "2026-03-19T11:36:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7706962"
+    },
+    {
+      "id": "7706958",
+      "title": "Senior Client Account Manager, Large Customer Sales, Canada (Tech)",
+      "location": "Toronto, Canada",
+      "department": "Large Customer Sales",
+      "offices": "Toronto",
+      "updated_at": "2026-03-19T11:36:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7706958"
+    },
+    {
+      "id": "7731431",
+      "title": "Senior Client Account Manager, Large Customer Sales - DACH",
+      "location": "Berlin, Germany",
+      "department": "Large Customer Sales",
+      "offices": "Berlin",
+      "updated_at": "2026-03-26T09:59:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7731431"
+    },
+    {
+      "id": "7767765",
+      "title": "Senior Client Account Manager, Large Customer Sales (Fashion & Apparel)",
+      "location": "San Francisco, CA",
+      "department": "Large Customer Sales",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7767765"
+    },
+    {
+      "id": "7739343",
+      "title": "Senior Client Account Manager, Mid-Market (App Dev)",
+      "location": "San Francisco, CA",
+      "department": "Mid Market & SMB",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-20T13:21:53-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7739343"
+    },
+    {
+      "id": "7728154",
+      "title": "Senior Client Account Specialist, App Dev Enterprise",
+      "location": "San Francisco, CA",
+      "department": "Mid Market & SMB",
+      "offices": "New York",
+      "updated_at": "2026-04-17T15:44:30-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7728154"
+    },
+    {
+      "id": "7702218",
+      "title": "Senior Client Account Specialist, App Dev Enterprise",
+      "location": "New York City, NY",
+      "department": "Mid Market & SMB",
+      "offices": "New York",
+      "updated_at": "2026-04-17T15:44:30-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7702218"
+    },
+    {
+      "id": "7694751",
+      "title": "Senior Client Partner, App Dev Enterprise",
+      "location": "San Francisco, CA",
+      "department": "Mid Market & SMB",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-14T18:30:44-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7694751"
+    },
+    {
+      "id": "7714098",
+      "title": "Senior Client Partner, Global Strategic Accounts (Telco)",
+      "location": "New York City, NY",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:28:52-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7714098"
+    },
+    {
+      "id": "7706955",
+      "title": "Senior Client Partner, Large Customer Sales (Canada)",
+      "location": "Toronto, Canada",
+      "department": "Large Customer Sales",
+      "offices": "Toronto",
+      "updated_at": "2026-03-19T11:36:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7706955"
+    },
+    {
+      "id": "7767759",
+      "title": "Senior Client Partner, Large Customer Sales (Fashion & Apparel)",
+      "location": "New York City, NY",
+      "department": "Large Customer Sales",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7767759"
+    },
+    {
+      "id": "7733445",
+      "title": "Senior Client Partner, Large Customer Sales (Media & Entertainment)",
+      "location": "New York City, NY",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:34:55-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7733445"
+    },
+    {
+      "id": "7746500",
+      "title": "Senior Client Partner, Large Customer Sales (Pharma)",
+      "location": "New York City, NY",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746500"
+    },
+    {
+      "id": "7749330",
+      "title": "Senior Client Partner, Large Customer Sales (Pharma)",
+      "location": "San Francisco, CA",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7749330"
+    },
+    {
+      "id": "7456660",
+      "title": "Senior Client Partner, Large Customer Sales (Sydney)",
+      "location": "Sydney, Australia",
+      "department": "Large Customer Sales",
+      "offices": "Sydney",
+      "updated_at": "2026-04-20T17:40:11-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7456660"
+    },
+    {
+      "id": "7561756",
+      "title": "Senior Client Partner, Large Customer Sales (Tech)",
+      "location": "New York City, NY",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7561756"
+    },
+    {
+      "id": "7696013",
+      "title": "Senior Client Partner, Large Customer Sales (Tech)",
+      "location": "San Francisco, CA",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7696013"
+    },
+    {
+      "id": "7728843",
+      "title": "Senior Client Partner, Large Customer Sales (Tech)",
+      "location": "New York City, NY",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7728843"
+    },
+    {
+      "id": "7728844",
+      "title": "Senior Client Partner, Large Customer Sales (Tech)",
+      "location": "Seattle, WA",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7728844"
+    },
+    {
+      "id": "7743658",
+      "title": "Senior Client Partner, Large Customer Sales (Travel)",
+      "location": "New York City, NY",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7743658"
+    },
+    {
+      "id": "7762328",
+      "title": "Senior Client Partner, Large Customer Sales (Travel)",
+      "location": "Chicago, IL",
+      "department": "Large Customer Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T20:34:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7762328"
+    },
+    {
+      "id": "7721831",
+      "title": "Senior Client Partner, Large Customer Sales - UK",
+      "location": "London, United Kingdom",
+      "department": "Large Customer Sales",
+      "offices": "London",
+      "updated_at": "2026-03-25T09:39:49-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7721831"
+    },
+    {
+      "id": "7453346",
+      "title": "Senior Client Partner, Mid-Market (B2B Services) ",
+      "location": "San Francisco, CA",
+      "department": "Mid Market & SMB",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-31T17:41:41-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7453346"
+    },
+    {
+      "id": "7834671",
+      "title": "Senior Data Science Manager, Marketing",
+      "location": "Remote - United States",
+      "department": "Ads Data Science",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-22T13:59:26-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7834671"
+    },
+    {
+      "id": "6042236",
+      "title": "Senior Data Scientist, Ads",
+      "location": "Remote - United States",
+      "department": "Ads Data Science",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:24-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6042236"
+    },
+    {
+      "id": "7607121",
+      "title": "Senior Data Scientist, Ads",
+      "location": "Remote - British Columbia, Canada",
+      "department": "Ads Data Science",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:24-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7607121"
+    },
+    {
+      "id": "7275414",
+      "title": "Senior Data Scientist, Consumer",
+      "location": "Remote - United States",
+      "department": "Consumer Data Science",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-19T11:36:28-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7275414"
+    },
+    {
+      "id": "7746588",
+      "title": "Senior Director, Global Strategic Accounts",
+      "location": "San Francisco, CA",
+      "department": "Large Customer Sales",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-27T20:28:52-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746588"
+    },
+    {
+      "id": "7822910",
+      "title": "Senior Director, Global Strategic Accounts",
+      "location": "Los Angeles, CA",
+      "department": "Large Customer Sales",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-27T20:28:52-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7822910"
+    },
+    {
+      "id": "7746311",
+      "title": "Senior Director of Product, Ads Platform",
+      "location": "Remote - United States",
+      "department": "Ads Product",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-03T15:29:57-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311"
+    },
+    {
+      "id": "7359367",
+      "title": "Senior Engineering Manager, Unified Embeddings Platform ",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-01T14:11:09-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7359367"
+    },
+    {
+      "id": "7751064",
+      "title": "Senior Frontend Software Engineer, Home Experience",
+      "location": "Remote - United States",
+      "department": "Consumer",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-21T15:01:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7751064"
+    },
+    {
+      "id": "7391392",
+      "title": "Senior Machine Learning Engineer, Core Experience and Growth",
+      "location": "Remote - United States",
+      "department": "Growth",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-20T16:54:21-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7391392"
+    },
+    {
+      "id": "7074776",
+      "title": "Senior  Machine Learning Engineer, ML Training Platform ",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-20T17:42:08-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7074776"
+    },
+    {
+      "id": "7731772",
+      "title": "Senior Machine Learning Systems Engineer",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:34-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7731772"
+    },
+    {
+      "id": "7540782",
+      "title": "Senior Manager, Large Customer Sales (Tech)",
+      "location": "San Francisco, CA",
+      "department": "Large Customer Sales",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-27T20:34:53-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7540782"
+    },
+    {
+      "id": "7735760",
+      "title": "Senior Product Adoption Strategist, Lower Funnel, EMEA",
+      "location": "London, United Kingdom",
+      "department": "Global Client Solutions",
+      "offices": "London",
+      "updated_at": "2026-04-20T17:45:34-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7735760"
+    },
+    {
+      "id": "7772785",
+      "title": "Senior Product Designer, Ads Measurement",
+      "location": "Remote - United States",
+      "department": "Product Design",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-06T18:07:16-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7772785"
+    },
+    {
+      "id": "7746014",
+      "title": "Senior Sales Manager, App Dev Enterprise",
+      "location": "New York City, NY",
+      "department": "Mid Market & SMB",
+      "offices": "New York",
+      "updated_at": "2026-03-24T10:18:07-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746014"
+    },
+    {
+      "id": "6909091",
+      "title": "Senior Software Engineer, Ads",
+      "location": "Remote - United States",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:27-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6909091"
+    },
+    {
+      "id": "7488992",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "location": "New York City, NY",
+      "department": "Client Platforms",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-20T17:01:50-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7488992"
+    },
+    {
+      "id": "7488988",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "location": "Los Angeles, CA",
+      "department": "Client Platforms",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-20T17:01:50-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7488988"
+    },
+    {
+      "id": "7488991",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "location": "Chicago, IL",
+      "department": "Client Platforms",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-20T17:01:50-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7488991"
+    },
+    {
+      "id": "7488986",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "location": "San Francisco, CA",
+      "department": "Client Platforms",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-20T17:01:50-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7488986"
+    },
+    {
+      "id": "7488862",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "location": "Remote - United States",
+      "department": "Client Platforms",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-20T17:01:50-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7488862"
+    },
+    {
+      "id": "7753480",
+      "title": "Senior Software Engineer, GenAI Platform",
+      "location": "Remote - United States",
+      "department": "Safety",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-31T12:30:12-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7753480"
+    },
+    {
+      "id": "7624311",
+      "title": "Senior Staff Engineer, Ads",
+      "location": "Remote - United States",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-24T14:20:12-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7624311"
+    },
+    {
+      "id": "7628291",
+      "title": "Senior Staff Engineer, Cloud Economics",
+      "location": "Remote - United States",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-21T10:53:01-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7628291"
+    },
+    {
+      "id": "7791994",
+      "title": "Senior Staff Machine Learning Engineer, Feed Relevance",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-08T11:00:29-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7791994"
+    },
+    {
+      "id": "7772274",
+      "title": "Senior Staff Machine Learning Engineer, GenAI Platform",
+      "location": "Remote - United States",
+      "department": "BE Platform",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-01T10:44:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7772274"
+    },
+    {
+      "id": "7847148",
+      "title": "Senior Staff Machine Learning Engineer, ML Understanding",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-23T13:13:17-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7847148"
+    },
+    {
+      "id": "7833622",
+      "title": "Senior Staff ML Engineer, Search & Recommendation",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-20T15:08:31-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7833622"
+    },
+    {
+      "id": "7844238",
+      "title": "Senior Staff Software Engineer, Indexing & Retrieval Platform",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-22T19:54:50-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7844238"
+    },
+    {
+      "id": "7756924",
+      "title": "Senior, Tech Risk and AI Automation",
+      "location": "Remote - Ontario, Canada",
+      "department": "Internal Audit",
+      "offices": "Remote - Canada",
+      "updated_at": "2026-03-26T04:25:22-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7756924"
+    },
+    {
+      "id": "7758354",
+      "title": "Senior, Tech Risk and AI Automation",
+      "location": "Remote - British Columbia, Canada",
+      "department": "Internal Audit",
+      "offices": "Remote - Canada",
+      "updated_at": "2026-03-26T11:41:56-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7758354"
+    },
+    {
+      "id": "6909093",
+      "title": "Software Engineer",
+      "location": "Remote - Ontario, Canada",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:27-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6909093"
+    },
+    {
+      "id": "7767702",
+      "title": "Software Engineer III, Community Builders",
+      "location": "Remote - United States",
+      "department": "Safety Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-22T18:19:42-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7767702"
+    },
+    {
+      "id": "7761320",
+      "title": "Software Engineer, Product Catalogs",
+      "location": "Amsterdam, Netherlands",
+      "department": "Ads Engineering",
+      "offices": "Amsterdam",
+      "updated_at": "2026-03-30T06:44:46-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7761320"
+    },
+    {
+      "id": "7749131",
+      "title": "Sr. Data Science Manager - Ads Marketplace ",
+      "location": "Remote - Ontario, Canada",
+      "department": "Ads Data Science",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-25T10:26:14-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7749131"
+    },
+    {
+      "id": "7749073",
+      "title": "Sr. Data Science Manager - Ads Marketplace ",
+      "location": "Remote - United States",
+      "department": "Ads Data Science",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-25T10:26:15-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7749073"
+    },
+    {
+      "id": "7624178",
+      "title": "Sr. Director of Design, Member Experiences",
+      "location": "Remote - United States",
+      "department": "Consumer, Contributor, Moderator",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-01T03:21:40-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7624178"
+    },
+    {
+      "id": "7723688",
+      "title": "Sr. Payroll Manager ",
+      "location": "Remote - United States",
+      "department": "Corporate Accounting",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:34-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7723688"
+    },
+    {
+      "id": "7847270",
+      "title": "Staff Android Engineer, Brand Ad Formats",
+      "location": "Chicago, IL",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-23T12:35:41-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7847270"
+    },
+    {
+      "id": "7847266",
+      "title": "Staff Android Engineer, Brand Ad Formats",
+      "location": "Remote - United States",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-23T12:34:23-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7847266"
+    },
+    {
+      "id": "7847274",
+      "title": "Staff Android Engineer, Brand Ad Formats",
+      "location": "New York City, NY",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-23T12:35:42-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7847274"
+    },
+    {
+      "id": "7833380",
+      "title": "Staff Android Engineer (Clients Platform)",
+      "location": "New York City, NY",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-20T13:49:11-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7833380"
+    },
+    {
+      "id": "7825665",
+      "title": "Staff Android Engineer (Clients Platform)",
+      "location": "Remote - United States",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-20T13:49:05-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7825665"
+    },
+    {
+      "id": "7833378",
+      "title": "Staff Android Engineer (Clients Platform)",
+      "location": "San Francisco, CA",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-20T13:49:07-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7833378"
+    },
+    {
+      "id": "7833379",
+      "title": "Staff Android Engineer (Clients Platform)",
+      "location": "Chicago, IL",
+      "department": "Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-20T13:49:09-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7833379"
+    },
+    {
+      "id": "7761394",
+      "title": "Staff Android Engineer, Home Experience",
+      "location": "Remote - United States",
+      "department": "Consumer",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-27T11:46:07-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7761394"
+    },
+    {
+      "id": "7721787",
+      "title": "Staff Data Scientist, Ads",
+      "location": "Remote - United States",
+      "department": "Ads Data Science",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T18:12:25-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7721787"
+    },
+    {
+      "id": "7721851",
+      "title": "Staff Data Scientist, Ads",
+      "location": "Remote - British Columbia, Canada",
+      "department": "Ads Data Science",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T18:12:25-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7721851"
+    },
+    {
+      "id": "6745284",
+      "title": "Staff Data Scientist, Consumer",
+      "location": "Remote - United States",
+      "department": "Consumer Data Science",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-19T11:36:27-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6745284"
+    },
+    {
+      "id": "7687749",
+      "title": "Staff Engineer - Ads Trust, Fraud and Safety",
+      "location": "Remote - United States",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-24T18:17:28-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7687749"
+    },
+    {
+      "id": "7852824",
+      "title": "Staff Engineer, Ads Trust, Fraud and Safety",
+      "location": "Remote - British Columbia, Canada",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-24T18:17:19-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7852824"
+    },
+    {
+      "id": "7181821",
+      "title": "Staff Machine Learning Engineer, Ads Auction (Ads Marketplace Quality)",
+      "location": "Remote - United States",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:28-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7181821"
+    },
+    {
+      "id": "7851761",
+      "title": "Staff Machine Learning Engineer, Ads Content Understanding",
+      "location": "Remote - United States",
+      "department": "Ads Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-24T14:21:49-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7851761"
+    },
+    {
+      "id": "7747244",
+      "title": "Staff Machine Learning Engineer, Consumer ",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-09T02:06:10-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7747244"
+    },
+    {
+      "id": "7848689",
+      "title": "Staff Machine Learning Engineer, Developer Platform",
+      "location": "Remote - United States",
+      "department": "DevPlatform",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-27T10:16:59-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7848689"
+    },
+    {
+      "id": "7772523",
+      "title": "Staff Machine Learning Engineer, GenAI Platform",
+      "location": "Remote - United States",
+      "department": "BE Platform",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-01T10:45:07-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7772523"
+    },
+    {
+      "id": "7731788",
+      "title": "Staff Machine Learning Systems Engineer",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-19T11:36:34-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7731788"
+    },
+    {
+      "id": "7803856",
+      "title": "Staff Product Manager, Finance Applications",
+      "location": "Remote - United States",
+      "department": "Corporate Engineering",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-13T17:38:58-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7803856"
+    },
+    {
+      "id": "7696211",
+      "title": "Staff Revenue Accountant ",
+      "location": "Remote - United States",
+      "department": "Corporate Accounting",
+      "offices": "San Francisco",
+      "updated_at": "2026-03-19T11:36:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7696211"
+    },
+    {
+      "id": "6666410",
+      "title": "Staff Software Engineer, ML Search ",
+      "location": "Remote - United States",
+      "department": "Machine Learning",
+      "offices": "Remote - United States",
+      "updated_at": "2026-03-20T16:51:33-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6666410"
+    },
+    {
+      "id": "7336592",
+      "title": "Staff Systems Engineer, AI Enablement and Productivity Engineering",
+      "location": "Remote - United States",
+      "department": "Corporate Engineering",
+      "offices": "Remote - United States",
+      "updated_at": "2026-04-08T18:16:54-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7336592"
+    },
+    {
+      "id": "7572902",
+      "title": "Tax Planning Senior Manager",
+      "location": "Remote - United States",
+      "department": "Tax & Strategic Sourcing",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-22T16:18:27-04:00",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7572902"
+    }
+  ]
+}

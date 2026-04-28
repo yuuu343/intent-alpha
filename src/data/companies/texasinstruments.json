@@ -1,0 +1,14 @@
+{
+  "slug": "texasinstruments",
+  "name": "Texas Instruments",
+  "website": "https://www.ti.com",
+  "sector": "Analog Semiconductors",
+  "headquarters": "Dallas, TX",
+  "description": "Analog and embedded processing chips, broad industrial / automotive exposure.",
+  "ats": "workday",
+  "workday": {
+    "host": "ti.wd5.myworkdayjobs.com",
+    "tenant": "TI",
+    "site": "ExternalCareerSite"
+  }
+}

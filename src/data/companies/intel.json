@@ -1,0 +1,14 @@
+{
+  "slug": "intel",
+  "name": "Intel",
+  "website": "https://www.intel.com",
+  "sector": "Semiconductors / Foundry",
+  "headquarters": "Santa Clara, CA",
+  "description": "CPUs, foundry services (IFS), Mobileye, Habana AI accelerators. Pivoting to advanced-node external manufacturing.",
+  "ats": "workday",
+  "workday": {
+    "host": "intel.wd1.myworkdayjobs.com",
+    "tenant": "intel",
+    "site": "External"
+  }
+}

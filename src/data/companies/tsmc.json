@@ -1,0 +1,10 @@
+{
+  "slug": "tsmc",
+  "name": "TSMC",
+  "website": "https://www.tsmc.com",
+  "sector": "Foundry",
+  "headquarters": "Hsinchu, Taiwan",
+  "description": "World-largest pure-play semiconductor foundry; manufactures advanced-node chips for Apple, NVIDIA, AMD, Qualcomm.",
+  "ats": "custom",
+  "customNote": "career.tsmc.com — custom regional system"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "reddit",
+  "name": "Reddit",
+  "website": "https://www.reddit.com",
+  "sector": "Social",
+  "headquarters": "San Francisco, CA",
+  "description": "Discussion network with ad business, post-IPO public company; data licensing to AI labs.",
+  "ats": "greenhouse",
+  "atsIdentifier": "reddit"
+}

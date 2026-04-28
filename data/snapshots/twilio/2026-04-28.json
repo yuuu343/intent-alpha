@@ -1,0 +1,1314 @@
+{
+  "company": "twilio",
+  "ats": "greenhouse",
+  "atsIdentifier": "twilio",
+  "fetchedAt": "2026-04-28T04:52:02.744Z",
+  "count": 145,
+  "jobs": [
+    {
+      "id": "7602254",
+      "title": "Account Executive 4",
+      "location": "Remote - Brazil",
+      "department": "Sales",
+      "offices": "Remote - Brazil",
+      "updated_at": "2026-04-27T10:34:00-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7602254"
+    },
+    {
+      "id": "7759873",
+      "title": "Account Executive 4 (German Speaking) ",
+      "location": "Remote - United Kingdom",
+      "department": "Sales",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:31:32-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7759873"
+    },
+    {
+      "id": "7745949",
+      "title": "Account Executive 4 - New Business",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-26T07:09:08-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7745949"
+    },
+    {
+      "id": "7748959",
+      "title": "Analyst Relations Intern",
+      "location": "Remote - US",
+      "department": "Students",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-24T08:10:26-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7748959"
+    },
+    {
+      "id": "7229383",
+      "title": "Android Engineer - P3 - Security + Identity",
+      "location": "Remote - US",
+      "department": "Security",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7229383"
+    },
+    {
+      "id": "7781652",
+      "title": "Applications Engineer 2",
+      "location": "Remote - India",
+      "department": "Sales Operations",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:30:19-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7781652"
+    },
+    {
+      "id": "7646270",
+      "title": "Applications Engineer 2",
+      "location": "Remote - India",
+      "department": "Sales Operations",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:32:59-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7646270"
+    },
+    {
+      "id": "7254399",
+      "title": "Business Systems Analyst 2",
+      "location": "Remote - India",
+      "department": "Services",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:35:46-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7254399"
+    },
+    {
+      "id": "7484699",
+      "title": "Cloud Software Engineer",
+      "location": "Remote - Ireland",
+      "department": "Engineering",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:35:06-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7484699"
+    },
+    {
+      "id": "7722115",
+      "title": "Compliance Operations Specialist 1",
+      "location": "Remote - Colombia",
+      "department": "Services",
+      "offices": "Remote - Colombia",
+      "updated_at": "2026-04-27T10:29:52-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7722115"
+    },
+    {
+      "id": "7819466",
+      "title": "Counsel, Commercial",
+      "location": "Remote - Australia",
+      "department": "Legal",
+      "offices": "Remote - Australia",
+      "updated_at": "2026-04-27T10:29:09-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7819466"
+    },
+    {
+      "id": "7548056",
+      "title": "Counsel, Commercial",
+      "location": "Remote - US",
+      "department": "Legal",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-24T11:59:34-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7548056"
+    },
+    {
+      "id": "7818577",
+      "title": "Delivery Project Manager 3",
+      "location": "Remote - Colombia",
+      "department": "Services",
+      "offices": "Remote - Colombia",
+      "updated_at": "2026-04-27T10:29:19-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7818577"
+    },
+    {
+      "id": "7728956",
+      "title": "Developer Advocacy Intern",
+      "location": "Remote - US",
+      "department": "Students",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-23T09:23:33-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7728956"
+    },
+    {
+      "id": "7668479",
+      "title": "Digital Sales Representative",
+      "location": "Remote - Ireland",
+      "department": "Sales",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:32:44-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7668479"
+    },
+    {
+      "id": "7688855",
+      "title": "Digital Sales Representative",
+      "location": "Remote - Ireland",
+      "department": "Sales",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:29:37-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7688855"
+    },
+    {
+      "id": "7620973",
+      "title": "Digital Sales Representative - Expansion",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:44-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7620973"
+    },
+    {
+      "id": "7819432",
+      "title": "Director, GTM Business Architecture",
+      "location": "Remote - US",
+      "department": "Sales Operations",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-17T13:16:05-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7819432"
+    },
+    {
+      "id": "7705877",
+      "title": "Director of North America, Pre-Sales Platform Specialists",
+      "location": "Remote - US",
+      "department": "Overlay/Specialist Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-22T16:47:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7705877"
+    },
+    {
+      "id": "7565884",
+      "title": "Director, Product Management",
+      "location": "Remote - US",
+      "department": "Product Management",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-23T18:22:03-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7565884"
+    },
+    {
+      "id": "7783164",
+      "title": "Enablement Business Partner, SDR (Sales Development Representatives)",
+      "location": "Remote - Canada",
+      "department": "Sales",
+      "offices": "Remote - Alberta, Canada",
+      "updated_at": "2026-04-27T10:27:14-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7783164"
+    },
+    {
+      "id": "7657991",
+      "title": "Engineer, Identity & Access",
+      "location": "Remote - India",
+      "department": "IT",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:32:32-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7657991"
+    },
+    {
+      "id": "7759869",
+      "title": "Enterprise Account Executive",
+      "location": "Remote - United Kingdom",
+      "department": "Sales",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-15T11:45:11-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7759869"
+    },
+    {
+      "id": "7845785",
+      "title": "Enterprise Account Executive ",
+      "location": "Remote - United Kingdom",
+      "department": "Sales",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:27:46-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7845785"
+    },
+    {
+      "id": "7805150",
+      "title": "Field Marketing Specialist, ANZ",
+      "location": "Remote - Australia",
+      "department": "Marketing",
+      "offices": "Remote - Australia",
+      "updated_at": "2026-04-27T10:26:56-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7805150"
+    },
+    {
+      "id": "7825961",
+      "title": "Global Events Manager, Flagship Events",
+      "location": "Remote - US",
+      "department": "Marketing",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-17T15:35:16-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7825961"
+    },
+    {
+      "id": "7808464",
+      "title": "Global Security Operations Center Operator",
+      "location": "Remote - US",
+      "department": "Security",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-24T10:40:01-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7808464"
+    },
+    {
+      "id": "7823588",
+      "title": "Go-to-market Analyst Intern (June 22nd start, 12 weeks)",
+      "location": "Remote - US",
+      "department": "Students",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-24T11:36:54-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7823588"
+    },
+    {
+      "id": "7835625",
+      "title": "Graphic Design Intern (June 22nd start, 12 weeks)",
+      "location": "Remote - US",
+      "department": "Students",
+      "offices": "Remote - Alberta, Canada",
+      "updated_at": "2026-04-21T05:31:00-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7835625"
+    },
+    {
+      "id": "7848921",
+      "title": "HRBP Director, Global Sales ",
+      "location": "Remote - US",
+      "department": "People Team",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-27T02:17:30-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7848921"
+    },
+    {
+      "id": "7435334",
+      "title": "HRBP Director, Product Management",
+      "location": "Remote - US",
+      "department": "People Team",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7435334"
+    },
+    {
+      "id": "7059734",
+      "title": "Machine Learning Engineer",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-23T23:11:22-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7059734"
+    },
+    {
+      "id": "7702644",
+      "title": "Machine Learning Engineer",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-16T13:03:11-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7702644"
+    },
+    {
+      "id": "7813302",
+      "title": "Manager, Personalized Support",
+      "location": "Remote - Colombia",
+      "department": "Customer Support",
+      "offices": "Remote - Colombia",
+      "updated_at": "2026-04-27T10:28:21-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7813302"
+    },
+    {
+      "id": "7839711",
+      "title": "Manager, Personalized Support",
+      "location": "Remote - Colombia",
+      "department": "Customer Support",
+      "offices": "Remote - Colombia",
+      "updated_at": "2026-04-27T10:26:20-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7839711"
+    },
+    {
+      "id": "7834116",
+      "title": "Manager, Sales Support Specialists",
+      "location": "Remote - United Kingdom",
+      "department": "Sales Operations",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:26:26-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7834116"
+    },
+    {
+      "id": "7736720",
+      "title": "Marketing Analytics Automation & Enablement Manager",
+      "location": "Remote - US",
+      "department": "Marketing",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:46-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7736720"
+    },
+    {
+      "id": "7622280",
+      "title": "MDM Data Specialist",
+      "location": "Remote - Colombia",
+      "department": "Business Intelligence",
+      "offices": "Remote - Colombia",
+      "updated_at": "2026-04-27T10:30:38-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7622280"
+    },
+    {
+      "id": "7515753",
+      "title": "New Business Account Executive",
+      "location": "Remote - Japan",
+      "department": "Sales",
+      "offices": "Remote - Japan",
+      "updated_at": "2026-04-27T10:34:31-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7515753"
+    },
+    {
+      "id": "6372770",
+      "title": "New Business Account Executive ",
+      "location": "Remote - Singapore",
+      "department": "Sales",
+      "offices": "Remote - Singapore",
+      "updated_at": "2026-04-13T10:25:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/6372770"
+    },
+    {
+      "id": "7761269",
+      "title": "Onboarding Operations Specialist 1",
+      "location": "Remote - Colombia",
+      "department": "Services",
+      "offices": "Remote - Colombia",
+      "updated_at": "2026-04-27T10:30:53-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7761269"
+    },
+    {
+      "id": "7746362",
+      "title": "Onboarding Operations Specialist 1",
+      "location": "Remote - India",
+      "department": "Customer Support",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:29:28-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7746362"
+    },
+    {
+      "id": "7811450",
+      "title": "Partner Alliance Manager",
+      "location": "Remote - United Kingdom",
+      "department": "Partners",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:29:12-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7811450"
+    },
+    {
+      "id": "7659776",
+      "title": "Partner Solutions Architect",
+      "location": "Remote - United Kingdom",
+      "department": "Solutions Engineering",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-22T11:32:37-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7659776"
+    },
+    {
+      "id": "7659831",
+      "title": "Partner Solutions Architect",
+      "location": "Remote - Brazil",
+      "department": "Partners",
+      "offices": "Remote - Brazil",
+      "updated_at": "2026-04-13T10:25:45-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7659831"
+    },
+    {
+      "id": "7826394",
+      "title": "Payroll Analyst II",
+      "location": "Mexico City, Mexico",
+      "department": "Finance",
+      "offices": "Remote - Mexico",
+      "updated_at": "2026-04-27T10:28:14-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7826394"
+    },
+    {
+      "id": "7722119",
+      "title": "Phone Numbers Operations Specialist 1",
+      "location": "Remote - Colombia",
+      "department": "Services",
+      "offices": "Remote - Colombia",
+      "updated_at": "2026-04-27T10:30:09-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7722119"
+    },
+    {
+      "id": "7350846",
+      "title": "Presales Engineer",
+      "location": "Remote - United Kingdom",
+      "department": "Solutions Engineering",
+      "offices": "Remote - Spain",
+      "updated_at": "2026-04-27T10:35:32-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7350846"
+    },
+    {
+      "id": "7811868",
+      "title": "Principal Engineer",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-27T18:54:45-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7811868"
+    },
+    {
+      "id": "7155492",
+      "title": "Principal Machine Learning & Data Engineer ",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7155492"
+    },
+    {
+      "id": "7452089",
+      "title": "Principal Presales Engineer",
+      "location": "Remote - Japan",
+      "department": "Solutions Engineering",
+      "offices": "Remote - Japan",
+      "updated_at": "2026-04-27T10:35:36-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7452089"
+    },
+    {
+      "id": "7837829",
+      "title": "Principal Product Manager",
+      "location": "Remote - US",
+      "department": "Product Management",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-27T18:56:37-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7837829"
+    },
+    {
+      "id": "7851194",
+      "title": "Principal Product Manager",
+      "location": "Remote - US",
+      "department": "Product Management",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-27T18:57:35-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7851194"
+    },
+    {
+      "id": "7619420",
+      "title": "Principal, Product Manager - AI / LLM",
+      "location": "Remote - US",
+      "department": "Product Management",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-27T18:58:08-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7619420"
+    },
+    {
+      "id": "7707970",
+      "title": "Principal, Technical Program Management (Research & Development)",
+      "location": "Remote - US",
+      "department": "Program Management (Project, Program, Agile, Technical)",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:45-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7707970"
+    },
+    {
+      "id": "7671815",
+      "title": "Product Engineer (Backend)",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-21T13:47:52-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7671815"
+    },
+    {
+      "id": "7424471",
+      "title": "Product Manager 3",
+      "location": "Bengaluru, India",
+      "department": "Product Management",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:35:18-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7424471"
+    },
+    {
+      "id": "7758529",
+      "title": "Recruiter",
+      "location": "Remote - Japan",
+      "department": "People Team",
+      "offices": "Remote - Japan",
+      "updated_at": "2026-04-27T10:29:21-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7758529"
+    },
+    {
+      "id": "7833997",
+      "title": "Regulatory and Inventory Operations Engineer (Fluent Japanese Speaker)",
+      "location": "Remote - Estonia",
+      "department": "Service Operations",
+      "offices": "Remote - Estonia",
+      "updated_at": "2026-04-27T10:28:01-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7833997"
+    },
+    {
+      "id": "7662329",
+      "title": "Sales Development Representative",
+      "location": "Remote - Ireland",
+      "department": "Sales",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:31:14-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7662329"
+    },
+    {
+      "id": "7481689",
+      "title": "Sales Development Representative",
+      "location": "Remote - US",
+      "department": "Sales Development",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:44-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7481689"
+    },
+    {
+      "id": "7781657",
+      "title": "Salesforce Technical Administrator",
+      "location": "Remote - Canada",
+      "department": "Solutions Engineering",
+      "offices": "Remote - British Columbia, Canada",
+      "updated_at": "2026-04-27T10:26:49-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7781657"
+    },
+    {
+      "id": "7702445",
+      "title": "Sales Operations Planning Manager",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:45-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7702445"
+    },
+    {
+      "id": "7818804",
+      "title": "Sales Support Specialist Manager",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-22T15:44:46-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7818804"
+    },
+    {
+      "id": "7599044",
+      "title": "Security Compliance & Regulatory Affairs Analyst",
+      "location": "Remote - Canada",
+      "department": "Security",
+      "offices": "Remote - Alberta, Canada",
+      "updated_at": "2026-04-27T10:34:03-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7599044"
+    },
+    {
+      "id": "7600641",
+      "title": "Senior Accountant, Operational Revenue Accounting",
+      "location": "Remote - Canada",
+      "department": "Finance",
+      "offices": "Remote - Ontario, Canada",
+      "updated_at": "2026-04-27T10:33:57-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7600641"
+    },
+    {
+      "id": "7807737",
+      "title": "Senior Business System Analyst, Salesforce",
+      "location": "Remote - Canada",
+      "department": "IT",
+      "offices": "Remote - Ontario, Canada",
+      "updated_at": "2026-04-27T10:26:53-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7807737"
+    },
+    {
+      "id": "7643551",
+      "title": "Senior Business Systems Analyst",
+      "location": "Remote - US",
+      "department": "People Team",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-27T03:04:55-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7643551"
+    },
+    {
+      "id": "7807419",
+      "title": "Senior Cloud Software Engineer",
+      "location": "Remote - Spain",
+      "department": "Engineering",
+      "offices": "Remote - Spain",
+      "updated_at": "2026-04-27T10:28:34-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7807419"
+    },
+    {
+      "id": "7622278",
+      "title": "Senior Engineer, Offensive Security",
+      "location": "Remote - India",
+      "department": "Security",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:30:36-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7622278"
+    },
+    {
+      "id": "7247707",
+      "title": "Senior Engineer, Security Automation",
+      "location": "Remote - United Kingdom",
+      "department": "Security",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:35:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7247707"
+    },
+    {
+      "id": "7206764",
+      "title": "Senior Engineer, Security Automation",
+      "location": "Remote - Ireland",
+      "department": "Security",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:35:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7206764"
+    },
+    {
+      "id": "7474040",
+      "title": "Senior Infrastructure Engineer",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-20T13:13:31-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7474040"
+    },
+    {
+      "id": "7531453",
+      "title": "Senior Manager - Billing and Revenue (Q2C)",
+      "location": "Remote - India",
+      "department": "People Team",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-23T06:57:03-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7531453"
+    },
+    {
+      "id": "7805163",
+      "title": "Senior Manager, Developer Evangelism",
+      "location": "Remote - US",
+      "department": "Marketing",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-16T11:21:22-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7805163"
+    },
+    {
+      "id": "7814928",
+      "title": "Senior Manager, GTM Center of Excellence",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-22T21:52:41-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7814928"
+    },
+    {
+      "id": "7066029",
+      "title": "Senior Manager, Machine Learning",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-22T15:58:52-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7066029"
+    },
+    {
+      "id": "7755317",
+      "title": "Senior Manager, Platform Engineering - Secure Supply Chain",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - British Columbia, Canada",
+      "updated_at": "2026-04-18T15:23:09-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7755317"
+    },
+    {
+      "id": "7382645",
+      "title": "Senior Manager, Strat Accounts - RoA",
+      "location": "Remote - Singapore",
+      "department": "Sales",
+      "offices": "Remote - Singapore",
+      "updated_at": "2026-04-13T10:25:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7382645"
+    },
+    {
+      "id": "7657993",
+      "title": "Senior Network Engineer",
+      "location": "Remote - India",
+      "department": "IT",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:33:29-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7657993"
+    },
+    {
+      "id": "7659834",
+      "title": "Senior Partner Alliance Manager",
+      "location": "Remote - Mexico",
+      "department": "Sales",
+      "offices": "Remote - Mexico",
+      "updated_at": "2026-04-13T10:25:45-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7659834"
+    },
+    {
+      "id": "7707977",
+      "title": "Senior Principal, Technical Program Management (Research & Development)",
+      "location": "Remote - US",
+      "department": "Program Management (Project, Program, Agile, Technical)",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:45-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7707977"
+    },
+    {
+      "id": "7664688",
+      "title": "Senior Product Marketing Manager, Data",
+      "location": "Remote - US",
+      "department": "Marketing",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:45-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7664688"
+    },
+    {
+      "id": "7821487",
+      "title": "Senior Sales System Engineer 3",
+      "location": "Remote - Alberta, Canada (DNU)",
+      "department": "Sales Operations",
+      "offices": "Remote - Alberta, Canada",
+      "updated_at": "2026-04-27T10:27:19-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7821487"
+    },
+    {
+      "id": "7535345",
+      "title": "Senior Software Engineer",
+      "location": "Remote - Spain",
+      "department": "Engineering",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:33:49-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7535345"
+    },
+    {
+      "id": "7595407",
+      "title": "Senior Software Engineer",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-23T12:04:16-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7595407"
+    },
+    {
+      "id": "7662058",
+      "title": "Senior Software Engineer",
+      "location": "Remote - United Kingdom",
+      "department": "Engineering",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:31:36-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7662058"
+    },
+    {
+      "id": "7747554",
+      "title": "Senior Software Engineer",
+      "location": "Remote - Ireland",
+      "department": "Engineering",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:29:25-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7747554"
+    },
+    {
+      "id": "7394811",
+      "title": "Senior Software Engineer- Video Signalling ",
+      "location": "Remote - Ireland",
+      "department": "Engineering",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:34:56-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7394811"
+    },
+    {
+      "id": "7511486",
+      "title": "Senior Solutions Engineer 3",
+      "location": "Remote - Australia; Remote - Japan; Remote - Singapore",
+      "department": "Solutions Engineering",
+      "offices": "Remote - Singapore",
+      "updated_at": "2026-04-27T10:34:27-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7511486"
+    },
+    {
+      "id": "7600886",
+      "title": "Senior Strategic Account Executive",
+      "location": "Remote - Singapore",
+      "department": "Sales",
+      "offices": "Remote - Singapore",
+      "updated_at": "2026-04-13T10:25:44-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7600886"
+    },
+    {
+      "id": "7588505",
+      "title": "Senior Strategic Account Executive",
+      "location": "Remote - Singapore",
+      "department": "Sales",
+      "offices": "Remote - Singapore",
+      "updated_at": "2026-04-13T10:25:44-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7588505"
+    },
+    {
+      "id": "7700603",
+      "title": "Senior Strategic Account Executive - ISV",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-26T06:38:28-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7700603"
+    },
+    {
+      "id": "7772687",
+      "title": "Senior Tax Accountant",
+      "location": "Remote - Ireland",
+      "department": "Finance",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:32:34-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7772687"
+    },
+    {
+      "id": "7743247",
+      "title": "Senior Value Engineer",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:46-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7743247"
+    },
+    {
+      "id": "7705692",
+      "title": "Senior Zendesk Business Systems Analyst",
+      "location": "Remote - Canada",
+      "department": "Engineering",
+      "offices": "Remote - Ontario, Canada",
+      "updated_at": "2026-04-27T10:28:50-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7705692"
+    },
+    {
+      "id": "7843483",
+      "title": "Social Media Manager",
+      "location": "Remote - US",
+      "department": "Marketing",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-22T21:42:29-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7843483"
+    },
+    {
+      "id": "7697439",
+      "title": "Social Media Specialist",
+      "location": "Remote - US",
+      "department": "Marketing",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:45-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7697439"
+    },
+    {
+      "id": "7658259",
+      "title": "Software Architect, Reliability Engineering",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-13T10:25:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7658259"
+    },
+    {
+      "id": "7605743",
+      "title": "Software Engineer",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-13T10:25:44-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7605743"
+    },
+    {
+      "id": "7647708",
+      "title": "Software Engineer",
+      "location": "Remote - Estonia",
+      "department": "Engineering",
+      "offices": "Remote - Estonia",
+      "updated_at": "2026-04-27T10:31:44-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7647708"
+    },
+    {
+      "id": "7699251",
+      "title": "Software Engineer",
+      "location": "Remote - Estonia",
+      "department": "Engineering",
+      "offices": "Remote - Estonia",
+      "updated_at": "2026-04-27T10:29:56-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7699251"
+    },
+    {
+      "id": "7747550",
+      "title": "Software Engineer",
+      "location": "Remote - Ireland",
+      "department": "Engineering",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:29:15-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7747550"
+    },
+    {
+      "id": "7785202",
+      "title": "Software Engineer ",
+      "location": "Remote - Ireland",
+      "department": "Engineering",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:27:10-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7785202"
+    },
+    {
+      "id": "7846633",
+      "title": "Software Engineer ",
+      "location": "Remote - Spain",
+      "department": "Engineering",
+      "offices": "Remote - Spain",
+      "updated_at": "2026-04-27T10:26:12-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7846633"
+    },
+    {
+      "id": "7822831",
+      "title": "Software Engineer ",
+      "location": "Remote - Ireland",
+      "department": "Engineering",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:27:30-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7822831"
+    },
+    {
+      "id": "7850821",
+      "title": "Software Engineer Intern (22nd June - 11th September, remote-US)",
+      "location": "Remote - US",
+      "department": "Students",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-24T12:41:10-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7850821"
+    },
+    {
+      "id": "7188174",
+      "title": "Software Engineer (L2)",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-16T18:10:08-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7188174"
+    },
+    {
+      "id": "7301401",
+      "title": "Software Engineer (L3)",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-17T12:17:50-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7301401"
+    },
+    {
+      "id": "7767260",
+      "title": "Software Engineer (L3) Infrastructure",
+      "location": "Remote - Canada",
+      "department": "Engineering",
+      "offices": "Remote - British Columbia, Canada",
+      "updated_at": "2026-04-27T10:31:48-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7767260"
+    },
+    {
+      "id": "7736722",
+      "title": "Sr. Analyst, Strategic Measurement",
+      "location": "Remote - Canada",
+      "department": "Marketing",
+      "offices": "Remote - Ontario, Canada",
+      "updated_at": "2026-04-27T10:30:03-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7736722"
+    },
+    {
+      "id": "7374339",
+      "title": "Sr Manager, Solutions Engineering",
+      "location": "Remote - Singapore",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Singapore",
+      "updated_at": "2026-04-13T10:25:43-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7374339"
+    },
+    {
+      "id": "7551660",
+      "title": "Staff Analytics Engineer",
+      "location": "Remote - US",
+      "department": "Ops (Fraud, Compliance, Biz, Prod, Analyst)",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-24T12:01:19-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7551660"
+    },
+    {
+      "id": "7821462",
+      "title": "Staff Engineer, AI Security",
+      "location": "Remote - Ireland",
+      "department": "Security",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:27:40-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7821462"
+    },
+    {
+      "id": "7622285",
+      "title": "Staff Engineer, Offensive Security",
+      "location": "Remote - Ireland",
+      "department": "Security",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:30:45-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7622285"
+    },
+    {
+      "id": "7061880",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-20T23:45:56-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7061880"
+    },
+    {
+      "id": "7520997",
+      "title": "Staff Machine Learning Engineer (L4)",
+      "location": "Remote - India",
+      "department": "Engineering",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:34:17-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997"
+    },
+    {
+      "id": "7424250",
+      "title": "Staff Product Manager",
+      "location": "Bengaluru, India",
+      "department": "Product Management",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:35:10-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7424250"
+    },
+    {
+      "id": "7821526",
+      "title": "Staff, Product Manager",
+      "location": "Remote - US",
+      "department": "Product Management",
+      "offices": "Remote - British Columbia, Canada",
+      "updated_at": "2026-04-27T10:28:38-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7821526"
+    },
+    {
+      "id": "7818178",
+      "title": "Staff, Product Manager",
+      "location": "Remote - Canada",
+      "department": "Product Management",
+      "offices": "Remote - British Columbia, Canada",
+      "updated_at": "2026-04-27T10:28:38-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7818178"
+    },
+    {
+      "id": "7171180",
+      "title": "Staff Product Manager - Core Commerce Platform",
+      "location": "Remote - Canada",
+      "department": "Product Management",
+      "offices": "Remote - Ontario, Canada",
+      "updated_at": "2026-04-27T10:35:50-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7171180"
+    },
+    {
+      "id": "7593382",
+      "title": "Staff Product Manager - Data Platforms",
+      "location": "Remote - US",
+      "department": "Product Management",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-27T19:11:47-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7593382"
+    },
+    {
+      "id": "7716279",
+      "title": "Staff Software Engineer (L4)",
+      "location": "Remote - Colombia",
+      "department": "IT",
+      "offices": "Remote - Colombia",
+      "updated_at": "2026-04-27T10:28:28-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7716279"
+    },
+    {
+      "id": "7714237",
+      "title": "Staff Software Engineer (L4)",
+      "location": "Remote - Canada",
+      "department": "IT",
+      "offices": "Remote - Ontario, Canada",
+      "updated_at": "2026-04-27T10:28:42-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7714237"
+    },
+    {
+      "id": "7782805",
+      "title": "Staff Software Engineer (L4) Data Platform",
+      "location": "Remote - US",
+      "department": "Engineering",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:46-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7782805"
+    },
+    {
+      "id": "7668241",
+      "title": "Strategic Account Executive",
+      "location": "Remote - Australia",
+      "department": "Sales",
+      "offices": "Remote - Australia",
+      "updated_at": "2026-04-27T10:32:54-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7668241"
+    },
+    {
+      "id": "7640995",
+      "title": "Strategic Account Executive ",
+      "location": "Remote - Spain",
+      "department": "Sales",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:33:11-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7640995"
+    },
+    {
+      "id": "7735455",
+      "title": "Strategic Account Executive 3",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:46-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7735455"
+    },
+    {
+      "id": "7736162",
+      "title": "Strategic Account Executive 3",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:46-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7736162"
+    },
+    {
+      "id": "7818802",
+      "title": "Strategic Account Executive 3",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-25T03:48:52-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7818802"
+    },
+    {
+      "id": "7834208",
+      "title": "Strategic Account Executive 4",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-26T06:45:04-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7834208"
+    },
+    {
+      "id": "7607358",
+      "title": "Strategic Account Executive 4",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-24T19:45:13-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7607358"
+    },
+    {
+      "id": "7768645",
+      "title": "Strategic Account Executive 4",
+      "location": "Remote - US",
+      "department": "Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-13T10:25:46-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7768645"
+    },
+    {
+      "id": "7746329",
+      "title": "Strategic Account Executive 4",
+      "location": "Remote - US",
+      "department": "Mid-Market Sales",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-21T09:33:20-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7746329"
+    },
+    {
+      "id": "7845781",
+      "title": "Strategic Account Executive (German Speaking) ",
+      "location": "Remote - United Kingdom",
+      "department": "Sales",
+      "offices": "Remote - United Kingdom",
+      "updated_at": "2026-04-27T10:26:08-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7845781"
+    },
+    {
+      "id": "7837168",
+      "title": "System Ops Administrator 2",
+      "location": "Remote - Canada",
+      "department": "Sales Operations",
+      "offices": "Remote - Alberta, Canada",
+      "updated_at": "2026-04-27T10:26:22-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7837168"
+    },
+    {
+      "id": "7837170",
+      "title": "Systems Ops Administrator",
+      "location": "Remote - India",
+      "department": "Services",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:28:05-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7837170"
+    },
+    {
+      "id": "7815483",
+      "title": "Technical Account Manager 3",
+      "location": "Remote - Colombia",
+      "department": "Customer Support",
+      "offices": "Remote - Colombia",
+      "updated_at": "2026-04-27T10:29:04-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7815483"
+    },
+    {
+      "id": "7807739",
+      "title": "Technical Administrator 2",
+      "location": "Remote - India",
+      "department": "Solutions Engineering",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:26:59-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7807739"
+    },
+    {
+      "id": "7821489",
+      "title": "Technical Program Manager (P4)",
+      "location": "Remote - Alberta, Canada (DNU)",
+      "department": "Program Management (Project, Program, Agile, Technical)",
+      "offices": "Remote - Alberta, Canada",
+      "updated_at": "2026-04-27T10:27:23-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7821489"
+    },
+    {
+      "id": "7761378",
+      "title": "Technical Support Engineer",
+      "location": "Remote - Ireland",
+      "department": "Customer Support",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:31:05-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7761378"
+    },
+    {
+      "id": "7349692",
+      "title": "Technical Support Engineer 2 (Email Infra)",
+      "location": "Remote - India",
+      "department": "Customer Support",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-27T10:35:21-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7349692"
+    },
+    {
+      "id": "7748961",
+      "title": "Technical Video Content Intern, Developer Ecosystem",
+      "location": "Remote - US",
+      "department": "Students",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-24T08:12:04-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7748961"
+    },
+    {
+      "id": "7772685",
+      "title": "Transfer Pricing Manager",
+      "location": "Remote - Ireland",
+      "department": "Finance",
+      "offices": "Remote - Ireland",
+      "updated_at": "2026-04-27T10:31:58-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7772685"
+    },
+    {
+      "id": "7748964",
+      "title": "Video Producer Intern",
+      "location": "Remote - US",
+      "department": "Students",
+      "offices": "Remote - US",
+      "updated_at": "2026-04-24T08:11:25-04:00",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7748964"
+    }
+  ]
+}

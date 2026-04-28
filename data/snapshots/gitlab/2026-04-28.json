@@ -1,0 +1,1818 @@
+{
+  "company": "gitlab",
+  "ats": "greenhouse",
+  "atsIdentifier": "gitlab",
+  "fetchedAt": "2026-04-28T04:52:01.996Z",
+  "count": 201,
+  "jobs": [
+    {
+      "id": "8503792002",
+      "title": "Account Executive - Italy",
+      "location": "Remote",
+      "department": "EMEA - Commercial",
+      "offices": "Italy",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8503792002"
+    },
+    {
+      "id": "8481922002",
+      "title": "Backend Engineer, Analytics Instrumentation (Golang)",
+      "location": "Remote, India",
+      "department": "Data Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481922002"
+    },
+    {
+      "id": "8481929002",
+      "title": "Backend Engineer, Analytics Instrumentation (Golang)   ",
+      "location": "Remote, India",
+      "department": "Data Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481929002"
+    },
+    {
+      "id": "8437754002",
+      "title": "Backend Engineer, Knowledge Graph (Rust)",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Data Engineering",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8437754002"
+    },
+    {
+      "id": "8481958002",
+      "title": "Backend Engineer, Knowledge Graph (Rust)",
+      "location": "Remote, India",
+      "department": "Data Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481958002"
+    },
+    {
+      "id": "8497108002",
+      "title": "Business Development Representative - East ",
+      "location": "Remote, North America",
+      "department": "Sales Development",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497108002"
+    },
+    {
+      "id": "8472287002",
+      "title": "Business Development Representative, German Speaking",
+      "location": "Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+      "department": "Sales Development",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8472287002"
+    },
+    {
+      "id": "8472427002",
+      "title": "Business Development Representative - Nordics",
+      "location": "Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+      "department": "Sales Development",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8472427002"
+    },
+    {
+      "id": "8521684002",
+      "title": "Candidate Experience Specialist, Contractor ",
+      "location": "Remote, Singapore",
+      "department": "Talent Acquisition",
+      "offices": "Singapore",
+      "updated_at": "2026-04-27T11:17:53-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8521684002"
+    },
+    {
+      "id": "8446714002",
+      "title": "Commercial Account Executive - DACH",
+      "location": "Remote, Germany",
+      "department": "EMEA - Commercial",
+      "offices": "Germany",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8446714002"
+    },
+    {
+      "id": "8496033002",
+      "title": "Commercial Account Executive, Indonesia",
+      "location": "Remote, Singapore",
+      "department": "APAC - Commercial",
+      "offices": "Singapore",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8496033002"
+    },
+    {
+      "id": "8368613002",
+      "title": "Commercial Account Executive - Key Accounts, Nordics",
+      "location": "Remote, Sweden",
+      "department": "EMEA - Commercial",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8368613002"
+    },
+    {
+      "id": "8448368002",
+      "title": "Commercial Account Executive - Mid Market, Greece",
+      "location": "Remote, EMEA; Remote, Europe-North/Central; Remote, France; Remote, Germany; Remote, United Kingdom",
+      "department": "EMEA - Commercial",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8448368002"
+    },
+    {
+      "id": "8434190002",
+      "title": "Commercial Account Executive, Mid-Market - US West",
+      "location": "Remote, US",
+      "department": "AMER - Commercial",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8434190002"
+    },
+    {
+      "id": "8489184002",
+      "title": "Commercial Account Executive - Named, Canada",
+      "location": "Remote, Canada",
+      "department": "AMER - Commercial",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8489184002"
+    },
+    {
+      "id": "8436336002",
+      "title": "Commercial Account Executive, Named - East ",
+      "location": "Remote, US",
+      "department": "AMER - Commercial",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8436336002"
+    },
+    {
+      "id": "8478897002",
+      "title": "Commercial Account Executive, Named - US West",
+      "location": "Remote, US",
+      "department": "AMER - Commercial",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478897002"
+    },
+    {
+      "id": "8478614002",
+      "title": "Customer Success Architect - Federal Government ",
+      "location": "Remote, Australia",
+      "department": "Customer Success",
+      "offices": "Australia",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478614002"
+    },
+    {
+      "id": "8498481002",
+      "title": "Customer Success Engineer",
+      "location": "Remote",
+      "department": "Customer Success",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8498481002"
+    },
+    {
+      "id": "8476852002",
+      "title": "Customer Success Engineer, EMEA",
+      "location": "Remote, Germany; Remote, Ireland; Remote, United Kingdom",
+      "department": "Customer Success",
+      "offices": "EMEA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8476852002"
+    },
+    {
+      "id": "8497728002",
+      "title": "Customer Success Engineer - Japan",
+      "location": "Remote, Japan",
+      "department": "Customer Success",
+      "offices": "Japan",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497728002"
+    },
+    {
+      "id": "8419875002",
+      "title": "Customer Success Manager",
+      "location": "Remote, North America",
+      "department": "Customer Success",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8419875002"
+    },
+    {
+      "id": "8452256002",
+      "title": "Customer Success Manager, DACH",
+      "location": "Remote, Germany",
+      "department": "Customer Success",
+      "offices": "EMEA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8452256002"
+    },
+    {
+      "id": "8478618002",
+      "title": "Customer Success Manager, Japan",
+      "location": "Remote, Japan",
+      "department": "Customer Success",
+      "offices": "Japan",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478618002"
+    },
+    {
+      "id": "8500190002",
+      "title": "CX Services Program Manager",
+      "location": "Remote, United Kingdom",
+      "department": "Customer Success",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8500190002"
+    },
+    {
+      "id": "8504801002",
+      "title": "CX, Staff Forward Deployed Engineer ",
+      "location": "Remote, Australia; Remote, Singapore",
+      "department": "Customer Experience",
+      "offices": "Australia",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8504801002"
+    },
+    {
+      "id": "8510488002",
+      "title": "Director, Enterprise Architecture & Intelligent Automation",
+      "location": "Remote, US",
+      "department": "Enterprise Applications",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8510488002"
+    },
+    {
+      "id": "8195921002",
+      "title": "Director of Engineering, Security Risk Management",
+      "location": "Remote, Canada; Remote, EMEA; Remote, US",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8195921002"
+    },
+    {
+      "id": "8500092002",
+      "title": "Director of Pricing",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Platforms",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8500092002"
+    },
+    {
+      "id": "8461323002",
+      "title": "Director, Product Security Architecture ",
+      "location": "Remote, Canada; Remote, EMEA; Remote, US",
+      "department": "Product Security",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8461323002"
+    },
+    {
+      "id": "8347186002",
+      "title": "Director Regional Sales, Alps",
+      "location": "Remote",
+      "department": "EMEA - Enterprise",
+      "offices": "Switzerland",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8347186002"
+    },
+    {
+      "id": "8512133002",
+      "title": "Director Regional Sales, France",
+      "location": "Remote, France",
+      "department": "EMEA - Commercial",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8512133002"
+    },
+    {
+      "id": "8326610002",
+      "title": "Director Regional Sales, Italy",
+      "location": "Remote, Italy",
+      "department": "EMEA - Enterprise",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8326610002"
+    },
+    {
+      "id": "8457000002",
+      "title": "Director, Renewals EMEA",
+      "location": "Remote, Ireland; Remote, United Kingdom",
+      "department": "Renewals",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8457000002"
+    },
+    {
+      "id": "8500102002",
+      "title": "Director, Technical Writing",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Technical Writing",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8500102002"
+    },
+    {
+      "id": "8500103002",
+      "title": "Director, Technical Writing",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Technical Writing",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8500103002"
+    },
+    {
+      "id": "8418604002",
+      "title": "Ecosystem Sales Manager, Alps ",
+      "location": "Remote, Germany",
+      "department": "Alliances and Channel",
+      "offices": "EMEA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8418604002"
+    },
+    {
+      "id": "8456500002",
+      "title": "Ecosystem Sales Manager - Italy",
+      "location": "Remote",
+      "department": "Alliances and Channel",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8456500002"
+    },
+    {
+      "id": "8360326002",
+      "title": "Ecosystem Sales Manager, MEA ",
+      "location": "Remote, United Arab Emirates",
+      "department": "Alliances and Channel",
+      "offices": "EMEA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8360326002"
+    },
+    {
+      "id": "8468801002",
+      "title": "Ecosystem Sales Manager - Scale",
+      "location": "Remote, US",
+      "department": "Alliances and Channel",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8468801002"
+    },
+    {
+      "id": "8494601002",
+      "title": "Ecosystem Sales Manager, Scale - Singapore",
+      "location": "Remote, Singapore",
+      "department": "Alliances and Channel",
+      "offices": "Singapore",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8494601002"
+    },
+    {
+      "id": "8505529002",
+      "title": "Enablement Lead, EMEA",
+      "location": "Remote, United Kingdom",
+      "department": "Enablement",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8505529002"
+    },
+    {
+      "id": "8467462002",
+      "title": "Engagement Manager - EMEA",
+      "location": "Remote",
+      "department": "Practice Management",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8467462002"
+    },
+    {
+      "id": "8455203002",
+      "title": "Engagement Manager, META",
+      "location": "Remote",
+      "department": "Practice Management",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8455203002"
+    },
+    {
+      "id": "8484753002",
+      "title": "Engineering Manager, AI Engineering:Workflow Catalog",
+      "location": "Remote, EMEA; Remote, US-Southeast",
+      "department": "AI Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8484753002"
+    },
+    {
+      "id": "8455737002",
+      "title": "Engineering Manager, AST: Composition Analysis",
+      "location": "Remote",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8455737002"
+    },
+    {
+      "id": "8482744002",
+      "title": "Engineering Manager, Continuous Delivery",
+      "location": "Remote, India",
+      "department": "DevOps Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8482744002"
+    },
+    {
+      "id": "8463917002",
+      "title": "Engineering Manager, Gitlab Delivery: Upgrades",
+      "location": "Remote, India",
+      "department": "Platforms Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463917002"
+    },
+    {
+      "id": "8489179002",
+      "title": "Engineering Manager, Infrastructure Platforms",
+      "location": "Remote, India",
+      "department": "Platforms Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8489179002"
+    },
+    {
+      "id": "8337454002",
+      "title": "Engineering Manager, Infrastructure Platforms",
+      "location": "Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US",
+      "department": "Platforms Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T17:22:40-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8337454002"
+    },
+    {
+      "id": "8339221002",
+      "title": "Engineering Manager, Software Supply Chain Security: Pipeline Security ",
+      "location": "Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8339221002"
+    },
+    {
+      "id": "8477935002",
+      "title": "Engineering Manager, SSCS: AI Governance  ",
+      "location": "Remote, India",
+      "department": "Sec Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8477935002"
+    },
+    {
+      "id": "8478405002",
+      "title": "Engineering Manager, SSCS: Supply Chain",
+      "location": "Remote, India",
+      "department": "Sec Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478405002"
+    },
+    {
+      "id": "8522195002",
+      "title": "Enterprise Account Executive - DACH",
+      "location": "Remote, Germany",
+      "department": "EMEA - Commercial",
+      "offices": "Germany",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522195002"
+    },
+    {
+      "id": "8493679002",
+      "title": "Field CTO, Public Sector",
+      "location": "Remote, US",
+      "department": "Solutions Architecture - PubSec",
+      "offices": "Federal",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8493679002"
+    },
+    {
+      "id": "8496880002",
+      "title": "Field CTO - US West ",
+      "location": "Remote, US",
+      "department": "Field CTO",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8496880002"
+    },
+    {
+      "id": "8493970002",
+      "title": "G&A Engineer, Netsuite/Claude ",
+      "location": "Remote, North America",
+      "department": "Enterprise Applications",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8493970002"
+    },
+    {
+      "id": "8471711002",
+      "title": "GTM FP&A Manager, Professional Services",
+      "location": "Remote, Americas",
+      "department": "FP&A",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8471711002"
+    },
+    {
+      "id": "8459132002",
+      "title": "Infrastructure Security Engineer (USA)",
+      "location": "Remote, US",
+      "department": "Product Security",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8459132002"
+    },
+    {
+      "id": "8497793002",
+      "title": "Intermediate Backend Engineer (C), Tenant Scale: Git ",
+      "location": "Remote, India",
+      "department": "Platforms Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497793002"
+    },
+    {
+      "id": "8481029002",
+      "title": "Intermediate Backend Engineer, Database Automation (Ruby)",
+      "location": "Remote, India",
+      "department": "Data Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481029002"
+    },
+    {
+      "id": "8463951002",
+      "title": "Intermediate Backend Engineer, Gitlab Delivery: Upgrades",
+      "location": "Remote, India",
+      "department": "Platforms Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463951002"
+    },
+    {
+      "id": "8443325002",
+      "title": "Intermediate Backend Engineer, SRM: Security Platform Management",
+      "location": "Remote",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8443325002"
+    },
+    {
+      "id": "8480551002",
+      "title": "Intermediate Backend Engineer, SSCS: AI Governance",
+      "location": "Remote, India",
+      "department": "Sec Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480551002"
+    },
+    {
+      "id": "8480565002",
+      "title": "Intermediate Backend Engineer,  SSCS: Supply Chain",
+      "location": "Remote, India",
+      "department": "Sec Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480565002"
+    },
+    {
+      "id": "8515080002",
+      "title": "Intermediate Site Reliability Engineer, Cloud Cost Utilization",
+      "location": "Remote, United Kingdom",
+      "department": "Platforms Engineering",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8515080002"
+    },
+    {
+      "id": "8464417002",
+      "title": "Intermediate Site Reliability Engineer, Environment Automation",
+      "location": "Remote, India",
+      "department": "Platforms Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8464417002"
+    },
+    {
+      "id": "8504232002",
+      "title": "Intermediate Site Reliability Engineer, Environment Automation",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Platforms Engineering",
+      "offices": "Canada / United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8504232002"
+    },
+    {
+      "id": "8443302002",
+      "title": "Intermediate Vulnerability Researcher, AST: Vulnerability Research",
+      "location": "Remote",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8443302002"
+    },
+    {
+      "id": "8465346002",
+      "title": "IT Enterprise Applications Engineer, Zuora/NetSuite",
+      "location": "Remote, Bangalore",
+      "department": "Enterprise Applications",
+      "offices": "APAC",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8465346002"
+    },
+    {
+      "id": "8500233002",
+      "title": "Lead Commercial Legal Counsel ",
+      "location": "Remote, US",
+      "department": "Legal",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8500233002"
+    },
+    {
+      "id": "8472475002",
+      "title": "Lead Product Marketing Manager, AI ",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Product Marketing",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8472475002"
+    },
+    {
+      "id": "8414661002",
+      "title": "Lead Product Marketing Manager, Pricing and Packaging ",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Product Marketing",
+      "offices": null,
+      "updated_at": "2026-04-27T19:00:18-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8414661002"
+    },
+    {
+      "id": "8432266002",
+      "title": "Legal Counsel, Commercial ",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Legal",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8432266002"
+    },
+    {
+      "id": "8499587002",
+      "title": "Legal Engineer",
+      "location": "Remote, US",
+      "department": "Legal",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8499587002"
+    },
+    {
+      "id": "8460203002",
+      "title": "Major Account Executive, Alps (French Speaker)",
+      "location": "Remote, Switzerland",
+      "department": "EMEA - Enterprise",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8460203002"
+    },
+    {
+      "id": "8432922002",
+      "title": "Major Account Executive, Germany",
+      "location": "Remote, Germany",
+      "department": "EMEA - Enterprise",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8432922002"
+    },
+    {
+      "id": "8498683002",
+      "title": "Major Account Executive, Northeast",
+      "location": "Remote, US",
+      "department": "AMER - Enterprise",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8498683002"
+    },
+    {
+      "id": "8496445002",
+      "title": "Major Account Executive - San Francisco ",
+      "location": "Remote, US",
+      "department": "AMER - Enterprise",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T15:47:51-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8496445002"
+    },
+    {
+      "id": "8480189002",
+      "title": "Major Account Executive - Texas ",
+      "location": "Remote, US",
+      "department": "AMER - Enterprise",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480189002"
+    },
+    {
+      "id": "8505878002",
+      "title": "Manager, Application Security (APAC)",
+      "location": "Remote, Australia; Remote, India; Remote, Japan; Remote, Singapore; Remote, South Korea",
+      "department": "Product Security",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8505878002"
+    },
+    {
+      "id": "8471923002",
+      "title": "Manager, Customer Success Managers, SEMA",
+      "location": "Remote, France; Remote, Spain",
+      "department": "Customer Success",
+      "offices": "EMEA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8471923002"
+    },
+    {
+      "id": "8475589002",
+      "title": "Manager, G&A Recruiting",
+      "location": "Remote, US",
+      "department": "Talent Acquisition",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8475589002"
+    },
+    {
+      "id": "8468166002",
+      "title": "Manager, Infrastructure Security (USA)",
+      "location": "Remote, US",
+      "department": "Product Security",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8468166002"
+    },
+    {
+      "id": "8503972002",
+      "title": "Manager, Solutions Architects - Commercial",
+      "location": "Remote, North America",
+      "department": "SA",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8503972002"
+    },
+    {
+      "id": "8451971002",
+      "title": "Manager, Solutions Architects - West",
+      "location": "Remote, North America",
+      "department": "SA",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8451971002"
+    },
+    {
+      "id": "8483407002",
+      "title": "Manager, SOX PMO, Business Process",
+      "location": "Remote, Americas",
+      "department": "Corporate Controller",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8483407002"
+    },
+    {
+      "id": "8330519002",
+      "title": "New Business Account Executive - California  ",
+      "location": "Remote, US",
+      "department": "New Business - AMER",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8330519002"
+    },
+    {
+      "id": "8439830002",
+      "title": "New Business Account Executive - DACH",
+      "location": "Remote, Germany",
+      "department": "New Business - EMEA",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8439830002"
+    },
+    {
+      "id": "8331196002",
+      "title": "New Business Account Executive - East",
+      "location": "Remote, US",
+      "department": "New Business - AMER",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8331196002"
+    },
+    {
+      "id": "8351258002",
+      "title": "New Business Account Executive- Illinois & Indiana ",
+      "location": "Remote, US",
+      "department": "New Business - AMER",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8351258002"
+    },
+    {
+      "id": "8430621002",
+      "title": "New Business Account Executive - Korea",
+      "location": "Remote, South Korea",
+      "department": "New Business - APAC",
+      "offices": "Korea, Republic of",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8430621002"
+    },
+    {
+      "id": "8498354002",
+      "title": "New Business Account Executive - Netherlands",
+      "location": "Remote, Netherlands",
+      "department": "New Business - EMEA",
+      "offices": "Netherlands",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8498354002"
+    },
+    {
+      "id": "8445575002",
+      "title": "New Business Account Executive, SLED",
+      "location": "Remote, US",
+      "department": "New Business - PubSec",
+      "offices": "Federal",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8445575002"
+    },
+    {
+      "id": "8435078002",
+      "title": "New Business Account Executive, Thailand and Philippines",
+      "location": "Remote, Singapore",
+      "department": "New Business - APAC",
+      "offices": "Singapore",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8435078002"
+    },
+    {
+      "id": "8349098002",
+      "title": "Presales Consultant - Japan",
+      "location": "Remote, Japan",
+      "department": "SA",
+      "offices": "APAC",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8349098002"
+    },
+    {
+      "id": "8440164002",
+      "title": "Principal Cybersecurity Incident Manager (USA)",
+      "location": "Remote, US",
+      "department": "Security Operations",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8440164002"
+    },
+    {
+      "id": "8231379002",
+      "title": "Principal Database Engineer, Data Engineering",
+      "location": "Remote, EMEA; Remote, North America",
+      "department": "Data Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8231379002"
+    },
+    {
+      "id": "8366595002",
+      "title": "Principal Engineer, Infrastructure Platforms",
+      "location": "Remote, Australia; Remote, Canada; Remote, India; Remote, Ireland; Remote, Israel; Remote, Japan; Remote, Netherlands; Remote, Singapore; Remote, South Korea; Remote, United Kingdom; Remote, US",
+      "department": "Platforms Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8366595002"
+    },
+    {
+      "id": "8373553002",
+      "title": "Principal Engineer, Software Supply Chain Security",
+      "location": "Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8373553002"
+    },
+    {
+      "id": "8480604002",
+      "title": "Principal Product Manager, Continuous Delivery",
+      "location": "Remote, India",
+      "department": "Core DevOps",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480604002"
+    },
+    {
+      "id": "8489126002",
+      "title": "Principal Product Manager, Security - GTM",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Security & Compliance",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8489126002"
+    },
+    {
+      "id": "8341795002",
+      "title": "Principal Solutions Architect",
+      "location": "Remote, North America",
+      "department": "SA",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8341795002"
+    },
+    {
+      "id": "8479595002",
+      "title": "Procurement Analyst",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Accounting Operations",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8479595002"
+    },
+    {
+      "id": "8502372002",
+      "title": "Product Design Manager, Platforms, Plan, and Analytics ",
+      "location": "Remote, Canada; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom; Remote, US",
+      "department": "Product Design",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8502372002"
+    },
+    {
+      "id": "8438042002",
+      "title": "Professional Services Engineer, EMEA",
+      "location": "Remote, France; Remote, Germany; Remote, United Kingdom",
+      "department": "Consulting Delivery",
+      "offices": "EMEA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8438042002"
+    },
+    {
+      "id": "8499907002",
+      "title": "Professional Services Engineer - META",
+      "location": "Remote, United Arab Emirates",
+      "department": "Consulting Delivery",
+      "offices": "United Arab Emirates",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8499907002"
+    },
+    {
+      "id": "8452994002",
+      "title": "Professional Services, Technical Architect - West",
+      "location": "Remote, US",
+      "department": "Consulting Delivery",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8452994002"
+    },
+    {
+      "id": "8481645002",
+      "title": "Program Manager - Dubai",
+      "location": "Remote, United Arab Emirates",
+      "department": "Consulting Delivery",
+      "offices": "United Arab Emirates",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481645002"
+    },
+    {
+      "id": "8457478002",
+      "title": "Program Manager, Enablement Content",
+      "location": "Remote, US",
+      "department": "Enablement",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8457478002"
+    },
+    {
+      "id": "8481626002",
+      "title": "Program Manager - London",
+      "location": "Remote, United Kingdom",
+      "department": "Consulting Delivery",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481626002"
+    },
+    {
+      "id": "8492946002",
+      "title": "Public Sector Customer Success Manager",
+      "location": "Remote, US",
+      "department": "Customer Success - PubSec",
+      "offices": "Federal",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8492946002"
+    },
+    {
+      "id": "8446791002",
+      "title": "Public Sector Solutions Architect - D.C. / Northern Virginia",
+      "location": "Remote, US",
+      "department": "Solutions Architecture - PubSec",
+      "offices": "Federal",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8446791002"
+    },
+    {
+      "id": "8498707002",
+      "title": "Public Sector Strategic Account Executive, DoD",
+      "location": "Remote, US",
+      "department": "PubSec - FED",
+      "offices": "Federal",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8498707002"
+    },
+    {
+      "id": "8456237002",
+      "title": "Regional Marketing Manager - AMER West",
+      "location": "Remote, US",
+      "department": "Regional Marketing",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8456237002"
+    },
+    {
+      "id": "8476391002",
+      "title": "Regional Sales Director, ASEAN & Korea",
+      "location": "Remote, Singapore",
+      "department": "APAC - Enterprise",
+      "offices": "Singapore",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8476391002"
+    },
+    {
+      "id": "8422506002",
+      "title": "Sales Development Representative, French Speaking ",
+      "location": "Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+      "department": "Sales Development",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8422506002"
+    },
+    {
+      "id": "8510311002",
+      "title": "Sales Development Representative, Portuguese Speaking",
+      "location": "Remote, North America",
+      "department": "Sales Development",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8510311002"
+    },
+    {
+      "id": "8401813002",
+      "title": "Salesforce Developer, CPQ",
+      "location": "Remote, US",
+      "department": "Enterprise Applications",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8401813002"
+    },
+    {
+      "id": "8184975002",
+      "title": "Salesforce Manager, CRM Systems",
+      "location": "Remote, Bangalore",
+      "department": "Enterprise Applications",
+      "offices": "APAC",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8184975002"
+    },
+    {
+      "id": "8464072002",
+      "title": "Senior AI Engineer",
+      "location": "Remote, EMEA",
+      "department": "Enterprise Applications",
+      "offices": "EMEA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8464072002"
+    },
+    {
+      "id": "8514945002",
+      "title": "Senior Backend Engineer (AI), Pipeline Execution",
+      "location": "Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast",
+      "department": "DevOps Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8514945002"
+    },
+    {
+      "id": "8451512002",
+      "title": "Senior Backend Engineer, Analytics Instrumentation (Golang)",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Data Engineering",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8451512002"
+    },
+    {
+      "id": "8497791002",
+      "title": "Senior Backend Engineer (C), Tenant Scale: Git",
+      "location": "Remote, India",
+      "department": "Platforms Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497791002"
+    },
+    {
+      "id": "8324132002",
+      "title": "Senior Backend Engineer, Gitlab Delivery: Runway (Platform Engineering)",
+      "location": "Remote, Australia; Remote, India; Remote, Ireland; Remote, Japan; Remote, Netherlands; Remote, Singapore; Remote, United Kingdom",
+      "department": "Platforms Engineering",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8324132002"
+    },
+    {
+      "id": "8463933002",
+      "title": "Senior Backend Engineer, Gitlab Delivery: Upgrades",
+      "location": "Remote, India",
+      "department": "Platforms Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463933002"
+    },
+    {
+      "id": "8488966002",
+      "title": "Senior Backend Engineer(Go), Continuous Delivery",
+      "location": "Remote, India",
+      "department": "DevOps Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8488966002"
+    },
+    {
+      "id": "8157520002",
+      "title": "Senior Backend Engineer(Golang),Software Supply Chain Security: Auth Infrastructure",
+      "location": "Remote, Americas; Remote, APAC; Remote, Canada",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8157520002"
+    },
+    {
+      "id": "8432262002",
+      "title": "Senior Backend Engineer (RoR), AST: Secret Detection",
+      "location": "Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8432262002"
+    },
+    {
+      "id": "8432221002",
+      "title": "Senior Backend Engineer (RoR/Go), SSCS: Pipeline Security",
+      "location": "Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8432221002"
+    },
+    {
+      "id": "8457315002",
+      "title": "Senior Backend Engineer (RoR), SSCS: Authorization",
+      "location": "Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8457315002"
+    },
+    {
+      "id": "8455304002",
+      "title": "Senior Backend Engineer (Ruby on Rails), Plan: Knowledge",
+      "location": "Remote, Americas; Remote, APAC; Remote, EMEA",
+      "department": "DevOps Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8455304002"
+    },
+    {
+      "id": "8437148002",
+      "title": "Senior Backend Engineer (Ruby or Golang), Tenant Scale; Cells Infrastructure",
+      "location": "Remote, APAC; Remote, Canada; Remote, EMEA; Remote, US",
+      "department": "Platforms Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T19:28:30-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8437148002"
+    },
+    {
+      "id": "8480544002",
+      "title": "Senior Backend Engineer, SSCS: AI Governance",
+      "location": "Remote, India",
+      "department": "Sec Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480544002"
+    },
+    {
+      "id": "8480580002",
+      "title": "Senior Backend Engineer,  SSCS: Supply Chain",
+      "location": "Remote, India",
+      "department": "Sec Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480580002"
+    },
+    {
+      "id": "8485506002",
+      "title": "Senior Business Process Analyst, People Operations ",
+      "location": "Remote, Canada; Remote, US",
+      "department": "People Operations",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8485506002"
+    },
+    {
+      "id": "8433514002",
+      "title": "Senior Compensation Partner",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Total Rewards",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8433514002"
+    },
+    {
+      "id": "8436694002",
+      "title": "Senior Compliance Analyst",
+      "location": "Remote, EMEA; Remote, North America",
+      "department": "People Operations",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8436694002"
+    },
+    {
+      "id": "8514379002",
+      "title": " Senior Customer Success Manager - India",
+      "location": "Remote",
+      "department": "Customer Success",
+      "offices": "India",
+      "updated_at": "2026-04-27T23:14:59-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8514379002"
+    },
+    {
+      "id": "8478359002",
+      "title": "Senior Data Analyst, Enterprise Analytics ",
+      "location": "Remote, Bangalore",
+      "department": "Data",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478359002"
+    },
+    {
+      "id": "8472178002",
+      "title": "Senior Data Analyst, Marketing Analytics",
+      "location": "Remote, North America",
+      "department": "Data",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8472178002"
+    },
+    {
+      "id": "8493814002",
+      "title": "Senior Director, Customer Experience Services",
+      "location": "Remote, Australia; Remote, Singapore",
+      "department": "Customer Success",
+      "offices": "APAC",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8493814002"
+    },
+    {
+      "id": "8496031002",
+      "title": "Senior Ecosystem Sales Manager - Korea",
+      "location": "Remote, South Korea",
+      "department": "Alliances and Channel",
+      "offices": "Korea, Republic of",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8496031002"
+    },
+    {
+      "id": "8491082002",
+      "title": "Senior Ecosystems Sales Manager, India",
+      "location": "Remote, India",
+      "department": "Alliances and Channel",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8491082002"
+    },
+    {
+      "id": "8477658002",
+      "title": "Senior Engineering Manager, Design",
+      "location": "Remote, Canada; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom; Remote, US",
+      "department": "Technical Writing",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8477658002"
+    },
+    {
+      "id": "8452278002",
+      "title": "Senior Fullstack Engineer (TypeScript), AI Engineering: Editor Extensions",
+      "location": "Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast",
+      "department": "AI Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8452278002"
+    },
+    {
+      "id": "8492933002",
+      "title": "Senior Learning Experience Designer",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Education Services",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8492933002"
+    },
+    {
+      "id": "8476671002",
+      "title": "Senior Manager, Engagement Management",
+      "location": "Remote, EMEA",
+      "department": "Consulting Delivery",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8476671002"
+    },
+    {
+      "id": "8497359002",
+      "title": "Senior Manager, Revenue Accounting",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Corporate Controller",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497359002"
+    },
+    {
+      "id": "8428928002",
+      "title": "Senior People Business Partner",
+      "location": "Remote, Canada; Remote, United Kingdom; Remote, US",
+      "department": "People Business Partners",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8428928002"
+    },
+    {
+      "id": "8432255002",
+      "title": "Senior People Compliance Specialist, EMEA ",
+      "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, United Kingdom",
+      "department": "People Operations",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8432255002"
+    },
+    {
+      "id": "8464608002",
+      "title": "Senior Product Designer, AI",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Product Design",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8464608002"
+    },
+    {
+      "id": "8465712002",
+      "title": "Senior Product Manager, Hosted Runners",
+      "location": "Remote, US",
+      "department": "Platforms",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8465712002"
+    },
+    {
+      "id": "8332463002",
+      "title": "Senior Product Manager, Software Supply Chain Security",
+      "location": "Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom",
+      "department": "Security & Compliance",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8332463002"
+    },
+    {
+      "id": "8464558002",
+      "title": "Senior Professional Services Engineer - PubSec",
+      "location": "Remote, US",
+      "department": "Consulting Delivery",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8464558002"
+    },
+    {
+      "id": "8334735002",
+      "title": "Senior Professional Services, Technical Architect - AI",
+      "location": "Remote, US",
+      "department": "Consulting Delivery",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8334735002"
+    },
+    {
+      "id": "8343384002",
+      "title": "Senior Professional Services Technical Architect, META",
+      "location": "Remote, United Arab Emirates",
+      "department": "Consulting Delivery",
+      "offices": "EMEA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8343384002"
+    },
+    {
+      "id": "8453504002",
+      "title": "Senior Regional Marketing Manager, EMEA",
+      "location": "Remote, EMEA",
+      "department": "Regional Marketing",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8453504002"
+    },
+    {
+      "id": "8493033002",
+      "title": "Senior Regional Marketing Manager, India",
+      "location": "Remote, India",
+      "department": "Regional Marketing",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8493033002"
+    },
+    {
+      "id": "8490453002",
+      "title": "Senior Site Reliability Engineer, Tenant Services: Geo",
+      "location": "Remote, India",
+      "department": "Platforms Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8490453002"
+    },
+    {
+      "id": "8476375002",
+      "title": "Senior Solutions Architect - AI & Platforms SME",
+      "location": "Remote, Australia; Remote, Singapore",
+      "department": "SA",
+      "offices": "Singapore",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8476375002"
+    },
+    {
+      "id": "8509723002",
+      "title": "Senior Solutions Architect - CEUR",
+      "location": "Remote, Germany",
+      "department": "SA",
+      "offices": "Germany",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8509723002"
+    },
+    {
+      "id": "8488396002",
+      "title": "Senior Solutions Architect - Southwest",
+      "location": "Remote, US",
+      "department": "SA",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8488396002"
+    },
+    {
+      "id": "8474904002",
+      "title": "SMB Solutions Architect",
+      "location": "Remote, North America",
+      "department": "SA",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8474904002"
+    },
+    {
+      "id": "8516916002",
+      "title": "Software Security Engineer ",
+      "location": "Remote, Canada; Remote, US",
+      "department": "Security Operations",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8516916002"
+    },
+    {
+      "id": "8467165002",
+      "title": "Solutions Architect",
+      "location": "Remote, Mexico",
+      "department": "SA",
+      "offices": "Mexico",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8467165002"
+    },
+    {
+      "id": "8494593002",
+      "title": "Solutions Architect - ANZ",
+      "location": "Remote, Australia",
+      "department": "SA",
+      "offices": "Australia",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8494593002"
+    },
+    {
+      "id": "8518629002",
+      "title": "Solutions Architect, Commercial - West",
+      "location": "Remote, North America",
+      "department": "SA",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8518629002"
+    },
+    {
+      "id": "8511100002",
+      "title": "Solutions Architect, Financial Services",
+      "location": "Remote, North America",
+      "department": "SA",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8511100002"
+    },
+    {
+      "id": "8520251002",
+      "title": "Solutions Architect - France",
+      "location": "Remote, France",
+      "department": "SA",
+      "offices": "France",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8520251002"
+    },
+    {
+      "id": "8474923002",
+      "title": "Solutions Architect - San Francisco",
+      "location": "Remote, US",
+      "department": "SA",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8474923002"
+    },
+    {
+      "id": "8405118002",
+      "title": "Solutions Architect - Seattle",
+      "location": "Remote, US",
+      "department": "SA",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8405118002"
+    },
+    {
+      "id": "8465093002",
+      "title": "Solutions Architect - Southeast",
+      "location": "Remote, US",
+      "department": "SA",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8465093002"
+    },
+    {
+      "id": "8508027002",
+      "title": "Staff Backend Engineer, Analytics Instrumentation (Golang)",
+      "location": "Remote, India",
+      "department": "Data Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8508027002"
+    },
+    {
+      "id": "8478364002",
+      "title": "Staff Backend Engineer, AST: Composition Analysis",
+      "location": "Remote, Australia; Remote, Canada; Remote, India; Remote, Ireland; Remote, Israel; Remote, Japan; Remote, Netherlands; Remote, New Zealand; Remote, United Kingdom; Remote, US",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478364002"
+    },
+    {
+      "id": "8490477002",
+      "title": "Staff Backend Engineer, Developer Experience",
+      "location": "Remote, Canada; Remote, United Kingdom; Remote, US",
+      "department": "Platforms Engineering",
+      "offices": "EMEA / NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8490477002"
+    },
+    {
+      "id": "8463922002",
+      "title": "Staff Backend Engineer, Gitlab Delivery: Upgrades",
+      "location": "Remote, India",
+      "department": "Platforms Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463922002"
+    },
+    {
+      "id": "8488961002",
+      "title": "Staff Backend Engineer (Go), Continuous Delivery",
+      "location": "Remote, India",
+      "department": "DevOps Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8488961002"
+    },
+    {
+      "id": "8432235002",
+      "title": "Staff Backend Engineer (Go), Software Supply Chain Security: Secrets Management",
+      "location": "Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US",
+      "department": "Sec Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8432235002"
+    },
+    {
+      "id": "8481945002",
+      "title": "Staff Backend Engineer, Knowledge Graph (Rust)",
+      "location": "Remote, India",
+      "department": "Data Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481945002"
+    },
+    {
+      "id": "8448283002",
+      "title": "Staff Backend Engineer (Ruby on Rails/AI), Verify",
+      "location": "Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US; Remote, US-Southeast",
+      "department": "DevOps Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8448283002"
+    },
+    {
+      "id": "8480531002",
+      "title": "Staff Backend Engineer, SSCS: AI Governance",
+      "location": "Remote, India",
+      "department": "Sec Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480531002"
+    },
+    {
+      "id": "8480559002",
+      "title": "Staff Backend Engineer,  SSCS: Supply Chain",
+      "location": "Remote, India",
+      "department": "Sec Engineering",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480559002"
+    },
+    {
+      "id": "8450446002",
+      "title": "Staff Backend (Python) Engineer, AI Engineering:Duo Chat",
+      "location": "Remote, Americas; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+      "department": "AI Engineering",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8450446002"
+    },
+    {
+      "id": "8494196002",
+      "title": "Staff Executive Business Partner",
+      "location": "Remote, US",
+      "department": "Office of the CTO",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8494196002"
+    },
+    {
+      "id": "8490129002",
+      "title": "Staff HRIS Analyst, People Technology - Workday",
+      "location": "Remote, US",
+      "department": "People Operations",
+      "offices": "NA",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8490129002"
+    },
+    {
+      "id": "8514960002",
+      "title": "Staff Infrastructure Security Engineer (APAC, EMEA)",
+      "location": "Remote, APAC; Remote, EMEA",
+      "department": "Product Security",
+      "offices": null,
+      "updated_at": "2026-04-27T12:03:04-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8514960002"
+    },
+    {
+      "id": "8475077002",
+      "title": "Staff Product Designer, Knowledge Graph",
+      "location": "Remote, Canada; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US",
+      "department": "Product Design",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8475077002"
+    },
+    {
+      "id": "8425775002",
+      "title": "Staff Product Designer, Security & Compliance",
+      "location": "Remote, Americas; Remote, Ireland; Remote, Netherlands",
+      "department": "Product Design",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8425775002"
+    },
+    {
+      "id": "8517571002",
+      "title": "Staff Program Manager, Enterprise Technology & AI",
+      "location": "Remote, Bangalore",
+      "department": "Enterprise Applications",
+      "offices": "APAC",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517571002"
+    },
+    {
+      "id": "8506618002",
+      "title": "Staff Technical Program Manager",
+      "location": "Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+      "department": "Office of the CTO",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8506618002"
+    },
+    {
+      "id": "8502364002",
+      "title": "Stock Administrator",
+      "location": "Remote, India",
+      "department": "Accounting Operations",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8502364002"
+    },
+    {
+      "id": "8435065002",
+      "title": "Strategic Account Executive, Digital Natives - India",
+      "location": "Remote, India",
+      "department": "APAC - Enterprise",
+      "offices": "India",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8435065002"
+    },
+    {
+      "id": "8477068002",
+      "title": "Strategic Account Executive - Germany",
+      "location": "Remote, Germany",
+      "department": "EMEA - Enterprise",
+      "offices": "Germany",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8477068002"
+    },
+    {
+      "id": "8504443002",
+      "title": "Strategic Account Executive - Public Sector ",
+      "location": "Remote, United Kingdom",
+      "department": "EMEA - Enterprise",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8504443002"
+    },
+    {
+      "id": "8458263002",
+      "title": "Strategic Account Executive, South Africa",
+      "location": "Remote, United Arab Emirates",
+      "department": "EMEA - Commercial",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8458263002"
+    },
+    {
+      "id": "8452328002",
+      "title": "Strategic Account Executive - UAE",
+      "location": "Remote, United Arab Emirates",
+      "department": "EMEA - Enterprise",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8452328002"
+    },
+    {
+      "id": "8389856002",
+      "title": "Support Engineer, U.S. Government Support",
+      "location": "Remote, US",
+      "department": "Customer Support",
+      "offices": "United States of America",
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8389856002"
+    },
+    {
+      "id": "8510676002",
+      "title": "Vice President, Data & Insights",
+      "location": "Remote, US",
+      "department": "Data",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8510676002"
+    },
+    {
+      "id": "8467198002",
+      "title": "Vice President, Enterprise Transformation & Finance Strategy",
+      "location": "Remote, US",
+      "department": "Office of CFO",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8467198002"
+    },
+    {
+      "id": "8499647002",
+      "title": "Vice President, Legal Commercial",
+      "location": "Remote, US",
+      "department": "Legal",
+      "offices": null,
+      "updated_at": "2026-04-27T09:46:44-04:00",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8499647002"
+    }
+  ]
+}

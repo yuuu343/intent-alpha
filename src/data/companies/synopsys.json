@@ -1,0 +1,14 @@
+{
+  "slug": "synopsys",
+  "name": "Synopsys",
+  "website": "https://www.synopsys.com",
+  "sector": "EDA Software",
+  "headquarters": "Sunnyvale, CA",
+  "description": "EDA tools for chip design, IP, software security. Critical infrastructure to every chip company.",
+  "ats": "workday",
+  "workday": {
+    "host": "synopsys.wd1.myworkdayjobs.com",
+    "tenant": "Synopsys",
+    "site": "Careers"
+  }
+}

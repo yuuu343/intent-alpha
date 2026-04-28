@@ -1,0 +1,14 @@
+{
+  "slug": "microchip",
+  "name": "Microchip",
+  "website": "https://www.microchip.com",
+  "sector": "Semiconductors / MCU",
+  "headquarters": "Chandler, AZ",
+  "description": "Microcontrollers, FPGAs (Microsemi), analog. Industrial / automotive / aerospace exposure.",
+  "ats": "workday",
+  "workday": {
+    "host": "microchip.wd5.myworkdayjobs.com",
+    "tenant": "microchip",
+    "site": "External"
+  }
+}

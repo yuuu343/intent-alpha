@@ -1,0 +1,14 @@
+{
+  "slug": "amd",
+  "name": "AMD",
+  "website": "https://www.amd.com",
+  "sector": "Semiconductors",
+  "headquarters": "Santa Clara, CA",
+  "description": "CPUs, GPUs, adaptive computing (Xilinx). MI-series accelerators competing in datacenter AI.",
+  "ats": "workday",
+  "workday": {
+    "host": "amd.wd1.myworkdayjobs.com",
+    "tenant": "amd",
+    "site": "Careers_External_Site"
+  }
+}

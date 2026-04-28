@@ -1,0 +1,10 @@
+{
+  "slug": "alphabet",
+  "name": "Alphabet",
+  "website": "https://abc.xyz",
+  "sector": "Search / Cloud / AI",
+  "headquarters": "Mountain View, CA",
+  "description": "Parent of Google: search, advertising, YouTube, Cloud, Gemini AI, Waymo autonomy, and DeepMind research.",
+  "ats": "custom",
+  "customNote": "careers.google.com — SPA-only, no public JSON API"
+}

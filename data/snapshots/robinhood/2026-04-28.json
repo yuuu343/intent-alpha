@@ -1,0 +1,1296 @@
+{
+  "company": "robinhood",
+  "ats": "greenhouse",
+  "atsIdentifier": "robinhood",
+  "fetchedAt": "2026-04-28T04:52:03.173Z",
+  "count": 143,
+  "jobs": [
+    {
+      "id": "7804768",
+      "title": "Account Operations Lead",
+      "location": "Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-27T13:40:25-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7804768?t=gh_src=&gh_jid=7804768"
+    },
+    {
+      "id": "7799902",
+      "title": "AML Analyst",
+      "location": "Luxembourg, Luxembourg",
+      "department": "Bitstamp G&A",
+      "offices": "Luxembourg, Luxembourg",
+      "updated_at": "2026-04-16T13:05:57-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7799902?t=gh_src=&gh_jid=7799902"
+    },
+    {
+      "id": "7555434",
+      "title": "Analytics Developer",
+      "location": "Toronto, Canada",
+      "department": "ENG Data Science",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-01T15:56:29-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7555434?t=gh_src=&gh_jid=7555434"
+    },
+    {
+      "id": "5702135",
+      "title": "Android Developer",
+      "location": "Toronto, Canada",
+      "department": "Brokerage Engineering",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/5702135?t=gh_src=&gh_jid=5702135"
+    },
+    {
+      "id": "7350823",
+      "title": "Android Engineer",
+      "location": "Menlo Park, CA",
+      "department": "ENG Infrastructure",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823"
+    },
+    {
+      "id": "7776330",
+      "title": "Android Engineer",
+      "location": "Menlo Park, CA",
+      "department": "Brokerage Engineering",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-20T11:55:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7776330?t=gh_src=&gh_jid=7776330"
+    },
+    {
+      "id": "7600764",
+      "title": "Android Engineer",
+      "location": "Bellevue, WA",
+      "department": "ENG Infrastructure",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-03-10T17:25:31-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7600764?t=gh_src=&gh_jid=7600764"
+    },
+    {
+      "id": "7490049",
+      "title": "Android Full Stack Engineer, Credit Cards & Banking",
+      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+      "department": "Money Engineering",
+      "offices": "Bellevue, WA / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-24T13:20:52-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7490049?t=gh_src=&gh_jid=7490049"
+    },
+    {
+      "id": "7819113",
+      "title": "APAC Security GRC Lead",
+      "location": "Singapore",
+      "department": "Security Division",
+      "offices": "Singapore",
+      "updated_at": "2026-04-24T13:39:48-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7819113?t=gh_src=&gh_jid=7819113"
+    },
+    {
+      "id": "7816129",
+      "title": "Business Recruiter",
+      "location": "Chicago, IL; Menlo Park, CA; New York, NY; Westlake, TX",
+      "department": "Talent Acquisition",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-20T16:26:15-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7816129?t=gh_src=&gh_jid=7816129"
+    },
+    {
+      "id": "7816000",
+      "title": "Business Sourcer",
+      "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+      "department": "Talent Acquisition",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-20T16:26:31-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7816000?t=gh_src=&gh_jid=7816000"
+    },
+    {
+      "id": "7804765",
+      "title": "Capacity Planning & Forecasting Analyst",
+      "location": "Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-14T15:16:58-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7804765?t=gh_src=&gh_jid=7804765"
+    },
+    {
+      "id": "7768865",
+      "title": "Cashiering Support Associate",
+      "location": "Westlake, TX",
+      "department": "TradePMR Operations Division",
+      "offices": "Chicago, IL / Clearwater, FL / Westlake, TX",
+      "updated_at": "2026-04-24T10:43:13-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7768865?t=gh_src=&gh_jid=7768865"
+    },
+    {
+      "id": "7839260",
+      "title": "Chief Compliance Officer, Money",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "department": "Money Compliance",
+      "offices": "Menlo Park, CA / New York, NY / Washington, DC",
+      "updated_at": "2026-04-21T18:31:28-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7839260?t=gh_src=&gh_jid=7839260"
+    },
+    {
+      "id": "7612146",
+      "title": "Communications Compliance Senior Specialist",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "department": "Compliance - RHM",
+      "offices": "Menlo Park, CA / New York, NY / Washington, DC",
+      "updated_at": "2026-03-24T03:06:15-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7612146?t=gh_src=&gh_jid=7612146"
+    },
+    {
+      "id": "7732495",
+      "title": "Content Writer",
+      "location": "Chicago, IL; Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Chicago, IL / Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-07T15:59:21-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7732495?t=gh_src=&gh_jid=7732495"
+    },
+    {
+      "id": "7697781",
+      "title": "Contingent Workforce Planning Partner",
+      "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+      "department": "PeopleX Division",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-03-24T03:06:35-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7697781?t=gh_src=&gh_jid=7697781"
+    },
+    {
+      "id": "7513613",
+      "title": "Credit Business Analyst, Banking Fraud",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "department": "Money Underwriting",
+      "offices": "Menlo Park, CA / New York, NY / Washington, DC",
+      "updated_at": "2026-04-25T09:02:24-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7513613?t=gh_src=&gh_jid=7513613"
+    },
+    {
+      "id": "7652487",
+      "title": "Crypto AML Investigator",
+      "location": "Denver, CO; New York, NY; Westlake, TX",
+      "department": "Financial Crimes",
+      "offices": "Denver, CO / New York, NY / Westlake, TX",
+      "updated_at": "2026-03-27T01:06:46-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7652487?t=gh_src=&gh_jid=7652487"
+    },
+    {
+      "id": "7577409",
+      "title": "Customer Experience Associate, Pathway",
+      "location": "Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Westlake, TX",
+      "updated_at": "2026-04-17T13:50:36-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7577409?t=gh_src=&gh_jid=7577409"
+    },
+    {
+      "id": "7689814",
+      "title": "Customer Experience Escalations Specialist - Social",
+      "location": "Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Chicago, IL / Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-01T16:03:20-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7689814?t=gh_src=&gh_jid=7689814"
+    },
+    {
+      "id": "7804725",
+      "title": "Customer Experience Manager, Investment Accounts",
+      "location": "Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-15T18:31:11-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7804725?t=gh_src=&gh_jid=7804725"
+    },
+    {
+      "id": "7659806",
+      "title": "Customer Experience Representative, Advanced Services",
+      "location": "Chicago, IL; Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Chicago, IL / Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-22T15:00:00-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7659806?t=gh_src=&gh_jid=7659806"
+    },
+    {
+      "id": "7700505",
+      "title": "Customer Experience Representative, Core Services",
+      "location": "Chicago, IL; Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Chicago, IL / Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-14T18:53:22-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7700505?t=gh_src=&gh_jid=7700505"
+    },
+    {
+      "id": "7707756",
+      "title": "Customer Experience Representative, Derivatives ",
+      "location": "Chicago, IL; Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Chicago, IL / Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-22T15:07:52-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7707756?t=gh_src=&gh_jid=7707756"
+    },
+    {
+      "id": "7804754",
+      "title": "Customer Experience Representative, Executive Office",
+      "location": "Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-21T21:52:47-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7804754?t=gh_src=&gh_jid=7804754"
+    },
+    {
+      "id": "7587327",
+      "title": "Customer Experience Team Lead",
+      "location": "Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Chicago, IL / Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-13T14:59:35-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7587327?t=gh_src=&gh_jid=7587327"
+    },
+    {
+      "id": "7324983",
+      "title": "Data Scientist, Product",
+      "location": "New York, NY",
+      "department": "ENG Data Science",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7324983?t=gh_src=&gh_jid=7324983"
+    },
+    {
+      "id": "7685092",
+      "title": "Deal Lead, Robinhood Ventures",
+      "location": "Menlo Park, CA",
+      "department": "Robinhood Ventures",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-20T16:48:03-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7685092?t=gh_src=&gh_jid=7685092"
+    },
+    {
+      "id": "7592187",
+      "title": "Deputy MLRO / AML Lead",
+      "location": "Luxembourg, Luxembourg",
+      "department": "Bitstamp G&A",
+      "offices": "Luxembourg, Luxembourg",
+      "updated_at": "2026-04-21T19:29:36-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7592187?t=gh_src=&gh_jid=7592187"
+    },
+    {
+      "id": "7539100",
+      "title": "Derivatives Risk Oversight Lead",
+      "location": "Luxembourg, Luxembourg",
+      "department": "Bitstamp G&A",
+      "offices": "Ljubljana, Slovenia / London, UK (Bitstamp) / Luxembourg, Luxembourg",
+      "updated_at": "2026-04-15T03:32:58-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7539100?t=gh_src=&gh_jid=7539100"
+    },
+    {
+      "id": "7473824",
+      "title": "Derivatives Risk Oversight Lead",
+      "location": "London, UK",
+      "department": "Bitstamp G&A",
+      "offices": "Ljubljana, Slovenia / London, UK (Bitstamp) / Luxembourg, Luxembourg",
+      "updated_at": "2026-04-15T03:29:55-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7473824?t=gh_src=&gh_jid=7473824"
+    },
+    {
+      "id": "7539106",
+      "title": "Derivatives Risk Oversight Lead",
+      "location": "Ljubljana, Slovenia",
+      "department": "Bitstamp G&A",
+      "offices": "Ljubljana, Slovenia / London, UK (Bitstamp) / Luxembourg, Luxembourg",
+      "updated_at": "2026-04-15T03:35:47-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7539106?t=gh_src=&gh_jid=7539106"
+    },
+    {
+      "id": "7490045",
+      "title": "Director of Internal Audit",
+      "location": "London, UK",
+      "department": "Internal Audit",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T18:32:50-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7490045?t=gh_src=&gh_jid=7490045"
+    },
+    {
+      "id": "7813069",
+      "title": "Engineering Manager",
+      "location": "New York, NY",
+      "department": "Brokerage Engineering",
+      "offices": "New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-23T20:12:46-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7813069?t=gh_src=&gh_jid=7813069"
+    },
+    {
+      "id": "7542965",
+      "title": "Engineering Manager, Agent Experience",
+      "location": "Menlo Park, CA",
+      "department": "ENG Platforms",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-17T03:06:54-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7542965?t=gh_src=&gh_jid=7542965"
+    },
+    {
+      "id": "7603848",
+      "title": "Engineering Manager, Capacity and Efficiency",
+      "location": "Bellevue, WA",
+      "department": "ENG Technical Assurance",
+      "offices": "Bellevue, WA",
+      "updated_at": "2026-04-24T13:20:58-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7603848?t=gh_src=&gh_jid=7603848"
+    },
+    {
+      "id": "7542975",
+      "title": "Engineering Manager, Derivatives",
+      "location": "Ljubljana, Slovenia",
+      "department": "Bitstamp - Engineering Division",
+      "offices": "Ljubljana, Slovenia",
+      "updated_at": "2026-04-27T03:07:16-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7542975?t=gh_src=&gh_jid=7542975"
+    },
+    {
+      "id": "7512231",
+      "title": "Engineering Manager, Financial Crimes ",
+      "location": "Menlo Park, CA",
+      "department": "ENG Platforms",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-27T03:07:11-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7512231?t=gh_src=&gh_jid=7512231"
+    },
+    {
+      "id": "7539771",
+      "title": "Engineering Manager, International",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Crypto Engineering",
+      "offices": "Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-21T19:21:35-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7539771?t=gh_src=&gh_jid=7539771"
+    },
+    {
+      "id": "7489328",
+      "title": "Engineering Manager, Legend",
+      "location": "Menlo Park, CA",
+      "department": "Brokerage Engineering",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-27T03:06:33-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489328?t=gh_src=&gh_jid=7489328"
+    },
+    {
+      "id": "7684757",
+      "title": "Engineering Manager, Observability",
+      "location": "Toronto, Canada",
+      "department": "ENG Infrastructure",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-24T03:06:20-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7684757?t=gh_src=&gh_jid=7684757"
+    },
+    {
+      "id": "7489246",
+      "title": "Engineering Manager, Strategies & Cortex",
+      "location": "Menlo Park, CA",
+      "department": "Brokerage Engineering",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-27T03:06:24-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246"
+    },
+    {
+      "id": "7117648",
+      "title": "Engineering Manager, Toronto",
+      "location": "Toronto, Canada",
+      "department": "Futures Engineering",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-03-23T19:25:20-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7117648?t=gh_src=&gh_jid=7117648"
+    },
+    {
+      "id": "7604327",
+      "title": "Finance & Strategy Manager, Prediction Markets",
+      "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+      "department": "Finance Division",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-21T11:47:08-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7604327?t=gh_src=&gh_jid=7604327"
+    },
+    {
+      "id": "7759805",
+      "title": "Finance & Strategy Senior Analyst",
+      "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+      "department": "Finance Division",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-02T18:07:34-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7759805?t=gh_src=&gh_jid=7759805"
+    },
+    {
+      "id": "7729808",
+      "title": "Fraud Investigations Analyst ",
+      "location": "Denver, CO; Westlake, TX",
+      "department": "Customer Trust and Safety",
+      "offices": "Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-07T12:03:02-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7729808?t=gh_src=&gh_jid=7729808"
+    },
+    {
+      "id": "7728963",
+      "title": "Fraud Investigations Lead",
+      "location": "Denver, CO; Westlake, TX",
+      "department": "Customer Trust and Safety",
+      "offices": "Denver, CO",
+      "updated_at": "2026-04-21T12:44:20-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7728963?t=gh_src=&gh_jid=7728963"
+    },
+    {
+      "id": "7697791",
+      "title": "Insider Threat Investigator",
+      "location": "Menlo Park, CA",
+      "department": "Security Division",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-24T13:21:12-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7697791?t=gh_src=&gh_jid=7697791"
+    },
+    {
+      "id": "6674980",
+      "title": "iOS Engineer",
+      "location": "New York, NY",
+      "department": "ENG Infrastructure",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-08T22:03:01-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980"
+    },
+    {
+      "id": "7794027",
+      "title": "iOS Engineer",
+      "location": "Menlo Park, CA",
+      "department": "ENG Infrastructure",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-08T21:55:06-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027"
+    },
+    {
+      "id": "7723234",
+      "title": "Manager of Corporate Accounting",
+      "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+      "department": "Accounting",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY / US, Remote Zone 3",
+      "updated_at": "2026-04-21T19:29:51-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7723234?t=gh_src=&gh_jid=7723234"
+    },
+    {
+      "id": "7799503",
+      "title": "Manager of Customer Operations, Money",
+      "location": "Chicago, IL; Denver, CO; Westlake, TX",
+      "department": "Money Operations",
+      "offices": "Chicago, IL / Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-21T19:24:18-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7799503?t=gh_src=&gh_jid=7799503"
+    },
+    {
+      "id": "7783116",
+      "title": "Manager of Global Mobility & Immigration",
+      "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+      "department": "People Relations and Operations",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-24T11:59:16-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7783116?t=gh_src=&gh_jid=7783116"
+    },
+    {
+      "id": "7736809",
+      "title": "Manager of Learning & Development",
+      "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+      "department": "Talent Management",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-27T14:06:42-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7736809?t=gh_src=&gh_jid=7736809"
+    },
+    {
+      "id": "7706906",
+      "title": "Market Risk Senior Analyst",
+      "location": "Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",
+      "department": "Brokerage Operations - RHS",
+      "offices": "Chicago, IL / Lake Mary, FL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-03T13:35:43-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7706906?t=gh_src=&gh_jid=7706906"
+    },
+    {
+      "id": "7551178",
+      "title": "People Systems Manager",
+      "location": "Menlo Park, CA",
+      "department": "Corporate Engineering Division",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:20:56-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7551178?t=gh_src=&gh_jid=7551178"
+    },
+    {
+      "id": "6494244",
+      "title": "Product Designer, Growth",
+      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+      "department": "Brokerage Design",
+      "offices": "Bellevue, WA / Chicago, IL / Denver, CO / Lake Mary, FL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-08T00:32:30-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244"
+    },
+    {
+      "id": "7536920",
+      "title": "Product Manager, Crypto Trading",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Crypto Product Management",
+      "offices": "Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-16T13:05:41-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7536920?t=gh_src=&gh_jid=7536920"
+    },
+    {
+      "id": "7747728",
+      "title": "Product Manager, Money Movement",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Customer Trust and Safety",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-16T13:54:37-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7747728?t=gh_src=&gh_jid=7747728"
+    },
+    {
+      "id": "7852014",
+      "title": "Real Estate Project Manager",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Real Estate and Workplace",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-27T14:14:13-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7852014?t=gh_src=&gh_jid=7852014"
+    },
+    {
+      "id": "7729315",
+      "title": "Salesforce Applications Developer",
+      "location": "Toronto, Canada",
+      "department": "Corporate Engineering Division",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:21:19-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7729315?t=gh_src=&gh_jid=7729315"
+    },
+    {
+      "id": "7697727",
+      "title": "Security Engineer, Detection & Response",
+      "location": "Toronto, Canada",
+      "department": "Security Division",
+      "offices": "Ljubljana, Slovenia / Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:21:07-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7697727?t=gh_src=&gh_jid=7697727"
+    },
+    {
+      "id": "7697725",
+      "title": "Security Engineer, Detection & Response",
+      "location": "Menlo Park, CA",
+      "department": "Security Division",
+      "offices": "Ljubljana, Slovenia / Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:21:07-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725"
+    },
+    {
+      "id": "7346630",
+      "title": "Senior Analytics Engineer, Corporate Strategy",
+      "location": "Menlo Park, CA",
+      "department": "ENG Data Science",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7346630?t=gh_src=&gh_jid=7346630"
+    },
+    {
+      "id": "7412393",
+      "title": "Senior Android Engineer",
+      "location": "Menlo Park, CA",
+      "department": "Brokerage Engineering",
+      "offices": "Bellevue, WA / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7412393?t=gh_src=&gh_jid=7412393"
+    },
+    {
+      "id": "7178427",
+      "title": "Senior Cloud Security Engineer",
+      "location": "Bellevue, WA",
+      "department": "Security Division",
+      "offices": "Bellevue, WA / Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-24T13:20:38-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7178427?t=gh_src=&gh_jid=7178427"
+    },
+    {
+      "id": "7412037",
+      "title": "Senior Data Scientist, Fraud ",
+      "location": "Menlo Park, CA",
+      "department": "ENG Data Science",
+      "offices": "Bellevue, WA / Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-24T03:05:23-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037"
+    },
+    {
+      "id": "7482186",
+      "title": "Senior Data Scientist, ML (Brokerage)",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "ENG Data Science",
+      "offices": "Bellevue, WA / Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-24T03:05:34-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7482186?t=gh_src=&gh_jid=7482186"
+    },
+    {
+      "id": "7596426",
+      "title": "Senior Data Scientist, ML (Incentives)",
+      "location": "Menlo Park, CA",
+      "department": "ENG Data Science",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-24T03:06:11-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426"
+    },
+    {
+      "id": "7324981",
+      "title": "Senior Data Scientist, Product",
+      "location": "Menlo Park, CA",
+      "department": "ENG Data Science",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7324981?t=gh_src=&gh_jid=7324981"
+    },
+    {
+      "id": "7599307",
+      "title": "Senior Director of Creative",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Creative",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-21T18:33:13-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7599307?t=gh_src=&gh_jid=7599307"
+    },
+    {
+      "id": "7844218",
+      "title": "Senior Engineering Manager, AI",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "department": "ENG Data and AI Platform Division",
+      "offices": "Bellevue, WA / Menlo Park, CA",
+      "updated_at": "2026-04-24T13:22:03-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7844218?t=gh_src=&gh_jid=7844218"
+    },
+    {
+      "id": "7473367",
+      "title": "Senior Engineering Manager, Application and Product Security",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "department": "Security Division",
+      "offices": "Bellevue, WA / Menlo Park, CA",
+      "updated_at": "2026-04-24T13:20:45-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7473367?t=gh_src=&gh_jid=7473367"
+    },
+    {
+      "id": "7804749",
+      "title": "Senior Fraud Operations Specialist",
+      "location": "Denver, CO",
+      "department": "Customer Trust and Safety",
+      "offices": "Denver, CO / Westlake, TX",
+      "updated_at": "2026-04-13T17:05:43-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7804749?t=gh_src=&gh_jid=7804749"
+    },
+    {
+      "id": "7593325",
+      "title": "Senior Growth Marketing Manager",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Growth Activation Engagement and Gold",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-03T13:35:20-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7593325?t=gh_src=&gh_jid=7593325"
+    },
+    {
+      "id": "6675127",
+      "title": "Senior iOS Engineer",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "ENG Infrastructure",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/6675127?t=gh_src=&gh_jid=6675127"
+    },
+    {
+      "id": "7121213",
+      "title": "Senior Machine Learning Engineer, Agentic",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "department": "ENG Data and AI Platform Division",
+      "offices": "Bellevue, WA / Menlo Park, CA",
+      "updated_at": "2026-04-24T13:20:32-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213"
+    },
+    {
+      "id": "7815430",
+      "title": "Senior Manager, Crypto Compliance (BVI)",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Bitstamp G&A",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-16T13:05:59-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7815430?t=gh_src=&gh_jid=7815430"
+    },
+    {
+      "id": "7489988",
+      "title": "Senior Manager Tax, Product and M&A",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Tax",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-27T14:05:02-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489988?t=gh_src=&gh_jid=7489988"
+    },
+    {
+      "id": "7816451",
+      "title": "Senior Partnerships Manager, Crypto",
+      "location": "New York, NY",
+      "department": "Crypto Division",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-20T13:42:43-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7816451?t=gh_src=&gh_jid=7816451"
+    },
+    {
+      "id": "7782425",
+      "title": "Senior Partnerships Manager, Money",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "department": "Money Operations",
+      "offices": "Menlo Park, CA / New York, NY / Washington, DC",
+      "updated_at": "2026-04-20T16:48:56-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7782425?t=gh_src=&gh_jid=7782425"
+    },
+    {
+      "id": "7511787",
+      "title": "Senior Product Designer, Banking",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Money Design",
+      "offices": "Bellevue, WA / Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-03-29T03:19:44-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7511787?t=gh_src=&gh_jid=7511787"
+    },
+    {
+      "id": "7202302",
+      "title": "Senior Product Designer, Money Movement",
+      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+      "department": "Brokerage Design",
+      "offices": "Bellevue, WA / Chicago, IL / Denver, CO / Lake Mary, FL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-03-18T15:04:17-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7202302?t=gh_src=&gh_jid=7202302"
+    },
+    {
+      "id": "7490012",
+      "title": "Senior Product Designer, Prediction Markets",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Brokerage Design",
+      "offices": "Bellevue, WA / Chicago, IL / Denver, CO / Lake Mary, FL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-08T00:33:18-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7490012?t=gh_src=&gh_jid=7490012"
+    },
+    {
+      "id": "7812048",
+      "title": "Senior Product Designer, Trading AI",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Brokerage Design",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-15T10:12:52-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7812048?t=gh_src=&gh_jid=7812048"
+    },
+    {
+      "id": "7707158",
+      "title": "Senior Product Manager, Security AI",
+      "location": "Bellevue, WA",
+      "department": "Security Division",
+      "offices": "Bellevue, WA",
+      "updated_at": "2026-04-24T13:21:09-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7707158?t=gh_src=&gh_jid=7707158"
+    },
+    {
+      "id": "7736547",
+      "title": "Senior Product Marketing Manager",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Growth Acquisitions",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-17T13:47:26-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7736547?t=gh_src=&gh_jid=7736547"
+    },
+    {
+      "id": "7728174",
+      "title": "Senior Security Engineer, AI Vulnerability Management",
+      "location": "Menlo Park, CA",
+      "department": "Security Division",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:21:14-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7728174?t=gh_src=&gh_jid=7728174"
+    },
+    {
+      "id": "7728176",
+      "title": "Senior Security Engineer, AI Vulnerability Management",
+      "location": "Toronto, Canada",
+      "department": "Security Division",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:21:14-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7728176?t=gh_src=&gh_jid=7728176"
+    },
+    {
+      "id": "7724385",
+      "title": "Senior Security GRC Analyst",
+      "location": "Ljubljana, Slovenia",
+      "department": "Security Division",
+      "offices": "Ljubljana, Slovenia / Menlo Park, CA",
+      "updated_at": "2026-04-24T13:21:05-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7724385?t=gh_src=&gh_jid=7724385"
+    },
+    {
+      "id": "7676724",
+      "title": "Senior Security GRC Analyst",
+      "location": "Menlo Park, CA",
+      "department": "Security Division",
+      "offices": "Ljubljana, Slovenia / Menlo Park, CA",
+      "updated_at": "2026-04-24T13:21:05-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7676724?t=gh_src=&gh_jid=7676724"
+    },
+    {
+      "id": "5400711",
+      "title": "Senior Software Developer, Derivatives",
+      "location": "Toronto, Canada",
+      "department": "ENG Executive Office",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-20T22:20:30-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/5400711?t=gh_src=&gh_jid=5400711"
+    },
+    {
+      "id": "6889390",
+      "title": "Senior Software Developer, Infrastructure",
+      "location": "Toronto, Canada",
+      "department": "ENG Infrastructure",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/6889390?t=gh_src=&gh_jid=6889390"
+    },
+    {
+      "id": "7848821",
+      "title": "Senior Software Developer, Ops Platform and Fraud Investigations",
+      "location": "Toronto, Canada",
+      "department": "ENG Executive Office",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-23T19:34:14-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7848821?t=gh_src=&gh_jid=7848821"
+    },
+    {
+      "id": "7489731",
+      "title": "Senior Software Engineer, Agentic",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "department": "ENG Data and AI Platform Division",
+      "offices": "Bellevue, WA / Menlo Park, CA",
+      "updated_at": "2026-04-24T13:20:48-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489731?t=gh_src=&gh_jid=7489731"
+    },
+    {
+      "id": "7782697",
+      "title": "Senior Software Engineer, AI Infrastructure",
+      "location": "Menlo Park, CA",
+      "department": "ENG Data and AI Platform Division",
+      "offices": "Bellevue, WA / Menlo Park, CA",
+      "updated_at": "2026-04-24T13:21:36-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7782697?t=gh_src=&gh_jid=7782697"
+    },
+    {
+      "id": "7489675",
+      "title": "Senior Software Engineer, Capacity & Efficiency ",
+      "location": "Bellevue, WA",
+      "department": "ENG Technical Assurance",
+      "offices": "Bellevue, WA",
+      "updated_at": "2026-04-24T13:20:47-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489675?t=gh_src=&gh_jid=7489675"
+    },
+    {
+      "id": "7648454",
+      "title": "Senior Software Engineer, Cloud Integration",
+      "location": "Ljubljana, Slovenia",
+      "department": "Bitstamp - Engineering Division",
+      "offices": "Ljubljana, Slovenia",
+      "updated_at": "2026-04-27T03:07:20-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7648454?t=gh_src=&gh_jid=7648454"
+    },
+    {
+      "id": "7473701",
+      "title": "Senior Software Engineer, Core Exchange",
+      "location": "Ljubljana, Slovenia",
+      "department": "Bitstamp - Engineering Division",
+      "offices": "Ljubljana, Slovenia",
+      "updated_at": "2026-04-27T03:06:20-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7473701?t=gh_src=&gh_jid=7473701"
+    },
+    {
+      "id": "4738660",
+      "title": "Senior Software Engineer, Data Engineering",
+      "location": "Menlo Park, CA",
+      "department": "ENG Data Science",
+      "offices": "Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660"
+    },
+    {
+      "id": "7739375",
+      "title": "Senior Software Engineer, Derivatives Team",
+      "location": "London, UK",
+      "department": "Bitstamp - Engineering Division",
+      "offices": "London, UK / Luxembourg, Luxembourg / Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-27T03:07:24-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7739375?t=gh_src=&gh_jid=7739375"
+    },
+    {
+      "id": "7838644",
+      "title": "Senior Software Engineer - Robinhood Command Center",
+      "location": "Menlo Park, CA",
+      "department": "ENG Technical Assurance",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-24T13:21:52-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7838644?t=gh_src=&gh_jid=7838644"
+    },
+    {
+      "id": "7729019",
+      "title": "Senior Software Engineer, Storage Platform",
+      "location": "Bellevue, WA",
+      "department": "ENG Infrastructure",
+      "offices": "Bellevue, WA / Menlo Park, CA",
+      "updated_at": "2026-04-24T03:06:41-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7729019?t=gh_src=&gh_jid=7729019"
+    },
+    {
+      "id": "7805145",
+      "title": "Senior Software Engineer, Streaming Platform",
+      "location": "Bellevue, WA",
+      "department": "ENG Data and AI Platform Division",
+      "offices": "Bellevue, WA / Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T03:07:21-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7805145?t=gh_src=&gh_jid=7805145"
+    },
+    {
+      "id": "6913966",
+      "title": "Senior Staff Software Developer, Developer Productivity & AI Tooling ",
+      "location": "Toronto, Canada",
+      "department": "ENG Infrastructure",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-24T03:05:09-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/6913966?t=gh_src=&gh_jid=6913966"
+    },
+    {
+      "id": "7729014",
+      "title": "Senior Staff Software Engineer, Data Platform",
+      "location": "Bellevue, WA",
+      "department": "ENG Infrastructure",
+      "offices": "Bellevue, WA / Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T03:06:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7729014?t=gh_src=&gh_jid=7729014"
+    },
+    {
+      "id": "7490029",
+      "title": "Senior Tax Manager",
+      "location": "Menlo Park, CA",
+      "department": "Tax",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-10T20:46:08-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7490029?t=gh_src=&gh_jid=7490029"
+    },
+    {
+      "id": "7773503",
+      "title": "Senior Technical Program Manager, Privacy",
+      "location": "New York, NY",
+      "department": "Privacy Division",
+      "offices": "New York, NY",
+      "updated_at": "2026-04-24T13:21:34-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7773503?t=gh_src=&gh_jid=7773503"
+    },
+    {
+      "id": "7542970",
+      "title": "Senior Web Infrastructure Developer ",
+      "location": "Toronto, Canada",
+      "department": "ENG Infrastructure",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T03:06:04-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7542970?t=gh_src=&gh_jid=7542970"
+    },
+    {
+      "id": "5432053",
+      "title": "Software Developer, Backend",
+      "location": "Toronto, Canada",
+      "department": "Brokerage Engineering",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-17T19:36:34-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/5432053?t=gh_src=&gh_jid=5432053"
+    },
+    {
+      "id": "7622031",
+      "title": "Software Developer, Fraud Investigations",
+      "location": "Toronto, Canada",
+      "department": "ENG Platforms",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-17T03:07:10-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7622031?t=gh_src=&gh_jid=7622031"
+    },
+    {
+      "id": "4829946",
+      "title": "Software Developer, Infrastructure",
+      "location": "Toronto, Canada",
+      "department": "ENG Infrastructure",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/4829946?t=gh_src=&gh_jid=4829946"
+    },
+    {
+      "id": "7263592",
+      "title": "Software Engineer, Backend",
+      "location": "Menlo Park, CA",
+      "department": "Brokerage Engineering",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592"
+    },
+    {
+      "id": "7589432",
+      "title": "Software Engineer, Cloud Engineering",
+      "location": "Ljubljana, Slovenia",
+      "department": "Bitstamp - Engineering Division",
+      "offices": "Ljubljana, Slovenia",
+      "updated_at": "2026-04-27T03:07:19-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7589432?t=gh_src=&gh_jid=7589432"
+    },
+    {
+      "id": "7489695",
+      "title": "Software Engineering Manager, Growth",
+      "location": "Menlo Park, CA",
+      "department": "ENG Growth",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-27T03:06:48-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489695?t=gh_src=&gh_jid=7489695"
+    },
+    {
+      "id": "7676714",
+      "title": "Staff Machine Learning Engineer, Agentic",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "department": "ENG Data and AI Platform Division",
+      "offices": "Bellevue, WA / Menlo Park, CA",
+      "updated_at": "2026-04-24T13:21:02-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714"
+    },
+    {
+      "id": "7460169",
+      "title": "Staff Offensive Security Engineer",
+      "location": "Toronto, Canada",
+      "department": "Security Division",
+      "offices": "Bellevue, WA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:20:43-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7460169?t=gh_src=&gh_jid=7460169"
+    },
+    {
+      "id": "7460167",
+      "title": "Staff Offensive Security Engineer",
+      "location": "Bellevue, WA",
+      "department": "Security Division",
+      "offices": "Bellevue, WA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:20:43-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167"
+    },
+    {
+      "id": "6545329",
+      "title": "Staff Product Designer, Crypto",
+      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+      "department": "Crypto Design",
+      "offices": "Bellevue, WA / Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-16T13:05:27-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/6545329?t=gh_src=&gh_jid=6545329"
+    },
+    {
+      "id": "7587151",
+      "title": "Staff Product Manager, Banking",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "department": "Money Product Division",
+      "offices": "Menlo Park, CA / New York, NY / Washington, DC",
+      "updated_at": "2026-04-16T13:37:19-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151"
+    },
+    {
+      "id": "7821803",
+      "title": "Staff Product Manager, Cortex",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Customer Care",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-18T05:33:08-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7821803?t=gh_src=&gh_jid=7821803"
+    },
+    {
+      "id": "7812801",
+      "title": "Staff Product Manager, International",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "International Product Management",
+      "offices": "Menlo Park, CA / New York, NY",
+      "updated_at": "2026-04-17T13:13:09-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7812801?t=gh_src=&gh_jid=7812801"
+    },
+    {
+      "id": "7489427",
+      "title": "Staff Product Manager, International Growth & Expansion",
+      "location": "London, UK",
+      "department": "International Product Management",
+      "offices": "London, UK",
+      "updated_at": "2026-04-27T03:06:40-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489427?t=gh_src=&gh_jid=7489427"
+    },
+    {
+      "id": "7615747",
+      "title": "Staff Security Analyst, Threat Intelligence",
+      "location": "Toronto, Canada",
+      "department": "Security Division",
+      "offices": "Ljubljana, Slovenia / Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:21:00-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7615747?t=gh_src=&gh_jid=7615747"
+    },
+    {
+      "id": "7615745",
+      "title": "Staff Security Analyst, Threat Intelligence",
+      "location": "Menlo Park, CA",
+      "department": "Security Division",
+      "offices": "Ljubljana, Slovenia / Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:21:00-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7615745?t=gh_src=&gh_jid=7615745"
+    },
+    {
+      "id": "7754299",
+      "title": "Staff Security Engineer, Application Security",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "department": "Security Division",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-24T13:21:29-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7754299?t=gh_src=&gh_jid=7754299"
+    },
+    {
+      "id": "6843318",
+      "title": "Staff Software Developer, Backend Platform",
+      "location": "Toronto, Canada",
+      "department": "ENG Infrastructure",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-15T13:08:39-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/6843318?t=gh_src=&gh_jid=6843318"
+    },
+    {
+      "id": "7301788",
+      "title": "Staff Software Developer, Cloud Networking",
+      "location": "Toronto, Canada",
+      "department": "ENG Infrastructure",
+      "offices": "Toronto, Canada",
+      "updated_at": "2026-04-24T03:05:21-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7301788?t=gh_src=&gh_jid=7301788"
+    },
+    {
+      "id": "7644973",
+      "title": "Staff Software Engineer, Compute",
+      "location": "Toronto, Canada",
+      "department": "ENG Infrastructure",
+      "offices": "Bellevue, WA / Toronto, Canada",
+      "updated_at": "2026-04-24T03:05:25-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7644973?t=gh_src=&gh_jid=7644973"
+    },
+    {
+      "id": "7716679",
+      "title": "Staff Software Engineer, Core Exchange",
+      "location": "Ljubljana, Slovenia",
+      "department": "Bitstamp - Engineering Division",
+      "offices": "Ljubljana, Slovenia",
+      "updated_at": "2026-04-27T03:07:22-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7716679?t=gh_src=&gh_jid=7716679"
+    },
+    {
+      "id": "7470947",
+      "title": "Staff Software Engineer, Crypto Custody",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Crypto Engineering",
+      "offices": "Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-27T03:06:18-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7470947?t=gh_src=&gh_jid=7470947"
+    },
+    {
+      "id": "7489755",
+      "title": "Staff Software Engineer, Streaming Infrastructure",
+      "location": "Bellevue, WA",
+      "department": "ENG Data and AI Platform Division",
+      "offices": "Bellevue, WA / Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T03:05:58-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489755?t=gh_src=&gh_jid=7489755"
+    },
+    {
+      "id": "7489950",
+      "title": "Staff Software Engineer, Web3",
+      "location": "Menlo Park, CA; New York, NY",
+      "department": "Crypto Engineering",
+      "offices": "Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-27T03:07:06-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950"
+    },
+    {
+      "id": "7489952",
+      "title": "Staff Software Engineer, Web3",
+      "location": "Toronto, Canada",
+      "department": "Crypto Engineering",
+      "offices": "Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-27T03:07:06-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952"
+    },
+    {
+      "id": "7739577",
+      "title": "Staff Technical Program Manager - Reliability Engineering",
+      "location": "Menlo Park, CA",
+      "department": "ENG Technical Assurance",
+      "offices": "Menlo Park, CA",
+      "updated_at": "2026-04-24T13:21:24-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7739577?t=gh_src=&gh_jid=7739577"
+    },
+    {
+      "id": "7729684",
+      "title": "Staff Workday Developer",
+      "location": "Toronto, Canada",
+      "department": "Corporate Engineering Division",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:21:22-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7729684?t=gh_src=&gh_jid=7729684"
+    },
+    {
+      "id": "7729682",
+      "title": "Staff Workday Engineer",
+      "location": "Menlo Park, CA",
+      "department": "Corporate Engineering Division",
+      "offices": "Menlo Park, CA / Toronto, Canada",
+      "updated_at": "2026-04-24T13:21:22-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7729682?t=gh_src=&gh_jid=7729682"
+    },
+    {
+      "id": "7816070",
+      "title": "Technical Recruiter",
+      "location": "Toronto, Canada",
+      "department": "Talent Acquisition",
+      "offices": "Toronto, Canada / US, Remote Zone 1",
+      "updated_at": "2026-04-21T17:09:11-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7816070?t=gh_src=&gh_jid=7816070"
+    },
+    {
+      "id": "7816068",
+      "title": "Technical Recruiter",
+      "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+      "department": "Talent Acquisition",
+      "offices": "Toronto, Canada / US, Remote Zone 1",
+      "updated_at": "2026-04-21T17:09:10-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7816068?t=gh_src=&gh_jid=7816068"
+    },
+    {
+      "id": "7485770",
+      "title": "Vendor Trainer",
+      "location": "Chicago, IL; Denver, CO; Westlake, TX",
+      "department": "Customer Care",
+      "offices": "Chicago, IL / Denver, CO / Westlake, TX",
+      "updated_at": "2026-03-27T01:05:01-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7485770?t=gh_src=&gh_jid=7485770"
+    },
+    {
+      "id": "7815583",
+      "title": "Workplace Operations Specialist",
+      "location": "Washington, DC",
+      "department": "Real Estate and Workplace",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY / Washington, DC",
+      "updated_at": "2026-04-22T18:07:08-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7815583?t=gh_src=&gh_jid=7815583"
+    },
+    {
+      "id": "7815625",
+      "title": "Workplace Operations Specialist",
+      "location": "Toronto, Canada",
+      "department": "Real Estate and Workplace",
+      "offices": "Chicago, IL / Menlo Park, CA / New York, NY / Toronto, Canada",
+      "updated_at": "2026-04-22T18:17:09-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7815625?t=gh_src=&gh_jid=7815625"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "onsemi",
+  "name": "ON Semiconductor",
+  "website": "https://www.onsemi.com",
+  "sector": "Semiconductors / Power",
+  "headquarters": "Phoenix, AZ",
+  "description": "Power semiconductors, image sensors, automotive and industrial.",
+  "ats": "workday",
+  "workday": {
+    "host": "onsemi.wd1.myworkdayjobs.com",
+    "tenant": "onsemi",
+    "site": "External"
+  }
+}

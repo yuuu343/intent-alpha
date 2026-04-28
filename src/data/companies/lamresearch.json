@@ -1,0 +1,14 @@
+{
+  "slug": "lamresearch",
+  "name": "Lam Research",
+  "website": "https://www.lamresearch.com",
+  "sector": "Semicon Equipment",
+  "headquarters": "Fremont, CA",
+  "description": "Wafer-fabrication equipment focused on etch and deposition.",
+  "ats": "workday",
+  "workday": {
+    "host": "lamresearch.wd1.myworkdayjobs.com",
+    "tenant": "lamresearch",
+    "site": "External"
+  }
+}

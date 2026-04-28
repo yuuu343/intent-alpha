@@ -1,0 +1,10 @@
+{
+  "slug": "digitalocean",
+  "name": "DigitalOcean",
+  "website": "https://www.digitalocean.com",
+  "sector": "Cloud Infrastructure",
+  "headquarters": "New York, NY",
+  "description": "Developer-focused cloud (compute, managed databases, Kubernetes); GPU droplets for inference.",
+  "ats": "custom",
+  "customNote": "ATS unconfirmed; greenhouse/digitalocean returns 404."
+}

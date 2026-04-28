@@ -1,0 +1,14 @@
+{
+  "slug": "micron",
+  "name": "Micron",
+  "website": "https://www.micron.com",
+  "sector": "Memory",
+  "headquarters": "Boise, ID",
+  "description": "DRAM and NAND flash memory; HBM (high-bandwidth memory) for AI accelerators.",
+  "ats": "workday",
+  "workday": {
+    "host": "micron.wd1.myworkdayjobs.com",
+    "tenant": "micron",
+    "site": "External"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "coherent",
+  "name": "Coherent",
+  "website": "https://www.coherent.com",
+  "sector": "Photonics / Lasers",
+  "headquarters": "Saxonburg, PA",
+  "description": "Photonics, lasers, optical components for datacom / AI / industrial.",
+  "ats": "workday",
+  "workday": {
+    "host": "coherent.wd5.myworkdayjobs.com",
+    "tenant": "coherent",
+    "site": "External"
+  }
+}

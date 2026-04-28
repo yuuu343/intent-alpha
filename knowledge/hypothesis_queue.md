@@ -119,3 +119,133 @@ critic_notes: |
 orchestrator_review: FALSE
 published_to: src/content/articles/anthropic-compute-vertical-integration-2026-04.mdx
 ```
+
+```yaml
+id: PROV-002
+state: PUBLISHED
+company: nvidia
+cycle: "0002"
+title: "NVIDIA Is Staffing for a Fragmented Silicon Roadmap, Not a Bigger GPU"
+hypothesis: >
+  NVIDIA is staffing for a vertical-specific silicon roadmap — multiple
+  specialised silicon families (datacenter, networking ASICs, AV, robotics)
+  developed in parallel — rather than a single monolithic next-generation GPU
+  platform.
+horizon: "12-18 months"
+confidence: medium
+snapshot_source: data/snapshots/nvidia/2026-04-28.json
+signal_count: 257 of 1000 sampled (25.7%)
+signal_clusters:
+  - silicon/HW design: 171 (e.g. JR2017041 ASIC Verification Engineer, JR2006352 Senior Silicon and System Product Lead, JR2014981 IC Post-Silicon Test Engineer)
+  - datacenter/networking: 86 (JR2000295 NVLink Fusion, JR2016684 Networking AI, JR2016557 NVLink GPU Networking)
+  - automotive/AV: 73
+  - robotics/Omniverse: 21 (JR2016809 Humanoid Robotics)
+  - compilers/CUDA: 33
+counter_evidence:
+  - "Workday CXS doesn't return department; this is title-keyword cluster."
+  - "Per-fetch cap = 1000 of ~2000 total. Ratios should hold but absolute counts conservative."
+critic_verdict: PASS
+critic_notes: |
+  Cluster size 257 well above 3-posting threshold; specificity high (NVIDIA-only
+  pattern); counter-evidence acknowledged in article.
+orchestrator_review: FALSE
+published_to: src/content/articles/nvidia-silicon-fragmentation-2026-04.mdx
+```
+
+```yaml
+id: PROV-003
+state: PUBLISHED
+company: openai
+cycle: "0003"
+title: "OpenAI's Hiring Has Finished the Pivot from Lab to Enterprise Vendor"
+hypothesis: >
+  OpenAI has finished its operational pivot from foundation-model lab to
+  enterprise software vendor. Hiring matches the Palantir / Snowflake scale-up
+  shape (Forward Deployed Engineers, regional Account Directors, applied
+  engineering); safety roles are 4.6% of open positions.
+horizon: "12-18 months"
+confidence: medium
+snapshot_source: data/snapshots/openai/2026-04-28.json
+signal_count: 260 of 651 (~40%)
+signal_clusters:
+  - Go To Market dept: 134
+  - Applied AI dept: 87
+  - Scaling dept: 86
+  - Model Deployment for Business dept: 39
+  - Forward Deployed Engineering pattern visible (5bbc43df-… Manager FDE, 00207abc-… FDE SF, 961f6c58-… FDE Paris, 305a4b22-… FDE SF)
+  - Compute infrastructure (8fb1615c-… Compute Infrastructure TPM, 770d5c3f-… Frontier Clusters Infra)
+counter_evidence:
+  - "30 safety roles is small but not zero — the lab work continues, just no longer the centre of gravity."
+  - "Regional GTM scale-up follows ChatGPT-Enterprise traction. Hiring is a lagging signal."
+critic_verdict: PASS
+critic_notes: |
+  Cluster size 260 / 651 = 40%. Specific FDE + Account Director combination is
+  diagnostic (not generic enterprise SaaS pattern alone). Confidence calibrated
+  to medium pending earnings/revenue-mix corroboration.
+orchestrator_review: FALSE
+published_to: src/content/articles/openai-enterprise-pivot-2026-04.mdx
+```
+
+```yaml
+id: PROV-004
+state: PUBLISHED
+company: databricks
+cycle: "0004"
+title: "Databricks Hires Like an AI Platform, Not a Data Platform"
+hypothesis: >
+  Databricks has effectively completed the rebrand from data platform to AI
+  platform. AI/ML and generative-AI engineering roles outnumber traditional
+  data-engineering roles ~5:1; Mosaic-style GenAI platform plus an agentic-
+  application stack now dominate the engineering hiring.
+horizon: "12-18 months"
+confidence: medium
+snapshot_source: data/snapshots/databricks/2026-04-28.json
+signal_count: 138 (116 AI/ML + 22 traditional data-eng)
+signal_clusters:
+  - AI/ML platform titles: 116 (8509230002 AI Platform NYC, 8211648002 Model Serving, 8202670002 GenAI inference, 8220814002 Agentic Applications, 7930603002 DevAdvocate Agentic Systems)
+  - Enterprise sales: 139
+  - Platform infrastructure: 58
+  - Traditional data engineering: 22 (8502969002 Spark Connect, 8324875002 Streaming, 8303014002 Delta)
+counter_evidence:
+  - "Many platform engineers do dual data + AI work; 5:1 ratio depends on strict exclusion of bridge roles."
+  - "139 enterprise-sales roles is also consistent with 'late-stage SaaS scale-up' (friendly alternate)."
+critic_verdict: PASS
+critic_notes: |
+  Specificity high (no other major company in roster shows AI:data ratio this
+  skewed). Mosaic acquisition lineage visible in titles. Confidence medium
+  pending product-roadmap / pricing-page corroboration.
+orchestrator_review: FALSE
+published_to: src/content/articles/databricks-ai-platform-pivot-2026-04.mdx
+```
+
+```yaml
+id: PROV-005
+state: PUBLISHED
+company: cloudflare
+cycle: "0005"
+title: "Cloudflare's AI-at-the-Edge Narrative Doesn't Match the Hiring Shape"
+hypothesis: >
+  Cloudflare's hiring shows a near-complete pivot from developer-first PLG to
+  enterprise sales motion (26.5% of open roles are GTM). Workers AI / on-edge
+  inference engineering hiring is comparatively tiny (3 dedicated roles); the
+  AI-at-edge narrative is louder on the product page than in the hiring pattern.
+horizon: "12-18 months"
+confidence: medium
+snapshot_source: data/snapshots/cloudflare/2026-04-28.json
+signal_count: 121 GTM vs 3 Workers-AI engineering (gap = signal)
+signal_clusters:
+  - Sales/GTM: 121 (7480799 AE Public Sector UKI MoD, 7406425 SLED, 7667868/7676967/7400242 BDRs)
+  - Security/Zero Trust: 36
+  - Workers AI / ML engineering: 3 (7581107 Senior ML Eng, 6297179 Workers AI, 7764827 Workers AI)
+  - Emerging Technology and Incubation dept: 18
+counter_evidence:
+  - "General Engineering (47) + Infrastructure (16) contain AI-adjacent work that doesn't tag explicitly; AI count is conservative."
+  - "Late-stage public SaaS sales scale-up is a typical stage effect, not necessarily a strategic AI-deprioritisation."
+critic_verdict: PASS
+critic_notes: |
+  Counter-narrative hypothesis (contradicts public AI-at-edge messaging) is
+  the kind we should publish — falsifiable, specific. Comparison to PROV-001
+  (Anthropic infra build-out) sharpens the contrast.
+orchestrator_review: FALSE
+published_to: src/content/articles/cloudflare-enterprise-gtm-2026-04.mdx
+```

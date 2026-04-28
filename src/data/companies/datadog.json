@@ -1,0 +1,10 @@
+{
+  "slug": "datadog",
+  "name": "Datadog",
+  "website": "https://www.datadoghq.com",
+  "sector": "Observability",
+  "headquarters": "New York, NY",
+  "description": "Monitoring, APM, logs, security, cost analytics across cloud and infrastructure.",
+  "ats": "greenhouse",
+  "atsIdentifier": "datadog"
+}

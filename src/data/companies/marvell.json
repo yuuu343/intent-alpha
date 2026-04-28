@@ -1,0 +1,14 @@
+{
+  "slug": "marvell",
+  "name": "Marvell",
+  "website": "https://www.marvell.com",
+  "sector": "Semiconductors / Networking",
+  "headquarters": "Santa Clara, CA",
+  "description": "Custom silicon, networking ASICs, optical, storage. Competes with Broadcom for hyperscaler custom-ASIC business.",
+  "ats": "workday",
+  "workday": {
+    "host": "marvell.wd1.myworkdayjobs.com",
+    "tenant": "Marvell",
+    "site": "MarvellCareers2"
+  }
+}

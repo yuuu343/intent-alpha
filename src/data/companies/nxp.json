@@ -1,0 +1,14 @@
+{
+  "slug": "nxp",
+  "name": "NXP Semiconductors",
+  "website": "https://www.nxp.com",
+  "sector": "Semiconductors / Auto",
+  "headquarters": "Eindhoven, Netherlands",
+  "description": "Automotive semiconductors, secure connectivity, edge processing.",
+  "ats": "workday",
+  "workday": {
+    "host": "nxp.wd3.myworkdayjobs.com",
+    "tenant": "nxp",
+    "site": "careers"
+  }
+}

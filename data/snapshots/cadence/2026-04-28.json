@@ -1,0 +1,5185 @@
+{
+  "company": "cadence",
+  "ats": "workday",
+  "atsIdentifier": null,
+  "fetchedAt": "2026-04-28T04:30:17.012Z",
+  "count": 647,
+  "jobs": [
+    {
+      "id": "R54571",
+      "title": "Principal Product Engineer - Innovus",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Principal-Product-Engineer---Innovus_R54571"
+    },
+    {
+      "id": "R53934",
+      "title": "ATE Test Engineering Architect",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/ATE-Test-Engineering-Architect_R53934-1"
+    },
+    {
+      "id": "R53911",
+      "title": "ATE Test Engineering Architect",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/ATE-Test-Engineering-Architect_R53911"
+    },
+    {
+      "id": "R53957",
+      "title": "Application Engineering Director - IC Design Verification",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineering-Director---IC-Design-Verification_R53957"
+    },
+    {
+      "id": "R52506",
+      "title": "Software Engineer (Numerical Analysis, C++, Optimization, Mathematics)",
+      "location": "BOSTON 02",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BOSTON-02/Software-Engineer_R52506-1"
+    },
+    {
+      "id": "R53728",
+      "title": "Product Operations Sr. Manager",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Product-Operations-Sr-Manager_R53728"
+    },
+    {
+      "id": "R54207",
+      "title": "Lead Network Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Network-Engineer_R54207"
+    },
+    {
+      "id": "R54538",
+      "title": "Design Engineering Architect",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Design-Engineering-Architect_R54538"
+    },
+    {
+      "id": "R51237",
+      "title": "Lead Network Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Network-Engineer_R51237"
+    },
+    {
+      "id": "R54483",
+      "title": "Inventory and Logistics Manager",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Inventory-and-Logistics-Manager_R54483"
+    },
+    {
+      "id": "R54030",
+      "title": "Lead Software Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Software-Engineer_R54030"
+    },
+    {
+      "id": "R54404",
+      "title": "Senior Principal C++ Software Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Principal-C---Software-Engineer_R54404"
+    },
+    {
+      "id": "R54417",
+      "title": "Digital Verification Intern",
+      "location": "WARSZAWA",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/WARSZAWA/Digital-Verification-Intern_R54417"
+    },
+    {
+      "id": "R54416",
+      "title": "Digital Verification Intern",
+      "location": "WARSZAWA",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/WARSZAWA/Digital-Verification-Intern_R54416"
+    },
+    {
+      "id": "R53793",
+      "title": "Lead Customer Service Engineer",
+      "location": "TAVAGNACCO 01",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/TAVAGNACCO-01/Lead-Customer-Service-Engineer_R53793"
+    },
+    {
+      "id": "R54466",
+      "title": "Lead Design Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Design-Engineer_R54466"
+    },
+    {
+      "id": "R51943",
+      "title": "Lead Design Engineer - Verification",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Design-Engineer---Verification_R51943"
+    },
+    {
+      "id": "R51945",
+      "title": "Lead Design Engineer - Verification",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Design-Engineer---Verification_R51945"
+    },
+    {
+      "id": "R54156",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R54156"
+    },
+    {
+      "id": "R51222",
+      "title": "C++ Software Engineer",
+      "location": "PETAH TIKVA",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PETAH-TIKVA/Lead-Software-Engineer_R51222"
+    },
+    {
+      "id": "R54154",
+      "title": "Sr Principal Emulation Application Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Application-Engineer_R54154"
+    },
+    {
+      "id": "R54073",
+      "title": "Senior Emulation/Verification AE",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Application-Engineer_R54073"
+    },
+    {
+      "id": "R53600",
+      "title": "Architect, Design Implementation and Signoff",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Design-Implementation-and-Signoff_R53600"
+    },
+    {
+      "id": "R54562",
+      "title": "Application Engineer – JedAI/Pulse Installation & Enablement",
+      "location": "HOME CA",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-CA/Application-Engineer---JedAI-Pulse-Installation---Enablement_R54562"
+    },
+    {
+      "id": "R53708",
+      "title": "DFT Design Engineer",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/DFT-Design-Engineer_R53708"
+    },
+    {
+      "id": "R51782",
+      "title": "Group Director,  Design Engineering - Front End",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Sr-Principal-Solutions-Engineer---Front-End_R51782"
+    },
+    {
+      "id": "R54501",
+      "title": "Lead Scientific Developer – Biologics & Protein Design",
+      "location": "SANTA FE 01",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SANTA-FE-01/Lead-Scientific-Developer---Biologics---Protein-Design_R54501-1"
+    },
+    {
+      "id": "R54114",
+      "title": "Senior Principal IC Design Verification Application Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Principal-IC-Design-Verification-Application-Engineer_R54114"
+    },
+    {
+      "id": "R53945",
+      "title": "IT Staff Storage Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/IT-Staff-Storage-Engineer_R53945"
+    },
+    {
+      "id": "R53596",
+      "title": "Lead Solutions Engineer: SI/PI/Thermal Analysis",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Principle-SI-PI-Thermal-Analysis-Solutions-Engineer_R53596"
+    },
+    {
+      "id": "R53594",
+      "title": "Principal Solutions Engineer: Allegro Package Designer",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Principle-APD-Solutions-Engineer_R53594"
+    },
+    {
+      "id": "R53595",
+      "title": "Principal Solutions Engineer: Integrity",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Principle-Integrity-Solutions-Engineer_R53595"
+    },
+    {
+      "id": "R54459",
+      "title": "Principal AE, Full Custom Layout",
+      "location": "HOME MN",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-MN/Principal-AE--Full-Custom-Layout_R54459"
+    },
+    {
+      "id": "R53147",
+      "title": "Senior Distributed Systems Engineer - EDA/VLSI Platform",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Distributed-Systems-Engineer---EDA-VLSI-Platform_R53147"
+    },
+    {
+      "id": "R53233",
+      "title": "Distributed Systems Engineer",
+      "location": "PORT MOODY 01 (VANCOUVER)",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PORT-MOODY-01-VANCOUVER/Distributed-Systems-Engineer_R53233-1"
+    },
+    {
+      "id": "R53232",
+      "title": "Distributed Systems Engineer",
+      "location": "PORT MOODY 01 (VANCOUVER)",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PORT-MOODY-01-VANCOUVER/Distributed-Systems-Engineer_R53232"
+    },
+    {
+      "id": "R52252",
+      "title": "Principal Design Engineer- Memory IP",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Design-Engineer_R52252"
+    },
+    {
+      "id": "R54536",
+      "title": "Application Engineer I: Thermal Analysis (CFD and FEM)",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-I--Thermal-Analysis--CFD-and-FEM-_R54536"
+    },
+    {
+      "id": "R54535",
+      "title": "Intern: Application Engineering - Silicon Signoff and Verification",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Intern--Application-Engineering---Silicon-Signoff-and-Verification_R54535"
+    },
+    {
+      "id": "R54508",
+      "title": "Product Validation Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Product-Validation-Engineer_R54508-1"
+    },
+    {
+      "id": "R53469",
+      "title": "Quantum Product Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Quantum-Product-Engineer_R53469"
+    },
+    {
+      "id": "R52338",
+      "title": "Product Validation Engineer (Analog Circuit Design)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Product-Validation-Engineer_R52338"
+    },
+    {
+      "id": "R51758",
+      "title": "Software Engineering Intern - Circuit Simulation infrastructure",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R51758-1"
+    },
+    {
+      "id": "R54361",
+      "title": "Principal Data & AI Strategist",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Data---AI-Strategist_R54361"
+    },
+    {
+      "id": "R49503",
+      "title": "IT - Sr Staff Systems Engineer (Active Directory, Powershell, and Windows/O365 Infrastructure Administration)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/IT---Sr-Staff-Systems-Engineer_R49503"
+    },
+    {
+      "id": "R54403",
+      "title": "Digital Twin/DCIM/Colo Data Center Account Technical Executive",
+      "location": "21 Locations",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CARY/DCIM-Colo-Data-Center-Account-Technical-Executive_R54403"
+    },
+    {
+      "id": "R54482",
+      "title": "Senior Principal Jasper Formal Verification AE",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BOSTON-01/Jasper-Formal-Verification---Sr-Principal-Application-Engineer_R54482"
+    },
+    {
+      "id": "R54421",
+      "title": "Scientific Software Developer II – Modeler",
+      "location": "SANTA FE 01",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R54421-1"
+    },
+    {
+      "id": "R54365",
+      "title": "Software Engineering Intern",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineering-Intern_R54365-2"
+    },
+    {
+      "id": "R54516",
+      "title": "Sr. Principal Product Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Product-Engineer_R54516"
+    },
+    {
+      "id": "R54204",
+      "title": "Senior Principal Product Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Principal-Product-Engineer_R54204"
+    },
+    {
+      "id": "R54309",
+      "title": "Lead Product Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Product-Engineer_R54309"
+    },
+    {
+      "id": "R54352",
+      "title": "Sr IC DV Emulation/Prototyping AE",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Sr-Application-Engineer_R54352"
+    },
+    {
+      "id": "R52311",
+      "title": "Lead Solutions Engineer – Runset Enablement (Physical Verification)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Lead-Solutions-Engineer---Runset-Enablement--Physical-Verification-_R52311"
+    },
+    {
+      "id": "R54477",
+      "title": "Finance Transformation Intern",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Finance-Transformation-Intern_R54477-1"
+    },
+    {
+      "id": "R54151",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II_R54151-1"
+    },
+    {
+      "id": "R53830",
+      "title": "SoC architect",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/SoC-architect_R53830"
+    },
+    {
+      "id": "R54019",
+      "title": "IT Architect",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/IT-Architect_R54019"
+    },
+    {
+      "id": "R51969",
+      "title": "Lead Software Engineer",
+      "location": "HYDERABAD",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Lead-Software-Engineer_R51969"
+    },
+    {
+      "id": "R54308",
+      "title": "Sr Principal Software Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Sr-Principal-Software-Engineer_R54308"
+    },
+    {
+      "id": "R54304",
+      "title": "PRINCIPLE SOFTWARE ENGINEER",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/PRINCIPLE-SOFTWARE-ENGINEER_R54304"
+    },
+    {
+      "id": "R54306",
+      "title": "PRINCIPLE SOFTWARE ENGINEER",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/PRINCIPLE-SOFTWARE-ENGINEER_R54306"
+    },
+    {
+      "id": "R54307",
+      "title": "PRINCIPLE SOFTWARE ENGIREER",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/PRINCIPLE-SOFTWARE-ENGIREER_R54307-1"
+    },
+    {
+      "id": "R54367",
+      "title": "Lead Software Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Software-Engineer_R54367"
+    },
+    {
+      "id": "R53557",
+      "title": "Design Engineer II",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Design-Engineer-II_R53557"
+    },
+    {
+      "id": "R54227",
+      "title": "Sr Principal Software Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Sr-Principal-Software-Engineer_R54227"
+    },
+    {
+      "id": "R52020",
+      "title": "Product Engineer II",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Product-Engineer-II_R52020-1"
+    },
+    {
+      "id": "R47056",
+      "title": "IT- Staff Systems Engineer",
+      "location": "DUBLIN",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/DUBLIN/IT--Staff-Systems-Engineer_R47056"
+    },
+    {
+      "id": "R54264",
+      "title": "Lead Software Engineer",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Lead-Software-Engineer_R54264"
+    },
+    {
+      "id": "R54463",
+      "title": "Software Architect",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Software-Architect_R54463"
+    },
+    {
+      "id": "R54111",
+      "title": "Principal Software Engineer",
+      "location": "PUNE 05",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Principal-Software-Engineer_R54111-1"
+    },
+    {
+      "id": "R54441",
+      "title": "Customer Engagement Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Customer-Engagement-Engineer_R54441"
+    },
+    {
+      "id": "R51880",
+      "title": "Datacenter Operations Manager",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Data-Center-Operations-Engineer_R51880"
+    },
+    {
+      "id": "R54245",
+      "title": "Corporate Counsel - Employment",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Corporate-Counsel---Employment_R54245"
+    },
+    {
+      "id": "R53037",
+      "title": "EDA Sr Account Executive II",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Account-Executive-II_R53037"
+    },
+    {
+      "id": "R53589",
+      "title": "Advanced Package and 3DIC Solutions Director",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-AZ/Advanced-Package-and-3DIC-Solutions-Director_R53589"
+    },
+    {
+      "id": "R54363",
+      "title": "Software Architect, Physical Verification",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Architect--Physical-Verification_R54363"
+    },
+    {
+      "id": "R53008",
+      "title": "C++ Software Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer_R53008-1"
+    },
+    {
+      "id": "R53006",
+      "title": "C++ Software Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Software-Engineer_R53006"
+    },
+    {
+      "id": "R54066",
+      "title": "Product Marketing Manager",
+      "location": "CESSON SEVIGNE 01",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CESSON-SEVIGNE-01/Product-Marketing-Manager---Security-Protocol-Engines---Technologies_R54066"
+    },
+    {
+      "id": "R54344",
+      "title": "Sr Principal Software Engineer",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Sr-Principal-Software-Engineer_R54344"
+    },
+    {
+      "id": "R54372",
+      "title": "Sr  Education Application Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr--Education-Application-Engineer_R54372"
+    },
+    {
+      "id": "R52865",
+      "title": "Principal Education Application Engineer- System Verification Expert",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Education-Application-Engineer--System-Verification-Expert_R52865"
+    },
+    {
+      "id": "R52734",
+      "title": "Lead Customer Engagement Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Principal-Customer-Engagement-Engineer_R52734"
+    },
+    {
+      "id": "R54174",
+      "title": "IT -  Sr Systems Engineer",
+      "location": "YOKOHAMA",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/IT----Sr-Systems-Engineer_R54174"
+    },
+    {
+      "id": "R50810",
+      "title": "Software Engineer I",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II_R50810-1"
+    },
+    {
+      "id": "R53682",
+      "title": "Jasper Formal Verification - Sr Principal Application Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Jasper-Formal-Verification---Sr-Principal-Application-Engineer_R53682"
+    },
+    {
+      "id": "R54368",
+      "title": "Sr Principal Product Validation Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Product-Validation-Engineer_R54368"
+    },
+    {
+      "id": "R54349",
+      "title": "Agency Temp",
+      "location": "YOKOHAMA",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/Agency-Temp_R54349"
+    },
+    {
+      "id": "R54122",
+      "title": "Lead Design Engineer",
+      "location": "HYDERABAD",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Lead-Design-Engineer_R54122"
+    },
+    {
+      "id": "R53815",
+      "title": "Software Engineer II",
+      "location": "PUNE 04",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-04/Software-Engineer-II_R53815-1"
+    },
+    {
+      "id": "R54171",
+      "title": "Lead Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R54171-1"
+    },
+    {
+      "id": "R53590",
+      "title": "SI/PI for 3DIC Sr Principle Solutions Engineer",
+      "location": "5 Locations",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/No-Seat-Req-United-States/SI-PI-for-3DIC-Sr-Principle-Solutions-Engineer_R53590"
+    },
+    {
+      "id": "R53468",
+      "title": "Senior AI Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-AI-Engineer_R53468-1"
+    },
+    {
+      "id": "R51425",
+      "title": "Sr Principal IC Digital Implementation AE",
+      "location": "HOME TX",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-TX/Principal-Application-Engineer_R51425"
+    },
+    {
+      "id": "R51323",
+      "title": "IT Staff Systems Engineer (HPC)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Server-Farm-Engineer_R51323"
+    },
+    {
+      "id": "R54166",
+      "title": "GenAI Tools Support Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/GenAI-Tools-Support-Engineer_R54166-1"
+    },
+    {
+      "id": "R54244",
+      "title": "Data Center Operations Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Data-Center-Operations-Engineer_R54244"
+    },
+    {
+      "id": "R53464",
+      "title": "Principal Product Engineer (Analog Design Automation)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Product-Engineer--Analog-Design-Automation-_R53464"
+    },
+    {
+      "id": "R53463",
+      "title": "Principal Product Engineer (Analog Design Automation)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Product-Engineer--Analog-Design-Automation-_R53463"
+    },
+    {
+      "id": "R54320",
+      "title": "Senior Allegro PCB Layout AE",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/PCB-Sr-Application-Engineer_R54320-1"
+    },
+    {
+      "id": "R51190",
+      "title": "Lead Software Engineer (Computational Electromagnetics, Numerical Analysis, Field Solver)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Software-Engineer--Computational-Electromagnetics--Numerical-Analysis--Field-Solver-_R51190-2"
+    },
+    {
+      "id": "R54224",
+      "title": "Sr Principal AE in PCB",
+      "location": "MILAN",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/MILAN/Sr-Principal-AE-in-PCB_R54224"
+    },
+    {
+      "id": "R53997",
+      "title": "Software Engineer ΙΙ – Ansa Core",
+      "location": "KATO SCHOLARI 01",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/KATO-SCHOLARI-01/Software-Engineer----Ansa-Core_R53997"
+    },
+    {
+      "id": "R54395",
+      "title": "Application Engineer I: Analog IC Design and Layout",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-I--Analog-IC-Design-and-Layout_R54395-1"
+    },
+    {
+      "id": "R54394",
+      "title": "Application Engineer I: Digital Verification & Simulation",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-I--Digital-Verification---Simulation_R54394"
+    },
+    {
+      "id": "R52640",
+      "title": "AE Group Director – Mechanical SDA",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI-07/Application-Engineer-Director---Mechanical-SDA_R52640-1"
+    },
+    {
+      "id": "R53899",
+      "title": "HR Director & Business Partner",
+      "location": "VALBONNE (Sophia)",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/VALBONNE-Sophia/HR-Director---Business-Partner_R53899"
+    },
+    {
+      "id": "R54072",
+      "title": "Design Enablement Engineer II",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Design-Enablement-Engineer-II_R54072"
+    },
+    {
+      "id": "R54301",
+      "title": "Lead Software Engineer (Synthesis software)",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Software-Engineer--Synthesis-software-_R54301"
+    },
+    {
+      "id": "R54300",
+      "title": "Lead Software Engineer (Synthesis software)",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Software-Engineer--Synthesis-software-_R54300"
+    },
+    {
+      "id": "R54299",
+      "title": "Lead Software Engineer (Synthesis software)",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Software-Engineer--Synthesis-software-_R54299"
+    },
+    {
+      "id": "R52351",
+      "title": "Sr Principal Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Product-Engineer_R52351"
+    },
+    {
+      "id": "R53272",
+      "title": "Lead Software Engineer ( Verification )",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Software-Engineer---Verification--_R53272"
+    },
+    {
+      "id": "R48413",
+      "title": "Lead Product Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Product-Engineer_R48413"
+    },
+    {
+      "id": "R54411",
+      "title": "Software Architect",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 10 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Software-Architect_R54411"
+    },
+    {
+      "id": "R54246",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Intern_R54246-1"
+    },
+    {
+      "id": "R52814",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Intern_R52814-1"
+    },
+    {
+      "id": "R53282",
+      "title": "Software Intern",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Intern_R53282-1"
+    },
+    {
+      "id": "R49863",
+      "title": "Lead Red Hat Linux Architect",
+      "location": "HOME GA",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-GA/IT--Sr-Staff-Systems-Engineer_R49863"
+    },
+    {
+      "id": "R54068",
+      "title": "Strategic Sourcing Specialist",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Strategic-Sourcing-Specialist_R54068"
+    },
+    {
+      "id": "R53880",
+      "title": "Executive Administrator",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Executive-Administrator_R53880"
+    },
+    {
+      "id": "R54185",
+      "title": "Sr Application Engineer",
+      "location": "VELIZY (Paris)",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/VELIZY-Paris/Sr-Application-Engineer_R54185"
+    },
+    {
+      "id": "R53932",
+      "title": "IC Verification AI Application Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/IC-Design-Verification-Application-Engineer_R53932"
+    },
+    {
+      "id": "R54310",
+      "title": "HR Intern",
+      "location": "BRACKNELL",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BRACKNELL/HR-Intern_R54310-1"
+    },
+    {
+      "id": "R54358",
+      "title": "Design Engineer I",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Design-Engineer-I_R54358"
+    },
+    {
+      "id": "R54043",
+      "title": "IT Director",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/IT-Director_R54043"
+    },
+    {
+      "id": "R52796",
+      "title": "Lead Design Engineer",
+      "location": "HYDERABAD",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Lead-Design-Engineer_R52796"
+    },
+    {
+      "id": "R49991",
+      "title": "Principal Design Engineer",
+      "location": "HYDERABAD 04",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD-04/Principal-Design-Engineer_R49991"
+    },
+    {
+      "id": "R50856",
+      "title": "Senior Principal Design Engineer",
+      "location": "HYDERABAD 04",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD-04/Senior-Principal-Design-Engineer_R50856"
+    },
+    {
+      "id": "R51809",
+      "title": "Principal Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Software-Engineer_R51809"
+    },
+    {
+      "id": "R54391",
+      "title": "Sr. Principal Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Product-Engineer_R54391"
+    },
+    {
+      "id": "R53697",
+      "title": "Software Engineer II",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Lead-Software-Engineer_R53697"
+    },
+    {
+      "id": "R49613",
+      "title": "Principal Software Engineer",
+      "location": "TAIPEI 02",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/TAIPEI-02/Software-Engineering-Director_R49613"
+    },
+    {
+      "id": "R54331",
+      "title": "Sr. Sales Operations Analyst",
+      "location": "CARY",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CARY/Sr-Sales-Operations-Analyst_R54331"
+    },
+    {
+      "id": "R54138",
+      "title": "Principal Software Engineer ( Verification )",
+      "location": "AHMEDABAD",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AHMEDABAD/Principal-Software-Engineer---Verification--_R54138"
+    },
+    {
+      "id": "R54276",
+      "title": "Director of Configuration Management",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Director-of-Configuration-Management_R54276"
+    },
+    {
+      "id": "R54232",
+      "title": "Lead Product Engineer - AI & LLM Products",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Product-Engineer---AI---LLM-Products_R54232-1"
+    },
+    {
+      "id": "R54268",
+      "title": "Sr Principal Product Engineer: Agentic AI",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Sr-Principal-Product-Engineer--Agentic-AI_R54268"
+    },
+    {
+      "id": "R54369",
+      "title": "IT- Staff Systems Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/IT--Staff-Systems-Engineer_R54369-2"
+    },
+    {
+      "id": "R54219",
+      "title": "Sr Principal Product Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Product-Engineer_R54219"
+    },
+    {
+      "id": "R54159",
+      "title": "Design Engineering Architect",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Design-Engineering-Architect_R54159-1"
+    },
+    {
+      "id": "R53936",
+      "title": "Design Verification, Senior Principal AE",
+      "location": "Burlington, MA",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Burlington-MA/Senior-Principal-Application-Engineer_R53936"
+    },
+    {
+      "id": "R53709",
+      "title": "Sr. Principal AE -  Verification IP, HPC Protocols",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer---Verification-IP_R53709"
+    },
+    {
+      "id": "R54142",
+      "title": "Application Engineer I – Silicon Package Board",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-I---Silicon-Package-Board_R54142"
+    },
+    {
+      "id": "R54141",
+      "title": "Application Engineer I – Multiphysics System Analysis",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-I---Multiphysics-System-Analysis_R54141-1"
+    },
+    {
+      "id": "R54231",
+      "title": "Intern - Digital Marketing",
+      "location": "BRUSSELS 01",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BRUSSELS-01/Intern---Digital-Marketing_R54231"
+    },
+    {
+      "id": "R54338",
+      "title": "Lead Verification Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Verification-Engineer_R54338"
+    },
+    {
+      "id": "R54184",
+      "title": "Sr Application Engineer",
+      "location": "PETAH TIKVA 01",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PETAH-TIKVA-01/Sr-Application-Engineer_R54184-1"
+    },
+    {
+      "id": "R53456",
+      "title": "Lead design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-design-Engineer_R53456"
+    },
+    {
+      "id": "R51561",
+      "title": "Principal Product Engineer",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Principal-Product-Engineer_R51561"
+    },
+    {
+      "id": "R53625",
+      "title": "Lead Software Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Software-Engineer_R53625"
+    },
+    {
+      "id": "R54136",
+      "title": "SR. Business Development Manager – China Region (IP: DSP, CPU)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/SR-Business-Development-Manager---China-Region--IP--DSP--CPU-_R54136"
+    },
+    {
+      "id": "R53882",
+      "title": "Principal Product Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Product-Engineering-Architect_R53882"
+    },
+    {
+      "id": "R53470",
+      "title": "Sr Executive Administrator",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Executive-Administrator_R53470"
+    },
+    {
+      "id": "R52819",
+      "title": "RTL-GDSII, Sr Application Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Application-Engineer_R52819"
+    },
+    {
+      "id": "R51954",
+      "title": "Product Marketing Manager (Clarity Electromagnetic)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Product-Marketing-Manager--Clarity-Electromagnetic-_R51954-1"
+    },
+    {
+      "id": "R53912",
+      "title": "Infrastructure Integration Lead (M&A)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Infrastructure-Integration-Lead--M-A-_R53912"
+    },
+    {
+      "id": "R53598",
+      "title": "Senior Product Engineer (Computational Electromagnetics & Signal/Power Integrity)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Product-Engineer--Computational-Electromagnetics---Signal-Power-Integrity-_R53598"
+    },
+    {
+      "id": "R52833",
+      "title": "Principal EDA Software Engineer (C++, Characterization)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-EDA-Software-Engineer--C----Characterization-_R52833"
+    },
+    {
+      "id": "R52417",
+      "title": "Principal Software Engineer – Circuit Simulation R&D",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Software-Engineer---Circuit-Simulation-R-D_R52417"
+    },
+    {
+      "id": "R53769",
+      "title": "Sr. Principal Functional Verification Engineer: Applied ML",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Sr-Principal-Functional-Verification-Engineer--Applied-ML_R53769"
+    },
+    {
+      "id": "R53770",
+      "title": "Sr Principal Software Engineer: AI Systems",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Sr-Principal-Software-Engineer--AI-Systems_R53770"
+    },
+    {
+      "id": "R53538",
+      "title": "High Performance Computing (HPC) Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/High-Performance-Computing--HPC--Engineer_R53538"
+    },
+    {
+      "id": "R54145",
+      "title": "Application Engineer I: Custom IC and Layout",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-I--Custom-IC-and-Simulation_R54145"
+    },
+    {
+      "id": "R54257",
+      "title": "Mixed Signal IP - Senior Program Manager",
+      "location": "4 Locations",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CARY/Mixed-Signal-IP---Senior-Program-Manager_R54257-1"
+    },
+    {
+      "id": "R54147",
+      "title": "Application Engineer I: Custom IC and Simulation",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-I--Custom-IC-and-Simulation_R54147"
+    },
+    {
+      "id": "R52773",
+      "title": "Sr. Principal Software Engineer, Synthesis",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Software-Engineer_R52773"
+    },
+    {
+      "id": "R54360",
+      "title": "Test Technician",
+      "location": "CARY",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CARY/Test-Technician_R54360"
+    },
+    {
+      "id": "R54278",
+      "title": "Design Engineer I",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Design-Engineer-I_R54278"
+    },
+    {
+      "id": "R54160",
+      "title": "Lead Design Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Design-Engineer_R54160"
+    },
+    {
+      "id": "R54061",
+      "title": "IT Engineer (1-year Contract)",
+      "location": "ADELAIDE 01",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ADELAIDE-01/IT-Engineer--1-year-Contract-_R54061-1"
+    },
+    {
+      "id": "R54183",
+      "title": "Lead Design Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Design-Engineer_R54183"
+    },
+    {
+      "id": "R54020",
+      "title": "IT - Sr Systems Engineer (QA)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/IT---Sr-Systems-Engineer--QA-_R54020-1"
+    },
+    {
+      "id": "R54342",
+      "title": "Product Engineer II",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Product-Engineer-II_R54342"
+    },
+    {
+      "id": "R53881",
+      "title": "ASIC Verification, Account Technical Executive",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Account-Technical-Executive_R53881-1"
+    },
+    {
+      "id": "R52817",
+      "title": "IC RTL2GDS Architect, AE",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer-Architect---Technical-Field-Operations_R52817-1"
+    },
+    {
+      "id": "R52820",
+      "title": "Digital Physical Implementation Sr Principal Application Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Application-Engineer_R52820-1"
+    },
+    {
+      "id": "R53825",
+      "title": "Senior Principal Functional Verification Engineer - Applied ML",
+      "location": "PETAH TIKVA",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PETAH-TIKVA/Applied-ML---Senior-Principal-Functional-Verification-Engineer_R53825-1"
+    },
+    {
+      "id": "R53822",
+      "title": "Functional Verification Engineer - Applied ML",
+      "location": "PETAH TIKVA",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PETAH-TIKVA/Applied-ML---Lead-Functional-Verification-Engineer_R53822"
+    },
+    {
+      "id": "R53886",
+      "title": "IT Group Director - Infrastructure",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 17 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/IT-Group-Director---Infrastructure_R53886"
+    },
+    {
+      "id": "R53293",
+      "title": "Principal Firmware Engineer",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted 17 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Principal-Firmware-Engineer_R53293"
+    },
+    {
+      "id": "R54130",
+      "title": "Procurement Operations Intern",
+      "location": "DUBLIN",
+      "department": null,
+      "updated_at": "Posted 17 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/DUBLIN/Procurement-Operations-Intern_R54130"
+    },
+    {
+      "id": "R54041",
+      "title": "Product Engineer II",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 17 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Product-Engineer-II_R54041"
+    },
+    {
+      "id": "R53669",
+      "title": "Software QA Automation Lead, AI Systems (SuperAgent Team)",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 17 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Software-QA-Automation-Lead--AI-Systems--SuperAgent-Team-_R53669"
+    },
+    {
+      "id": "R53671",
+      "title": "Software QA Automation Lead, AI Systems (SuperAgent Team)",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 17 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Software-QA-Automation-Lead--AI-Systems--SuperAgent-Team-_R53671"
+    },
+    {
+      "id": "R53498",
+      "title": "Analog/Mixed Signal Lead CAD Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 17 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Analog-Mixed-Signal-Lead-CAD-Engineer_R53498"
+    },
+    {
+      "id": "R53370",
+      "title": "Lead Firmware Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 17 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Firmware-Engineer_R53370"
+    },
+    {
+      "id": "R53552",
+      "title": "Data Center Operations Engineer",
+      "location": "Santa Fe, New Mexico",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Santa-Fe-New-Mexico/Data-Center-Operations-Engineer_R53552-1"
+    },
+    {
+      "id": "R53706",
+      "title": "Technical Business Development Manager",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Technical-Business-Development-Manager_R53706"
+    },
+    {
+      "id": "R52450",
+      "title": "Software Engineering Intern",
+      "location": "BOSTON 02",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BOSTON-02/Software-Engineering-Intern_R52450-1"
+    },
+    {
+      "id": "R52449",
+      "title": "Software Engineering Intern",
+      "location": "BOSTON 02",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BOSTON-02/Software-Engineering-Intern_R52449-1"
+    },
+    {
+      "id": "R53837",
+      "title": "Digital Implementation Lead AE",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Application-Engineer_R53837"
+    },
+    {
+      "id": "R53202",
+      "title": "Cybersecurity Engineer I",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Cybersecurity-Engineer-I_R53202"
+    },
+    {
+      "id": "R54206",
+      "title": "Sr. Principal SI/PI Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-SI-PI-Engineer_R54206"
+    },
+    {
+      "id": "R53836",
+      "title": "Digital Implementation AE Architect",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer-Architect_R53836-1"
+    },
+    {
+      "id": "R53525",
+      "title": "Software Engineer II: Web Internal Tools",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Software-Engineer-II--Web-Internal-Tools_R53525"
+    },
+    {
+      "id": "R54017",
+      "title": "IT- Sr Systems Engineer (Boomi)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/IT--Sr-Systems-Engineer--Boomi-_R54017-1"
+    },
+    {
+      "id": "R54015",
+      "title": "Sr SAP Technical Consultant– ECC & S/4HANA",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-SAP-Technical-Consultant--ECC---S-4HANA_R54015"
+    },
+    {
+      "id": "R54018",
+      "title": "Lead Software Engineer (MIS/TCT)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Software-Engineer--MIS-TCT-_R54018-1"
+    },
+    {
+      "id": "R53969",
+      "title": "IT - Sr Systems Engineer (SFDC Business Systems Analyst)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/IT---Sr-Systems-Engineer--SFDC-Business-Systems-Analyst-_R53969-1"
+    },
+    {
+      "id": "R54022",
+      "title": "IT- Staff Systems Engineer (SharePoint Developer)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/IT--Staff-Systems-Engineer--SharePoint-Developer-_R54022-1"
+    },
+    {
+      "id": "R53865",
+      "title": "Principal Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Software-Engineer_R53865"
+    },
+    {
+      "id": "R52456",
+      "title": "intern software engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/intern-software-engineer_R52456"
+    },
+    {
+      "id": "R51058",
+      "title": "Digital Implementation and Signoff, Principal AE",
+      "location": "CARY",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CARY/Principal-Application-Engineer_R51058"
+    },
+    {
+      "id": "R54205",
+      "title": "Account Director",
+      "location": "Burlington, MA",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Burlington-MA/Account-Director_R54205"
+    },
+    {
+      "id": "R51544",
+      "title": "Enterprise Security Developer (CyberArk)",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Enterprise-Integration-Developer--CyberArk-_R51544"
+    },
+    {
+      "id": "R53790",
+      "title": "Lead Customer Service Engineer",
+      "location": "PUNE 05",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Lead-Customer-Service-Engineer_R53790"
+    },
+    {
+      "id": "R53792",
+      "title": "Lead Customer Service Engineer",
+      "location": "PUNE 05",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Lead-Customer-Service-Engineer_R53792"
+    },
+    {
+      "id": "R53791",
+      "title": "Lead Customer Service Engineer",
+      "location": "PUNE 05",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Lead-Customer-Service-Engineer_R53791"
+    },
+    {
+      "id": "R54226",
+      "title": "Principal Software Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Principal-Software-Engineer_R54226"
+    },
+    {
+      "id": "R54225",
+      "title": "Software Engineer II",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Software-Engineer-II_R54225"
+    },
+    {
+      "id": "R54251",
+      "title": "C++ Software Engineer for Mesh",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/C---Software-Engineer-for-Mesh_R54251"
+    },
+    {
+      "id": "R53786",
+      "title": "Customer Service Engineer I",
+      "location": "HOME FRANCE",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-FRANCE/Customer-Service-Engineer-I_R53786"
+    },
+    {
+      "id": "R52422",
+      "title": "Software Engineer II",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Software-Engineer_R52422"
+    },
+    {
+      "id": "R54213",
+      "title": "Design Engineer I",
+      "location": "PUNE 04",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-04/Design-Engineer-I_R54213-1"
+    },
+    {
+      "id": "R53454",
+      "title": "Lead Application Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Application-Engineer_R53454"
+    },
+    {
+      "id": "R54093",
+      "title": "Customer Service Engineer II",
+      "location": "PUNE 05",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Customer-Service-Engineer-II_R54093-1"
+    },
+    {
+      "id": "R54196",
+      "title": "Outbound Marketing Manager",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Outbound-Marketing-Manager_R54196"
+    },
+    {
+      "id": "R53905",
+      "title": "Sr IP Sales Executive",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-IP-Sales-Executive_R53905-1"
+    },
+    {
+      "id": "R52743",
+      "title": "Product Marketing Manager – Scale-up and Scale-out Controller IP",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Product-Marketing-Manager---Scale-up-and-Scale-out-Controller-IP_R52743"
+    },
+    {
+      "id": "R53834",
+      "title": "Principal IC Digital Implementation AE",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Application-Engineer_R53834"
+    },
+    {
+      "id": "R53833",
+      "title": "Digital Implementation and Signoff, Principal AE",
+      "location": "SAN JOSE 09",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE-09/Principal-Application-Engineer_R53833"
+    },
+    {
+      "id": "R53421",
+      "title": "Senior Serdes and Memory IP AE Group Director",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-AE-Group-Director_R53421"
+    },
+    {
+      "id": "R54071",
+      "title": "Performance Architect",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Performance-Architect_R54071"
+    },
+    {
+      "id": "R54182",
+      "title": "Sr HR Manager & HR Business Partner, Japan",
+      "location": "YOKOHAMA",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/Sr-HR-Manager---HR-Business-Partner--Japan_R54182"
+    },
+    {
+      "id": "R52296",
+      "title": "Software Engineer II (Back-End Engineer)",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Software-Engineer-II--Back-End-Engineer-_R52296-1"
+    },
+    {
+      "id": "R52297",
+      "title": "Software Engineer II (Back-End Engineer)",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Software-Engineer-II--Back-End-Engineer-_R52297-1"
+    },
+    {
+      "id": "R52299",
+      "title": "Lead Software Engineer (Back-End Engineer)",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Software-Engineer--Back-End-Engineer-_R52299"
+    },
+    {
+      "id": "R54212",
+      "title": "Design Engineer - Physical Design",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 24 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Design-Engineer---Physical-Design_R54212"
+    },
+    {
+      "id": "R54135",
+      "title": "Sr Principal Application Engineer – Allegro PCB Design Tools",
+      "location": "HOME IN",
+      "department": null,
+      "updated_at": "Posted 25 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-IN/Sr-Principal-Application-Engineer---Allegro-PCB-Design-Tools_R54135"
+    },
+    {
+      "id": "R54163",
+      "title": "Sr. Principal Product Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 25 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Product-Engineer_R54163"
+    },
+    {
+      "id": "R54228",
+      "title": "Lead Digital Verification Engineer",
+      "location": "EDINBURGH 01",
+      "department": null,
+      "updated_at": "Posted 25 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/EDINBURGH-01/Lead-Digital-Verification-Engineer_R54228"
+    },
+    {
+      "id": "R53622",
+      "title": "Signal and Power Integrity Sr. Principal Applications Engineer",
+      "location": "BURLINGTON 01",
+      "department": null,
+      "updated_at": "Posted 25 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BURLINGTON-01/Signal-and-Power-Integrity-Sr-Principal-Applications-Engineer_R53622-1"
+    },
+    {
+      "id": "R52298",
+      "title": "Lead Software Engineer (Back-End Engineer)",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 25 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Software-Engineer--Back-End-Engineer-_R52298-1"
+    },
+    {
+      "id": "R52293",
+      "title": "Lead Software Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 25 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Software-Engineer_R52293-1"
+    },
+    {
+      "id": "R52294",
+      "title": "Lead Software Engineer (UI Engineer)",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 25 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Software-Engineer--UI-Engineer-_R52294"
+    },
+    {
+      "id": "R52295",
+      "title": "Lead Software Engineer (UI Engineer)",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 25 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Software-Engineer--UI-Engineer-_R52295"
+    },
+    {
+      "id": "R52292",
+      "title": "Principal Software Engineer (UI Engineer)",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 25 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Software-Engineer--UI-Engineer-_R52292"
+    },
+    {
+      "id": "R53569",
+      "title": "AI Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II_R53569-1"
+    },
+    {
+      "id": "R54117",
+      "title": "DevOps Sr Principal Software Engineer",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/DevOps-Sr-Principal-Software-Engineer_R54117"
+    },
+    {
+      "id": "R53571",
+      "title": "Senior Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Software-Engineer_R53571"
+    },
+    {
+      "id": "R53613",
+      "title": "Principal Software Engineer",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Principal-Software-Engineer_R53613"
+    },
+    {
+      "id": "R54057",
+      "title": "IT - Sr Staff Systems Engineer - Data Center",
+      "location": "OSAKA01",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/OSAKA01/IT---Sr-Staff-Systems-Engineer_R54057"
+    },
+    {
+      "id": "R52029",
+      "title": "Sr Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R52029"
+    },
+    {
+      "id": "R54080",
+      "title": "Lead Technical Marketing Engineer",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Lead-Technical-Marketing-Engineer_R54080"
+    },
+    {
+      "id": "R54091",
+      "title": "Lead Product Validation Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Product-Validation-Engineer_R54091"
+    },
+    {
+      "id": "R50181",
+      "title": "Software Engineer II",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Software-Engineer-II_R50181"
+    },
+    {
+      "id": "R54001",
+      "title": "Product Engineer II - Memory IP",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Product-Engineer-II---Memory-IP_R54001"
+    },
+    {
+      "id": "R53782",
+      "title": "Photonics Engineer",
+      "location": "PORT MOODY 01 (VANCOUVER)",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PORT-MOODY-01-VANCOUVER/Photonics-Engineer_R53782"
+    },
+    {
+      "id": "R53993",
+      "title": "Analog/Mixed-Signal IC Design Co-Op/Intern  (Summer 2026) / Stage/Co-Op en Conception de CI Analogiques/Signal Mixte (Été  2026)",
+      "location": "MOUNT-ROYAL (Montreal)",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2"
+    },
+    {
+      "id": "R53902",
+      "title": "Lead Customer Service Engineer",
+      "location": "PUNE 05",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Lead-Customer-Service-Engineer_R53902"
+    },
+    {
+      "id": "R51698",
+      "title": "Software Engineer II",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Software-Engineer-II_R51698-1"
+    },
+    {
+      "id": "R53566",
+      "title": "Design Engineering Architect — Memory Modeling Portfolio",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Virtual-Protocol-Architect_R53566-1"
+    },
+    {
+      "id": "R54079",
+      "title": "Lead Software Engineer",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Lead-Software-Engineer_R54079"
+    },
+    {
+      "id": "R54078",
+      "title": "Sr Principal Software Engineer",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Sr-Principal-Software-Engineer_R54078"
+    },
+    {
+      "id": "R54032",
+      "title": "Software Engineer ll - Timing Analysis",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-ll---Timing-Analysis_R54032"
+    },
+    {
+      "id": "R53562",
+      "title": "Lead Software Engineer: ChipStack AI DevOps",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Lead-Software-Engineer--ChipStack-AI-DevOps_R53562"
+    },
+    {
+      "id": "R53561",
+      "title": "Product Validation Engineer II: Quality Assurance (QA) ChipStack AI",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Product-Validation-Engineer-II--Quality-Assurance--QA--ChipStack-AI_R53561"
+    },
+    {
+      "id": "R53559",
+      "title": "Lead Product Validation Engineer: Quality Assurance (QA) ChipStack AI",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Lead-Product-Validation-Engineer--Quality-Assurance--QA--ChipStack-AI_R53559"
+    },
+    {
+      "id": "R54002",
+      "title": "Desktop Systems Specialist",
+      "location": "MILAN",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/MILAN/Desktop-Systems-Specialist_R54002-1"
+    },
+    {
+      "id": "R53640",
+      "title": "Sr Principal Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Software-Engineer_R53640-1"
+    },
+    {
+      "id": "R54005",
+      "title": "Lead Application Engineer – Custom IC Design and Implementation",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Application-Engineer---Custom-IC-Design-and-Implementation_R54005"
+    },
+    {
+      "id": "R52224",
+      "title": "Lead Design Engineer – F/W",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer---F-W_R52224"
+    },
+    {
+      "id": "R54029",
+      "title": "Security Engineer",
+      "location": "KATO SCHOLARI 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/KATO-SCHOLARI-01/Security-Engineer_R54029"
+    },
+    {
+      "id": "R53921",
+      "title": "Intern - Design Engineering",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Intern---Design-Engineering_R53921"
+    },
+    {
+      "id": "R53489",
+      "title": "Principal Verification Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Principal-Verification-Engineer_R53489-1"
+    },
+    {
+      "id": "R53947",
+      "title": "Digital Flow Enablement Solutions Architect",
+      "location": "5 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-CA/Digital-Flow-Enablement-Solutions-Architect_R53947"
+    },
+    {
+      "id": "R53960",
+      "title": "AE Director Emulation and Prototyping",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/AE-Director-Emulation-and-Prototyping_R53960"
+    },
+    {
+      "id": "R53133",
+      "title": "Senior Principal Software Engineer - Accelerated Verification IP",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Senior-Principal-Software-Engineer_R53133"
+    },
+    {
+      "id": "R49351",
+      "title": "Software Engineer II",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Design-Engineer-II_R49351-1"
+    },
+    {
+      "id": "R53742",
+      "title": "Lead Design Engineer",
+      "location": "HYDERABAD",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Lead-Design-Engineer_R53742"
+    },
+    {
+      "id": "R53738",
+      "title": "Lead Design Engineer",
+      "location": "HYDERABAD",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Lead-Design-Engineer_R53738"
+    },
+    {
+      "id": "R53736",
+      "title": "Principal Design Engineer",
+      "location": "HYDERABAD",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Principal-Design-Engineer_R53736"
+    },
+    {
+      "id": "R53732",
+      "title": "Sr. Principal Design Engineer",
+      "location": "HYDERABAD",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Sr-Principal-Design-Engineer_R53732"
+    },
+    {
+      "id": "R54008",
+      "title": "IT - Staff Network Engineer",
+      "location": "OSAKA01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/OSAKA01/IT---Staff-Network-Engineer_R54008"
+    },
+    {
+      "id": "R53964",
+      "title": "IT -Desktop Systems Specialist",
+      "location": "OSAKA01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/OSAKA01/IT--Desktop-Systems-Specialist_R53964"
+    },
+    {
+      "id": "R53641",
+      "title": "Sr Principal Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Software-Engineer_R53641"
+    },
+    {
+      "id": "R53642",
+      "title": "Sr Principal Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Software-Engineer_R53642"
+    },
+    {
+      "id": "R52543",
+      "title": "Product Engineer II (DDR IP)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Principal-Product-Engineer-Serdes-IP----Customer-Success_R52543"
+    },
+    {
+      "id": "R53270",
+      "title": "Lead Software Engineer - AI/LLM for Virtuoso",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Lead-Software-Engineer---AI-LLM-for-Virtuoso_R53270-1"
+    },
+    {
+      "id": "R53875",
+      "title": "Sales Executive I",
+      "location": "HOME UNITED KINGDOM",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-UNITED-KINGDOM/Sales-Executive-I_R53875-2"
+    },
+    {
+      "id": "R52317",
+      "title": "Software Engineer II",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Software-Engineer-II_R52317"
+    },
+    {
+      "id": "R53961",
+      "title": "Design Engineer II (Middle-end)",
+      "location": "Nanjing",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Design-Engineer-II--Middle-end-_R53961"
+    },
+    {
+      "id": "R52356",
+      "title": "Product Validation Engineer II – Verisium Debug QA",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Product-Validation-Engineer-II---Verisium-Debug-QA_R52356"
+    },
+    {
+      "id": "R53765",
+      "title": "Lead Product Engineer: System Verification and Emulation",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Lead-Product-Engineer--System-Verification-and-Emulation_R53765"
+    },
+    {
+      "id": "R53766",
+      "title": "Product Engineer II – System Verification and Emulation",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Product-Engineer-II---System-Verification-and-Emulation_R53766"
+    },
+    {
+      "id": "R53597",
+      "title": "Senior Automotive Account Executive (Mechanical Systems)",
+      "location": "FARMINGTON HILLS 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/FARMINGTON-HILLS-01/Sales-Director--Physical-Systems-North-America_R53597"
+    },
+    {
+      "id": "R54026",
+      "title": "Desktop Systems Specialist",
+      "location": "VELIZY (Paris)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/VELIZY-Paris/Desktop-Systems-Specialist_R54026-1"
+    },
+    {
+      "id": "R53530",
+      "title": "Senior Principal Software Engineer – Compute System & EDA Infrastructure",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Senior-Principal-Software-Engineer---Compute-System---EDA-Infrastructure_R53530"
+    },
+    {
+      "id": "R53812",
+      "title": "Principal Product Engineer",
+      "location": "TORONTO 02",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/TORONTO-02/Principal-Product-Engineer_R53812"
+    },
+    {
+      "id": "R53807",
+      "title": "IT -Staff Network Engineer",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/IT--Staff-Network-Engineer_R53807-1"
+    },
+    {
+      "id": "R53910",
+      "title": "Product Engineering Architect",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Product-Engineering-Architect_R53910"
+    },
+    {
+      "id": "R53758",
+      "title": "Sr Principal Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Product-Engineer_R53758-4"
+    },
+    {
+      "id": "R53757",
+      "title": "Sr Principal Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Product-Engineer_R53757-5"
+    },
+    {
+      "id": "R53810",
+      "title": "Lead Solutions Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Solutions-Engineer_R53810-1"
+    },
+    {
+      "id": "R53808",
+      "title": "Sr Solutions Manager",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Sr-Solutions-Manager_R53808"
+    },
+    {
+      "id": "R53710",
+      "title": "Verification Field Application Engineer - Simulation - San Jose, CA",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE-09/Verification-Field-Application-Engineer---Simulation---San-Jose--CA_R53710"
+    },
+    {
+      "id": "R52222",
+      "title": "Application Engineer",
+      "location": "BRACKNELL 03",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BRACKNELL-03/Lead-AE-in-Digital-and-STA_R52222-1"
+    },
+    {
+      "id": "R53864",
+      "title": "Lead Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Software-Engineer_R53864"
+    },
+    {
+      "id": "R53883",
+      "title": "Sr Principal Test Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Sr-Principal-Test-Engineer_R53883"
+    },
+    {
+      "id": "R53838",
+      "title": "Senior Sales Operations Analyst",
+      "location": "CARY",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CARY/Senior-Sales-Operations-Analyst_R53838"
+    },
+    {
+      "id": "R53799",
+      "title": "Senior Technical Account Executive 1",
+      "location": "6 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Burlington-MA/Senior-Technical-Account-Executive-1_R53799"
+    },
+    {
+      "id": "R53658",
+      "title": "Principal Software Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Principal-Software-Engineer_R53658"
+    },
+    {
+      "id": "R53863",
+      "title": "Principal Design Engineer",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Principal-Design-Engineer_R53863"
+    },
+    {
+      "id": "R53602",
+      "title": "Lead Application Engineer (Frontend)",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Application-Engineer--Frontend-_R53602"
+    },
+    {
+      "id": "R53539",
+      "title": "Principal UI/UX Designer; Onsite, Boston MA",
+      "location": "BOSTON 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BOSTON-01/Principal-UI-UX-Designer--Onsite--Boston-MA_R53539-1"
+    },
+    {
+      "id": "R53457",
+      "title": "Physical Design Engineer (PNR/Physical Verification/STA/EMIR)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/MOUNT-ROYAL-Montreal/Physical-Design-Engineer--PNR-Physical-Verification-STA-EMIR-_R53457"
+    },
+    {
+      "id": "R52638",
+      "title": "Sr Cloud Security Architect",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Cloud-Security-Architect_R52638"
+    },
+    {
+      "id": "R53673",
+      "title": "Software Engineer II",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Software-Engineer-II_R53673"
+    },
+    {
+      "id": "R53062",
+      "title": "Photonics Engineer",
+      "location": "HSINCHU 05",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU-05/Lead-Software-Engineer--Photonics-_R53062"
+    },
+    {
+      "id": "R53662",
+      "title": "Solutions Engineer II",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Solutions-Engineer-II_R53662"
+    },
+    {
+      "id": "R53661",
+      "title": "Solutions Engineer II",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Solutions-Engineer-II_R53661"
+    },
+    {
+      "id": "R53797",
+      "title": "Sr Application Engineer",
+      "location": "TAVAGNACCO 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/TAVAGNACCO-01/Sr-Application-Engineer_R53797"
+    },
+    {
+      "id": "R53794",
+      "title": "Principal Application Engineer",
+      "location": "PUNE 05",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Principal-Application-Engineer_R53794"
+    },
+    {
+      "id": "R53789",
+      "title": "Lead Application Engineer",
+      "location": "PUNE 05",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Lead-Application-Engineer_R53789"
+    },
+    {
+      "id": "R53783",
+      "title": "Account Executive",
+      "location": "PUNE 05",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-05/Account-Executive_R53783"
+    },
+    {
+      "id": "R53723",
+      "title": "Application Engineer I: Digital Design - Synthesis & Implementation",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-I--Digital-Design---Synthesis---Implementation_R53723"
+    },
+    {
+      "id": "R53775",
+      "title": "Application Engineer II: Digital Design - Synthesis & Implementation",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-II--Digital-Design---Synthesis---Implementation_R53775"
+    },
+    {
+      "id": "R53599",
+      "title": "Sr IP Sales Executive",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-IP-Sales-Executive_R53599"
+    },
+    {
+      "id": "R52477",
+      "title": "Lead Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R52477-1"
+    },
+    {
+      "id": "R53407",
+      "title": "Senior Business Systems Analyst",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Senior-Business-Systems-Analyst_R53407-1"
+    },
+    {
+      "id": "R53516",
+      "title": "Sr. Account Executive I",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Sr-Account-Executive-I_R53516"
+    },
+    {
+      "id": "R53759",
+      "title": "Tax Manager",
+      "location": "YOKOHAMA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/Tax-Manager_R53759"
+    },
+    {
+      "id": "R53715",
+      "title": "Lead Design Engineer - Physical Design",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Lead-Design-Engineer---Physical-Design_R53715"
+    },
+    {
+      "id": "R51821",
+      "title": "Sr. Business Development Manager - Cloud",
+      "location": "HSINCHU 05",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU-05/Sr-Business-Development-Manager---Cloud_R51821"
+    },
+    {
+      "id": "R53497",
+      "title": "Lead Design Engineer - Layout",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Design-Engineer---Layout_R53497-1"
+    },
+    {
+      "id": "R51952",
+      "title": "IT -Sr. Application QA Lead",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/IT--Sr-Application-QA-Lead_R51952"
+    },
+    {
+      "id": "R52508",
+      "title": "AI Intern (Summer 2026)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/AI-Intern--Summer-2026-_R52508-1"
+    },
+    {
+      "id": "R53788",
+      "title": "Intern-Software Engineering",
+      "location": "HOME MI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-MI/Intern-Software-Engineering_R53788"
+    },
+    {
+      "id": "R53702",
+      "title": "Principal Applied ML Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Principal-Applied-ML-Engineer_R53702-1"
+    },
+    {
+      "id": "R51065",
+      "title": "Data Warehouse Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Data-Warehouse-Engineer_R51065"
+    },
+    {
+      "id": "R53408",
+      "title": "Business Systems Analyst",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Business-Systems-Analyst_R53408-2"
+    },
+    {
+      "id": "R53730",
+      "title": "Sr Principal Product Engineer",
+      "location": "FELDKIRCHEN (Munich)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/FELDKIRCHEN-Munich/Sr-Principal-Product-Engineer_R53730-1"
+    },
+    {
+      "id": "R53716",
+      "title": "Lead Design Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Design-Engineer_R53716"
+    },
+    {
+      "id": "R51191",
+      "title": "AI Senior Staff Systems Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/AI-Senior-Staff-Systems-Engineer_R51191"
+    },
+    {
+      "id": "R48615",
+      "title": "Infrastructure Architect (M&A)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/M-A-Enterprise-Architect_R48615"
+    },
+    {
+      "id": "R53585",
+      "title": "Lead Product Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Product-Engineer_R53585"
+    },
+    {
+      "id": "R53437",
+      "title": "Principal Application Engineer",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Principal-Application-Engineer_R53437"
+    },
+    {
+      "id": "R52910",
+      "title": "Software Engineer – High-Fidelity Multiphase CFD  (New College Grad with PhD)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer---High-Fidelity-Multiphase-CFD---New-College-Grad-with-PhD-_R52910-1"
+    },
+    {
+      "id": "R53593",
+      "title": "Sr Tax Manager/Tax Manager",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Tax-Manager-Tax-Manager_R53593"
+    },
+    {
+      "id": "R53472",
+      "title": "2026 Summer Intenrship",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/XMLNAME-2026-Summer-Intenrship_R53472"
+    },
+    {
+      "id": "R53298",
+      "title": "Lead Application Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Application-Engineer_R53298"
+    },
+    {
+      "id": "R53624",
+      "title": "Sr. Principal Product Engineer (EMIR / PDN Analysis & Power Integrity)",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Product-Engineer--EMIR---PDN-Analysis---Power-Integrity-_R53624"
+    },
+    {
+      "id": "R53434",
+      "title": "Software Engineer II, ML",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II--ML_R53434"
+    },
+    {
+      "id": "R53654",
+      "title": "Lead Product Engineer - Innovus",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Lead-Product-Engineer---Innovus_R53654"
+    },
+    {
+      "id": "R53500",
+      "title": "AVIP Hardware / Software Engineer",
+      "location": "PETAH TIKVA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PETAH-TIKVA/AVIP-Hardware---Software-Engineer_R53500"
+    },
+    {
+      "id": "R53591",
+      "title": "Sr Financial Analyst",
+      "location": "DUBLIN",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/DUBLIN/Sr-Financial-Analyst_R53591"
+    },
+    {
+      "id": "R53252",
+      "title": "Cyber Security Software Developer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CESSON-SEVIGNE-01/Cyber-Security-Software-Developer_R53252"
+    },
+    {
+      "id": "R53459",
+      "title": "Senior Principal Design Engineer",
+      "location": "BANGALORE 08",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE-08/Senior-Principal-Design-Engineer_R53459"
+    },
+    {
+      "id": "R51622",
+      "title": "Sr Principal Program Manager",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Program-Manager_R51622"
+    },
+    {
+      "id": "R53619",
+      "title": "Sr. Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R53619"
+    },
+    {
+      "id": "R53142",
+      "title": "SoC, IP Global Account Group Director",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Global-Account-Group-Director_R53142"
+    },
+    {
+      "id": "R53141",
+      "title": "SoC, Foundry, Strategic Business Development Director",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Strategic-Business-Development-Director_R53141-1"
+    },
+    {
+      "id": "R53079",
+      "title": "Photonics Engineer",
+      "location": "PORT MOODY 01 (VANCOUVER)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PORT-MOODY-01-VANCOUVER/Lead-Software-Engineer--Photonics-_R53079-1"
+    },
+    {
+      "id": "R53580",
+      "title": "Lead Verification Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Verification-Engineer_R53580"
+    },
+    {
+      "id": "R53581",
+      "title": "Lead Verification Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Verification-Engineer_R53581"
+    },
+    {
+      "id": "R53578",
+      "title": "Sr Principal Verification Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Verification-Engineer_R53578"
+    },
+    {
+      "id": "R53579",
+      "title": "Sr Principal Verification Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Verification-Engineer_R53579"
+    },
+    {
+      "id": "R52818",
+      "title": "Application Engineer, RTL2GDS Architect",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer-Architect---Technical-Field-Operations_R52818"
+    },
+    {
+      "id": "R52816",
+      "title": "Application Engineer, RTL2GDS Architect",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Application-Engineer-Architect---Technical-Field-Operations_R52816"
+    },
+    {
+      "id": "R53139",
+      "title": "Lead Software Engineer",
+      "location": "CAMBRIDGE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CAMBRIDGE/Lead-Software-Engineer_R53139-2"
+    },
+    {
+      "id": "R53565",
+      "title": "Applied ML - Functional Verification Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Applied-ML---Functional-Verification-Engineer_R53565"
+    },
+    {
+      "id": "R53573",
+      "title": "Applied ML – Functional Verification Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Applied-ML---Functional-Verification-Engineer_R53573"
+    },
+    {
+      "id": "R53564",
+      "title": "Applied ML – Functional Verification Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Applied-ML---Functional-Verification-Engineer_R53564"
+    },
+    {
+      "id": "R53572",
+      "title": "Applied ML – Functional Verification Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Applied-ML---Functional-Verification-Engineer_R53572"
+    },
+    {
+      "id": "R53236",
+      "title": "Senior Network Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Senior-Network-Engineer_R53236"
+    },
+    {
+      "id": "R50300",
+      "title": "Software Security Architect",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Security-Architect_R50300"
+    },
+    {
+      "id": "R53567",
+      "title": "Software Engineer II",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II_R53567"
+    },
+    {
+      "id": "R53076",
+      "title": "Lead Software Engineer, DFT/ATPG",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Lead-Software-Engineer_R53076"
+    },
+    {
+      "id": "R53054",
+      "title": "Software Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer_R53054"
+    },
+    {
+      "id": "R53132",
+      "title": "Software Engineer II",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Software-Engineer-II_R53132"
+    },
+    {
+      "id": "R53423",
+      "title": "Scientific Software Developer II – Modeler",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-2"
+    },
+    {
+      "id": "R52653",
+      "title": "Sr Account Technical Executive - Mechanical CAE",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Sr-Account-Technical-Executive---Mechanical-CAE_R52653"
+    },
+    {
+      "id": "R52651",
+      "title": "Sr System Sales Executive - Mechanical CAE",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Sr-System-Sales-Executive---Mechanical-CAE_R52651"
+    },
+    {
+      "id": "R52908",
+      "title": "SerDes IP Systems Engineering Director",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Design-Engineering-Architect_R52908-1"
+    },
+    {
+      "id": "R53302",
+      "title": "Associate Payroll Analyst",
+      "location": "BRACKNELL",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BRACKNELL/Associate-Payroll-Analyst_R53302"
+    },
+    {
+      "id": "R53479",
+      "title": "Associate Payroll Analyst",
+      "location": "BRACKNELL",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BRACKNELL/Associate-Payroll-Analyst_R53479"
+    },
+    {
+      "id": "R53268",
+      "title": "Principal Verification Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Principal-Verification-Engineer_R53268"
+    },
+    {
+      "id": "R53100",
+      "title": "Sr Principal Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Software-Engineer_R53100"
+    },
+    {
+      "id": "R53214",
+      "title": "Principle Application Engineer - Verification",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Principle-Application-Engineer---Verification_R53214"
+    },
+    {
+      "id": "R53192",
+      "title": "Lead Application Engineer - Emulation",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Lead-Application-Engineer---Emulation_R53192"
+    },
+    {
+      "id": "R53297",
+      "title": "Principal Application Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Application-Engineer_R53297"
+    },
+    {
+      "id": "R53414",
+      "title": "Principal Software Engineer",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Principal-Software-Engineer_R53414"
+    },
+    {
+      "id": "R53415",
+      "title": "Principal Software Engineer",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Principal-Software-Engineer_R53415"
+    },
+    {
+      "id": "R52927",
+      "title": "Software Engineer ll (New College Grad 2026)",
+      "location": "SAN JOSE 11",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE-11/Software-Engineer-ll--New-College-Grad-2026-_R52927-1"
+    },
+    {
+      "id": "R52528",
+      "title": "Sr Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R52528-1"
+    },
+    {
+      "id": "R53310",
+      "title": "Head of HR",
+      "location": "KATO SCHOLARI 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/KATO-SCHOLARI-01/Head-of-HR_R53310"
+    },
+    {
+      "id": "R53226",
+      "title": "Sr Principal Application Engineer - Emulation",
+      "location": "YOKOHAMA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/Sr-Principal-Application-Engineer---Emulation_R53226"
+    },
+    {
+      "id": "R53474",
+      "title": "Finance Transformation Intern",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Finance-Transformation-Intern_R53474-1"
+    },
+    {
+      "id": "R53396",
+      "title": "Sr. Principal Software Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Software-Engineer_R53396"
+    },
+    {
+      "id": "R52063",
+      "title": "Technical Program Manager - Design IP",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Technical-Program-Manager---Design-IP_R52063-1"
+    },
+    {
+      "id": "R52471",
+      "title": "Digital Reference Flow Lead AE",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Digital-Reference-Flow-Lead-AE_R52471"
+    },
+    {
+      "id": "R52980",
+      "title": "Product Engineer II",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Product-Engineer-II_R52980"
+    },
+    {
+      "id": "R53118",
+      "title": "Lead Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Product-Engineer_R53118-4"
+    },
+    {
+      "id": "R53116",
+      "title": "Lead Product Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Product-Engineer_R53116-5"
+    },
+    {
+      "id": "R52363",
+      "title": "Sr Principal Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Product-Engineer_R52363-4"
+    },
+    {
+      "id": "R52280",
+      "title": "Sr Principal Program Manager",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Program-Manager_R52280"
+    },
+    {
+      "id": "R53406",
+      "title": "Principal Application Engineer – Allegro PCB Design Tools",
+      "location": "HOME CANADA_ON",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-CANADA_ON/Principal-Application-Engineer---Allegro-PCB-Design-Tools_R53406"
+    },
+    {
+      "id": "R51903",
+      "title": "Sr Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R51903"
+    },
+    {
+      "id": "R53167",
+      "title": "Lead Product Engineer",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/Lead-Product-Engineer_R53167"
+    },
+    {
+      "id": "R53201",
+      "title": "Application Engineer I: Physical Design - Synthesis and Digital Implementation",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-I--Physical-Design---Synthesis-and-Digital-Implementation_R53201"
+    },
+    {
+      "id": "R49771",
+      "title": "Lead Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R49771"
+    },
+    {
+      "id": "R51818",
+      "title": "Lead Software Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II_R51818-1"
+    },
+    {
+      "id": "R53284",
+      "title": "Sr Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R53284"
+    },
+    {
+      "id": "R53296",
+      "title": "Sr Principal Design Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-04/Sr-Principal-Design-Engineer_R53296"
+    },
+    {
+      "id": "R52854",
+      "title": "Lead Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R52854"
+    },
+    {
+      "id": "R53246",
+      "title": "Senior Technical Program Manager",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Senior-Technical-Program-Manager_R53246-1"
+    },
+    {
+      "id": "R53197",
+      "title": "Principal Product Engineer - Quantus",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Principal-Product-Engineer---Quantus_R53197"
+    },
+    {
+      "id": "R53051",
+      "title": "Sr Principal Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Software-Engineer_R53051"
+    },
+    {
+      "id": "R52319",
+      "title": "Principal Design Engineer",
+      "location": "PUNE 04",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-04/Principal-Design-Engineer_R52319-1"
+    },
+    {
+      "id": "R53115",
+      "title": "Principal Product Validation Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Product-Validation-Engineer_R53115"
+    },
+    {
+      "id": "R53256",
+      "title": "Principal Software Engineer",
+      "location": "Burlington, MA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Burlington-MA/Principal-Software-Engineer_R53256"
+    },
+    {
+      "id": "R53258",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II_R53258-1"
+    },
+    {
+      "id": "R51947",
+      "title": "Lead Software Engineer ( Verification )",
+      "location": "AHMEDABAD",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AHMEDABAD/Lead-Software-Engineer---Verification--_R51947"
+    },
+    {
+      "id": "R53168",
+      "title": "Senior Technical Program Manager",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Senior-Technical-Program-Manager_R53168"
+    },
+    {
+      "id": "R53165",
+      "title": "Software Engineer (Circuit Analysis, EDA frameworks, AI agents)",
+      "location": "PORT MOODY 01 (VANCOUVER)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PORT-MOODY-01-VANCOUVER/Software-Engineer--Circuit-Analysis--EDA-frameworks--AI-agents-_R53165-1"
+    },
+    {
+      "id": "R53129",
+      "title": "Lead Software Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Software-Engineer_R53129"
+    },
+    {
+      "id": "R53130",
+      "title": "Lead Software Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Software-Engineer_R53130"
+    },
+    {
+      "id": "R53101",
+      "title": "Principal Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Software-Engineer_R53101"
+    },
+    {
+      "id": "R53110",
+      "title": "2026 Summer Intern",
+      "location": "ZHUBEI 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/ZHUBEI-01/XMLNAME-2026-Summer-Intern_R53110"
+    },
+    {
+      "id": "R53177",
+      "title": "Application Engineer II: Silicon Signoff and Verification",
+      "location": "BELO HORIZONTE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BELO-HORIZONTE/Application-Engineer-II--Silicon-Signoff-and-Verification_R53177"
+    },
+    {
+      "id": "R50675",
+      "title": "Lead Application Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Application-Engineer_R50675"
+    },
+    {
+      "id": "R53149",
+      "title": "Product Validation Engineer II",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Product-Validation-Engineer-II_R53149"
+    },
+    {
+      "id": "R52740",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R52740"
+    },
+    {
+      "id": "R51724",
+      "title": "PDK Enablement Engineering Specialist",
+      "location": "5 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/MOUNT-ROYAL-Montreal/PDK-Enablement-Engineering-Specialist_R51724"
+    },
+    {
+      "id": "R50542",
+      "title": "Design Engineer II",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/MOUNT-ROYAL-Montreal/Lead--Verification-Engineer_R50542"
+    },
+    {
+      "id": "R52556",
+      "title": "Principal Software Engineer",
+      "location": "BEIJING 04",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING-04/Principal-Software-Engineer_R52556"
+    },
+    {
+      "id": "R53113",
+      "title": "Software Engineer for SPICE (AI)",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Software-Engineer-for-SPICE--AI-_R53113-1"
+    },
+    {
+      "id": "R53112",
+      "title": "Software Engineer for SPICE (math)",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Software-Engineer-for-SPICE--math-_R53112"
+    },
+    {
+      "id": "R52736",
+      "title": "Intern of the Device Modeling",
+      "location": "BEIJING 04",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING-04/Intern-of-the-Device-Modeling_R52736"
+    },
+    {
+      "id": "R52955",
+      "title": "Lead Software Engineer",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Lead-Software-Engineer_R52955"
+    },
+    {
+      "id": "R53064",
+      "title": "Software Engineer II",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Software-Engineer-II_R53064-1"
+    },
+    {
+      "id": "R53122",
+      "title": "Application Engineer",
+      "location": "4 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Application-Engineer_R53122-2"
+    },
+    {
+      "id": "R52780",
+      "title": "Intern SSG",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Intern-SSG_R52780"
+    },
+    {
+      "id": "R52569",
+      "title": "Sr Principal Design Engineer",
+      "location": "CAMBRIDGE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CAMBRIDGE/Design-Engineering-Architect_R52569"
+    },
+    {
+      "id": "R51051",
+      "title": "Lead Design Engineer",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE/Lead-Design-Engineer_R51051-1"
+    },
+    {
+      "id": "R51673",
+      "title": "Software Development Manager, Release Operations",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Engineering-Operations-Director_R51673"
+    },
+    {
+      "id": "R53009",
+      "title": "Software Engineer I",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-I_R53009-1"
+    },
+    {
+      "id": "R52553",
+      "title": "Design Engineer II",
+      "location": "Nanjing",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Design-Engineer-II---Verification_R52553"
+    },
+    {
+      "id": "R52186",
+      "title": "Application Engineer",
+      "location": "YOKOHAMA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/Application-Engineer_R52186"
+    },
+    {
+      "id": "R52775",
+      "title": "Principal Customer Engagement Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Principal-Customer-Engagement-Engineer_R52775-1"
+    },
+    {
+      "id": "R53042",
+      "title": "ML/AI Software Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/ML-AI-Software-Engineer_R53042"
+    },
+    {
+      "id": "R52364",
+      "title": "Principal Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Product-Engineer_R52364-1"
+    },
+    {
+      "id": "R53015",
+      "title": "Design Engineer - Physical Design",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Design-Engineer-II_R53015"
+    },
+    {
+      "id": "R53011",
+      "title": "Analog Design Engineer II",
+      "location": "Nanjing",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Analog-Design-Engineer-II_R53011"
+    },
+    {
+      "id": "R51615",
+      "title": "Lead Analog Design Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Principal-Analog-Design-Engineer_R51615"
+    },
+    {
+      "id": "R52851",
+      "title": "HRIS Architect",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/HRIS-Architect_R52851-1"
+    },
+    {
+      "id": "R52784",
+      "title": "Intern",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Intern_R52784"
+    },
+    {
+      "id": "R52210",
+      "title": "software engineering intern",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/software-engineering-intern_R52210"
+    },
+    {
+      "id": "R44014",
+      "title": "Associate Compliance Analyst II",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Associate-Compliance-Analyst-II_R44014"
+    },
+    {
+      "id": "R52879",
+      "title": "Product Validation Intern",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Product-Validation-Intern_R52879"
+    },
+    {
+      "id": "R52878",
+      "title": "Product Validation Intern",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Product-Validation-Intern_R52878"
+    },
+    {
+      "id": "R52884",
+      "title": "intern-product engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/intern-product-engineer_R52884"
+    },
+    {
+      "id": "R52941",
+      "title": "Sales Operations Analyst",
+      "location": "CARY",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CARY/Sales-Operations-Analyst_R52941"
+    },
+    {
+      "id": "R52643",
+      "title": "Principal Product Engineer",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Principal-Product-Engineer_R52643"
+    },
+    {
+      "id": "R52546",
+      "title": "Lead Design Engineer",
+      "location": "Nanjing",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Lead-Design-Engineer_R52546"
+    },
+    {
+      "id": "R52867",
+      "title": "Sales Representative",
+      "location": "YOKOHAMA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/Sales-Representative_R52867-1"
+    },
+    {
+      "id": "R52078",
+      "title": "Credit & Collections Specialist",
+      "location": "DUBLIN",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/DUBLIN/Credit---Collections-Specialist_R52078"
+    },
+    {
+      "id": "R51440",
+      "title": "Principal UI Engineer (Boston, MA)",
+      "location": "BOSTON 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BOSTON-01/Principal-UI-Engineer_R51440-1"
+    },
+    {
+      "id": "R52830",
+      "title": "Lead Application Engineer",
+      "location": "FELDKIRCHEN (Munich)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/FELDKIRCHEN-Munich/Lead-Application-Engineer_R52830"
+    },
+    {
+      "id": "R52846",
+      "title": "SVG Summer Intern",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/SVG-Summer-Intern_R52846"
+    },
+    {
+      "id": "R52660",
+      "title": "HRIS Architect",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/HRIS-Architect_R52660"
+    },
+    {
+      "id": "R51975",
+      "title": "Senior Account Executive I",
+      "location": "PETAH TIKVA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PETAH-TIKVA/Senior-Account-Executive-I_R51975-1"
+    },
+    {
+      "id": "R50764",
+      "title": "Talent Acquisition Partner",
+      "location": "PUNE 04",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE-04/Talent-Acquisition-Partner_R50764"
+    },
+    {
+      "id": "R52555",
+      "title": "Principal Program Manager",
+      "location": "Nanjing",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Principal-Program-Manager_R52555-1"
+    },
+    {
+      "id": "R52647",
+      "title": "Design Verification Lead Engineer",
+      "location": "AUSTIN",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AUSTIN/Design-Verification-Lead-Engineer_R52647"
+    },
+    {
+      "id": "R52336",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II_R52336-2"
+    },
+    {
+      "id": "R52551",
+      "title": "Lead Software Engineer",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Lead-Software-Engineer_R52551"
+    },
+    {
+      "id": "R52129",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52129"
+    },
+    {
+      "id": "R52130",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52130"
+    },
+    {
+      "id": "R52131",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52131"
+    },
+    {
+      "id": "R52132",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52132"
+    },
+    {
+      "id": "R52133",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52133"
+    },
+    {
+      "id": "R52134",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52134"
+    },
+    {
+      "id": "R52135",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52135"
+    },
+    {
+      "id": "R52136",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52136"
+    },
+    {
+      "id": "R52137",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52137-1"
+    },
+    {
+      "id": "R52138",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52138"
+    },
+    {
+      "id": "R52139",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52139-1"
+    },
+    {
+      "id": "R52140",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52140"
+    },
+    {
+      "id": "R52141",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52141"
+    },
+    {
+      "id": "R52142",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52142"
+    },
+    {
+      "id": "R52143",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52143"
+    },
+    {
+      "id": "R52144",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52144"
+    },
+    {
+      "id": "R52145",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52145"
+    },
+    {
+      "id": "R52146",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52146"
+    },
+    {
+      "id": "R52147",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52147"
+    },
+    {
+      "id": "R52148",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52148-1"
+    },
+    {
+      "id": "R52149",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52149"
+    },
+    {
+      "id": "R52150",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52150"
+    },
+    {
+      "id": "R52151",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52151"
+    },
+    {
+      "id": "R52152",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52152"
+    },
+    {
+      "id": "R52153",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52153-1"
+    },
+    {
+      "id": "R52154",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52154"
+    },
+    {
+      "id": "R52155",
+      "title": "Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Application-Engineer_R52155"
+    },
+    {
+      "id": "R52162",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52162"
+    },
+    {
+      "id": "R52163",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52163"
+    },
+    {
+      "id": "R52164",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52164-1"
+    },
+    {
+      "id": "R52165",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52165"
+    },
+    {
+      "id": "R52166",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52166"
+    },
+    {
+      "id": "R52167",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52167"
+    },
+    {
+      "id": "R52168",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52168"
+    },
+    {
+      "id": "R52169",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52169"
+    },
+    {
+      "id": "R52170",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52170"
+    },
+    {
+      "id": "R52171",
+      "title": "Sr Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R52171"
+    },
+    {
+      "id": "R52206",
+      "title": "Application Engineer - digital implementation",
+      "location": "YOKOHAMA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/Application-Engineer---digital-implementation_R52206"
+    },
+    {
+      "id": "R46513",
+      "title": "Software Engineer II",
+      "location": "BEIJING 04",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING-04/Lead-Software-Engineer_R46513"
+    },
+    {
+      "id": "R52542",
+      "title": "Principal Product Engineer(Serdes IP)",
+      "location": "Nanjing",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Principal-Product-Engineer-Serdes-IP-_R52542"
+    },
+    {
+      "id": "R52037",
+      "title": "Sr Principal Product Engineer – Memory IP",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Sr-Principal-Product-Engineer---Memory-IP_R52037"
+    },
+    {
+      "id": "R51780",
+      "title": "Sr Principal Design Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Design-Engineer-II_R51780"
+    },
+    {
+      "id": "R52457",
+      "title": "Frontend Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Frontend-Engineer_R52457"
+    },
+    {
+      "id": "R52288",
+      "title": "Sr Credit & Collections Analyst",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Sr-Credit---Collections-Analyst_R52288-1"
+    },
+    {
+      "id": "R51618",
+      "title": "Software Engineer II",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Software-Engineer-II_R51618"
+    },
+    {
+      "id": "R51911",
+      "title": "Sr Principal Application Engineer",
+      "location": "PETAH TIKVA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PETAH-TIKVA/Lead-Application-Engineer_R51911"
+    },
+    {
+      "id": "R52326",
+      "title": "Software Engineer II",
+      "location": "HSINCHU",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HSINCHU/Software-Engineer-II_R52326"
+    },
+    {
+      "id": "R52334",
+      "title": "Software Engineering Intern",
+      "location": "PITTSBURGH 03",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PITTSBURGH-03/Software-Engineering-Intern_R52334"
+    },
+    {
+      "id": "R51830",
+      "title": "Principal Product Engineer - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Principal-Application-Engineer---Verification_R51830"
+    },
+    {
+      "id": "R51827",
+      "title": "Sr Principal Product Engineer - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Sr-Principal-Application-Engineer---Verification_R51827"
+    },
+    {
+      "id": "R51828",
+      "title": "Principal Product Engineer - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Principal-Application-Engineer---Verification_R51828"
+    },
+    {
+      "id": "R51832",
+      "title": "Lead Product Engineer - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Lead-Application-Engineer_R51832"
+    },
+    {
+      "id": "R51834",
+      "title": "Lead Product Engineer - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Lead-Application-Engineer_R51834"
+    },
+    {
+      "id": "R51836",
+      "title": "Lead Product Engineer - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Lead-Application-Engineer_R51836"
+    },
+    {
+      "id": "R51831",
+      "title": "Principal Product Engineer - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Principal-Application-Engineer---Verification_R51831"
+    },
+    {
+      "id": "R51835",
+      "title": "Product Engineer II - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Lead-Application-Engineer_R51835"
+    },
+    {
+      "id": "R51837",
+      "title": "Product Engineer II - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Sr-Application-Engineer_R51837"
+    },
+    {
+      "id": "R51838",
+      "title": "Product Engineer II - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Sr-Application-Engineer_R51838"
+    },
+    {
+      "id": "R51839",
+      "title": "Product Engineer II - Verification",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Sr-Application-Engineer_R51839"
+    },
+    {
+      "id": "R50051",
+      "title": "Lead Education Application Engineer (Analog/Mixed-Signal)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Education-Application-Engineer--Analog-Mixed-Signal-_R50051"
+    },
+    {
+      "id": "R52174",
+      "title": "Principal Application Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Principal-Application-Engineer_R52174"
+    },
+    {
+      "id": "R52235",
+      "title": "Lead Analog IC Designer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Analog-IC-Designer_R52235"
+    },
+    {
+      "id": "R51956",
+      "title": "Emulation Design Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Emulation-Design-Engineer_R51956"
+    },
+    {
+      "id": "R51948",
+      "title": "Sales Director",
+      "location": "BRACKNELL",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BRACKNELL/Sales-Director_R51948"
+    },
+    {
+      "id": "R51702",
+      "title": "Lead Product Engineer",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Lead-Product-Engineer_R51702"
+    },
+    {
+      "id": "R51742",
+      "title": "Lead Software Engineer for Virtuoso ADE",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Lead-Software-Engineer-for-Virtuoso-ADE_R51742"
+    },
+    {
+      "id": "R51547",
+      "title": "Sr. Principal Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Software-Engineer_R51547"
+    },
+    {
+      "id": "R51725",
+      "title": "Analog CAD Engineering specialist",
+      "location": "7 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HOME-MD/Analog-CAD-Engineer_R51725"
+    },
+    {
+      "id": "R51772",
+      "title": "Field Marketing Specialist",
+      "location": "YOKOHAMA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/YOKOHAMA/Field-Marketing-Specialist_R51772"
+    },
+    {
+      "id": "R51501",
+      "title": "Principal Product Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Product-Engineer_R51501-1"
+    },
+    {
+      "id": "R51682",
+      "title": "Intern-Product Validation",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Intern-Product-Validation_R51682"
+    },
+    {
+      "id": "R51660",
+      "title": "Principal Design Engineer",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Principal-Design-Engineer_R51660"
+    },
+    {
+      "id": "R51635",
+      "title": "Software Engineer II",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Software-Engineer-II_R51635-1"
+    },
+    {
+      "id": "R51603",
+      "title": "lead software engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/lead-software-engineer_R51603-1"
+    },
+    {
+      "id": "R51342",
+      "title": "Lead Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R51342"
+    },
+    {
+      "id": "R51411",
+      "title": "Principal Product Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Principal-Product-Engineer_R51411"
+    },
+    {
+      "id": "R51346",
+      "title": "Principal Software Engineer-Mesh",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Meshing-Engineering-Developer_R51346"
+    },
+    {
+      "id": "R51343",
+      "title": "Senior Meshing Developer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Senior-Meshing-Developer_R51343"
+    },
+    {
+      "id": "R50882",
+      "title": "Intern - (System Verification Group)",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Intern----System-Verification-Group-_R50882"
+    },
+    {
+      "id": "R50725",
+      "title": "Intern (System Verification Group)",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Intern-SVG_R50725"
+    },
+    {
+      "id": "R50712",
+      "title": "Intern (Application Specialists and Knowledge Team))",
+      "location": "CORK 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/CORK-01/Intern--Application-Specialists-and-Knowledge-Team--_R50712"
+    },
+    {
+      "id": "R50692",
+      "title": "Sr Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R50692"
+    },
+    {
+      "id": "R50946",
+      "title": "Principal Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Product-Engineer_R50946"
+    },
+    {
+      "id": "R50308",
+      "title": "Solutions Architect - AE",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Solutions-Architect---AE_R50308"
+    },
+    {
+      "id": "R47557",
+      "title": "Principal Cloud Engineer",
+      "location": "KATO SCHOLARI 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/KATO-SCHOLARI-01/Principal-Cloud-Engineer_R47557"
+    },
+    {
+      "id": "R50560",
+      "title": "Sr Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R50560"
+    },
+    {
+      "id": "R50559",
+      "title": "Sr Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R50559"
+    },
+    {
+      "id": "R50558",
+      "title": "Sr Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Principal-Design-Engineer_R50558"
+    },
+    {
+      "id": "R51205",
+      "title": "Lead Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Software-Engineer_R51205"
+    },
+    {
+      "id": "R50747",
+      "title": "Principal Application Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Application-Engineer_R50747"
+    },
+    {
+      "id": "R43530",
+      "title": "DSP or Serdes RTL Sr Principal Digital Design Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/RTL-Digital-design-engineer_R43530"
+    },
+    {
+      "id": "R48745",
+      "title": "Lead Product Engineer - MIPI Protocol",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Product-Engineer---MIPI-Protocol_R48745-2"
+    },
+    {
+      "id": "R50265",
+      "title": "Principal Product Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Principal-Product-Engineer_R50265"
+    },
+    {
+      "id": "R49715",
+      "title": "Lead Software Engineer",
+      "location": "NEWCASTLE 01",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NEWCASTLE-01/Lead-Software-Engineer_R49715-2"
+    },
+    {
+      "id": "R50613",
+      "title": "Lead software enginner for LLM-infra",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-software-enginner-for-LLM-infra_R50613"
+    },
+    {
+      "id": "R50616",
+      "title": "Leader software engineer for jedai LLM-infra",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Leader-software-engineer-for-jedai-LLM-infra_R50616"
+    },
+    {
+      "id": "R48839",
+      "title": "Software engineer II",
+      "location": "INVECAS HYDERABAD",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/INVECAS-HYDERABAD/Software-engineer-II_R48839"
+    },
+    {
+      "id": "R50275",
+      "title": "IT- Staff Software Security Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/IT--Staff-Software-Security-Engineer_R50275"
+    },
+    {
+      "id": "R50268",
+      "title": "Lead Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Product-Engineer_R50268"
+    },
+    {
+      "id": "R50426",
+      "title": "Sr Principal Application Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Application-Engineer_R50426"
+    },
+    {
+      "id": "R48142",
+      "title": "Principal Product Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Product-Engineer_R48142"
+    },
+    {
+      "id": "R49869",
+      "title": "Lead Software Engineer",
+      "location": "NOIDA 02",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA-02/Lead-Software-Engineer_R49869"
+    },
+    {
+      "id": "R48169",
+      "title": "Lead Product Engineer",
+      "location": "BANGALORE 05",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE-05/Lead-Product-Engineer_R48169"
+    },
+    {
+      "id": "R48117",
+      "title": "Software Architect",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/HW-SW-Engineer_R48117"
+    },
+    {
+      "id": "R49676",
+      "title": "Sr Application Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Application-Engineer_R49676"
+    },
+    {
+      "id": "R49736",
+      "title": "Principal Software Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Software-Engineer_R49736"
+    },
+    {
+      "id": "R49383",
+      "title": "Sr Principal Product Validation Engineer",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Sr-Principal-Product-Validation-Engineer_R49383-1"
+    },
+    {
+      "id": "R49107",
+      "title": "Lead Hardware Engineer - DFT IP R&D",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Software-Engineer---DFT-IP-R-D_R49107"
+    },
+    {
+      "id": "R49177",
+      "title": "Lead Software Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Software-Engineer_R49177"
+    },
+    {
+      "id": "R49178",
+      "title": "Lead Software Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Software-Engineer_R49178"
+    },
+    {
+      "id": "R49179",
+      "title": "Software Engineer II",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Software-Engineer-II_R49179"
+    },
+    {
+      "id": "R48605",
+      "title": "Principal Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Software-Engineer_R48605-1"
+    },
+    {
+      "id": "R45706",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Design-Engineering-Architect_R45706"
+    },
+    {
+      "id": "R48962",
+      "title": "Sr Principal Design Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Design-Engineer_R48962-3"
+    },
+    {
+      "id": "R49184",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R49184"
+    },
+    {
+      "id": "R49275",
+      "title": "Internship Opportunities 2026",
+      "location": "DUBLIN 03",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/DUBLIN-03/Internship-Opportunities-2026_R49275"
+    },
+    {
+      "id": "R48096",
+      "title": "IT - Sr Systems Engineer - Storage",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/IT---Sr-Systems-Engineer---Storage_R48096"
+    },
+    {
+      "id": "R49256",
+      "title": "Principal Design Engineer",
+      "location": null,
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Principal-Design-Engineer_R49256"
+    },
+    {
+      "id": "R48450",
+      "title": "Design Engineering Architect",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Design-Engineering-Architect_R48450"
+    },
+    {
+      "id": "R48480",
+      "title": "Lead Design Engineer",
+      "location": "PUNE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE/Lead-Design-Engineer_R48480-1"
+    },
+    {
+      "id": "R40228",
+      "title": "Senior Physical Design Applications Engineer Returnship",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Applications-Engineer-Returnship---Digital-Implementation_R40228"
+    },
+    {
+      "id": "R48322",
+      "title": "Principal Design Engineer",
+      "location": "PUNE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE/Principal-Design-Engineer_R48322"
+    },
+    {
+      "id": "R45047",
+      "title": "Lead Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Software-Engineer_R45047-1"
+    },
+    {
+      "id": "R48671",
+      "title": "IT-Sr Systems Engineer (M&A Tier 0 / Virtualization Engineer)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/IT-Sr-Systems-Engineer--M-A-Tier-0---Virtualization-Engineer-_R48671"
+    },
+    {
+      "id": "R48241",
+      "title": "Sr Principal Design Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Design-Engineer_R48241-3"
+    },
+    {
+      "id": "R45608",
+      "title": "Lead Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R45608"
+    },
+    {
+      "id": "R47566",
+      "title": "Layout Designer",
+      "location": "Nanjing",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/Nanjing/Layout-Designer_R47566"
+    },
+    {
+      "id": "R47785",
+      "title": "Sr Principal Software Engineer",
+      "location": "HELSINKI 03",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HELSINKI-03/Sr-Principle-Software-Engineer_R47785"
+    },
+    {
+      "id": "R47970",
+      "title": "IP Sr Sales Representative",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/IP-Sr-Sales-Representative_R47970"
+    },
+    {
+      "id": "R47483",
+      "title": "Principal Design Engineer",
+      "location": "PUNE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE/Principal-Design-Engineer_R47483-1"
+    },
+    {
+      "id": "R47612",
+      "title": "Sr Design Engineering Architect",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Sr-Design-Engineering-Architect_R47612-5"
+    },
+    {
+      "id": "R47822",
+      "title": "Principal Software Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Software-Engineer_R47822"
+    },
+    {
+      "id": "R46650",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R46650"
+    },
+    {
+      "id": "R47556",
+      "title": "Lead Full Stack Cloud Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Full-Stack-Cloud-Engineer_R47556-1"
+    },
+    {
+      "id": "R47537",
+      "title": "Lead Support Application Engineer - GCS",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Support-Application-Engineer---GCS_R47537"
+    },
+    {
+      "id": "R47293",
+      "title": "Lead Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R47293-5"
+    },
+    {
+      "id": "R45339",
+      "title": "Sr Principal Design Engineer",
+      "location": "4 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Design-Engineering-Architect_R45339"
+    },
+    {
+      "id": "R43928",
+      "title": "Design Engineering Manager",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R43928"
+    },
+    {
+      "id": "R44516",
+      "title": "Lead C++ Software Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Lead-Software-Engineer_R44516"
+    },
+    {
+      "id": "R46808",
+      "title": "Design engineering Architect",
+      "location": "HYDERABAD",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD/Design-engineering-Architect_R46808"
+    },
+    {
+      "id": "R46243",
+      "title": "Principal Design Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R46243"
+    },
+    {
+      "id": "R45986",
+      "title": "Design Engineer II",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R45986"
+    },
+    {
+      "id": "R46830",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R46830"
+    },
+    {
+      "id": "R46796",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R46796"
+    },
+    {
+      "id": "R46228",
+      "title": "Senior DFT Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Senior-DFT-Engineer_R46228"
+    },
+    {
+      "id": "R46508",
+      "title": "Lead Solutions Engineer",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Solutions-Engineer_R46508"
+    },
+    {
+      "id": "R45755",
+      "title": "Lead Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R45755"
+    },
+    {
+      "id": "R46047",
+      "title": "Lead Design Engineer",
+      "location": "HYDERABAD 04",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/HYDERABAD-04/Lead-Design-Engineer_R46047"
+    },
+    {
+      "id": "R45744",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R45744-1"
+    },
+    {
+      "id": "R45747",
+      "title": "Lead Design Engineer",
+      "location": "PUNE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/PUNE/Lead-Design-Engineer_R45747"
+    },
+    {
+      "id": "R45769",
+      "title": "Intern-Product validation engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Intern-Product-validation-engineer_R45769"
+    },
+    {
+      "id": "R45768",
+      "title": "Product validation engineer Intern",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Product-validation-engineer-Intern_R45768"
+    },
+    {
+      "id": "R44711",
+      "title": "Principal DFT Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-DFT-Design-Engineer_R44711-1"
+    },
+    {
+      "id": "R45049",
+      "title": "Principal Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Software-Engineer_R45049-7"
+    },
+    {
+      "id": "R45084",
+      "title": "Lead Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Software-Engineer_R45084"
+    },
+    {
+      "id": "R45003",
+      "title": "Lead Product Validation Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Product-Validation-Engineer_R45003"
+    },
+    {
+      "id": "R45002",
+      "title": "Lead Product Validation Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Product-Validation-Engineer_R45002"
+    },
+    {
+      "id": "R44610",
+      "title": "Lead Product Engineer - UCIe & Functional Verification",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Product-Engineer---UCIe---Functional-Verification_R44610"
+    },
+    {
+      "id": "R45116",
+      "title": "Lead Product Engineer - Design Verification (MM/VIP)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/AHMEDABAD/Lead-Product-Engineer---Design-Verification--MM-VIP-_R45116"
+    },
+    {
+      "id": "R45058",
+      "title": "Lead Application Engineer - GCS  ( Physical Design )",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Application-Engineer---GCS----Physical-Design--_R45058"
+    },
+    {
+      "id": "R44012",
+      "title": "Sr Principal Product Validation Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Sr-Principal-Product-Validation-Engineer_R44012"
+    },
+    {
+      "id": "R44009",
+      "title": "Lead Product Validation Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Product-Validation-Engineer_R44009-1"
+    },
+    {
+      "id": "R43996",
+      "title": "Principal Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Software-Engineer_R43996"
+    },
+    {
+      "id": "R44006",
+      "title": "Principal Product Validation Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Product-Validation-Engineer_R44006"
+    },
+    {
+      "id": "R44902",
+      "title": "Principal Solutions Engineer - AE",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Solutions-Engineer---AE_R44902"
+    },
+    {
+      "id": "R43818",
+      "title": "Senior/Returnship, Signal Integrity (SI) and Power Integrity (PI) - Principal Applications Engineer",
+      "location": "SAN JOSE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Signal-Integrity--SI--and-Power-Integrity--PI----Principal-Applications-Engineer_R43818"
+    },
+    {
+      "id": "R44903",
+      "title": "Lead Solutions Engineer - AE",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Lead-Solutions-Engineer---AE_R44903"
+    },
+    {
+      "id": "R44714",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R44714-1"
+    },
+    {
+      "id": "R44378",
+      "title": "Lead Product Validation Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Lead-Product-Validation-Engineer_R44378"
+    },
+    {
+      "id": "R43933",
+      "title": "Lead Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-Design-Engineer_R43933-1"
+    },
+    {
+      "id": "R39488",
+      "title": "Lead Product Engineer",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Lead-Product-Engineer_R39488"
+    },
+    {
+      "id": "R42702",
+      "title": "Principal Product Engineer",
+      "location": "SHANGHAI",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHANGHAI/Principal-Product-Engineer_R42702"
+    },
+    {
+      "id": "R40790",
+      "title": "Principal Software Engineer",
+      "location": "NOIDA",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/NOIDA/Principal-Software-Engineer_R40790"
+    },
+    {
+      "id": "R40668",
+      "title": "Principal Design Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Principal-Design-Engineer_R40668"
+    },
+    {
+      "id": "R39669",
+      "title": "Lead FrontEnd Methodology Engineer",
+      "location": "BANGALORE",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BANGALORE/Lead-DDR-Verification-Engineer_R39669"
+    },
+    {
+      "id": "R31386",
+      "title": "Sr Principal Customer Engagement Engineer - HSV",
+      "location": "GYEONGGI-DO (Seoul)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/GYEONGGI-DO-Seoul/Sr-Principal-Product-Engineer---HSV_R31386"
+    },
+    {
+      "id": "R26781",
+      "title": "Lead Application Engineer",
+      "location": "SHENZHEN",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/SHENZHEN/Lead-Application-Engineer_R26781"
+    },
+    {
+      "id": "R24363",
+      "title": "Product Validation Engineer II",
+      "location": "BEIJING",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://cadence.wd1.myworkdayjobs.com/job/BEIJING/Product-Validation-Engineer-II_R24363-1"
+    }
+  ]
+}

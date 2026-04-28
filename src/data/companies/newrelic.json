@@ -1,0 +1,10 @@
+{
+  "slug": "newrelic",
+  "name": "New Relic",
+  "website": "https://newrelic.com",
+  "sector": "Observability",
+  "headquarters": "San Francisco, CA",
+  "description": "Application performance monitoring and observability platform.",
+  "ats": "greenhouse",
+  "atsIdentifier": "newrelic"
+}

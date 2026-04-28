@@ -1,0 +1,14 @@
+{
+  "slug": "lattice",
+  "name": "Lattice Semiconductor",
+  "website": "https://www.latticesemi.com",
+  "sector": "FPGA",
+  "headquarters": "Hillsboro, OR",
+  "description": "Low-power FPGAs for edge, communications, industrial.",
+  "ats": "workday",
+  "workday": {
+    "host": "lattice.wd5.myworkdayjobs.com",
+    "tenant": "lattice",
+    "site": "External"
+  }
+}

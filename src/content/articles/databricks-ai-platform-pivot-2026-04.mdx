@@ -1,0 +1,99 @@
+---
+title: "Databricks Hires Like an AI Platform, Not a Data Platform"
+description: "AI/ML and generative-AI titles outnumber traditional data-engineering titles by 5:1 in Databricks' open roles. The lakehouse identity is now table stakes; the headline pivot is to AI."
+company: databricks
+publishedAt: 2026-04-28
+hypothesis: "Databricks has effectively completed the rebrand from data platform to AI platform. AI/ML and generative-AI engineering roles outnumber traditional data-engineering roles ~5:1, and a Mosaic-style GenAI platform plus agentic-application stack now dominate the engineering hiring."
+confidence: medium
+horizon: "12-18 months"
+tags: ["AI", "data-platform", "agents", "GenAI"]
+provId: "PROV-004"
+cycle: "0004"
+signalCount: 138
+totalPostings: 828
+---
+
+## TL;DR
+
+Databricks' public Greenhouse board on 2026-04-28 carries 828 open roles.
+**116 of those are AI/ML platform-related** (model serving, GenAI inference,
+AI Platform, Mosaic, agentic systems). Only **22 are traditional
+data-engineering** (Spark Connect, Delta, streaming pipelines).
+A 5:1 ratio. Combined with **139 enterprise-sales** roles and **58 platform
+infrastructure** roles, the company is hiring like an AI platform that happens
+to ship a lakehouse, not a lakehouse that happens to ship AI features.
+
+## What the cluster shows
+
+| Cluster | Count | Examples |
+|---|---|---|
+| AI / ML platform | **116** | Senior ML Engineer — GenAI Platform (`6954585002`), Senior SWE — AI Platform NYC (`8509230002`), SWE — Model Serving (`8211648002`), SWE — GenAI inference (`8202670002`), Sr Fullstack — Agentic Applications (`8220814002`), Sr Developer Advocate — Databricks AI Agentic Systems (`7930603002`) |
+| Enterprise / sales | 139 | Account executives, partner roles, regulated-industry field engineering |
+| Platform infrastructure | 58 | Infra, SRE, reliability, cloud platform |
+| Security / governance | 31 | Security, governance, compliance |
+| Data engineering (traditional) | **22** | Spark Connect (`8502969002`), Streaming (`8324875002`), Delta (`8303014002`, `8303017002`), data pipelines |
+
+By department, the same picture emerges:
+- *Engineering — Pipeline*: 135 (note: "Pipeline" here covers ML + data;
+  many of these tag AI in their titles)
+- *Enterprise Sales*: 117
+- *Field Engineering* (multiple subtypes): 84 + 29 + 16 = 129
+- *Engineering* (general): 52
+- *Product*: 36
+
+## Why "AI platform first" is the right read
+
+Three observations.
+
+**Mosaic acquisition shape is fully visible.** Roles tagged "GenAI Platform"
+and "GenAI inference" trace directly to the Mosaic AI lineage. They aren't
+bolted onto a data-engineering org — they have their own engineering and
+developer-relations sub-org (`7930603002` Sr Developer Advocate, Databricks
+AI Agentic Systems is a giveaway: agentic systems is a product surface with
+its own DevRel, not a feature of the data lake).
+
+**Agentic applications as a product surface.** `8220814002` Sr Fullstack
+Engineer, Agentic Applications and similar postings position agents as a
+shipped product, not a research demo. This matches the strategic-narrative
+shift in AI-platform companies away from "data is the moat" toward
+"agents are the workflow."
+
+**The data-engineering team is small now.** 22 roles for the *core engine* of
+the lakehouse — Spark Connect, Delta, streaming — is a maintenance-and-extend
+size, not a build-out size. The capability is mature; investment shifts
+upstream.
+
+## What would change our mind
+
+Hypothesis flips to **low** confidence if:
+- AI/ML hiring share drops materially over the next two quarters.
+- A new core-engine programme (e.g., a Spark successor or storage rewrite)
+  appears as its own large hiring lane.
+- Agentic-applications postings consolidate or close.
+
+Hypothesis strengthens to **high** confidence if:
+- A separate AI-platform product surface is announced with its own pricing
+  and packaging distinct from the lakehouse SKU.
+- Mosaic Agent Bricks or comparable becomes the headline of the public
+  product roadmap.
+- The agentic-applications team scales to its own DevRel + Field Engineering
+  branches (current DevRel posting is one — at 5+ it becomes structural).
+
+## Caveats
+
+- Many "platform" engineers do dual data + AI work. The 5:1 ratio depends on
+  how strictly we exclude bridge roles.
+- 139 enterprise-sales roles is also an alternate hypothesis: "Databricks is
+  hiring like an enterprise SaaS company entering its scale-up motion,
+  irrespective of AI." That's a friendly rather than competing interpretation
+  — both can be true simultaneously.
+- Hiring is a lagging signal. The decision to make this an AI company was
+  made when Mosaic was acquired; this article is documenting the operational
+  follow-through, not a fresh strategy turn.
+
+## Method
+
+Source: Databricks' public Greenhouse board (`boards-api.greenhouse.io/v1/boards/databricks/jobs`),
+snapshot 2026-04-28, 828 jobs. Department field is from Greenhouse;
+title-keyword regex applied per cluster. Snapshot at
+`data/snapshots/databricks/2026-04-28.json`.

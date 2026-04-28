@@ -1,0 +1,639 @@
+{
+  "company": "newrelic",
+  "ats": "greenhouse",
+  "atsIdentifier": "newrelic",
+  "fetchedAt": "2026-04-28T04:52:03.588Z",
+  "count": 70,
+  "jobs": [
+    {
+      "id": "5166509008",
+      "title": "Account Executive - Enterprise Expansion",
+      "location": "Berlin, Germany; Munich, Germany",
+      "department": "Enterprise",
+      "offices": "Germany",
+      "updated_at": "2026-04-15T13:34:37-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5166509008"
+    },
+    {
+      "id": "5172371008",
+      "title": "Account Executive - Enterprise Sales",
+      "location": "Toronto, Canada",
+      "department": "Enterprise",
+      "offices": "Canada",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5172371008"
+    },
+    {
+      "id": "5121001008",
+      "title": "Account Executive - Enterprise Sales",
+      "location": "Berlin, Germany; Munich, Germany",
+      "department": "Marketing",
+      "offices": "Germany",
+      "updated_at": "2026-04-27T10:20:20-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5121001008"
+    },
+    {
+      "id": "5185381008",
+      "title": "Account Executive - Enterprise Sales -  Greenfield",
+      "location": "Atlanta, Georgia, USA; Miami, Florida, USA",
+      "department": "Enterprise",
+      "offices": "Florida",
+      "updated_at": "2026-04-14T16:35:17-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5185381008"
+    },
+    {
+      "id": "5168853008",
+      "title": "Account Executive - Enterprise Sales (Greenfield)",
+      "location": "Toronto, Canada",
+      "department": "Enterprise",
+      "offices": "Canada",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5168853008"
+    },
+    {
+      "id": "5199961008",
+      "title": "Account Executive, Enterprise Sales - New Business  ",
+      "location": "Dublin, Ireland",
+      "department": "Enterprise",
+      "offices": "Ireland",
+      "updated_at": "2026-04-27T09:02:17-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5199961008"
+    },
+    {
+      "id": "5126679008",
+      "title": "Account Executive - Enterprise Sales (West/Central)",
+      "location": "Austin, Texas, USA; Chicago, Illinois, USA; Cincinnati, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Los Angeles, California, USA; Minneapolis, Minnesota, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; San Francisco, California, USA; Seattle, Washington, USA",
+      "department": "Enterprise",
+      "offices": "188 Spear St.",
+      "updated_at": "2026-04-23T14:53:46-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5126679008"
+    },
+    {
+      "id": "5148437008",
+      "title": "Associate Technical Success Manager",
+      "location": "Calgary, Canada; Toronto, Canada; Vancouver, Canada",
+      "department": "Technical Solution Sales",
+      "offices": "Canada",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5148437008"
+    },
+    {
+      "id": "5169951008",
+      "title": "Business Development Representative",
+      "location": "Dublin, Ireland",
+      "department": "Marketing",
+      "offices": "Ireland",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5169951008"
+    },
+    {
+      "id": "5196281008",
+      "title": " Commercial Account Executive – Expansion",
+      "location": "Bangalore, India",
+      "department": "Enterprise",
+      "offices": "Hyderabad",
+      "updated_at": "2026-04-23T16:16:50-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5196281008"
+    },
+    {
+      "id": "5194896008",
+      "title": "Director, Deal Strategy",
+      "location": "Hyderabad, India",
+      "department": "G&A, Executive",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-22T03:14:01-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5194896008"
+    },
+    {
+      "id": "5178974008",
+      "title": "Director, Enterprise Sales - Greenfield",
+      "location": "Dallas, Texas, USA; Denver, Colorado, USA; Phoenix, Arizona, USA; Salt Lake City, Utah, USA; San Diego, California, USA; San Francisco, California, USA; Seattle, Washington, USA",
+      "department": "Enterprise",
+      "offices": "California",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5178974008"
+    },
+    {
+      "id": "5160027008",
+      "title": "Director, Marketing Engineering & AI",
+      "location": "Atlanta, Georgia, USA; Portland, Oregon, USA; San Francisco, California, USA",
+      "department": "Management & Operations",
+      "offices": "California",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5160027008"
+    },
+    {
+      "id": "5166387008",
+      "title": "Director, Partner Sales",
+      "location": "Singapore, Singapore",
+      "department": "Alliances & Channels",
+      "offices": "Home Office - Singapore",
+      "updated_at": "2026-04-17T06:09:34-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5166387008"
+    },
+    {
+      "id": "5065498008",
+      "title": "Director, Strategic Cloud Partnerships ",
+      "location": "San Francisco, California, USA; Seattle, Washington, USA",
+      "department": "Legal",
+      "offices": "California",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5065498008"
+    },
+    {
+      "id": "5153291008",
+      "title": "Director, Web Strategy and Engineering ",
+      "location": "Arlington, Virginia, USA; Atlanta, Georgia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Hartford, Connecticut, USA; Houston, Texas, USA; Jersey City, New Jersey, USA; Raleigh, North Carolina, USA",
+      "department": "Marketing",
+      "offices": "Connecticut",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5153291008"
+    },
+    {
+      "id": "5197720008",
+      "title": "EMEA Regional Marketing Manager",
+      "location": "Dublin, Ireland; London, United Kingdom",
+      "department": "Corporate Marketing",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-27T08:28:08-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5197720008"
+    },
+    {
+      "id": "4907356008",
+      "title": "Enterprise Sales - Account Executive",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise",
+      "offices": "Japan",
+      "updated_at": "2026-04-22T03:46:53-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/4907356008"
+    },
+    {
+      "id": "5157197008",
+      "title": "GTM Enablement Leader, EMEA",
+      "location": "Dublin, Ireland; London, United Kingdom",
+      "department": "New Relic Global Enablement",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5157197008"
+    },
+    {
+      "id": "5199001008",
+      "title": " Implementation Consultant - Solutions Architect",
+      "location": "Atlanta, Georgia, USA; Austin, Texas, USA; Boston, Massachusetts, USA; Charleston, South Carolina, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Indianapolis, Indiana, USA; Jersey City, New Jersey, USA; Miami, Florida, USA; Orlando, Florida, USA; Pittsburgh, Pennsylvania, USA",
+      "department": "Customer Solutions Hub",
+      "offices": "Illinois",
+      "updated_at": "2026-04-27T17:36:36-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5199001008"
+    },
+    {
+      "id": "4992316008",
+      "title": "Lead Data Scientist",
+      "location": "Atlanta, Georgia, USA; Chicago, Illinois, USA; Houston, Texas, USA; Portland, Oregon, USA",
+      "department": "Data Analytics",
+      "offices": "Oregon",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/4992316008"
+    },
+    {
+      "id": "5181857008",
+      "title": "Lead Financial Compliance Analyst",
+      "location": "Bangalore, India",
+      "department": "Finance",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5181857008"
+    },
+    {
+      "id": "5068189008",
+      "title": "Lead Revenue Recognition Accountant ",
+      "location": "San Francisco, California, USA",
+      "department": "Finance",
+      "offices": "California",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5068189008"
+    },
+    {
+      "id": "4970683008",
+      "title": "Lead Software Engineer - GoLang",
+      "location": "Bangalore, India",
+      "department": "Telemetry Data Platform",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-20T15:25:22-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/4970683008"
+    },
+    {
+      "id": "5181860008",
+      "title": "Manager, Billing",
+      "location": "Bangalore, India",
+      "department": "Finance",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5181860008"
+    },
+    {
+      "id": "5159828008",
+      "title": " Manager, Commercial Sales (APJ)",
+      "location": "Melbourne, Australia; Sydney, Australia",
+      "department": "Enterprise",
+      "offices": "Victoria",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5159828008"
+    },
+    {
+      "id": "5187686008",
+      "title": "Manager, Renewals",
+      "location": "Melbourne, Australia; Sydney, Australia",
+      "department": "Enterprise",
+      "offices": "New South Wales",
+      "updated_at": "2026-04-22T12:45:52-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5187686008"
+    },
+    {
+      "id": "4647156008",
+      "title": "Manager - Talent Acquisition ",
+      "location": "Hyderabad, India",
+      "department": "People Business Partnership",
+      "offices": "Hyderabad",
+      "updated_at": "2026-04-23T04:01:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/4647156008"
+    },
+    {
+      "id": "5159020008",
+      "title": "Partner Development Manager - French Speaking ",
+      "location": "Dublin, Ireland; London, United Kingdom; Paris, France",
+      "department": "Enterprise",
+      "offices": "Home Office (UNITED KINGDOM)",
+      "updated_at": "2026-04-27T11:20:19-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5159020008"
+    },
+    {
+      "id": "5188837008",
+      "title": "Partner Sales Manager - LATAM",
+      "location": "Atlanta, Georgia, USA; Miami, Florida, USA",
+      "department": "Enterprise",
+      "offices": "Florida",
+      "updated_at": "2026-04-15T11:31:07-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5188837008"
+    },
+    {
+      "id": "5189793008",
+      "title": "Pricing Manager",
+      "location": "Atlanta, Georgia, USA; Dallas, Texas, USA; Portland, Oregon, USA; San Francisco, California, USA",
+      "department": "G&A, Executive",
+      "offices": "California",
+      "updated_at": "2026-04-17T18:07:18-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5189793008"
+    },
+    {
+      "id": "5082650008",
+      "title": "Principal Account Executive - Strategic Sales",
+      "location": "Melbourne, Australia; Sydney, Australia",
+      "department": "Enterprise",
+      "offices": "New South Wales",
+      "updated_at": "2026-04-16T08:17:49-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5082650008"
+    },
+    {
+      "id": "4944097008",
+      "title": "Principal Software Engineer - Developer Platform",
+      "location": "Portland, Oregon, USA",
+      "department": "Telemetry Data Platform",
+      "offices": "Oregon",
+      "updated_at": "2026-04-20T10:16:54-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/4944097008"
+    },
+    {
+      "id": "5200806008",
+      "title": "Program Manager -Observability Architecture and Migration",
+      "location": "Annapolis, Maryland, USA; Atlanta, Georgia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Boston, Massachusetts, USA; Charleston, South Carolina, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Columbia, South Carolina, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Indianapolis, Indiana, USA; Kansas City, Missouri, USA; Madison, Wisconsin, USA; Orlando, Florida, USA; Pittsburgh, Pennsylvania, USA; St. Louis, Missouri, USA; Trenton, New Jersey, USA",
+      "department": "Technical Solution Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-27T17:33:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5200806008"
+    },
+    {
+      "id": "4920926008",
+      "title": "Renewals & Retention Analyst",
+      "location": "Bangalore, India",
+      "department": "Customer Success Renewals",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-23T02:13:26-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/4920926008"
+    },
+    {
+      "id": "5171253008",
+      "title": "Sales Enablement Manager ",
+      "location": "Atlanta, Georgia, USA; Baltimore, Maryland, USA; Charleston, South Carolina, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Indianapolis, Indiana, USA; Jersey City, New Jersey, USA; Las Vegas, Nevada, USA; Los Angeles, California, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; San Francisco, California, USA; Seattle, Washington, USA",
+      "department": "New Relic Global Enablement",
+      "offices": "California",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5171253008"
+    },
+    {
+      "id": "5105111008",
+      "title": "Senior Account Executive - Enterprise Sales",
+      "location": "Bangkok City, Thailand",
+      "department": "Enterprise",
+      "offices": "Thailand",
+      "updated_at": "2026-04-16T08:17:53-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5105111008"
+    },
+    {
+      "id": "5166385008",
+      "title": "Senior Account Executive - Enterprise Sales",
+      "location": "Seoul, Korea",
+      "department": "Enterprise",
+      "offices": "Korea, Republic of",
+      "updated_at": "2026-04-17T13:08:51-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5166385008"
+    },
+    {
+      "id": "5071893008",
+      "title": "Senior Account Executive - Enterprise Sales",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise",
+      "offices": "Japan",
+      "updated_at": "2026-04-16T08:17:42-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5071893008"
+    },
+    {
+      "id": "5069727008",
+      "title": "Senior Account Executive - Enterprise Sales  (Acquisition)",
+      "location": "Sydney, Australia",
+      "department": "Enterprise",
+      "offices": "New South Wales",
+      "updated_at": "2026-04-24T01:44:53-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5069727008"
+    },
+    {
+      "id": "5155778008",
+      "title": "Senior Account Executive, Enterprise Sales(Expansion)",
+      "location": "Bangalore, India",
+      "department": "Enterprise",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-27T02:11:37-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5155778008"
+    },
+    {
+      "id": "5155772008",
+      "title": "Senior Account Executive - Enterprise Sales - GCC",
+      "location": "Mumbai, India",
+      "department": "Enterprise",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-15T22:16:51-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5155772008"
+    },
+    {
+      "id": "5178514008",
+      "title": "Senior Account Executive - Enterprise Sales(GCC)",
+      "location": "Bangalore, India; Mumbai, India; Pune, India",
+      "department": "Enterprise",
+      "offices": "India",
+      "updated_at": "2026-04-27T01:14:31-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5178514008"
+    },
+    {
+      "id": "5183905008",
+      "title": "Senior Account Executive - Enterprise Sales (Japan)",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise",
+      "offices": "Japan",
+      "updated_at": "2026-04-24T09:09:38-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5183905008"
+    },
+    {
+      "id": "5183917008",
+      "title": "Senior Account Executive - Enterprise Sales (Japan)",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise",
+      "offices": "Japan",
+      "updated_at": "2026-04-24T08:58:29-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5183917008"
+    },
+    {
+      "id": "5183911008",
+      "title": "Senior Account Executive - Enterprise Sales (Japan)",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise",
+      "offices": "Japan",
+      "updated_at": "2026-04-24T09:02:17-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5183911008"
+    },
+    {
+      "id": "5183908008",
+      "title": "Senior Account Executive - Enterprise Sales (Japan)",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise",
+      "offices": "Japan",
+      "updated_at": "2026-04-24T09:10:11-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5183908008"
+    },
+    {
+      "id": "5159066008",
+      "title": "Senior Account Executive - Enterprise Sales - New Business ",
+      "location": "London, United Kingdom",
+      "department": "Enterprise",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-24T07:18:57-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5159066008"
+    },
+    {
+      "id": "5019243008",
+      "title": "Senior Account Executive, Expansion - Enterprise Sales - Germany ",
+      "location": "Berlin, Germany; Munich, Germany",
+      "department": "Enterprise",
+      "offices": "Germany",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5019243008"
+    },
+    {
+      "id": "5157203008",
+      "title": "Senior Account Executive (m/w/d) – Enterprise & Strategic Accounts",
+      "location": "Berlin, Germany; Munich, Germany",
+      "department": "Enterprise",
+      "offices": "Germany",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5157203008"
+    },
+    {
+      "id": "5175103008",
+      "title": "Senior Account Executive - Public Sector (Federal)",
+      "location": "Arlington, Virginia, USA; Silver Spring, Maryland, USA; Washington, District of Columbia, USA",
+      "department": "Enterprise",
+      "offices": "Virginia",
+      "updated_at": "2026-04-15T16:42:27-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5175103008"
+    },
+    {
+      "id": "5159326008",
+      "title": "Senior Account Executive - Public Sector (SLED East)",
+      "location": "Arlington, Virginia, USA; Baltimore, Maryland, USA; Washington, District of Columbia, USA",
+      "department": "Enterprise",
+      "offices": "New York",
+      "updated_at": "2026-04-21T12:46:46-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5159326008"
+    },
+    {
+      "id": "5181863008",
+      "title": "Senior Billing Analyst",
+      "location": "Bangalore, India",
+      "department": "Finance",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5181863008"
+    },
+    {
+      "id": "5168471008",
+      "title": "Senior Business Value Engineer - EMEA",
+      "location": "Dublin, Ireland; London, United Kingdom",
+      "department": "Customer Solutions Hub",
+      "offices": "United Kingdom",
+      "updated_at": "2026-04-23T05:23:44-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5168471008"
+    },
+    {
+      "id": "5153292008",
+      "title": "Senior Growth Web Engineer ",
+      "location": "Arlington, Virginia, USA; Atlanta, Georgia, USA; Austin, Texas, USA; Chicago, Illinois, USA; Hartford, Connecticut, USA; Jersey City, New Jersey, USA; Raleigh, North Carolina, USA",
+      "department": "Marketing",
+      "offices": "New York",
+      "updated_at": "2026-04-17T12:55:52-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5153292008"
+    },
+    {
+      "id": "5178540008",
+      "title": "Senior GTM Recruiter ",
+      "location": "Hyderabad, India",
+      "department": "Talent Acquisition",
+      "offices": "Hyderabad",
+      "updated_at": "2026-04-20T03:27:51-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5178540008"
+    },
+    {
+      "id": "5174353008",
+      "title": "Senior Manager, Equity",
+      "location": "Los Angeles, California, USA; Portland, Oregon, USA; San Francisco, California, USA; Seattle, Washington, USA",
+      "department": "Finance",
+      "offices": "California",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5174353008"
+    },
+    {
+      "id": "4987225008",
+      "title": "Senior Product Analyst - Data Governance",
+      "location": "Bangalore, India",
+      "department": "Data Analytics",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/4987225008"
+    },
+    {
+      "id": "4944794008",
+      "title": "Senior Product Manager - R115",
+      "location": "Hyderabad, India",
+      "department": "Data, Identity & API Platform",
+      "offices": "Hyderabad",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/4944794008"
+    },
+    {
+      "id": "5116768008",
+      "title": "Senior Software Engineer - GoLang & Kubernetes Orchestration - (R0000335) Bangalore",
+      "location": "Bangalore, India",
+      "department": "Telemetry Data Platform",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-17T05:50:41-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5116768008"
+    },
+    {
+      "id": "5172404008",
+      "title": "Senior Solution Consultant",
+      "location": "Melbourne, Australia",
+      "department": "Technical Solution Sales",
+      "offices": "Victoria",
+      "updated_at": "2026-04-27T02:11:54-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5172404008"
+    },
+    {
+      "id": "5148555008",
+      "title": "Senior Technical Success Manager",
+      "location": "Seoul, Korea",
+      "department": "Technical Solution Sales",
+      "offices": "Korea, Republic of",
+      "updated_at": "2026-04-16T08:18:03-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5148555008"
+    },
+    {
+      "id": "5172407008",
+      "title": "Software Engineer 1",
+      "location": "Hyderabad, India",
+      "department": "AIOps",
+      "offices": "Hyderabad",
+      "updated_at": "2026-04-27T03:16:35-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5172407008"
+    },
+    {
+      "id": "5195950008",
+      "title": "Solutions Consultant II",
+      "location": "Boston, Massachusetts, USA; Concord, New Hampshire, USA; Hartford, Connecticut, USA; Montpelier, Vermont, USA; New York City, New York, USA; Newark, New Jersey, USA; Philadelphia, Pennsylvania, USA; Portland, Maine, USA; Providence, Rhode Island, USA",
+      "department": "Technical Solution Sales",
+      "offices": "Georgia",
+      "updated_at": "2026-04-27T13:39:35-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5195950008"
+    },
+    {
+      "id": "5126716008",
+      "title": "Solutions Consultant II",
+      "location": "Tokyo, Japan",
+      "department": "Technical Solution Sales",
+      "offices": "Japan",
+      "updated_at": "2026-04-16T08:17:57-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5126716008"
+    },
+    {
+      "id": "5200609008",
+      "title": "Solutions Consultant II (West)",
+      "location": "Boise, Idaho, USA; Denver, Colorado, USA; Jackson, Wyoming, USA; Las Vegas, Nevada, USA; Los Angeles, California, USA; Phoenix, Arizona, USA; Salt Lake City, Utah, USA; San Francisco, California, USA; Seattle, Washington, USA",
+      "department": "Technical Solution Sales",
+      "offices": "California",
+      "updated_at": "2026-04-27T13:42:45-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5200609008"
+    },
+    {
+      "id": "5149962008",
+      "title": "Solutions consultant - Pre sales ",
+      "location": "Melbourne, Australia",
+      "department": "Technical Solution Sales",
+      "offices": "Victoria",
+      "updated_at": "2026-04-27T02:12:06-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5149962008"
+    },
+    {
+      "id": "5173271008",
+      "title": "Technical Marketing Manager",
+      "location": "Atlanta, Georgia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Kansas City, Missouri, USA; Las Vegas, Nevada, USA; Los Angeles, California, USA; Orlando, Florida, USA; Phoenix, Arizona, USA; Pittsburgh, Pennsylvania, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; San Francisco, California, USA; St. Louis, Missouri, USA",
+      "department": "Product Marketing",
+      "offices": "Georgia",
+      "updated_at": "2026-04-14T19:09:39-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5173271008"
+    },
+    {
+      "id": "5161938008",
+      "title": "Technical Success Manager I",
+      "location": "Dublin, Ireland",
+      "department": "Technical Solution Sales",
+      "offices": "Ireland",
+      "updated_at": "2026-04-13T11:25:59-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5161938008"
+    },
+    {
+      "id": "5197709008",
+      "title": "Technical Support Engineer",
+      "location": "Dublin, Ireland",
+      "department": "Global Technical Support",
+      "offices": "Ireland",
+      "updated_at": "2026-04-27T06:24:57-04:00",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5197709008"
+    }
+  ]
+}

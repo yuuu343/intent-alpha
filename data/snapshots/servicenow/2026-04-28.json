@@ -1,0 +1,4201 @@
+{
+  "company": "servicenow",
+  "ats": "smartrecruiters",
+  "atsIdentifier": "servicenow",
+  "fetchedAt": "2026-04-28T04:59:15.567Z",
+  "count": 524,
+  "jobs": [
+    {
+      "id": "744000123321759",
+      "title": "Solution Architect",
+      "location": "Tokyo, jp",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-28T00:56:13.709Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123321759"
+    },
+    {
+      "id": "744000123318860",
+      "title": "Sr Staff Site Reliability Engineer - Veza ",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-28T00:05:56.855Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123318860"
+    },
+    {
+      "id": "744000123317009",
+      "title": "Senior Principal Solution Architect, Platform Expert Services",
+      "location": "Addison, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-27T23:26:21.112Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123317009"
+    },
+    {
+      "id": "744000123312447",
+      "title": "Sr System Engineer - Access review- Veza",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-27T22:34:42.748Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123312447"
+    },
+    {
+      "id": "744000123283770",
+      "title": "Senior Technical Consultant, Data & Integrations, Platform Products Expert Implementation ServicesSr",
+      "location": "West Palm Beach, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-27T19:45:43.538Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123283770"
+    },
+    {
+      "id": "744000123282135",
+      "title": "Manager, Strategic Customer Success - Moveworks",
+      "location": "Santa Clara, us",
+      "department": null,
+      "updated_at": "2026-04-27T19:34:16.137Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123282135"
+    },
+    {
+      "id": "744000123281859",
+      "title": "Software Engineer - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-27T19:28:33.750Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123281859"
+    },
+    {
+      "id": "744000123272157",
+      "title": "Principal Inbound Product Manager, Agentic Platform - MoveWorks",
+      "location": "Mountain View, us",
+      "department": "Product",
+      "updated_at": "2026-04-27T18:28:31.921Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123272157"
+    },
+    {
+      "id": "744000123268654",
+      "title": "Senior Staff Machine Learning Engineer, GAI Search Platform - Moveworks",
+      "location": "Mountain View, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-27T18:01:12.519Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123268654"
+    },
+    {
+      "id": "744000123253785",
+      "title": "Director, Alliance & Partner Sales",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-27T16:30:18.334Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123253785"
+    },
+    {
+      "id": "744000123252060",
+      "title": "Senior Technical Program Manager - Veza",
+      "location": "Kansas City, us",
+      "department": "Professional Services",
+      "updated_at": "2026-04-27T16:21:03.740Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123252060"
+    },
+    {
+      "id": "744000123239268",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "location": "West Palm Beach, us",
+      "department": null,
+      "updated_at": "2026-04-27T15:26:39.803Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123239268"
+    },
+    {
+      "id": "744000123237356",
+      "title": " Senior Manager, Expert Services",
+      "location": "Denver, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-27T15:24:57.813Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123237356"
+    },
+    {
+      "id": "744000123238379",
+      "title": " Senior Manager, Expert Services",
+      "location": "Phoenix, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-27T15:23:33.856Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123238379"
+    },
+    {
+      "id": "744000123212675",
+      "title": "Principal Platform Architect",
+      "location": "Staines, gb",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-27T13:45:54.026Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123212675"
+    },
+    {
+      "id": "744000123199480",
+      "title": "Principal Customer Success Executive",
+      "location": "Montreal, ca",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-27T13:05:17.208Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123199480"
+    },
+    {
+      "id": "744000123163069",
+      "title": "Sales Development Representative - Native/Fluent Dutch Speaking",
+      "location": "Dublin, ie",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-27T09:58:58.819Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123163069"
+    },
+    {
+      "id": "744000123135949",
+      "title": "Inside Solution Consultant - German Speaking",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-27T07:58:14.294Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123135949"
+    },
+    {
+      "id": "744000123129483",
+      "title": "Advisory Solution Consultant - Data & Analytics",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-04-27T07:29:47.000Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123129483"
+    },
+    {
+      "id": "744000123121489",
+      "title": "Sr Dir, Global Partnerships and Channels, Asia",
+      "location": "Singapore, sg",
+      "department": null,
+      "updated_at": "2026-04-27T06:32:21.947Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000123121489"
+    },
+    {
+      "id": "744000122583603",
+      "title": "Sr Enterprise Account Executive, Philippines",
+      "location": "Singapore, sg",
+      "department": "Sales",
+      "updated_at": "2026-04-24T01:47:40.637Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122583603"
+    },
+    {
+      "id": "744000122551449",
+      "title": "Principal Engagement Manager ",
+      "location": "Dallas, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-23T21:51:47.201Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122551449"
+    },
+    {
+      "id": "744000122549329",
+      "title": "Dir, Management Consulting",
+      "location": "Addison, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-23T21:22:36.822Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122549329"
+    },
+    {
+      "id": "744000122521249",
+      "title": "Staff Inbound Product Manager- SAM (Software Asset Management)",
+      "location": "Santa Clara, us",
+      "department": "Product",
+      "updated_at": "2026-04-23T18:16:45.859Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122521249"
+    },
+    {
+      "id": "744000122517499",
+      "title": "Senior CRM Account Executive - State of California",
+      "location": "Sacramento, us",
+      "department": "Sales",
+      "updated_at": "2026-04-23T17:48:45.093Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122517499"
+    },
+    {
+      "id": "744000122493396",
+      "title": "People Operations Specialist",
+      "location": "West Palm Beach, us",
+      "department": "Human Resources",
+      "updated_at": "2026-04-23T15:44:58.600Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122493396"
+    },
+    {
+      "id": "744000122491422",
+      "title": "Commercial Account Executive - MN ",
+      "location": "Minneapolis, us",
+      "department": "Sales",
+      "updated_at": "2026-04-23T15:23:25.419Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122491422"
+    },
+    {
+      "id": "744000122477061",
+      "title": "Director, Global Business Acceleration",
+      "location": "Singapore, sg",
+      "department": "Sales",
+      "updated_at": "2026-04-23T14:23:57.554Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122477061"
+    },
+    {
+      "id": "744000122461739",
+      "title": "Principal Customer Success Executive",
+      "location": "Addison, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-23T13:30:25.503Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122461739"
+    },
+    {
+      "id": "744000122454832",
+      "title": "Associate New Logo Account Executive",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-04-23T13:08:50.255Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122454832"
+    },
+    {
+      "id": "744000122455929",
+      "title": "Senior Solution Sales Executive - Public Sector - Moveworks",
+      "location": "London, gb",
+      "department": null,
+      "updated_at": "2026-04-23T13:07:27.177Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122455929"
+    },
+    {
+      "id": "744000122410777",
+      "title": "Senior Treasury Analyst – Treasury Transformation & AI Innovation",
+      "location": "Dublin, ie",
+      "department": "Finance & Accounting",
+      "updated_at": "2026-04-23T09:20:22.015Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122410777"
+    },
+    {
+      "id": "744000122407539",
+      "title": "Advisory Presales Solution Consultant - GRC & SecOps",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-04-23T08:48:48.393Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122407539"
+    },
+    {
+      "id": "744000122402900",
+      "title": "Business Development Manager  - Security & Risk | Partner Channels",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-04-23T08:35:12.419Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122402900"
+    },
+    {
+      "id": "744000122381681",
+      "title": "Enterprise Account Executive - Utility & Retail ",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-04-23T06:11:59.416Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122381681"
+    },
+    {
+      "id": "744000122380869",
+      "title": "Senior Solution Sales Executive - CRM & Industry Workflows",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-04-23T06:01:26.271Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122380869"
+    },
+    {
+      "id": "744000122380530",
+      "title": "Senior Solution Sales Executive - CRM & Industry Workflows",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-04-23T05:59:56.629Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122380530"
+    },
+    {
+      "id": "744000122380729",
+      "title": "Partner Account Manager",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-04-23T05:58:56.699Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122380729"
+    },
+    {
+      "id": "744000122380159",
+      "title": "Field Marketing Manager",
+      "location": "Tokyo, jp",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-23T05:51:24.058Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122380159"
+    },
+    {
+      "id": "744000122378817",
+      "title": "Field Marketing Manager",
+      "location": "Tokyo, jp",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-23T05:49:37.222Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122378817"
+    },
+    {
+      "id": "744000122378409",
+      "title": "Staff Software Engineer - Microservices",
+      "location": "Hyderabad, in",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-23T05:30:16.528Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122378409"
+    },
+    {
+      "id": "744000122373980",
+      "title": "Business Development Representative",
+      "location": "Sydney, au",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-23T03:48:52.487Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122373980"
+    },
+    {
+      "id": "744000122346079",
+      "title": "Senior Machine Learning Engineer, Search Platform - Moveworks",
+      "location": "Mountain View, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-22T22:05:07.069Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122346079"
+    },
+    {
+      "id": "744000122346009",
+      "title": "Senior AI Agent Engineer – Moveworks | Customer Deployment (Federal) ",
+      "location": "New York, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-04-22T22:04:08.448Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122346009"
+    },
+    {
+      "id": "744000122345597",
+      "title": "Staff AI Agent Engineer – Moveworks | Customer Deployment",
+      "location": "New York, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-04-22T22:01:21.384Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122345597"
+    },
+    {
+      "id": "744000122345610",
+      "title": "Senior Machine Learning Engineer, GAI Search Relevance - Moveworks",
+      "location": "Mountain View, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-22T22:01:16.783Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122345610"
+    },
+    {
+      "id": "744000122345479",
+      "title": "Staff AI Agent Engineer – Moveworks | Customer Deployment",
+      "location": "Albany, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-04-22T21:59:49.959Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122345479"
+    },
+    {
+      "id": "744000122332164",
+      "title": "Principal Platform Architect - Financial Market and Insurance",
+      "location": "San Diego, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-22T20:06:36.611Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122332164"
+    },
+    {
+      "id": "744000122326699",
+      "title": "Sr. Business Process Consultant",
+      "location": "Atlanta, us",
+      "department": null,
+      "updated_at": "2026-04-22T19:17:30.704Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122326699"
+    },
+    {
+      "id": "744000122325422",
+      "title": "Sr. Business Process Consultant",
+      "location": "Addison, us",
+      "department": null,
+      "updated_at": "2026-04-22T19:15:09.212Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122325422"
+    },
+    {
+      "id": "744000122323549",
+      "title": "Product Success Technical Director-CRM",
+      "location": "Orlando, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-04-22T18:57:06.337Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122323549"
+    },
+    {
+      "id": "744000122323259",
+      "title": "Product Success Technical Director-CRM",
+      "location": "Atlanta, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-04-22T18:56:02.263Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122323259"
+    },
+    {
+      "id": "744000122321590",
+      "title": "Product Success Technical Director-CRM",
+      "location": "Waltham, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-04-22T18:47:42.440Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122321590"
+    },
+    {
+      "id": "744000122310689",
+      "title": "Senior Data Scientist - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-22T17:26:03.418Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122310689"
+    },
+    {
+      "id": "744000122308049",
+      "title": "Sr Staff Outbound Product Manager - AI Assistant",
+      "location": "Mountain View, us",
+      "department": "Product",
+      "updated_at": "2026-04-22T17:10:54.444Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122308049"
+    },
+    {
+      "id": "744000122306239",
+      "title": " Dir, Software Engineering Management, Platform - Veza ",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-22T17:01:17.882Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122306239"
+    },
+    {
+      "id": "744000122297039",
+      "title": "Mid-Market Account Executive - Fluent Spanish Speaker",
+      "location": "Dublin, ie",
+      "department": "Sales",
+      "updated_at": "2026-04-22T16:17:15.802Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122297039"
+    },
+    {
+      "id": "744000122296850",
+      "title": "Sr Enterprise Account Executive - HDFC",
+      "location": "Mumbai, in",
+      "department": "Sales",
+      "updated_at": "2026-04-22T16:17:15.209Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122296850"
+    },
+    {
+      "id": "744000122288554",
+      "title": "Associate Solution Consultant - Talent Community",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-04-22T15:40:29.602Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122288554"
+    },
+    {
+      "id": "744000122286883",
+      "title": "Solution Consultant - Talent Community",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-04-22T15:39:20.683Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122286883"
+    },
+    {
+      "id": "744000122280092",
+      "title": "EMEA, Business Strategy Director",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-04-22T15:18:19.416Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122280092"
+    },
+    {
+      "id": "744000122281190",
+      "title": "EMEA, Business Strategy Director",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-04-22T15:17:15.977Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122281190"
+    },
+    {
+      "id": "744000122268938",
+      "title": "Business Development Manager- Security & Risk / Partner Manager",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-22T13:56:45.420Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122268938"
+    },
+    {
+      "id": "744000122266712",
+      "title": "Business Development Manager - Security & Risk | Partner Channels",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-04-22T13:55:24.287Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122266712"
+    },
+    {
+      "id": "744000122269177",
+      "title": "Business Development Manager - Security & Risk | Partner Channels",
+      "location": "Amsterdam, nl",
+      "department": "Sales",
+      "updated_at": "2026-04-22T13:53:26.354Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122269177"
+    },
+    {
+      "id": "744000122264978",
+      "title": "Staff Devops Engineer - Moveworks",
+      "location": "Bangalore, in",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-22T13:30:58.728Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122264978"
+    },
+    {
+      "id": "744000122241448",
+      "title": "Senior Platform Architect",
+      "location": "Zurich, ch",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-22T12:10:22.628Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122241448"
+    },
+    {
+      "id": "744000122190778",
+      "title": "Principal AI Architect",
+      "location": "Staines, gb",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-22T08:13:04.073Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122190778"
+    },
+    {
+      "id": "744000122182904",
+      "title": "Sr Mid-Market Account Executive",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-04-22T07:40:30.417Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122182904"
+    },
+    {
+      "id": "744000122167367",
+      "title": "Senior Technical Support Engineer(Integration)",
+      "location": "Tokyo, jp",
+      "department": "Customer Service and Support",
+      "updated_at": "2026-04-22T05:00:51.756Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122167367"
+    },
+    {
+      "id": "744000122167277",
+      "title": "Staff Technical Support Engineer(Platform)",
+      "location": "Tokyo, jp",
+      "department": "Customer Service and Support",
+      "updated_at": "2026-04-22T04:59:34.127Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122167277"
+    },
+    {
+      "id": "744000122126027",
+      "title": "Area VP, Solution Consulting - Canada",
+      "location": "Toronto, ca",
+      "department": "Sales",
+      "updated_at": "2026-04-21T21:46:05.371Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122126027"
+    },
+    {
+      "id": "744000122110277",
+      "title": "Staff Machine Learning Engineer, Agentic AI Systems - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-21T20:01:12.083Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122110277"
+    },
+    {
+      "id": "744000122107869",
+      "title": "Manager, Strategy & Operations — Moveworks ",
+      "location": "Mountain View, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-21T19:50:53.385Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122107869"
+    },
+    {
+      "id": "744000122090573",
+      "title": "Senior Machine Learning Engineer, Agentic Systems - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-21T18:01:57.703Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122090573"
+    },
+    {
+      "id": "744000122087338",
+      "title": "Sr. Staff Information Architect, IA & Taxonomy Solutions ",
+      "location": "Kirkland, us",
+      "department": "User Experience Design",
+      "updated_at": "2026-04-21T17:38:25.702Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122087338"
+    },
+    {
+      "id": "744000122088497",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "location": "Chicago, us",
+      "department": null,
+      "updated_at": "2026-04-21T17:35:38.211Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122088497"
+    },
+    {
+      "id": "744000122087628",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "location": "San Diego, us",
+      "department": null,
+      "updated_at": "2026-04-21T17:34:38.176Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122087628"
+    },
+    {
+      "id": "744000122088095",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "location": "Atlanta, us",
+      "department": null,
+      "updated_at": "2026-04-21T17:33:06.339Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122088095"
+    },
+    {
+      "id": "744000122082883",
+      "title": "Manager, Customer Success Operations - Moveworks",
+      "location": "Mountain View, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-21T17:08:47.462Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122082883"
+    },
+    {
+      "id": "744000122080660",
+      "title": "Engineering Manager, Agentic Systems - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-21T16:50:06.510Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122080660"
+    },
+    {
+      "id": "744000122076598",
+      "title": "Forward Deployed Solution Engineer- Applied AI",
+      "location": "Santa Clara, us",
+      "department": "Product",
+      "updated_at": "2026-04-21T16:36:36.701Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122076598"
+    },
+    {
+      "id": "744000122078187",
+      "title": "ServiceNow Technical Consultant/Developer for Finance & Supply Chain Solution Implementations",
+      "location": "West Palm Beach, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-21T16:35:47.689Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122078187"
+    },
+    {
+      "id": "744000122078067",
+      "title": "Sr. Technical Consultant (Developer), ServiceNow Finance & Supply Chain (Source-to-Pay) and Contracting Operations Solutions",
+      "location": "Chicago, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-21T16:35:12.716Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122078067"
+    },
+    {
+      "id": "744000122077468",
+      "title": "Sr. Technical Consultant (Developer), ServiceNow Finance & Supply Chain (Source-to-Pay) and Contracting Operations Solutions",
+      "location": "San Diego, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-21T16:34:43.344Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122077468"
+    },
+    {
+      "id": "744000122077162",
+      "title": "Sr. Technical Consultant (Developer), ServiceNow Finance & Supply Chain (Source-to-Pay) and Contracting Operations Solutions",
+      "location": "Atlanta, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-21T16:33:57.501Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122077162"
+    },
+    {
+      "id": "744000122076747",
+      "title": "Solution Architect",
+      "location": "Atlanta, us",
+      "department": null,
+      "updated_at": "2026-04-21T16:28:49.879Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122076747"
+    },
+    {
+      "id": "744000122076337",
+      "title": "Solution Architect",
+      "location": "Orlando, us",
+      "department": null,
+      "updated_at": "2026-04-21T16:27:07.188Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122076337"
+    },
+    {
+      "id": "744000122075750",
+      "title": " Solution Architect",
+      "location": "Waltham, us",
+      "department": null,
+      "updated_at": "2026-04-21T16:25:58.628Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122075750"
+    },
+    {
+      "id": "744000122072010",
+      "title": "Solution Architect",
+      "location": "Addison, us",
+      "department": null,
+      "updated_at": "2026-04-21T16:18:37.861Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122072010"
+    },
+    {
+      "id": "744000122070067",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "location": "Addison, us",
+      "department": null,
+      "updated_at": "2026-04-21T15:52:26.239Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122070067"
+    },
+    {
+      "id": "744000122068727",
+      "title": "Risk Manager ",
+      "location": "Chicago, us",
+      "department": "Digital Technology",
+      "updated_at": "2026-04-21T15:45:58.454Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122068727"
+    },
+    {
+      "id": "744000122063246",
+      "title": "Solution Architect",
+      "location": "Addison, us",
+      "department": null,
+      "updated_at": "2026-04-21T15:27:45.922Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122063246"
+    },
+    {
+      "id": "744000122057117",
+      "title": "Sr. Technical Consultant (Developer), ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "location": "Addison, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-21T15:05:22.761Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122057117"
+    },
+    {
+      "id": "744000122054207",
+      "title": "Senior Advisory Solution Consultant - Moveworks ",
+      "location": "London, gb",
+      "department": null,
+      "updated_at": "2026-04-21T14:55:31.710Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122054207"
+    },
+    {
+      "id": "744000122043009",
+      "title": "People Operations Team Lead",
+      "location": "West Palm Beach, us",
+      "department": "Human Resources",
+      "updated_at": "2026-04-21T14:14:42.769Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122043009"
+    },
+    {
+      "id": "744000121979977",
+      "title": "Senior AI Agent Engineer – Moveworks | Customer Deployment",
+      "location": "London, gb",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-21T09:18:33.382Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121979977"
+    },
+    {
+      "id": "744000121979747",
+      "title": "Staff AI Agent Engineer – Moveworks | Customer Deployment",
+      "location": "London, gb",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-21T09:17:06.274Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121979747"
+    },
+    {
+      "id": "744000121955327",
+      "title": "Senior Solution Sales Executive",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-04-21T07:25:30.705Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121955327"
+    },
+    {
+      "id": "744000121937147",
+      "title": "Advisory Solution Architect",
+      "location": "Bangalore, in",
+      "department": "Sales",
+      "updated_at": "2026-04-21T04:39:49.813Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121937147"
+    },
+    {
+      "id": "744000121934868",
+      "title": "Senior Staff Software Engineer, UI Lead",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-21T03:47:46.543Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121934868"
+    },
+    {
+      "id": "744000121931612",
+      "title": "Enterprise Account Executive -Higher Education ",
+      "location": "Melbourne, au",
+      "department": "Sales",
+      "updated_at": "2026-04-21T02:37:59.819Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121931612"
+    },
+    {
+      "id": "744000121930687",
+      "title": "Platform Architect",
+      "location": "Tokyo, jp",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-21T02:22:36.092Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121930687"
+    },
+    {
+      "id": "744000121892077",
+      "title": "Sr Executive Assistant ",
+      "location": "Santa Clara, us",
+      "department": "Corporate Development & Strategy",
+      "updated_at": "2026-04-20T23:07:00.598Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121892077"
+    },
+    {
+      "id": "744000121888297",
+      "title": "Sales Enablement Specialist, Onboarding & Ramping - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-20T22:04:27.781Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121888297"
+    },
+    {
+      "id": "744000121884357",
+      "title": "Principal Product Designer, Moveworks",
+      "location": "Mountain View, us",
+      "department": "User Experience Design",
+      "updated_at": "2026-04-20T21:18:06.904Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121884357"
+    },
+    {
+      "id": "744000121856317",
+      "title": "Senior Solution Sales Executive (Risk/Security)",
+      "location": "Wien, at",
+      "department": null,
+      "updated_at": "2026-04-20T18:11:47.500Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121856317"
+    },
+    {
+      "id": "744000121844817",
+      "title": "Solution Consultant - Commercial",
+      "location": "Boston, us",
+      "department": "Sales",
+      "updated_at": "2026-04-20T17:13:07.108Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121844817"
+    },
+    {
+      "id": "744000121819280",
+      "title": "Sales Director",
+      "location": "Stockholm, se",
+      "department": "Sales",
+      "updated_at": "2026-04-20T15:34:00.061Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121819280"
+    },
+    {
+      "id": "744000121810284",
+      "title": " Sr. Delivery Acceleration AI Engineer",
+      "location": "Dallas, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-20T15:05:36.317Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121810284"
+    },
+    {
+      "id": "744000121785828",
+      "title": "Product Excellence, AI Architect",
+      "location": "Frankfurt, de",
+      "department": "Customer Excellence HQ",
+      "updated_at": "2026-04-20T13:48:52.528Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121785828"
+    },
+    {
+      "id": "744000121777704",
+      "title": "EMEA North Senior Partner Manger, Indian GSI's ",
+      "location": "Amsterdam, nl",
+      "department": "Sales",
+      "updated_at": "2026-04-20T13:23:54.242Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121777704"
+    },
+    {
+      "id": "744000121772828",
+      "title": "Sr Enterprise Account Executive - Telecom",
+      "location": "Toronto, ca",
+      "department": "Sales",
+      "updated_at": "2026-04-20T13:16:15.404Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121772828"
+    },
+    {
+      "id": "744000121747747",
+      "title": "Senior Solution Sales Executive (Risk/Security)",
+      "location": "Frankfurt, de",
+      "department": null,
+      "updated_at": "2026-04-20T11:20:41.768Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121747747"
+    },
+    {
+      "id": "744000121476276",
+      "title": "Implementation Manager - Moveworks",
+      "location": "San Francisco, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-17T16:23:47.404Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121476276"
+    },
+    {
+      "id": "744000121467690",
+      "title": " Senior Manager, Expert Services",
+      "location": "Austin, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-17T15:52:27.656Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121467690"
+    },
+    {
+      "id": "744000121468158",
+      "title": "Head of Event Security",
+      "location": "Santa Clara, us",
+      "department": "Global Safety and Security",
+      "updated_at": "2026-04-17T15:45:18.137Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121468158"
+    },
+    {
+      "id": "744000121454857",
+      "title": "Sales Compensation Business Partner - Director",
+      "location": "Chicago, us",
+      "department": "Human Resources",
+      "updated_at": "2026-04-17T14:54:32.946Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121454857"
+    },
+    {
+      "id": "744000121450068",
+      "title": "Sales Compensation Business Partner - Director",
+      "location": "Waltham, us",
+      "department": "Human Resources",
+      "updated_at": "2026-04-17T14:53:16.961Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121450068"
+    },
+    {
+      "id": "744000121453076",
+      "title": "Sales Compensation Business Partner - Director",
+      "location": "West Palm Beach, us",
+      "department": "Human Resources",
+      "updated_at": "2026-04-17T14:50:06.189Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121453076"
+    },
+    {
+      "id": "744000121407747",
+      "title": "Director of AMS People Enablement Center (PEC)",
+      "location": "West Palm Beach, us",
+      "department": "Human Resources",
+      "updated_at": "2026-04-17T11:52:40.257Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121407747"
+    },
+    {
+      "id": "744000121355567",
+      "title": "Senior Industry Marketing Manager – TMT (Telecom, Media & Technology) ",
+      "location": "Bangalore, in",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-17T07:27:24.356Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121355567"
+    },
+    {
+      "id": "744000121343818",
+      "title": "Sr Advisory Solution Consultant",
+      "location": "Bangalore, in",
+      "department": "Professional Services",
+      "updated_at": "2026-04-17T05:29:38.568Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121343818"
+    },
+    {
+      "id": "744000121303007",
+      "title": "Sales Compensation Business Partner - Director",
+      "location": "San Diego, us",
+      "department": "Human Resources",
+      "updated_at": "2026-04-16T22:32:51.785Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121303007"
+    },
+    {
+      "id": "744000121298267",
+      "title": "Sr Technology Consultant - Veza",
+      "location": "Waltham, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-04-16T21:22:20.316Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121298267"
+    },
+    {
+      "id": "744000121297013",
+      "title": "Sr Technology Consultant - veza",
+      "location": "Washington, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-04-16T21:19:34.437Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121297013"
+    },
+    {
+      "id": "744000121283305",
+      "title": "Principal Machine Learning Engineer - VoIP Infrastructure",
+      "location": "Chicago, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-16T19:57:31.539Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121283305"
+    },
+    {
+      "id": "744000121284422",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "location": "Chicago, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-16T19:53:09.253Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121284422"
+    },
+    {
+      "id": "744000121285417",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "location": "Atlanta, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-16T19:49:50.307Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121285417"
+    },
+    {
+      "id": "744000121284977",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-16T19:48:05.646Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121284977"
+    },
+    {
+      "id": "744000121283323",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "location": "Kirkland, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-16T19:45:13.953Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121283323"
+    },
+    {
+      "id": "744000121282977",
+      "title": "Delivery Director, Strat Tech, TMT, SI Delivery",
+      "location": "Dallas, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-16T19:36:47.131Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121282977"
+    },
+    {
+      "id": "744000121254988",
+      "title": "Customer Success Executive",
+      "location": "Addison, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-16T16:51:58.272Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121254988"
+    },
+    {
+      "id": "744000121220256",
+      "title": "New Logo Account Executive ",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-04-16T14:16:47.490Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121220256"
+    },
+    {
+      "id": "744000121202177",
+      "title": "Partner Business Development Manager, CRM, EMEA North",
+      "location": "Amsterdam, nl",
+      "department": "Sales",
+      "updated_at": "2026-04-16T13:13:57.076Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121202177"
+    },
+    {
+      "id": "744000121186364",
+      "title": "Sales Director, Defence and National Security",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-04-16T12:15:48.105Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121186364"
+    },
+    {
+      "id": "744000121157137",
+      "title": "Advisory Solution Consultant Automotive - German speaking (Munich or Frankfurt)",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-16T09:56:57.149Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121157137"
+    },
+    {
+      "id": "744000121063127",
+      "title": "Sr. Manager, Global Sourcing Professional Services",
+      "location": "West Palm Beach , us",
+      "department": "Finance & Accounting",
+      "updated_at": "2026-04-15T22:20:01.613Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121063127"
+    },
+    {
+      "id": "744000121032407",
+      "title": " Staff Data Platform Software Engineer, Graph — Veza",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-15T18:02:35.001Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121032407"
+    },
+    {
+      "id": "744000121021627",
+      "title": "Senior Staff Software Engineer, Performance (Tech Lead) — Veza",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-15T16:48:42.180Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121021627"
+    },
+    {
+      "id": "744000121020468",
+      "title": " Staff Data Platform Software Engineer, Graph — Veza",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-15T16:42:42.695Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121020468"
+    },
+    {
+      "id": "744000121020137",
+      "title": "Senior Staff Software Engineer, Integrations (Tech Lead) — Veza",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-15T16:39:20.843Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121020137"
+    },
+    {
+      "id": "744000121019617",
+      "title": "Sr Enterprise Account Executive - Aerospace and Defense ",
+      "location": "Vienna, us",
+      "department": "Sales",
+      "updated_at": "2026-04-15T16:36:09.021Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121019617"
+    },
+    {
+      "id": "744000121007717",
+      "title": "Senior Staff Software Engineer, Automation (Tech Lead) — Veza",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-15T15:42:59.396Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121007717"
+    },
+    {
+      "id": "744000120949638",
+      "title": "Executive Advisor - Global Business Services (GBS)",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-04-15T12:42:51.138Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120949638"
+    },
+    {
+      "id": "744000120948229",
+      "title": "Executive Advisor - Global Business Services (GBS) ",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-15T12:42:26.770Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120948229"
+    },
+    {
+      "id": "744000120949278",
+      "title": "Executive Advisor - Global Business Services (GBS) ",
+      "location": "Amsterdam, nl",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-15T12:42:00.405Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120949278"
+    },
+    {
+      "id": "744000120907722",
+      "title": "Partner Manager",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-15T09:56:25.419Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120907722"
+    },
+    {
+      "id": "744000120908597",
+      "title": "Partner Manager",
+      "location": "Frankfurt, de",
+      "department": "Sales",
+      "updated_at": "2026-04-15T09:51:58.037Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120908597"
+    },
+    {
+      "id": "744000120891487",
+      "title": "Sr Enterprise Account Executive",
+      "location": "Johannesburg, za",
+      "department": "Sales",
+      "updated_at": "2026-04-15T08:30:41.562Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120891487"
+    },
+    {
+      "id": "744000120865737",
+      "title": "Senior Staff Systems Engineer",
+      "location": "Hyderabad, in",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-15T05:25:55.796Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120865737"
+    },
+    {
+      "id": "744000120859787",
+      "title": "Senior Director, Area Vertical Lead Customer Engagement Group",
+      "location": "Chicago, us",
+      "department": null,
+      "updated_at": "2026-04-15T03:38:01.330Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120859787"
+    },
+    {
+      "id": "744000120838867",
+      "title": "Principal Full-Stack Engineer, Experience Team",
+      "location": "Minneapolis, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-15T01:15:39.575Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120838867"
+    },
+    {
+      "id": "744000120832637",
+      "title": "GSI Partner Manager - Moveworks",
+      "location": "Santa Clara, us",
+      "department": null,
+      "updated_at": "2026-04-15T00:20:17.895Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120832637"
+    },
+    {
+      "id": "744000120810167",
+      "title": "Sr Solution Consultant - CRM",
+      "location": "Chicago, us",
+      "department": "Sales",
+      "updated_at": "2026-04-14T21:18:34.987Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120810167"
+    },
+    {
+      "id": "744000120808967",
+      "title": "Senior Data and Analytics Solution Sales Executive - Commercial US West",
+      "location": "San Diego, us",
+      "department": "Sales",
+      "updated_at": "2026-04-14T21:11:53.525Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120808967"
+    },
+    {
+      "id": "744000120805077",
+      "title": "Senior Solution Sales Executive - Moveworks",
+      "location": "Dubai, ae",
+      "department": "Sales",
+      "updated_at": "2026-04-14T20:31:30.601Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120805077"
+    },
+    {
+      "id": "744000120776287",
+      "title": "Senior AI Implementation Engineer - Moveworks",
+      "location": "San Francisco , us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-04-14T17:18:37.728Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120776287"
+    },
+    {
+      "id": "744000120772027",
+      "title": "Senior Director, Experience Team Strategic Operations ",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-14T16:52:44.135Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120772027"
+    },
+    {
+      "id": "744000120761972",
+      "title": "Senior Director, Data & Analytics WF Strategic Operations",
+      "location": "Santa Clara, us",
+      "department": "Corporate Development & Strategy",
+      "updated_at": "2026-04-14T15:58:50.975Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120761972"
+    },
+    {
+      "id": "744000120761389",
+      "title": "Enterprise Account Executive - Manufacturing - IL",
+      "location": "Chicago, us",
+      "department": "Sales",
+      "updated_at": "2026-04-14T15:57:47.513Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120761389"
+    },
+    {
+      "id": "744000120651047",
+      "title": "Program Manager - Professional Services - German Speaking",
+      "location": "Glattbrugg, ch",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-14T09:36:20.685Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120651047"
+    },
+    {
+      "id": "744000120647253",
+      "title": "Program Manager - Professional Services - German Speaking",
+      "location": "Frankfurt, de",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-14T09:35:07.796Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120647253"
+    },
+    {
+      "id": "744000120628337",
+      "title": "AVP, EMEA North, Customer Excellence Group ",
+      "location": "Amsterdam, nl",
+      "department": null,
+      "updated_at": "2026-04-14T08:11:43.846Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120628337"
+    },
+    {
+      "id": "744000120600868",
+      "title": "Director, Customer Outcomes GTM",
+      "location": "Gurgaon, in",
+      "department": "Customer Excellence Geo HQ",
+      "updated_at": "2026-04-14T05:44:27.055Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120600868"
+    },
+    {
+      "id": "744000120558817",
+      "title": "Technical Support Engineer",
+      "location": "Chiyoda City, jp",
+      "department": "Customer Service and Support",
+      "updated_at": "2026-04-14T00:22:51.994Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120558817"
+    },
+    {
+      "id": "744000120515947",
+      "title": "Principal  Product Success Manager",
+      "location": "Santa Clara, us",
+      "department": "Product",
+      "updated_at": "2026-04-13T17:46:33.696Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120515947"
+    },
+    {
+      "id": "744000120511902",
+      "title": "Sr Enterprise Account Executive - Manufacturing",
+      "location": "Atlanta, us",
+      "department": "Sales",
+      "updated_at": "2026-04-13T17:26:59.299Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120511902"
+    },
+    {
+      "id": "744000120511897",
+      "title": "Associate New Logo Account Executive",
+      "location": "Atlanta, us",
+      "department": "Sales",
+      "updated_at": "2026-04-13T17:26:27.914Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120511897"
+    },
+    {
+      "id": "744000120500267",
+      "title": "Senior Solution Sales Executive (Risk/Security)",
+      "location": "Frankfurt, de",
+      "department": null,
+      "updated_at": "2026-04-13T16:21:02.596Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120500267"
+    },
+    {
+      "id": "744000120452005",
+      "title": "Enterprise Account Exec - Healthcare ",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-04-13T13:36:09.101Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120452005"
+    },
+    {
+      "id": "744000120366214",
+      "title": "Sr Solution Consultant",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-13T10:21:14.672Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120366214"
+    },
+    {
+      "id": "744000120361937",
+      "title": "Partner Business Development Manager, CRM, EMEA North",
+      "location": "Soborg, dk",
+      "department": "Sales",
+      "updated_at": "2026-04-13T09:49:12.169Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120361937"
+    },
+    {
+      "id": "744000120356792",
+      "title": "Senior Enterprise Account Executive, Bundesländer West",
+      "location": "Düsseldorf , de",
+      "department": "Sales",
+      "updated_at": "2026-04-13T09:25:30.578Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120356792"
+    },
+    {
+      "id": "744000120356466",
+      "title": "Senior Enterprise Account Executive, Bundesländer Ost",
+      "location": "Düsseldorf, de",
+      "department": "Sales",
+      "updated_at": "2026-04-13T09:22:53.619Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120356466"
+    },
+    {
+      "id": "744000120355377",
+      "title": "Senior Enterprise Account Executive, Deutsche Rentenversicherung & DGUV",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-13T09:18:53.652Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120355377"
+    },
+    {
+      "id": "744000120353495",
+      "title": "Senior Enterprise Account Executive, Transport & Mobility (KRITIS District)",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-13T09:16:38.050Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120353495"
+    },
+    {
+      "id": "744000120303177",
+      "title": "Director, Partner Solution Consulting - APAC",
+      "location": "Singapore, sg",
+      "department": "Sales",
+      "updated_at": "2026-04-13T03:04:12.120Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120303177"
+    },
+    {
+      "id": "744000120271507",
+      "title": "Enterprise Account Executive",
+      "location": "Rome, it",
+      "department": "Sales",
+      "updated_at": "2026-04-12T20:21:47.548Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120271507"
+    },
+    {
+      "id": "744000120270187",
+      "title": "Global Account Director Automotive",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-04-12T19:04:58.164Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120270187"
+    },
+    {
+      "id": "744000120021257",
+      "title": "Advisory Solution Consultant",
+      "location": "Boston, us",
+      "department": "Sales",
+      "updated_at": "2026-04-10T16:54:05.769Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120021257"
+    },
+    {
+      "id": "744000120008337",
+      "title": "Senior Staff Software Engineer, UI Lead",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-10T15:49:14.086Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120008337"
+    },
+    {
+      "id": "744000120001367",
+      "title": "Partner Technology Strategist",
+      "location": "Austin, us",
+      "department": "Sales",
+      "updated_at": "2026-04-10T15:21:11.987Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120001367"
+    },
+    {
+      "id": "744000119903837",
+      "title": "Senior Commercial Growth AE ",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-04-10T08:37:57.235Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119903837"
+    },
+    {
+      "id": "744000119704097",
+      "title": "Director, Commercial Sales",
+      "location": "Chicago, us",
+      "department": "Sales",
+      "updated_at": "2026-04-09T21:31:32.564Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119704097"
+    },
+    {
+      "id": "744000119692106",
+      "title": "Sr. Specialist, Privacy & Compliance- Martech",
+      "location": "Addison, us",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-09T20:00:22.370Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119692106"
+    },
+    {
+      "id": "744000119685357",
+      "title": "Principal Software Engineer - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-09T19:07:50.225Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119685357"
+    },
+    {
+      "id": "744000119654537",
+      "title": "Senior Customer Success Manager - Moveworks",
+      "location": "Chicago, us",
+      "department": null,
+      "updated_at": "2026-04-09T15:58:23.299Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119654537"
+    },
+    {
+      "id": "744000119644447",
+      "title": "Staff Software Engineer, Agentic AI Product",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-09T15:23:13.089Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119644447"
+    },
+    {
+      "id": "744000119615815",
+      "title": "Monetization Strategy Director",
+      "location": "Salt Lake City, us",
+      "department": "Sales",
+      "updated_at": "2026-04-09T14:29:19.590Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119615815"
+    },
+    {
+      "id": "744000119619329",
+      "title": "Monetization Strategy Director",
+      "location": "Atlanta, us",
+      "department": "Sales",
+      "updated_at": "2026-04-09T14:28:05.590Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119619329"
+    },
+    {
+      "id": "744000119615975",
+      "title": "Monetization Strategy Director",
+      "location": "Indianapolis, us",
+      "department": "Sales",
+      "updated_at": "2026-04-09T14:24:31.692Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119615975"
+    },
+    {
+      "id": "744000119616112",
+      "title": "Monetization Strategy Director",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-04-09T14:18:01.202Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119616112"
+    },
+    {
+      "id": "744000119615089",
+      "title": "Senior Platform Architect",
+      "location": "Milan, it",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-09T14:17:50.474Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119615089"
+    },
+    {
+      "id": "744000119570226",
+      "title": "Technical Consultant - CRM",
+      "location": "Tokyo, jp",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-09T10:43:26.931Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119570226"
+    },
+    {
+      "id": "744000119569219",
+      "title": "Technical Consultant - Risk & Security",
+      "location": "Tokyo, jp",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-09T10:40:27.465Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119569219"
+    },
+    {
+      "id": "744000119549165",
+      "title": "Director, Expert Services Management - CRM & Industry Workflows",
+      "location": "Staines, gb",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-09T08:45:06.101Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119549165"
+    },
+    {
+      "id": "744000119486867",
+      "title": "Advisory Solution Consultant - App Engine",
+      "location": "Washington, us",
+      "department": "Sales",
+      "updated_at": "2026-04-09T00:36:12.628Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119486867"
+    },
+    {
+      "id": "744000119486418",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "location": "New York, us",
+      "department": "Sales",
+      "updated_at": "2026-04-09T00:35:21.863Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119486418"
+    },
+    {
+      "id": "744000119486697",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "location": "Jersey City, us",
+      "department": "Sales",
+      "updated_at": "2026-04-09T00:34:36.570Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119486697"
+    },
+    {
+      "id": "744000119486617",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "location": "Boston, us",
+      "department": "Sales",
+      "updated_at": "2026-04-09T00:33:48.915Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119486617"
+    },
+    {
+      "id": "744000119453669",
+      "title": "Sales Operations Director",
+      "location": "San Diego, us",
+      "department": "Sales",
+      "updated_at": "2026-04-08T18:58:00.059Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119453669"
+    },
+    {
+      "id": "744000119442172",
+      "title": "Monetization Strategy Director",
+      "location": "Waltham, us",
+      "department": "Sales",
+      "updated_at": "2026-04-08T17:48:53.929Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119442172"
+    },
+    {
+      "id": "744000119434308",
+      "title": "Enterprise Account Executive",
+      "location": "New York , us",
+      "department": "Sales",
+      "updated_at": "2026-04-08T17:19:52.255Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119434308"
+    },
+    {
+      "id": "744000119434305",
+      "title": "Senior Solution Sales Executive - Operational Technology",
+      "location": "New York, us",
+      "department": "Sales",
+      "updated_at": "2026-04-08T17:18:30.777Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119434305"
+    },
+    {
+      "id": "744000119430212",
+      "title": "Dir, Software Engrg Mgmt",
+      "location": "Dublin, ie",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-08T16:56:07.021Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119430212"
+    },
+    {
+      "id": "744000119337452",
+      "title": "AI Principle Technical Consultant ",
+      "location": "Staines, gb",
+      "department": null,
+      "updated_at": "2026-04-08T11:09:48.189Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119337452"
+    },
+    {
+      "id": "744000119280837",
+      "title": "Dir, Inbound Product Mgmt - ITOM",
+      "location": "Bangalore, in",
+      "department": "Product",
+      "updated_at": "2026-04-08T06:16:09.952Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119280837"
+    },
+    {
+      "id": "744000119270557",
+      "title": "Enterprise Account Executive",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-04-08T03:22:57.412Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119270557"
+    },
+    {
+      "id": "744000119269107",
+      "title": "Enterprise Account Executive",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-04-08T02:58:23.308Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119269107"
+    },
+    {
+      "id": "744000119268697",
+      "title": "Partner Account Manager",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-04-08T02:51:01.173Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119268697"
+    },
+    {
+      "id": "744000119249977",
+      "title": "Staff Application Security Engineer - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-07T23:44:57.598Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119249977"
+    },
+    {
+      "id": "744000119235306",
+      "title": "Sr. Specialist, Data Strategy and Services- Marketing",
+      "location": "Santa Clara, us",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-07T21:58:21.857Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119235306"
+    },
+    {
+      "id": "744000119171542",
+      "title": "Staff Security and Compliance Engineer, Federal - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-07T16:05:25.637Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119171542"
+    },
+    {
+      "id": "744000119164988",
+      "title": "Senior Red Team Security Engineer - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-07T15:37:37.501Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119164988"
+    },
+    {
+      "id": "744000119148278",
+      "title": "Director, APAC Partner Operations ",
+      "location": "Singapore, sg",
+      "department": "Sales",
+      "updated_at": "2026-04-07T14:52:15.729Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119148278"
+    },
+    {
+      "id": "744000119113347",
+      "title": "Executive Operations Associate",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-04-07T12:58:18.025Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000119113347"
+    },
+    {
+      "id": "744000118983032",
+      "title": "Senior Security Engineer, Security Operations - Moveworks ",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-06T23:42:13.234Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118983032"
+    },
+    {
+      "id": "744000118976072",
+      "title": "Customer Success Manager",
+      "location": "West Palm Beach, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-06T22:55:40.523Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118976072"
+    },
+    {
+      "id": "744000118963402",
+      "title": "Sr. CRM Account Executive - Manufacturing",
+      "location": "New York, us",
+      "department": "Sales",
+      "updated_at": "2026-04-06T21:36:40.560Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118963402"
+    },
+    {
+      "id": "744000118922753",
+      "title": "HRBP Manager",
+      "location": "San Diego, us",
+      "department": "Human Resources",
+      "updated_at": "2026-04-06T18:18:34.234Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118922753"
+    },
+    {
+      "id": "744000118846867",
+      "title": "Senior Software Engineer, Core Platform - Moveworks",
+      "location": "Bangalore, in",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-06T10:17:36.104Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118846867"
+    },
+    {
+      "id": "744000118846528",
+      "title": "Staff Software Engineer, Core Platform- Moveworks",
+      "location": "Bangalore, in",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-06T10:12:57.122Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118846528"
+    },
+    {
+      "id": "744000118653667",
+      "title": "Monetization Strategy Director",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-04-03T20:45:07.291Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118653667"
+    },
+    {
+      "id": "744000118648060",
+      "title": "Monetization Strategy Director",
+      "location": "Santa Clara, us",
+      "department": "Sales",
+      "updated_at": "2026-04-03T19:36:54.473Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118648060"
+    },
+    {
+      "id": "744000118628501",
+      "title": "Senior Technical Consultant, Platform - Federal TS/SCI/FSP Clearance",
+      "location": "Fort Meade, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-04-03T16:22:50.853Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118628501"
+    },
+    {
+      "id": "744000118591092",
+      "title": "Mgr, Software Engrg Mgmt",
+      "location": "Hyderabad, in",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-04-03T12:33:49.406Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118591092"
+    },
+    {
+      "id": "744000118491843",
+      "title": "Sr Enterprise Account Executive - State & Local Government",
+      "location": "Philadelphia, us",
+      "department": "Sales",
+      "updated_at": "2026-04-02T20:19:31.805Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118491843"
+    },
+    {
+      "id": "744000118484487",
+      "title": "Sr. CRM Account Executive - Manufacturing",
+      "location": "Chicago, us",
+      "department": "Sales",
+      "updated_at": "2026-04-02T19:04:32.979Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118484487"
+    },
+    {
+      "id": "744000118390688",
+      "title": "Client Director Large Telco Customer ",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-04-02T11:40:07.581Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118390688"
+    },
+    {
+      "id": "744000118271653",
+      "title": "Senior AI Automation Engineer, CS Ops - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-04-01T23:20:14.326Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118271653"
+    },
+    {
+      "id": "744000118256787",
+      "title": "Senior Manager, Digital Experience Strategy",
+      "location": "Boston, us",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-01T21:07:24.165Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118256787"
+    },
+    {
+      "id": "744000118255797",
+      "title": "Senior Manager, Digital Experience Strategy",
+      "location": "New York, us",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-01T20:56:38.621Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118255797"
+    },
+    {
+      "id": "744000118210999",
+      "title": "Senior Solution Sales Executive (Risk/Sec)",
+      "location": "Frankfurt, de",
+      "department": null,
+      "updated_at": "2026-04-01T16:00:19.935Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118210999"
+    },
+    {
+      "id": "744000118210048",
+      "title": "Senior Solution Sales Executive (Risk/Security)",
+      "location": "Munich, de",
+      "department": null,
+      "updated_at": "2026-04-01T15:56:03.087Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118210048"
+    },
+    {
+      "id": "744000118150347",
+      "title": "Senior Commercial Account Exec (Growth Accounts) Denmark",
+      "location": "Dublin, ie",
+      "department": "Sales",
+      "updated_at": "2026-04-01T12:10:52.216Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118150347"
+    },
+    {
+      "id": "744000118098447",
+      "title": "Executive Operations Associate - President's Office",
+      "location": "Dublin, ie",
+      "department": "Sales",
+      "updated_at": "2026-04-01T08:48:06.976Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118098447"
+    },
+    {
+      "id": "744000118051652",
+      "title": "Solution Consultant Presales -Identity & Security ( IAM)",
+      "location": "Bangalore, in",
+      "department": "Sales",
+      "updated_at": "2026-04-01T05:36:36.558Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118051652"
+    },
+    {
+      "id": "744000118046647",
+      "title": "Ad & Media Ops Manager (APAC & Japan)",
+      "location": "Singapore, sg",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-04-01T03:59:21.174Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000118046647"
+    },
+    {
+      "id": "744000117952354",
+      "title": "Advisory Solution Consultant",
+      "location": "Glattbrugg, ch",
+      "department": "Sales",
+      "updated_at": "2026-03-31T16:33:49.871Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117952354"
+    },
+    {
+      "id": "744000117952270",
+      "title": "VP, GTM Strategic Leader (CHRO/CFO/COO) ",
+      "location": "Santa Clara, us",
+      "department": "Sales",
+      "updated_at": "2026-03-31T16:29:00.171Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117952270"
+    },
+    {
+      "id": "744000117872247",
+      "title": "Senior Manager, Solution Consulting - Moveworks",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-03-31T12:33:39.798Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117872247"
+    },
+    {
+      "id": "744000117812747",
+      "title": "Partner Business Development Manager (Asia + Korea)",
+      "location": "Singapore, sg",
+      "department": "Sales",
+      "updated_at": "2026-03-31T08:00:38.522Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117812747"
+    },
+    {
+      "id": "744000117756797",
+      "title": "Enterprise Account Executive - Life Sciences - CA ",
+      "location": "San Diego, us",
+      "department": "Sales",
+      "updated_at": "2026-03-30T23:37:02.411Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117756797"
+    },
+    {
+      "id": "744000117753087",
+      "title": "Senior CRM Account Executive - Media",
+      "location": "Orlando, us",
+      "department": "Sales",
+      "updated_at": "2026-03-30T22:41:44.010Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117753087"
+    },
+    {
+      "id": "744000117751798",
+      "title": "Senior Enterprise Account Executive - State & Local Government (Mountain West)",
+      "location": "Denver, us",
+      "department": "Sales",
+      "updated_at": "2026-03-30T22:30:52.453Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117751798"
+    },
+    {
+      "id": "744000117751827",
+      "title": " AI Implementation Engineer - Moveworks",
+      "location": "San Francisco, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-03-30T22:29:25.955Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117751827"
+    },
+    {
+      "id": "744000117738417",
+      "title": "Staff AI Implementation Engineer - Moveworks",
+      "location": "San Francisco, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-03-30T20:32:50.428Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117738417"
+    },
+    {
+      "id": "744000117704237",
+      "title": "Forward Deployed Engineering Build Manager",
+      "location": "Orlando, us",
+      "department": "Product",
+      "updated_at": "2026-03-30T16:45:06.871Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117704237"
+    },
+    {
+      "id": "744000117405938",
+      "title": "Transfer Pricing Tax Manager",
+      "location": "Addison, us",
+      "department": "Finance & Accounting",
+      "updated_at": "2026-03-27T21:41:06.900Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117405938"
+    },
+    {
+      "id": "744000117406257",
+      "title": "Transfer Pricing Tax Manager",
+      "location": "Chicago, us",
+      "department": "Finance & Accounting",
+      "updated_at": "2026-03-27T21:39:56.434Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117406257"
+    },
+    {
+      "id": "744000117405737",
+      "title": "Transfer Pricing Tax Manager",
+      "location": "Waltham, us",
+      "department": "Finance & Accounting",
+      "updated_at": "2026-03-27T21:37:13.303Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117405737"
+    },
+    {
+      "id": "744000117386195",
+      "title": "Sr Enterprise Account Executive - Banking",
+      "location": "New York, us",
+      "department": "Sales",
+      "updated_at": "2026-03-27T19:14:30.774Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117386195"
+    },
+    {
+      "id": "744000117382648",
+      "title": "Senior AI Implementation Engineer - Moveworks",
+      "location": "San Francisco, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-03-27T19:03:06.412Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117382648"
+    },
+    {
+      "id": "744000117352387",
+      "title": "Senior Customer Success Manager - Moveworks",
+      "location": "Santa Clara, us",
+      "department": null,
+      "updated_at": "2026-03-27T16:30:17.571Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117352387"
+    },
+    {
+      "id": "744000117341909",
+      "title": "Sr Enterprise Sales Associate",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-03-27T15:51:10.012Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117341909"
+    },
+    {
+      "id": "744000117310567",
+      "title": "Senior Manager, Web Experience",
+      "location": "Santa Clara, us",
+      "department": "Digital Technology",
+      "updated_at": "2026-03-27T14:18:32.584Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117310567"
+    },
+    {
+      "id": "744000117308308",
+      "title": "Web Experience Manager, Conversion & Growth",
+      "location": "Santa Clara, us",
+      "department": "Digital Technology",
+      "updated_at": "2026-03-27T14:14:41.404Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117308308"
+    },
+    {
+      "id": "744000117247103",
+      "title": "Senior Inbound Product Manager",
+      "location": "Bangalore, in",
+      "department": "Product",
+      "updated_at": "2026-03-27T09:42:54.039Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117247103"
+    },
+    {
+      "id": "744000117246816",
+      "title": "Senior Inbound Product Manager",
+      "location": "Bangalore, in",
+      "department": "Product",
+      "updated_at": "2026-03-27T09:40:43.267Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117246816"
+    },
+    {
+      "id": "744000117041967",
+      "title": "Senior Customer Success Manager - Moveworks",
+      "location": "London, gb",
+      "department": null,
+      "updated_at": "2026-03-26T18:22:33.429Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000117041967"
+    },
+    {
+      "id": "744000116983627",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-26T14:23:10.169Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116983627"
+    },
+    {
+      "id": "744000116968137",
+      "title": "Enterprise Account Executive, CPG",
+      "location": "Frankfurt, de",
+      "department": "Sales",
+      "updated_at": "2026-03-26T13:45:37.953Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116968137"
+    },
+    {
+      "id": "744000116929197",
+      "title": "Sr Enterprise Account Executive",
+      "location": "Riyadh, sa",
+      "department": "Sales",
+      "updated_at": "2026-03-26T11:24:19.479Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116929197"
+    },
+    {
+      "id": "744000116702082",
+      "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+      "location": "Dublin, ie",
+      "department": "Product",
+      "updated_at": "2026-03-25T20:17:52.117Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116702082"
+    },
+    {
+      "id": "744000116695917",
+      "title": "Principal Machine Learning Engineer - VoIP Infrastructure",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-25T19:22:31.826Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116695917"
+    },
+    {
+      "id": "744000116588127",
+      "title": "Senior Enterprise Account Executive",
+      "location": "Stockholm, se",
+      "department": "Sales",
+      "updated_at": "2026-03-25T10:37:10.694Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116588127"
+    },
+    {
+      "id": "744000116570707",
+      "title": "Senior Solution Sales Executive, Risk & Security Solutions",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-03-25T09:21:39.613Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116570707"
+    },
+    {
+      "id": "744000116535559",
+      "title": "Enterprise Account Executive ",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-03-25T05:21:03.688Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116535559"
+    },
+    {
+      "id": "744000116491508",
+      "title": "Client Director",
+      "location": "Milan, it",
+      "department": "Sales",
+      "updated_at": "2026-03-24T20:31:57.093Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116491508"
+    },
+    {
+      "id": "744000116331567",
+      "title": "Staff Technical Support Engineer_Moveworks",
+      "location": "Bangalore, in",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-24T07:22:23.842Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116331567"
+    },
+    {
+      "id": "744000116262257",
+      "title": "Developer Advocate — Agentic Platform - MoveWorks",
+      "location": "London, gb",
+      "department": "Product",
+      "updated_at": "2026-03-23T18:21:26.589Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116262257"
+    },
+    {
+      "id": "744000116211739",
+      "title": "Transfer Pricing Tax Manager",
+      "location": "San Diego, us",
+      "department": "Finance & Accounting",
+      "updated_at": "2026-03-23T14:55:07.846Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116211739"
+    },
+    {
+      "id": "744000116207563",
+      "title": "Senior Manager - US International Tax",
+      "location": "Santa Clara, us",
+      "department": "Finance & Accounting",
+      "updated_at": "2026-03-23T14:44:26.768Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116207563"
+    },
+    {
+      "id": "744000116121107",
+      "title": "Senior Enterprise Account Executive - Public Sector",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-03-23T08:17:20.603Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116121107"
+    },
+    {
+      "id": "744000116099517",
+      "title": "Director, Customer Outcomes GTM",
+      "location": "Bangalore, in",
+      "department": "Customer Excellence Geo HQ",
+      "updated_at": "2026-03-23T03:42:27.967Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000116099517"
+    },
+    {
+      "id": "744000115827447",
+      "title": "Sr Manager, APAC Media - IT,  Sec, Exp",
+      "location": "Singapore, sg",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-03-20T08:57:32.874Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115827447"
+    },
+    {
+      "id": "744000115751147",
+      "title": "Sr Solution Sales Executive - CRM & Industry - FINS",
+      "location": "Chicago, us",
+      "department": "Sales",
+      "updated_at": "2026-03-19T21:28:53.059Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115751147"
+    },
+    {
+      "id": "744000115744537",
+      "title": "Digital Experience Lead",
+      "location": "New York, us",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-03-19T20:22:54.932Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115744537"
+    },
+    {
+      "id": "744000115742728",
+      "title": "Quality Assurance Consultant",
+      "location": "West Palm Beach, us",
+      "department": null,
+      "updated_at": "2026-03-19T20:09:54.124Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115742728"
+    },
+    {
+      "id": "744000115716107",
+      "title": "Mgr, Solution Consulting",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-03-19T16:55:56.714Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115716107"
+    },
+    {
+      "id": "744000115712902",
+      "title": "AI Advisory Solution Architect",
+      "location": "Los Angeles, us",
+      "department": "Sales",
+      "updated_at": "2026-03-19T16:40:17.477Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115712902"
+    },
+    {
+      "id": "744000115709972",
+      "title": "Advisory Solution Consultant - East",
+      "location": "Boston, us",
+      "department": "Sales",
+      "updated_at": "2026-03-19T16:27:51.862Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115709972"
+    },
+    {
+      "id": "744000115709496",
+      "title": "Sr. Solution Consultant, Integrated Risk Management",
+      "location": "Waltham, us",
+      "department": "Sales",
+      "updated_at": "2026-03-19T16:25:04.159Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115709496"
+    },
+    {
+      "id": "744000115699557",
+      "title": "Sr Solution Architect- Marketing Technology",
+      "location": "San Francisco, us",
+      "department": "Digital Technology",
+      "updated_at": "2026-03-19T15:50:01.315Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115699557"
+    },
+    {
+      "id": "744000115688617",
+      "title": "VP, Public Sector GTM",
+      "location": "Santa Clara, us",
+      "department": "Sales",
+      "updated_at": "2026-03-19T15:17:27.347Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115688617"
+    },
+    {
+      "id": "744000115682857",
+      "title": "Senior Manager, IT Audience Planning ",
+      "location": "Chicago, us",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-03-19T14:57:15.514Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115682857"
+    },
+    {
+      "id": "744000115676882",
+      "title": "Director, Strategy & Operations - Moveworks  ",
+      "location": "Mountain View, us",
+      "department": "Product",
+      "updated_at": "2026-03-19T14:46:41.665Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115676882"
+    },
+    {
+      "id": "744000115676375",
+      "title": "Senior Manager, Strategy & Operations - Moveworks ",
+      "location": "Mountain View, us",
+      "department": "Product",
+      "updated_at": "2026-03-19T14:43:45.726Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115676375"
+    },
+    {
+      "id": "744000115672783",
+      "title": "Principal Strategist, Inspire Value",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-03-19T14:27:13.951Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115672783"
+    },
+    {
+      "id": "744000115627827",
+      "title": "Moveworks Principal Strategist, Inspire Value",
+      "location": "Sydney, au",
+      "department": "Sales",
+      "updated_at": "2026-03-19T10:42:03.381Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115627827"
+    },
+    {
+      "id": "744000115609581",
+      "title": "Senior CRM Account Executive - Public Sector",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-03-19T09:12:21.165Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115609581"
+    },
+    {
+      "id": "744000115484327",
+      "title": "Sr Advisory Solution Consultant - German Speaking / Moveworks",
+      "location": "Frankfurt, de",
+      "department": "Sales",
+      "updated_at": "2026-03-18T16:09:46.898Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115484327"
+    },
+    {
+      "id": "744000115158472",
+      "title": "Solution Sales Executive - Moveworks",
+      "location": "Zurich, ch",
+      "department": "Sales",
+      "updated_at": "2026-03-17T09:21:39.622Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115158472"
+    },
+    {
+      "id": "744000115071807",
+      "title": "Enterprise Account Executive",
+      "location": "Washington, us",
+      "department": "Sales",
+      "updated_at": "2026-03-16T20:16:30.482Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115071807"
+    },
+    {
+      "id": "744000115045323",
+      "title": "Staff Product Designer, AI Transformation",
+      "location": "Santa Clara, us",
+      "department": "User Experience Design",
+      "updated_at": "2026-03-16T18:01:15.900Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000115045323"
+    },
+    {
+      "id": "744000114674077",
+      "title": "Enterprise Account Exec - New Business ",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-03-13T14:17:00.396Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000114674077"
+    },
+    {
+      "id": "744000114544192",
+      "title": "APAC Director,  Performance Media",
+      "location": "Singapore, sg",
+      "department": "Marketing, Communications, and Brand",
+      "updated_at": "2026-03-13T06:54:03.643Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000114544192"
+    },
+    {
+      "id": "744000114433398",
+      "title": "Advisory Solution Consultant - Moveworks",
+      "location": "Stockholm, se",
+      "department": "Sales",
+      "updated_at": "2026-03-12T17:30:42.884Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000114433398"
+    },
+    {
+      "id": "744000114416164",
+      "title": "Federal Civilian Solution Sales Executive- Identity and Security ",
+      "location": "Washington, us",
+      "department": "Sales",
+      "updated_at": "2026-03-12T16:32:14.600Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000114416164"
+    },
+    {
+      "id": "744000114347467",
+      "title": "Enterprise Account Executive - Public Sector",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-03-12T11:21:43.746Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000114347467"
+    },
+    {
+      "id": "744000114175738",
+      "title": "Senior CRM Account Executive",
+      "location": "Seoul, kr",
+      "department": "Sales",
+      "updated_at": "2026-03-12T01:20:33.787Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000114175738"
+    },
+    {
+      "id": "744000114124607",
+      "title": "Forward Deployed Engineering Build Manager",
+      "location": "Addison, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-11T17:54:41.018Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000114124607"
+    },
+    {
+      "id": "744000114078717",
+      "title": "Solution Sales Executive - Moveworks",
+      "location": "Lysaker, no",
+      "department": "Sales",
+      "updated_at": "2026-03-11T15:01:13.540Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000114078717"
+    },
+    {
+      "id": "744000114035827",
+      "title": "Sr Solution Consultant - Intelligent Automation",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-03-11T12:09:01.121Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000114035827"
+    },
+    {
+      "id": "744000113826096",
+      "title": "Manager, Technical Support Management",
+      "location": "Toronto, ca",
+      "department": "Support and Product Success",
+      "updated_at": "2026-03-10T23:43:09.092Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113826096"
+    },
+    {
+      "id": "744000113662292",
+      "title": "Regional Director, Sales - Moveworks",
+      "location": "Amsterdam, nl",
+      "department": "Sales",
+      "updated_at": "2026-03-10T09:19:54.444Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113662292"
+    },
+    {
+      "id": "744000113660017",
+      "title": "Senior Solution Sales Executive - Moveworks",
+      "location": "Amsterdam, nl",
+      "department": "Sales",
+      "updated_at": "2026-03-10T08:55:16.645Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113660017"
+    },
+    {
+      "id": "744000113582227",
+      "title": "Senior Marketing Program Manager",
+      "location": "Santa Clara, us",
+      "department": null,
+      "updated_at": "2026-03-09T20:31:37.096Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113582227"
+    },
+    {
+      "id": "744000113543813",
+      "title": "Advisory Solution Consultant",
+      "location": "Santa Clara, us",
+      "department": "Sales",
+      "updated_at": "2026-03-09T16:55:49.907Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113543813"
+    },
+    {
+      "id": "744000113537771",
+      "title": "Senior Research Engineer/Scientist",
+      "location": "Montreal, ca",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-09T16:38:50.502Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113537771"
+    },
+    {
+      "id": "744000113539863",
+      "title": "Senior Research Engineer/Scientist",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-09T16:37:09.227Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113539863"
+    },
+    {
+      "id": "744000113406467",
+      "title": "Advisory Partner Solution Consultant",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-03-09T06:59:37.247Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113406467"
+    },
+    {
+      "id": "744000113248682",
+      "title": "Senior Software Engineer, Agentic AI Product - Moveworks",
+      "location": "Mountain View, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-06T18:25:50.264Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113248682"
+    },
+    {
+      "id": "744000113233479",
+      "title": "GTM Strategic Planning, Manager",
+      "location": "West Palm Beach, us",
+      "department": null,
+      "updated_at": "2026-03-06T17:17:55.891Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113233479"
+    },
+    {
+      "id": "744000113222998",
+      "title": "Senior Software Engineer",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-06T16:31:59.074Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113222998"
+    },
+    {
+      "id": "744000113223515",
+      "title": "Senior Software Engineer",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-06T16:29:09.951Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113223515"
+    },
+    {
+      "id": "744000113223797",
+      "title": "Senior Software Engineer",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-06T16:28:19.425Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113223797"
+    },
+    {
+      "id": "744000113217942",
+      "title": "Staff Software Engineer",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-06T16:15:08.481Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113217942"
+    },
+    {
+      "id": "744000113219109",
+      "title": "Staff Software Engineer",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-06T16:11:27.373Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113219109"
+    },
+    {
+      "id": "744000113100560",
+      "title": "Sr Enterprise Account Executive",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-03-06T07:39:33.365Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113100560"
+    },
+    {
+      "id": "744000113037707",
+      "title": "Sr. Solution Consultant - Financial Services",
+      "location": "New York, us",
+      "department": "Sales",
+      "updated_at": "2026-03-05T22:33:46.601Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113037707"
+    },
+    {
+      "id": "744000113037457",
+      "title": "Advisory Solution Consultant - State and Local",
+      "location": "Phoenix, us",
+      "department": "Sales",
+      "updated_at": "2026-03-05T22:31:58.267Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113037457"
+    },
+    {
+      "id": "744000113035225",
+      "title": "Advisory Solution Consultant - EAM/ITAM",
+      "location": "Toronto, ca",
+      "department": "Sales",
+      "updated_at": "2026-03-05T22:23:33.705Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113035225"
+    },
+    {
+      "id": "744000113034051",
+      "title": "Staff Network Development Engineer - Cloud Network Automation",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-05T22:19:23.049Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000113034051"
+    },
+    {
+      "id": "744000112979514",
+      "title": "Software Licensing Manager",
+      "location": "Waltham, us",
+      "department": "Sales",
+      "updated_at": "2026-03-05T16:22:59.140Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112979514"
+    },
+    {
+      "id": "744000112911567",
+      "title": "Principal Platform Architect",
+      "location": "Singapore, sg",
+      "department": "Customer Excellence HQ",
+      "updated_at": "2026-03-05T12:15:22.349Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112911567"
+    },
+    {
+      "id": "744000112853727",
+      "title": "Customer Success Guide",
+      "location": "Tokyo, jp",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-03-05T08:02:20.862Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112853727"
+    },
+    {
+      "id": "744000112786067",
+      "title": "Resource Deployment Manager",
+      "location": "West Palm Beach, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-03-04T21:49:26.614Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112786067"
+    },
+    {
+      "id": "744000112785835",
+      "title": "Resource Deployment Manager",
+      "location": "West Palm Beach, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-03-04T21:47:55.811Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112785835"
+    },
+    {
+      "id": "744000112785247",
+      "title": "Resource Deployment Manager",
+      "location": "West Palm Beach, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-03-04T21:44:06.563Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112785247"
+    },
+    {
+      "id": "744000112775285",
+      "title": "Sr Enterprise Account Executive, FSI",
+      "location": "Madrid, es",
+      "department": "Sales",
+      "updated_at": "2026-03-04T20:29:32.975Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112775285"
+    },
+    {
+      "id": "744000112559303",
+      "title": "Staff Network Operations Engineer - Load Balancers - F5 - Nginx - Federal",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-04T01:41:58.532Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112559303"
+    },
+    {
+      "id": "744000112568393",
+      "title": "Staff Network Operations Engineer - Load Balancers - F5 - Nginx - Federal",
+      "location": "Addison, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-04T01:40:23.306Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112568393"
+    },
+    {
+      "id": "744000112568527",
+      "title": "Staff Network Operations Engineer - Load Balancers - F5 - Nginx - Federal",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-04T01:37:48.714Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112568527"
+    },
+    {
+      "id": "744000112567038",
+      "title": "Staff Network Operations Engineer - Load Balancers - F5 - Nginx - Federal",
+      "location": "Chicago, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-04T01:35:47.108Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112567038"
+    },
+    {
+      "id": "744000112500152",
+      "title": "Sr Solution Consultant - Intelligent Automation",
+      "location": "New York, us",
+      "department": "Sales",
+      "updated_at": "2026-03-03T18:48:13.360Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112500152"
+    },
+    {
+      "id": "744000112497027",
+      "title": "Staff Systems Engineer - Hyperscaler",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-03T18:23:53.472Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112497027"
+    },
+    {
+      "id": "744000112496717",
+      "title": "Staff Systems Engineer - Hyperscaler",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-03-03T18:21:53.899Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112496717"
+    },
+    {
+      "id": "744000112491798",
+      "title": "Senior Manager, Technical Support Management",
+      "location": "Toronto, ca",
+      "department": "Support and Product Success",
+      "updated_at": "2026-03-03T18:00:23.481Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112491798"
+    },
+    {
+      "id": "744000112430318",
+      "title": "Advisory Presales Solution Consultant - Security and Identity",
+      "location": "Frankfurt, de",
+      "department": "Sales",
+      "updated_at": "2026-03-03T14:11:55.908Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112430318"
+    },
+    {
+      "id": "744000112348113",
+      "title": "CRM  Advisory Solution Consultant, MRD  - Delhi ",
+      "location": "Delhi, in",
+      "department": "Sales",
+      "updated_at": "2026-03-03T07:52:01.521Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112348113"
+    },
+    {
+      "id": "744000112335547",
+      "title": "カスタマーサクセスマネージャー",
+      "location": "Tokyo, jp",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-03-03T05:01:21.395Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112335547"
+    },
+    {
+      "id": "744000112256777",
+      "title": "Senior Staff Outbound Product Manager - Telecom",
+      "location": "Kirkland, us",
+      "department": "Product",
+      "updated_at": "2026-03-02T18:37:16.014Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112256777"
+    },
+    {
+      "id": "744000112248569",
+      "title": "Senior Staff Outbound Product Manager - Telecom",
+      "location": "Addison, us",
+      "department": "Product",
+      "updated_at": "2026-03-02T17:54:48.975Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112248569"
+    },
+    {
+      "id": "744000112137747",
+      "title": "Director,  Sales",
+      "location": "Glattbrugg, ch",
+      "department": "Sales",
+      "updated_at": "2026-03-02T10:49:12.634Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112137747"
+    },
+    {
+      "id": "744000112081557",
+      "title": "Principal Enterprise Architect - Manufacturing",
+      "location": "Mumbai, in",
+      "department": "Sales",
+      "updated_at": "2026-03-02T05:03:31.884Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112081557"
+    },
+    {
+      "id": "744000112022067",
+      "title": "Advisory Solution Consultant - State and Local",
+      "location": "New York, us",
+      "department": "Sales",
+      "updated_at": "2026-03-01T04:29:11.885Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000112022067"
+    },
+    {
+      "id": "744000111921985",
+      "title": "Mid-Market Account Executive - Inside Sales",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-02-27T19:18:51.403Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111921985"
+    },
+    {
+      "id": "744000111917046",
+      "title": "Senior Manager, Media (IT,Sec,Exp)",
+      "location": "Dublin, ie",
+      "department": null,
+      "updated_at": "2026-02-27T18:52:00.265Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111917046"
+    },
+    {
+      "id": "744000111732590",
+      "title": "Senior Manager, Systems Engineering - Vulnerability",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-27T00:54:34.875Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111732590"
+    },
+    {
+      "id": "744000111704965",
+      "title": "Advisory Solution Consultant - Healthcare",
+      "location": "Addison, us",
+      "department": "Sales",
+      "updated_at": "2026-02-26T20:17:10.900Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111704965"
+    },
+    {
+      "id": "744000111686666",
+      "title": "Technical Writer - Emerging Talent Intern (July 2026-December 2026)",
+      "location": "Santa Clara, us",
+      "department": "User Experience Design",
+      "updated_at": "2026-02-26T18:09:02.731Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111686666"
+    },
+    {
+      "id": "744000111678256",
+      "title": "Senior Software Engineer, Core Platform - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-26T17:17:23.086Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111678256"
+    },
+    {
+      "id": "744000111666080",
+      "title": "Advisory Solution Consultant - Central ",
+      "location": "Addison, us",
+      "department": "Sales",
+      "updated_at": "2026-02-26T16:45:27.379Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111666080"
+    },
+    {
+      "id": "744000111637305",
+      "title": "Advisory Solution Consultant (ITOM) - US Federal DoD Community",
+      "location": "Washington, us",
+      "department": "Sales",
+      "updated_at": "2026-02-26T14:35:12.989Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111637305"
+    },
+    {
+      "id": "744000111529925",
+      "title": "Sr. Solution Consultant - SecOps",
+      "location": "Austin, us",
+      "department": "Sales",
+      "updated_at": "2026-02-26T04:17:04.531Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111529925"
+    },
+    {
+      "id": "744000111437696",
+      "title": "Senior Staff Outbound Product Manager - Telecom",
+      "location": "Santa Clara, us",
+      "department": "Product",
+      "updated_at": "2026-02-25T17:47:40.384Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111437696"
+    },
+    {
+      "id": "744000111435175",
+      "title": "Senior Staff Outbound Product Manager - Enterprise Search Integrations ",
+      "location": "Mountain View , us",
+      "department": "Product",
+      "updated_at": "2026-02-25T17:26:48.627Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111435175"
+    },
+    {
+      "id": "744000111388018",
+      "title": "Senior Platform Architect",
+      "location": "Madrid, es",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-02-25T14:30:03.268Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111388018"
+    },
+    {
+      "id": "744000111333066",
+      "title": "Principal Product Designer, Moveworks",
+      "location": "Bangalore, in",
+      "department": "User Experience Design",
+      "updated_at": "2026-02-25T10:00:00.066Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111333066"
+    },
+    {
+      "id": "744000111304925",
+      "title": "Sr New Logo Account Executive",
+      "location": "Seoul, kr",
+      "department": "Sales",
+      "updated_at": "2026-02-25T06:57:02.564Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111304925"
+    },
+    {
+      "id": "744000111189885",
+      "title": "Senior Linux Automation Engineer",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-24T21:30:00.202Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111189885"
+    },
+    {
+      "id": "744000111189186",
+      "title": "Senior Linux Automation Engineer",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-24T21:29:25.182Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111189186"
+    },
+    {
+      "id": "744000111188396",
+      "title": "Senior Linux Automation Engineer",
+      "location": "Kirkland, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-24T21:25:44.891Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111188396"
+    },
+    {
+      "id": "744000111171600",
+      "title": "Senior Solution Sales Executive - Tech - Moveworks",
+      "location": "New York, us",
+      "department": null,
+      "updated_at": "2026-02-24T19:30:43.007Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111171600"
+    },
+    {
+      "id": "744000111146382",
+      "title": "CRM Sr Advisory  Solution Consultant - Enterprise (Asia)/ Public Sector",
+      "location": "Singapore, sg",
+      "department": "Sales",
+      "updated_at": "2026-02-24T16:53:06.838Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111146382"
+    },
+    {
+      "id": "744000111077816",
+      "title": "App Engine Advisory Solution Consultant",
+      "location": "São Paulo, br",
+      "department": "Sales",
+      "updated_at": "2026-02-24T12:30:06.349Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111077816"
+    },
+    {
+      "id": "744000111002510",
+      "title": "Senior Solution Consultant -  Transportation & Real Estate",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-02-24T04:22:08.644Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000111002510"
+    },
+    {
+      "id": "744000110887565",
+      "title": "Renewal Account Manager - Federal",
+      "location": "Vienna, us",
+      "department": "Sales",
+      "updated_at": "2026-02-23T22:39:35.668Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110887565"
+    },
+    {
+      "id": "744000110886790",
+      "title": "Sr Customer Success Manager",
+      "location": "Heredia, cr",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-02-23T22:37:12.481Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110886790"
+    },
+    {
+      "id": "744000110884525",
+      "title": "Senior Problem Manager - Cloud Infrastructure - Federal",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-23T22:16:45.669Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110884525"
+    },
+    {
+      "id": "744000110853140",
+      "title": "Sr. Staff Product Designer, Moveworks",
+      "location": "Mountain View, us",
+      "department": "User Experience Design",
+      "updated_at": "2026-02-23T19:33:30.250Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110853140"
+    },
+    {
+      "id": "744000110830416",
+      "title": "Commercial Account Executive, CEE",
+      "location": "Wien, at",
+      "department": "Sales",
+      "updated_at": "2026-02-23T17:59:31.087Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110830416"
+    },
+    {
+      "id": "744000110675630",
+      "title": "Senior Advisory Solution Consultant",
+      "location": "Bangalore, in",
+      "department": "Professional Services",
+      "updated_at": "2026-02-23T06:11:37.370Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110675630"
+    },
+    {
+      "id": "744000110562816",
+      "title": "Sr Enterprise Account Exec",
+      "location": "Wellington, nz",
+      "department": "Sales",
+      "updated_at": "2026-02-23T00:14:30.467Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110562816"
+    },
+    {
+      "id": "744000110474212",
+      "title": "Staff Software Engineer (Full Stack)",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-20T21:22:18.263Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110474212"
+    },
+    {
+      "id": "744000110422167",
+      "title": "Director, Sales - Public Services",
+      "location": "Düsseldorf, de",
+      "department": "Sales",
+      "updated_at": "2026-02-20T16:11:13.997Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110422167"
+    },
+    {
+      "id": "744000110414307",
+      "title": "Advisory Solution Consultant - Higher Education",
+      "location": "Ann Arbor, us",
+      "department": "Sales",
+      "updated_at": "2026-02-20T15:47:37.420Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110414307"
+    },
+    {
+      "id": "744000110415797",
+      "title": "Advisory Solution Consultant - Higher Education",
+      "location": "Austin, us",
+      "department": "Sales",
+      "updated_at": "2026-02-20T15:45:41.087Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110415797"
+    },
+    {
+      "id": "744000110416186",
+      "title": "Advisory Solution Consultant - Higher Education",
+      "location": "Chicago, us",
+      "department": "Sales",
+      "updated_at": "2026-02-20T15:44:25.380Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110416186"
+    },
+    {
+      "id": "744000110257905",
+      "title": "Client Director - Life Sciences",
+      "location": "New York, us",
+      "department": "Sales",
+      "updated_at": "2026-02-19T22:42:20.823Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110257905"
+    },
+    {
+      "id": "744000110245255",
+      "title": "Staff Software Engineer (Full Stack)",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-19T20:46:28.706Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110245255"
+    },
+    {
+      "id": "744000110042455",
+      "title": "Sr Enterprise Sales Associate",
+      "location": "San Diego, us",
+      "department": "Sales",
+      "updated_at": "2026-02-18T22:37:19.542Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110042455"
+    },
+    {
+      "id": "744000110036385",
+      "title": "Solution Architect",
+      "location": "Austin, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-02-18T21:29:09.668Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110036385"
+    },
+    {
+      "id": "744000110013534",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "location": "Portland, us",
+      "department": "Sales",
+      "updated_at": "2026-02-18T18:53:28.991Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000110013534"
+    },
+    {
+      "id": "744000109997730",
+      "title": "New Logo Account Executive - Greek speaking",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-02-18T17:04:38.535Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109997730"
+    },
+    {
+      "id": "744000109998363",
+      "title": "New Logo Account Executive - Greek Speaking",
+      "location": "Dublin, ie",
+      "department": "Sales",
+      "updated_at": "2026-02-18T17:03:48.831Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109998363"
+    },
+    {
+      "id": "744000109996527",
+      "title": "New Logo Account Executive - Greek speaking",
+      "location": "Wien, at",
+      "department": "Sales",
+      "updated_at": "2026-02-18T17:02:57.964Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109996527"
+    },
+    {
+      "id": "744000109980995",
+      "title": "Senior Software Engineer - UI",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-18T15:56:17.243Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109980995"
+    },
+    {
+      "id": "744000109865075",
+      "title": "Director, Strategy & Operations, Solution Sales Japan",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-02-18T04:36:25.881Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109865075"
+    },
+    {
+      "id": "744000109653825",
+      "title": "Advisory Solution Consultant - Moveworks",
+      "location": "Rome, it",
+      "department": "Sales",
+      "updated_at": "2026-02-17T07:57:38.443Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109653825"
+    },
+    {
+      "id": "744000109320186",
+      "title": "Senior Manager, Systems Engineering",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-13T23:25:40.326Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109320186"
+    },
+    {
+      "id": "744000109286826",
+      "title": "Advisory Solution Consultant",
+      "location": "Addison, us",
+      "department": "Sales",
+      "updated_at": "2026-02-13T18:08:24.270Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109286826"
+    },
+    {
+      "id": "744000109256995",
+      "title": "Staff Reliability Engineer - Performance (Escalations Engineering)",
+      "location": "Orlando, us",
+      "department": "Support and Product Success",
+      "updated_at": "2026-02-13T15:46:24.186Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109256995"
+    },
+    {
+      "id": "744000109204105",
+      "title": "Senior Principal/ Principal Strategist, Inspire Value",
+      "location": "Singapore, sg",
+      "department": "Sales",
+      "updated_at": "2026-02-13T11:30:45.386Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109204105"
+    },
+    {
+      "id": "744000109039655",
+      "title": "Advisory Solution Consultant",
+      "location": "Nashville, us",
+      "department": "Sales",
+      "updated_at": "2026-02-12T16:29:28.089Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109039655"
+    },
+    {
+      "id": "744000109037488",
+      "title": "Advisory Solution Consultant",
+      "location": "Columbus, us",
+      "department": "Sales",
+      "updated_at": "2026-02-12T16:20:25.935Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109037488"
+    },
+    {
+      "id": "744000109037185",
+      "title": "Advisory Solution Consultant",
+      "location": "Denver, us",
+      "department": "Sales",
+      "updated_at": "2026-02-12T16:18:59.646Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109037185"
+    },
+    {
+      "id": "744000109034466",
+      "title": "Advisory Solution Consultant",
+      "location": "Chicago, us",
+      "department": "Sales",
+      "updated_at": "2026-02-12T16:18:07.504Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109034466"
+    },
+    {
+      "id": "744000109036305",
+      "title": "Advisory Solution Consultant",
+      "location": "Houston, us",
+      "department": "Sales",
+      "updated_at": "2026-02-12T16:16:56.999Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109036305"
+    },
+    {
+      "id": "744000109005235",
+      "title": "Advisory Solution Consultant - West Coast",
+      "location": "Santa Clara, us",
+      "department": "Sales",
+      "updated_at": "2026-02-12T14:03:36.443Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109005235"
+    },
+    {
+      "id": "744000108998857",
+      "title": "Copy of Sr Advisory Solution Consultant - Hyperscaler Accounts",
+      "location": "Seattle, us",
+      "department": "Sales",
+      "updated_at": "2026-02-12T13:52:15.257Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108998857"
+    },
+    {
+      "id": "744000109001791",
+      "title": "Sr Advisory Solution Consultant - Hyperscaler Accounts",
+      "location": "Santa Clara, us",
+      "department": "Sales",
+      "updated_at": "2026-02-12T13:51:00.653Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000109001791"
+    },
+    {
+      "id": "744000108992485",
+      "title": "Advisory Solution Consultant - Identity & Security",
+      "location": "Sydney, au",
+      "department": "Sales",
+      "updated_at": "2026-02-12T13:02:52.239Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108992485"
+    },
+    {
+      "id": "744000108873105",
+      "title": "Principal Machine Learning Engineer, GAI Search Relevance - Ranking - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-11T22:40:21.298Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108873105"
+    },
+    {
+      "id": "744000108871710",
+      "title": "Senior Software Engineer, Agentic AI Platform - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-11T22:29:01.719Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108871710"
+    },
+    {
+      "id": "744000108870090",
+      "title": "Sr. Software Engineer, Fullstack - Moveworks",
+      "location": "Mountain View, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-11T22:16:20.793Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108870090"
+    },
+    {
+      "id": "744000108870055",
+      "title": "Machine Learning Engineering Manager, GAI Search Relevance - Moveworks",
+      "location": "Mountain View, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-11T22:14:56.940Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108870055"
+    },
+    {
+      "id": "744000108861595",
+      "title": "Senior Systems Engineer - Federal",
+      "location": "Orlando, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-11T20:57:29.972Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108861595"
+    },
+    {
+      "id": "744000108853596",
+      "title": "Customer Success Manager",
+      "location": "Heredia, cr",
+      "department": "Customer Excellence HQ",
+      "updated_at": "2026-02-11T20:03:12.554Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108853596"
+    },
+    {
+      "id": "744000108851192",
+      "title": "Senior Systems Engineer - Federal",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-11T19:45:09.305Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108851192"
+    },
+    {
+      "id": "744000108830186",
+      "title": "Advisory Solution Consultant - State and Local",
+      "location": "Jersey City, us",
+      "department": "Sales",
+      "updated_at": "2026-02-11T17:40:20.273Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108830186"
+    },
+    {
+      "id": "744000108695065",
+      "title": " Federal Government CTO ",
+      "location": "Canberra, au",
+      "department": "Sales",
+      "updated_at": "2026-02-11T07:28:21.359Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108695065"
+    },
+    {
+      "id": "744000108685591",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "location": "Nashville, us",
+      "department": "Sales",
+      "updated_at": "2026-02-11T05:30:29.441Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108685591"
+    },
+    {
+      "id": "744000108684836",
+      "title": "Commercial Growth Senior Solution Consultant",
+      "location": "Waltham, us",
+      "department": "Sales",
+      "updated_at": "2026-02-11T05:13:53.756Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108684836"
+    },
+    {
+      "id": "744000108657852",
+      "title": "Strategy, Planning & Operations (SPO) Senior Manager – Analytics & Insights ",
+      "location": "Santa Clara, us",
+      "department": "Sales",
+      "updated_at": "2026-02-11T01:15:46.752Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108657852"
+    },
+    {
+      "id": "744000108603416",
+      "title": "Mission Account Manager - US Air Force",
+      "location": "Vienna, us",
+      "department": "Sales",
+      "updated_at": "2026-02-10T18:30:11.671Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108603416"
+    },
+    {
+      "id": "744000108406646",
+      "title": "Advisory Solution Consultant - Telecom Media and Technology",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-02-10T04:15:56.592Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108406646"
+    },
+    {
+      "id": "744000108296495",
+      "title": "Principal Inbound Product Manager - MoveWorks - Enterprise Search Platform ",
+      "location": "Mountain View, us",
+      "department": "Product",
+      "updated_at": "2026-02-09T20:43:54.474Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108296495"
+    },
+    {
+      "id": "744000108295478",
+      "title": "Principal Inbound Product Manager - MoveWorks - Enterprise Search Relevance and Ranking",
+      "location": "Mountain View, us",
+      "department": "Product",
+      "updated_at": "2026-02-09T20:41:36.294Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108295478"
+    },
+    {
+      "id": "744000108276973",
+      "title": "Sr Solution Consultant",
+      "location": "Toronto, ca",
+      "department": "Sales",
+      "updated_at": "2026-02-09T18:32:46.482Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108276973"
+    },
+    {
+      "id": "744000108252806",
+      "title": "Sr Advisory Solution Consultant",
+      "location": "Santa Clara, us",
+      "department": "Sales",
+      "updated_at": "2026-02-09T16:37:50.774Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000108252806"
+    },
+    {
+      "id": "744000107855576",
+      "title": "Sr Mid-Market Account Executive",
+      "location": "West Palm Beach, us",
+      "department": "Sales",
+      "updated_at": "2026-02-07T00:30:42.857Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107855576"
+    },
+    {
+      "id": "744000107836115",
+      "title": "Sr Federal Enterprise Account Executive - USDA",
+      "location": "Vienna, us",
+      "department": "Sales",
+      "updated_at": "2026-02-06T21:49:16.497Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107836115"
+    },
+    {
+      "id": "744000107827645",
+      "title": "Forward Deployed Engineering Build Manager",
+      "location": "Dublin, ie",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-02-06T20:49:38.969Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107827645"
+    },
+    {
+      "id": "744000107801692",
+      "title": "Staff Machine Learning Engineer, Agentic Systems - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-06T18:41:14.745Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107801692"
+    },
+    {
+      "id": "744000107770230",
+      "title": "Solution Sales Executive, Core Business Solutions (Hong Kong)",
+      "location": "Causeway Bay, hk",
+      "department": "Sales",
+      "updated_at": "2026-02-06T15:51:41.250Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107770230"
+    },
+    {
+      "id": "744000107759456",
+      "title": "Sr Advisory Enterprise Architect, Hong Kong",
+      "location": "Causeway Bay, hk",
+      "department": "Sales",
+      "updated_at": "2026-02-06T15:08:53.824Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107759456"
+    },
+    {
+      "id": "744000107756699",
+      "title": "Advisory Presales Solution Consultant - Security and Identity",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-02-06T14:54:45.523Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107756699"
+    },
+    {
+      "id": "744000107756715",
+      "title": "Advisory Presales Solution Consultant - Security and Identity",
+      "location": "Amsterdam, nl",
+      "department": "Sales",
+      "updated_at": "2026-02-06T14:54:07.815Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107756715"
+    },
+    {
+      "id": "744000107720194",
+      "title": "Solution Sales Executive, Security and Identity Solutions",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-02-06T12:07:46.855Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107720194"
+    },
+    {
+      "id": "744000107719895",
+      "title": "Solution Sales Executive, Security and Identity Solutions",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-02-06T12:06:19.167Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107719895"
+    },
+    {
+      "id": "744000107719775",
+      "title": "Solution Sales Executive, Security and Identity Solutions",
+      "location": "Amsterdam, nl",
+      "department": "Sales",
+      "updated_at": "2026-02-06T12:05:34.597Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107719775"
+    },
+    {
+      "id": "744000107719535",
+      "title": "Solution Sales Executive, Security and Identity Solutions",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-02-06T12:04:37.396Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107719535"
+    },
+    {
+      "id": "744000107609408",
+      "title": "Senior Staff Machine Learning Engineer, Agentic Systems - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-05T20:59:06.952Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107609408"
+    },
+    {
+      "id": "744000107606742",
+      "title": "Senior Software Engineer, Agentic AI Systems - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-05T20:51:01.853Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107606742"
+    },
+    {
+      "id": "744000107523375",
+      "title": "Senior Advisory Presales Enterprise Architect - Telecoms",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-02-05T13:53:45.546Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107523375"
+    },
+    {
+      "id": "744000107485655",
+      "title": "Advisory Solution Consultant - Retail",
+      "location": "Frankfurt, de",
+      "department": "Sales",
+      "updated_at": "2026-02-05T10:20:33.123Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107485655"
+    },
+    {
+      "id": "744000107435185",
+      "title": "Principal Inbound Product Manager - AI Assistant (Agentic Workflows)- MoveWorks",
+      "location": "Mountain View, us",
+      "department": "Product",
+      "updated_at": "2026-02-05T01:55:59.853Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107435185"
+    },
+    {
+      "id": "744000107435010",
+      "title": "Principal Inbound Product Manager, AI Assistant (Assistant Store) - MoveWorks",
+      "location": "Mountain View, us",
+      "department": "Product",
+      "updated_at": "2026-02-05T01:53:27.626Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107435010"
+    },
+    {
+      "id": "744000107400781",
+      "title": "Senior Machine Learning Engineer, Agentic AI Systems - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T23:21:53.491Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107400781"
+    },
+    {
+      "id": "744000107400460",
+      "title": "Senior Identity & Access Management Engineer - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T23:20:04.004Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107400460"
+    },
+    {
+      "id": "744000107376345",
+      "title": "Advisory Solution Consultant - AI Foundry",
+      "location": "Boston, us",
+      "department": "Sales",
+      "updated_at": "2026-02-04T19:42:56.201Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107376345"
+    },
+    {
+      "id": "744000107369741",
+      "title": "Associate Software Engineer, Core Infrastructure - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T19:09:25.284Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107369741"
+    },
+    {
+      "id": "744000107370955",
+      "title": "Associate Software Engineer, Core Infrastructure - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T19:09:22.387Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107370955"
+    },
+    {
+      "id": "744000107370230",
+      "title": "Senior Software Engineer, Core Infrastructure - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T19:09:19.634Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107370230"
+    },
+    {
+      "id": "744000107322911",
+      "title": "Senior Platform Architect",
+      "location": "Wien, at",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-02-04T15:22:30.677Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107322911"
+    },
+    {
+      "id": "744000107222686",
+      "title": "Senior Application Security Engineer - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T05:46:42.791Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107222686"
+    },
+    {
+      "id": "744000107222155",
+      "title": "Tech Lead, Agentic AI Platform - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T05:34:04.263Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107222155"
+    },
+    {
+      "id": "744000107221865",
+      "title": "Software Engineer, Agentic AI Product - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T05:26:00.991Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107221865"
+    },
+    {
+      "id": "744000107221835",
+      "title": "Enterprise Account Executive - Media & Technology",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-02-04T05:25:58.192Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107221835"
+    },
+    {
+      "id": "744000107221016",
+      "title": "Senior Staff Software Engineer, Agentic AI Systems - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T05:15:34.928Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107221016"
+    },
+    {
+      "id": "744000107218105",
+      "title": "Senior Manager, Core Platform - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T04:25:00.470Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107218105"
+    },
+    {
+      "id": "744000107217257",
+      "title": "Staff Software Engineer, Core Platform - Moveworks",
+      "location": "Mountain View, us",
+      "department": null,
+      "updated_at": "2026-02-04T04:23:31.078Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107217257"
+    },
+    {
+      "id": "744000107128971",
+      "title": "Senior Solution Sales Executive - Industrial Connected Workforce",
+      "location": "Addison, us",
+      "department": "Sales",
+      "updated_at": "2026-02-03T18:09:10.218Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107128971"
+    },
+    {
+      "id": "744000107047177",
+      "title": "AI Foundry Engineer",
+      "location": "Sydney, au",
+      "department": "Sales",
+      "updated_at": "2026-02-03T11:50:23.581Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000107047177"
+    },
+    {
+      "id": "744000106981675",
+      "title": "Director, CRM & Industry Solution Consulting",
+      "location": "Singapore, sg",
+      "department": "Sales",
+      "updated_at": "2026-02-03T02:20:32.245Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106981675"
+    },
+    {
+      "id": "744000106950085",
+      "title": "Services Account Executive",
+      "location": "Tokyo, jp",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-02-03T00:06:56.002Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106950085"
+    },
+    {
+      "id": "744000106847864",
+      "title": "Account Director - CRM and Industry Solutions - Telecom",
+      "location": "Gurgaon, in",
+      "department": "Sales",
+      "updated_at": "2026-02-02T14:48:05.534Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106847864"
+    },
+    {
+      "id": "744000106838185",
+      "title": "Senior Solution Sales Executive, Technology Workflows ",
+      "location": "Singapore, sg",
+      "department": "Sales",
+      "updated_at": "2026-02-02T14:13:13.123Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106838185"
+    },
+    {
+      "id": "744000106821555",
+      "title": "Resell Partner Manager",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-02-02T12:47:57.846Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106821555"
+    },
+    {
+      "id": "744000106374488",
+      "title": "Staff Software Engineer - AI/ML",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-01-29T20:08:19.856Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106374488"
+    },
+    {
+      "id": "744000106186396",
+      "title": "Senior Solution Sales Executive - Industrial Connected Workforce",
+      "location": "Santa Clara, us",
+      "department": "Sales",
+      "updated_at": "2026-01-28T23:41:52.766Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106186396"
+    },
+    {
+      "id": "744000106169343",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "location": "Vienna, us",
+      "department": "Sales",
+      "updated_at": "2026-01-28T21:03:29.161Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106169343"
+    },
+    {
+      "id": "744000106075605",
+      "title": "Senior Platform Architect",
+      "location": "Staines, gb",
+      "department": "Customer Outcomes",
+      "updated_at": "2026-01-28T12:50:48.805Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106075605"
+    },
+    {
+      "id": "744000106022015",
+      "title": "Senior Manager, GTM Finance - APAC Expert Services",
+      "location": "Singapore, sg",
+      "department": "Finance & Accounting",
+      "updated_at": "2026-01-28T07:50:31.848Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106022015"
+    },
+    {
+      "id": "744000106006310",
+      "title": "Advisory Solution Consultant - Manufacturing (Assembly) ",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-01-28T05:12:47.522Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000106006310"
+    },
+    {
+      "id": "744000105952079",
+      "title": "Staff ServiceNow Software Engineer",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-01-27T21:01:52.461Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000105952079"
+    },
+    {
+      "id": "744000105907620",
+      "title": "Advisory Solution Consultant (ITOM) - US Federal DoD Community",
+      "location": "VIenna, us",
+      "department": "Sales",
+      "updated_at": "2026-01-27T17:02:51.225Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000105907620"
+    },
+    {
+      "id": "744000105860860",
+      "title": "Advisory Solution Consultant",
+      "location": "New York, us",
+      "department": "Sales",
+      "updated_at": "2026-01-27T14:23:23.236Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000105860860"
+    },
+    {
+      "id": "744000105845475",
+      "title": "Territory Partner Seller, Commercial Territory - EMEA South - French Speaker",
+      "location": "Dublin, ie",
+      "department": "Sales",
+      "updated_at": "2026-01-27T13:10:20.761Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000105845475"
+    },
+    {
+      "id": "744000105702525",
+      "title": "Director Global Employment Tax and Compliance",
+      "location": "Dublin, ie",
+      "department": "Finance & Accounting",
+      "updated_at": "2026-01-26T19:46:18.478Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000105702525"
+    },
+    {
+      "id": "744000105701450",
+      "title": "Advisory Solution Consultant - CRM (Strat Tech)",
+      "location": "San Francisco , us",
+      "department": "Sales",
+      "updated_at": "2026-01-26T19:45:41.172Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000105701450"
+    },
+    {
+      "id": "744000105207745",
+      "title": "Staff Product Manager - Cloud Infrastructure",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-01-23T18:53:51.818Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000105207745"
+    },
+    {
+      "id": "744000105169858",
+      "title": "Staff Systems Engineer- Hyperscaler",
+      "location": "Kirkland, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-01-23T15:39:00.303Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000105169858"
+    },
+    {
+      "id": "744000104994635",
+      "title": "Principal Software Engineer - AI/ML",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-01-22T17:56:28.776Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000104994635"
+    },
+    {
+      "id": "744000104858916",
+      "title": "Advisory Solution Consultant ",
+      "location": "Riyadh, sa",
+      "department": "Sales",
+      "updated_at": "2026-01-22T08:52:13.918Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000104858916"
+    },
+    {
+      "id": "744000104813840",
+      "title": "Sr Advisory Solution Consultant (Hong Kong)",
+      "location": "Causeway Bay, hk",
+      "department": "Sales",
+      "updated_at": "2026-01-22T01:18:28.836Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000104813840"
+    },
+    {
+      "id": "744000104792988",
+      "title": "GVP, Canada",
+      "location": "Toronto, ca",
+      "department": "Sales",
+      "updated_at": "2026-01-21T22:08:47.712Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000104792988"
+    },
+    {
+      "id": "744000104162745",
+      "title": "Sales Director - MY & ID",
+      "location": "Kuala Lumpur, my",
+      "department": "Sales",
+      "updated_at": "2026-01-19T03:36:06.608Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000104162745"
+    },
+    {
+      "id": "744000103970705",
+      "title": "Sr Advisory Solution Consultant",
+      "location": "Seattle, us",
+      "department": "Sales",
+      "updated_at": "2026-01-16T15:55:24.315Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103970705"
+    },
+    {
+      "id": "744000103761548",
+      "title": "Staff Software Engineer - Federal",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-01-15T16:38:36.224Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103761548"
+    },
+    {
+      "id": "744000103763545",
+      "title": "Senior Staff Software Engineer",
+      "location": "San Diego, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-01-15T16:30:19.082Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103763545"
+    },
+    {
+      "id": "744000103655926",
+      "title": "Advisory Solution Consultant - Utility & Retail",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-01-15T07:23:08.154Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103655926"
+    },
+    {
+      "id": "744000103563925",
+      "title": "Senior Enterprise Account Executive, Public Sector",
+      "location": "Hamburg, de",
+      "department": "Sales",
+      "updated_at": "2026-01-14T16:58:39.270Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103563925"
+    },
+    {
+      "id": "744000103441315",
+      "title": "Senior Principal Platform Architect",
+      "location": "Singapore, sg",
+      "department": "Customer Excellence HQ",
+      "updated_at": "2026-01-14T05:59:50.088Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103441315"
+    },
+    {
+      "id": "744000103252590",
+      "title": "Senior Solution Sales Executive, Operational Technology - CH/AT/CEE region",
+      "location": "Munich, de",
+      "department": "Sales",
+      "updated_at": "2026-01-13T10:47:15.679Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103252590"
+    },
+    {
+      "id": "744000103221005",
+      "title": "Solution Sales Executive - Moveworks",
+      "location": "Berlin, de",
+      "department": null,
+      "updated_at": "2026-01-13T07:52:40.386Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103221005"
+    },
+    {
+      "id": "744000103219900",
+      "title": "Solution Sales Executive - Moveworks",
+      "location": "Berlin, de",
+      "department": null,
+      "updated_at": "2026-01-13T07:50:45.313Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103219900"
+    },
+    {
+      "id": "744000103152539",
+      "title": "Solution Sales Executive - Moveworks",
+      "location": "Vienna, at",
+      "department": null,
+      "updated_at": "2026-01-12T21:34:28.477Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103152539"
+    },
+    {
+      "id": "744000103147551",
+      "title": "Senior Solution Sales Executive - Moveworks",
+      "location": "Issy Les Moulineaux, fr",
+      "department": null,
+      "updated_at": "2026-01-12T21:00:02.363Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103147551"
+    },
+    {
+      "id": "744000103139662",
+      "title": "Principal Software Engineer",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-01-12T20:07:41.510Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103139662"
+    },
+    {
+      "id": "744000103079100",
+      "title": "Presales Enterprise  Architect  - BFSI",
+      "location": "Bangalore, in",
+      "department": "Sales",
+      "updated_at": "2026-01-12T14:52:32.596Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103079100"
+    },
+    {
+      "id": "744000103079147",
+      "title": "Resell Partner Manager",
+      "location": "Amsterdam, nl",
+      "department": "Sales",
+      "updated_at": "2026-01-12T14:45:46.241Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103079147"
+    },
+    {
+      "id": "744000103078796",
+      "title": "Resell Partner Manager",
+      "location": "Issy Les Moulineaux, fr",
+      "department": "Sales",
+      "updated_at": "2026-01-12T14:44:01.668Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000103078796"
+    },
+    {
+      "id": "744000102980085",
+      "title": "Solution Sales Executive - Moveworks",
+      "location": "Frankfurt, de",
+      "department": null,
+      "updated_at": "2026-01-12T03:52:20.954Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000102980085"
+    },
+    {
+      "id": "744000102843975",
+      "title": "Sr Advisory Solution Consultant",
+      "location": "Dallas, us",
+      "department": "Sales",
+      "updated_at": "2026-01-10T17:39:42.313Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000102843975"
+    },
+    {
+      "id": "744000102843885",
+      "title": "Sr Advisory Solution Consultant",
+      "location": "Seattle, us",
+      "department": "Sales",
+      "updated_at": "2026-01-10T17:38:12.625Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000102843885"
+    },
+    {
+      "id": "744000102399925",
+      "title": "Enterprise Account Executive - FSI",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-01-08T23:57:21.857Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000102399925"
+    },
+    {
+      "id": "744000102250136",
+      "title": "Senior Manager, Strategy & Operations, CRM Japan",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-01-08T09:57:47.972Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000102250136"
+    },
+    {
+      "id": "744000102093486",
+      "title": "Principal Enterprise Architect - TMT",
+      "location": "Gurgaon, in",
+      "department": "Sales",
+      "updated_at": "2026-01-07T14:15:00.903Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000102093486"
+    },
+    {
+      "id": "744000101908319",
+      "title": "Sr Enterprise Sales Associate",
+      "location": "Waltham, us",
+      "department": "Sales",
+      "updated_at": "2026-01-06T17:38:47.723Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000101908319"
+    },
+    {
+      "id": "744000101653916",
+      "title": "Staff Systems Engineer - Hyperscaler",
+      "location": "Kirkland, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2026-01-05T15:45:49.037Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000101653916"
+    },
+    {
+      "id": "744000101635435",
+      "title": "Partner Manager",
+      "location": "Staines, gb",
+      "department": "Sales",
+      "updated_at": "2026-01-05T14:37:27.961Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000101635435"
+    },
+    {
+      "id": "744000101530397",
+      "title": "Senior Solution Sales Executive",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2026-01-05T01:34:39.057Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000101530397"
+    },
+    {
+      "id": "744000101090925",
+      "title": "Sr Enterprise Sales Associate",
+      "location": "Vienna, us",
+      "department": "Sales",
+      "updated_at": "2025-12-30T19:08:10.541Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000101090925"
+    },
+    {
+      "id": "744000100911675",
+      "title": "Senior Technical Consultant, Platform - Federal TS/SCI/FSP Clearance",
+      "location": "Vienna, us",
+      "department": "Customer Outcomes",
+      "updated_at": "2025-12-29T15:59:08.950Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000100911675"
+    },
+    {
+      "id": "744000100178350",
+      "title": "Distinguished Engineer",
+      "location": "Hyderabad, in",
+      "department": "IT",
+      "updated_at": "2025-12-23T04:30:08.097Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000100178350"
+    },
+    {
+      "id": "744000099745826",
+      "title": "AI GTM Solution Consultant",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2025-12-19T09:11:41.781Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000099745826"
+    },
+    {
+      "id": "744000099644986",
+      "title": "Senior Solution Sales Executive - Operational Technology",
+      "location": "Seattle, us",
+      "department": "Sales",
+      "updated_at": "2025-12-18T20:22:03.712Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000099644986"
+    },
+    {
+      "id": "744000099644818",
+      "title": "Senior Solution Sales Executive - Operational Technology",
+      "location": "Austin, us",
+      "department": "Sales",
+      "updated_at": "2025-12-18T20:18:07.607Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000099644818"
+    },
+    {
+      "id": "744000099150018",
+      "title": "Senior Platform Architect",
+      "location": "Munich, de",
+      "department": "Customer Outcomes",
+      "updated_at": "2025-12-16T13:18:34.271Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000099150018"
+    },
+    {
+      "id": "744000096822585",
+      "title": "Advisory Solution Consultant - Source to pay",
+      "location": "Mumbai, in",
+      "department": "Sales",
+      "updated_at": "2025-12-03T14:02:16.102Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000096822585"
+    },
+    {
+      "id": "744000096547235",
+      "title": "Enterprise Account Executive - Media & Technology",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2025-12-02T06:58:27.803Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000096547235"
+    },
+    {
+      "id": "744000094867497",
+      "title": "Technology and Digital Officer EMEA North",
+      "location": "Amsterdam, nl",
+      "department": "Sales",
+      "updated_at": "2025-11-21T15:03:29.760Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000094867497"
+    },
+    {
+      "id": "744000094537711",
+      "title": "Sr Mid-Market Account Executive",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2025-11-20T04:48:11.591Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000094537711"
+    },
+    {
+      "id": "744000094537795",
+      "title": "Enterprise Account Executive - Manufacturing(Process)",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2025-11-20T04:43:31.083Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000094537795"
+    },
+    {
+      "id": "744000093910406",
+      "title": "Advisory Solution Consultant",
+      "location": "Tokyo, jp",
+      "department": "Sales",
+      "updated_at": "2025-11-17T06:27:33.232Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000093910406"
+    },
+    {
+      "id": "744000092143547",
+      "title": "Staff Research Engineer/Scientist",
+      "location": "Santa Clara, us",
+      "department": "Engineering, Infrastructure and Operations",
+      "updated_at": "2025-11-06T20:58:41.400Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000092143547"
+    },
+    {
+      "id": "744000089762575",
+      "title": "Director, Sales - Public Sector",
+      "location": "Stockholm, se",
+      "department": "Sales",
+      "updated_at": "2025-10-24T17:29:19.483Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000089762575"
+    },
+    {
+      "id": "744000089108281",
+      "title": "Sr Advisory Solution Consultant",
+      "location": "Bentonville, us",
+      "department": "Sales",
+      "updated_at": "2025-10-21T17:26:37.201Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000089108281"
+    },
+    {
+      "id": "744000086785115",
+      "title": "Enterprise Account Executive, Public Sector",
+      "location": "Riyadh, sa",
+      "department": "Sales",
+      "updated_at": "2025-10-09T10:31:18.104Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000086785115"
+    },
+    {
+      "id": "744000079517885",
+      "title": "Principal /Senior Engagement Manager / Project Manager- German Speaking ",
+      "location": "Munich, de",
+      "department": "Customer Outcomes",
+      "updated_at": "2025-09-02T15:08:53.433Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000079517885"
+    }
+  ]
+}

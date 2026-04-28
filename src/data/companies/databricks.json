@@ -1,0 +1,10 @@
+{
+  "slug": "databricks",
+  "name": "Databricks",
+  "website": "https://www.databricks.com",
+  "sector": "Data / AI Platform",
+  "headquarters": "San Francisco, CA",
+  "description": "Lakehouse data platform, MLOps, generative-AI tooling (Mosaic acquisition).",
+  "ats": "greenhouse",
+  "atsIdentifier": "databricks"
+}

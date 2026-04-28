@@ -1,0 +1,14 @@
+{
+  "slug": "salesforce",
+  "name": "Salesforce",
+  "website": "https://www.salesforce.com",
+  "sector": "CRM / Cloud",
+  "headquarters": "San Francisco, CA",
+  "description": "CRM, Slack, Tableau, Heroku, Data Cloud; Einstein AI agents in pipeline.",
+  "ats": "workday",
+  "workday": {
+    "host": "salesforce.wd1.myworkdayjobs.com",
+    "tenant": "salesforce",
+    "site": "External_Career_Site"
+  }
+}

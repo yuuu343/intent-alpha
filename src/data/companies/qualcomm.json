@@ -1,0 +1,14 @@
+{
+  "slug": "qualcomm",
+  "name": "Qualcomm",
+  "website": "https://www.qualcomm.com",
+  "sector": "Semiconductors / Wireless",
+  "headquarters": "San Diego, CA",
+  "description": "Mobile SoCs (Snapdragon), 5G modems, automotive compute, on-device AI silicon, IoT.",
+  "ats": "workday",
+  "workday": {
+    "host": "qualcomm.wd5.myworkdayjobs.com",
+    "tenant": "Qualcomm",
+    "site": "External"
+  }
+}

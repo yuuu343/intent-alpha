@@ -1,0 +1,3385 @@
+{
+  "company": "snowflake",
+  "ats": "ashby",
+  "atsIdentifier": "snowflake",
+  "fetchedAt": "2026-04-28T04:30:48.225Z",
+  "count": 422,
+  "jobs": [
+    {
+      "id": "6567bfde-b934-4ac0-a709-91ebb26e5773",
+      "title": " Senior Solution Engineer",
+      "location": "Tokyo, Japan",
+      "department": "Solution Engineering",
+      "updated_at": "2023-12-13T02:16:59.812+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6567bfde-b934-4ac0-a709-91ebb26e5773"
+    },
+    {
+      "id": "853f7a17-2e85-4469-861f-6220e2daf00a",
+      "title": "Software Engineer - Platform Infrastructure Engineering",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2026-04-24T13:44:25.080+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/853f7a17-2e85-4469-861f-6220e2daf00a"
+    },
+    {
+      "id": "5ac622d6-698c-4a01-8fc3-bf49f034806a",
+      "title": " Solution Engineer",
+      "location": "Tokyo, Japan",
+      "department": "Solution Engineering",
+      "updated_at": "2024-10-25T00:05:11.798+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5ac622d6-698c-4a01-8fc3-bf49f034806a"
+    },
+    {
+      "id": "02b4dbeb-2fef-4838-9d79-922330f08d58",
+      "title": "Senior Data Scientist",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-03-20T13:11:32.547+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/02b4dbeb-2fef-4838-9d79-922330f08d58"
+    },
+    {
+      "id": "db1375f0-ea5d-404a-b640-259f94dbc995",
+      "title": "Software Engineer - Database Engineering",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2025-01-17T18:37:08.076+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995"
+    },
+    {
+      "id": "b77b3b89-1fd1-474f-a642-af0c41b43a3b",
+      "title": "Senior Software Engineer- Open Source Analytics",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2025-01-17T01:47:33.811+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b77b3b89-1fd1-474f-a642-af0c41b43a3b"
+    },
+    {
+      "id": "3eb872af-0ab1-4986-8f72-e7321fcd1538",
+      "title": "Software Engineer - Backend",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-02-06T22:52:57.850+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3eb872af-0ab1-4986-8f72-e7321fcd1538"
+    },
+    {
+      "id": "38f79cb1-c366-4bc5-9965-cc679ee730a4",
+      "title": "Software Engineer Intern (Backend) - Warsaw 2026",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2026-02-23T13:59:47.069+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/38f79cb1-c366-4bc5-9965-cc679ee730a4"
+    },
+    {
+      "id": "e2739aab-b0a2-4583-92c1-13bbd4fd9672",
+      "title": "Principal Software Engineer I - Metadata",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-23T15:33:16.839+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e2739aab-b0a2-4583-92c1-13bbd4fd9672"
+    },
+    {
+      "id": "5ee8f744-ff46-45c8-8d1c-b83514b24f61",
+      "title": "Staff AI Engineer - Snowflake Intelligence",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2025-03-25T16:56:44.133+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5ee8f744-ff46-45c8-8d1c-b83514b24f61"
+    },
+    {
+      "id": "97813cac-e55c-4631-94fe-5eda15c7eaed",
+      "title": "Senior Forward Deployed Engineer -Spark",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-01T18:25:08.762+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/97813cac-e55c-4631-94fe-5eda15c7eaed"
+    },
+    {
+      "id": "b9b85c1d-0760-4e28-9dfe-41724c8335a1",
+      "title": "Senior Data Scientist - Product",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2025-08-27T22:58:39.632+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b9b85c1d-0760-4e28-9dfe-41724c8335a1"
+    },
+    {
+      "id": "66c13b2c-4f8b-408e-b1c0-d40d7807592c",
+      "title": "Senior Software Application Engineer",
+      "location": "CR-San Jose",
+      "department": "Engineering",
+      "updated_at": "2025-04-30T16:25:14.494+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/66c13b2c-4f8b-408e-b1c0-d40d7807592c"
+    },
+    {
+      "id": "2189417c-3481-41a4-b33c-4c361ce8df60",
+      "title": "Solutions Architect - Migrations",
+      "location": "JP-Japan-Remote",
+      "department": "Professional Services",
+      "updated_at": "2025-05-05T11:46:14.737+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2189417c-3481-41a4-b33c-4c361ce8df60"
+    },
+    {
+      "id": "247840b3-4332-45ce-9ade-0424a0f27290",
+      "title": "Senior Engineering Manager - Query Execution Platform",
+      "location": "DE-Berlin-Trion Building",
+      "department": "Engineering",
+      "updated_at": "2025-05-06T14:27:48.082+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/247840b3-4332-45ce-9ade-0424a0f27290"
+    },
+    {
+      "id": "440ec976-a307-4575-abab-554aef8151a4",
+      "title": "Solutions Architect",
+      "location": "IL-Israel-Remote",
+      "department": "Professional Services",
+      "updated_at": "2026-03-09T09:00:10.653+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/440ec976-a307-4575-abab-554aef8151a4"
+    },
+    {
+      "id": "44ff3eec-3736-4606-8618-7f414b23baff",
+      "title": "Staff Software Engineer - Container Platform ",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2026-03-19T11:42:34.699+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/44ff3eec-3736-4606-8618-7f414b23baff"
+    },
+    {
+      "id": "2197e016-d38b-472a-8dab-72e614166f55",
+      "title": "Account Executive, Majors Acquisition",
+      "location": "US-MN-Remote",
+      "department": "Sales",
+      "updated_at": "2026-04-08T20:00:08.070+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2197e016-d38b-472a-8dab-72e614166f55"
+    },
+    {
+      "id": "304b99ee-5d3b-4c4f-be72-47d438123911",
+      "title": "Designated Support Engineer",
+      "location": "Tokyo, Japan",
+      "department": "Global Support",
+      "updated_at": "2025-07-07T04:35:39.206+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/304b99ee-5d3b-4c4f-be72-47d438123911"
+    },
+    {
+      "id": "0f0e6358-f3a8-453f-98cb-3d44fcfcb1fd",
+      "title": "Solution Engineer - Data Engineering Specialist",
+      "location": "US, Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-23T12:25:40.946+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0f0e6358-f3a8-453f-98cb-3d44fcfcb1fd"
+    },
+    {
+      "id": "da8298e6-c9e1-4d12-8af2-2405ba766602",
+      "title": "Solutions Engineer",
+      "location": "MX-Mexico-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-01-20T06:49:11.618+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/da8298e6-c9e1-4d12-8af2-2405ba766602"
+    },
+    {
+      "id": "f5eb0614-25c2-4fbb-a4ef-be577f41a945",
+      "title": "Sr. District Manager, Commercial",
+      "location": "US-CA-Menlo Park",
+      "department": "Sales",
+      "updated_at": "2025-11-03T18:46:03.884+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f5eb0614-25c2-4fbb-a4ef-be577f41a945"
+    },
+    {
+      "id": "4d509673-07d6-471c-9b1a-1625863f9224",
+      "title": "Senior Solution Engineer",
+      "location": "IL-Tel Aviv-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-01-05T16:47:19.852+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/4d509673-07d6-471c-9b1a-1625863f9224"
+    },
+    {
+      "id": "70fa522f-acbd-467e-aa1d-ddcf078bb256",
+      "title": "Account Executive, Commercial",
+      "location": "US-GA-Atlanta",
+      "department": "Sales",
+      "updated_at": "2026-04-14T22:02:48.922+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/70fa522f-acbd-467e-aa1d-ddcf078bb256"
+    },
+    {
+      "id": "0fd8cb45-cc23-4632-ae02-32471f45bbc0",
+      "title": "Software Application Engineer - Migrations",
+      "location": "CR-San Jose",
+      "department": "Engineering",
+      "updated_at": "2025-08-08T22:05:09.859+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0fd8cb45-cc23-4632-ae02-32471f45bbc0"
+    },
+    {
+      "id": "2c855f7d-9228-4ee6-b6b7-dcb3c33c3796",
+      "title": "Postgres Engineer",
+      "location": "TR-Istanbul-MSO",
+      "department": "Engineering",
+      "updated_at": "2025-08-14T10:53:52.715+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2c855f7d-9228-4ee6-b6b7-dcb3c33c3796"
+    },
+    {
+      "id": "34584833-b410-4c03-bf0c-0208bcf962c6",
+      "title": "Senior/Staff Software Engineer - Machine Learning Platform (Inference)",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2025-08-21T17:11:17.311+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/34584833-b410-4c03-bf0c-0208bcf962c6"
+    },
+    {
+      "id": "74227e62-e43d-4e2d-9c4e-af1e9c78a5d1",
+      "title": "Enterprise Account Executive - Manufacturing",
+      "location": "JP-Tokyo",
+      "department": "Sales",
+      "updated_at": "2026-03-05T06:28:35.368+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/74227e62-e43d-4e2d-9c4e-af1e9c78a5d1"
+    },
+    {
+      "id": "92cabd7b-3aad-4e1c-a822-7757f2a13d95",
+      "title": "Senior Technical Account Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-11T19:19:19.870+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/92cabd7b-3aad-4e1c-a822-7757f2a13d95"
+    },
+    {
+      "id": "89284026-17c8-463b-91a9-e5114942d291",
+      "title": "Enterprise Account Executive - FSI",
+      "location": "JP-Tokyo",
+      "department": "Sales",
+      "updated_at": "2026-03-05T06:27:30.959+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/89284026-17c8-463b-91a9-e5114942d291"
+    },
+    {
+      "id": "9ec42613-3d43-45c1-8221-1ce32cb922a6",
+      "title": "Enterprise Account Executive - NHS",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-04-08T09:41:49.789+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/9ec42613-3d43-45c1-8221-1ce32cb922a6"
+    },
+    {
+      "id": "acdbed12-827e-4553-bb6d-198ab8a04b46",
+      "title": "Enterprise Account Executive - Automotive ",
+      "location": "JP-Tokyo",
+      "department": "Sales",
+      "updated_at": "2026-03-05T06:26:33.959+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/acdbed12-827e-4553-bb6d-198ab8a04b46"
+    },
+    {
+      "id": "5590a5a7-1bb8-4022-a2b7-fe18ac777972",
+      "title": "Enterprise Account Executive - Advertisement & Media",
+      "location": "JP-Tokyo",
+      "department": "Sales",
+      "updated_at": "2026-03-05T06:16:04.149+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5590a5a7-1bb8-4022-a2b7-fe18ac777972"
+    },
+    {
+      "id": "734ff4ee-f15c-4408-a421-aa5144b2ba33",
+      "title": "Industry Lead, Retail & Consumer Goods, Americas",
+      "location": "US-USA-Remote",
+      "department": "Sales",
+      "updated_at": "2026-03-12T19:17:59.852+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/734ff4ee-f15c-4408-a421-aa5144b2ba33"
+    },
+    {
+      "id": "e47266d7-0e40-4c19-9007-730222ddc3ad",
+      "title": "Account Based Marketing Manager ",
+      "location": "FR-Paris",
+      "department": "Marketing",
+      "updated_at": "2026-02-19T08:48:39.628+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e47266d7-0e40-4c19-9007-730222ddc3ad"
+    },
+    {
+      "id": "41e65c6c-a01e-4f40-af14-ae75d3b95e27",
+      "title": "Software Engineer Intern - Berlin (2026)",
+      "location": "DE-Berlin-Trion Building",
+      "department": "Engineering",
+      "updated_at": "2025-09-26T10:29:09.155+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27"
+    },
+    {
+      "id": "dd0075c9-3fd8-4262-900e-82e9115e874a",
+      "title": "Manager, Finance Transformation",
+      "location": "US-CA-Dublin",
+      "department": "Finance",
+      "updated_at": "2026-03-27T17:17:50.362+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/dd0075c9-3fd8-4262-900e-82e9115e874a"
+    },
+    {
+      "id": "d297d07c-eaa7-4896-946d-df2879c8cde3",
+      "title": "Principal Software Engineer II - Interoperable Foundations",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-04-13T20:36:54.824+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d297d07c-eaa7-4896-946d-df2879c8cde3"
+    },
+    {
+      "id": "f17e8a6d-8af5-40c9-b8d4-4a26f22f2503",
+      "title": "Field Marketing Coordinator (Hybrid)",
+      "location": "IL-Tel Aviv-MSO",
+      "department": "Marketing",
+      "updated_at": "2026-02-10T11:44:14.350+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f17e8a6d-8af5-40c9-b8d4-4a26f22f2503"
+    },
+    {
+      "id": "0bd2f4bd-d46a-43cf-b923-74e56b17cb85",
+      "title": "Senior Engineering Manager - Developer Platform",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2025-09-22T09:20:24.118+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0bd2f4bd-d46a-43cf-b923-74e56b17cb85"
+    },
+    {
+      "id": "506f998b-4c1d-4dba-b146-b37c1bedc1b0",
+      "title": "Sales Development Representative (EMEA)",
+      "location": "DE-Munich-MSO",
+      "department": "Sales Development",
+      "updated_at": "2026-04-23T08:58:29.773+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/506f998b-4c1d-4dba-b146-b37c1bedc1b0"
+    },
+    {
+      "id": "ad1b51cd-14f1-42a4-b9b9-830b93c1e1df",
+      "title": "Senior Manager Engineering - Snowhouse Foundation",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2025-09-30T18:47:24.682+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ad1b51cd-14f1-42a4-b9b9-830b93c1e1df"
+    },
+    {
+      "id": "6cb7f132-f93c-4872-8deb-f2f4f31a4df5",
+      "title": "Engineering Manager Performance",
+      "location": "DE-Berlin-Trion Building",
+      "department": "Engineering",
+      "updated_at": "2025-10-07T11:54:58.648+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6cb7f132-f93c-4872-8deb-f2f4f31a4df5"
+    },
+    {
+      "id": "5cf06916-aef0-4fe5-9925-2410389be9d7",
+      "title": "Solutions Architect",
+      "location": "NL-Netherlands-Remote",
+      "department": "Professional Services",
+      "updated_at": "2025-11-04T20:05:26.798+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5cf06916-aef0-4fe5-9925-2410389be9d7"
+    },
+    {
+      "id": "c8502ac3-8866-4cfa-89c5-fb50044aea85",
+      "title": "Senior Solution Engineer",
+      "location": "US-CA-Dublin",
+      "department": "Solution Engineering",
+      "updated_at": "2025-10-03T17:40:03.440+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c8502ac3-8866-4cfa-89c5-fb50044aea85"
+    },
+    {
+      "id": "573478dd-de1f-4d6f-89f5-4d5fdc712ee3",
+      "title": "Senior Solution Engineer",
+      "location": "AU-Sydney",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-01T07:07:58.080+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/573478dd-de1f-4d6f-89f5-4d5fdc712ee3"
+    },
+    {
+      "id": "bcb00e62-34db-41b4-a044-07f4438ea60a",
+      "title": "Senior Anti-Abuse Security Engineer, Product Security",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-01-23T18:54:41.850+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/bcb00e62-34db-41b4-a044-07f4438ea60a"
+    },
+    {
+      "id": "5f4ae8d3-bf84-430d-8f9f-325f14ddf947",
+      "title": "Software Engineer - APG",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-01-20T17:38:43.538+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5f4ae8d3-bf84-430d-8f9f-325f14ddf947"
+    },
+    {
+      "id": "f8ebbc32-0de0-4893-8c41-277131cd9806",
+      "title": "Senior Product Manager - Snowflake Intelligence",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-02-27T19:37:41.261+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f8ebbc32-0de0-4893-8c41-277131cd9806"
+    },
+    {
+      "id": "012a4fed-e2fb-454d-947d-630fe509a208",
+      "title": "Senior Compensation Analyst",
+      "location": "US-CA-Menlo Park",
+      "department": "People",
+      "updated_at": "2026-04-16T14:48:22.832+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/012a4fed-e2fb-454d-947d-630fe509a208"
+    },
+    {
+      "id": "c8f9789e-2ef9-4741-9f27-418a0c2d341d",
+      "title": "Engineering Manager Data Pipelines",
+      "location": "DE-Berlin-Trion Building",
+      "department": "Engineering",
+      "updated_at": "2025-10-23T16:23:35.550+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c8f9789e-2ef9-4741-9f27-418a0c2d341d"
+    },
+    {
+      "id": "7572bf28-e135-4fd7-8cb6-a6c228952ec1",
+      "title": "Product Marketing - Competitive Intelligence Lead",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2025-10-21T18:32:45.706+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7572bf28-e135-4fd7-8cb6-a6c228952ec1"
+    },
+    {
+      "id": "2d5688ad-b4c9-4887-9009-dc6f84bd179a",
+      "title": "Services Delivery Manager",
+      "location": "NO-Oslo-MSO",
+      "department": "Professional Services",
+      "updated_at": "2025-12-09T11:36:15.232+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2d5688ad-b4c9-4887-9009-dc6f84bd179a"
+    },
+    {
+      "id": "7657edf1-2646-4a37-b178-2807cd7dd5e5",
+      "title": "Principal Software Engineer I - Snowhouse Foundation",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-02-26T17:31:27.247+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7657edf1-2646-4a37-b178-2807cd7dd5e5"
+    },
+    {
+      "id": "e01b5b38-d3d4-4a6f-9b59-cef359d561eb",
+      "title": "Regional Partner Director - North",
+      "location": "SE-Sweden-Remote",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-02-04T10:26:04.207+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e01b5b38-d3d4-4a6f-9b59-cef359d561eb"
+    },
+    {
+      "id": "a233050a-a770-4e19-b06a-61a57243a7db",
+      "title": "Senior Solution Engineer - HCLS",
+      "location": "GB-London",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-23T09:44:40.929+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a233050a-a770-4e19-b06a-61a57243a7db"
+    },
+    {
+      "id": "4586fd20-d86d-4c7e-8ab0-fc41a1ccaf9f",
+      "title": "Sr People Compliance Analyst",
+      "location": "US-CA-Menlo Park",
+      "department": "People",
+      "updated_at": "2026-03-23T14:32:35.951+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/4586fd20-d86d-4c7e-8ab0-fc41a1ccaf9f"
+    },
+    {
+      "id": "09adfe1d-f78c-4d58-9aad-04d84c6ef980",
+      "title": "Staff Software Engineer - Applied Performance Group",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2025-10-31T22:34:35.457+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/09adfe1d-f78c-4d58-9aad-04d84c6ef980"
+    },
+    {
+      "id": "e7c12d6b-efbe-4c6f-bb13-cc50dabc877d",
+      "title": "Principal Solution Engineer",
+      "location": "Sydney, Australia",
+      "department": "Solution Engineering",
+      "updated_at": "2025-12-05T06:48:28.059+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e7c12d6b-efbe-4c6f-bb13-cc50dabc877d"
+    },
+    {
+      "id": "d8d770f6-207b-4f75-bcd0-dc66358e613c",
+      "title": "Principal Solution Engineer",
+      "location": "AU-Melbourne",
+      "department": "Solution Engineering",
+      "updated_at": "2025-12-05T06:48:45.968+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d8d770f6-207b-4f75-bcd0-dc66358e613c"
+    },
+    {
+      "id": "8ff9a052-a7d2-4b59-8468-40ddef31c580",
+      "title": "Technical Program Manager, Data & Reporting",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2025-11-04T23:53:59.033+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8ff9a052-a7d2-4b59-8468-40ddef31c580"
+    },
+    {
+      "id": "4ed363e0-cdb3-44ab-bdd9-6e91e00ce660",
+      "title": "Senior Principal Engineer - Front End",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-23T14:42:12.219+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/4ed363e0-cdb3-44ab-bdd9-6e91e00ce660"
+    },
+    {
+      "id": "cac27b18-bd24-4722-8bb7-0b5ce7b18eaf",
+      "title": "Principal Software Engineer - AI Poland",
+      "location": "PL-Warsaw",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-04-01T21:17:33.625+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/cac27b18-bd24-4722-8bb7-0b5ce7b18eaf"
+    },
+    {
+      "id": "65f598bd-f528-42da-b5e5-b3b0bdeed52c",
+      "title": "Senior (Staff) Penetration Tester",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2026-04-02T14:33:06.035+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/65f598bd-f528-42da-b5e5-b3b0bdeed52c"
+    },
+    {
+      "id": "9d0fd974-03be-402c-8052-4a879ac8c1b0",
+      "title": "SENIOR SECURITY ENGINEER - PRODUCT SECURITY",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2026-03-26T16:01:17.525+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/9d0fd974-03be-402c-8052-4a879ac8c1b0"
+    },
+    {
+      "id": "e31c32b8-0707-4bfb-81a4-fe9764f20686",
+      "title": "Senior Director of Engineering, Traffic and Networking",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-03-24T16:11:34.415+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e31c32b8-0707-4bfb-81a4-fe9764f20686"
+    },
+    {
+      "id": "45fd2192-852d-4cf4-bffe-b0fcc46b7426",
+      "title": "Senior Technical Program Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-01-21T20:37:32.547+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/45fd2192-852d-4cf4-bffe-b0fcc46b7426"
+    },
+    {
+      "id": "a9b5d21f-3ed9-4158-9b05-76e65736a5da",
+      "title": "Sales Development Representative",
+      "location": "US-CA-Menlo Park",
+      "department": "Sales Development",
+      "updated_at": "2025-12-05T16:47:59.177+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a9b5d21f-3ed9-4158-9b05-76e65736a5da"
+    },
+    {
+      "id": "897e1850-c590-4462-b187-0516b65b2034",
+      "title": "Software Engineer Intern (AI/ML) - 2026",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2025-11-26T11:14:12.310+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034"
+    },
+    {
+      "id": "e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
+      "title": "Research Intern (AI) - 2026",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2025-11-26T11:14:30.976+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82"
+    },
+    {
+      "id": "b80ae1a9-7f32-499a-89de-fc227d65d089",
+      "title": "Principal Software Engineer II, Horizon Catalog",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2025-11-26T16:38:06.633+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b80ae1a9-7f32-499a-89de-fc227d65d089"
+    },
+    {
+      "id": "535ce4ac-9e1f-4068-97c3-eb43a92bfebf",
+      "title": "Senior Product Manager - Snowflake Organizations",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2025-12-01T21:29:54.729+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/535ce4ac-9e1f-4068-97c3-eb43a92bfebf"
+    },
+    {
+      "id": "7acd9c10-bdb7-4cae-8ba2-a3d2ceaf8397",
+      "title": "Senior Solution Engineer",
+      "location": "US-WI-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-30T17:18:41.646+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7acd9c10-bdb7-4cae-8ba2-a3d2ceaf8397"
+    },
+    {
+      "id": "a9b4dab9-0b27-47b0-b0fb-2d83c5742717",
+      "title": "Principal Software Engineer - Snowflake Intelligence",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-02-26T19:19:17.707+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a9b4dab9-0b27-47b0-b0fb-2d83c5742717"
+    },
+    {
+      "id": "27580e39-c5a7-42ba-829d-4ae619f3e6b6",
+      "title": "Staff Product Manager - Compute Engine",
+      "location": "US-WA-Bellevue",
+      "department": "Product Management",
+      "updated_at": "2025-12-03T22:29:10.593+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/27580e39-c5a7-42ba-829d-4ae619f3e6b6"
+    },
+    {
+      "id": "c9650a88-aeb8-4696-bc88-357d2bc7caaa",
+      "title": "Sales Development Representative",
+      "location": "US-CO-Denver",
+      "department": "Sales Development",
+      "updated_at": "2025-12-03T20:26:50.292+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c9650a88-aeb8-4696-bc88-357d2bc7caaa"
+    },
+    {
+      "id": "117c0d64-ab16-4041-b82a-af7b6084305e",
+      "title": "Sales Development Representative",
+      "location": "US-GA-Atlanta",
+      "department": "Sales Development",
+      "updated_at": "2026-04-23T15:50:45.156+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/117c0d64-ab16-4041-b82a-af7b6084305e"
+    },
+    {
+      "id": "53777cce-92ea-47dd-b9d3-7dc4c8db26ec",
+      "title": "Senior UX Designer",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-04-17T21:17:45.989+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/53777cce-92ea-47dd-b9d3-7dc4c8db26ec"
+    },
+    {
+      "id": "15cde9bd-89cc-4555-9e1f-1de222ef66fe",
+      "title": "Senior Solution Engineer",
+      "location": "US-TX-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-30T16:54:22.790+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/15cde9bd-89cc-4555-9e1f-1de222ef66fe"
+    },
+    {
+      "id": "0c14674d-bca3-485d-9bbe-af4026ee7c92",
+      "title": "Senior Data Platform Architect",
+      "location": "GB-London",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-15T06:22:18.210+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0c14674d-bca3-485d-9bbe-af4026ee7c92"
+    },
+    {
+      "id": "434adfa9-1a4a-41dd-a411-ff873f5ac328",
+      "title": "Enterprise Account Executive",
+      "location": "PH-Philippines-Remote",
+      "department": "Sales",
+      "updated_at": "2025-12-08T02:35:03.350+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/434adfa9-1a4a-41dd-a411-ff873f5ac328"
+    },
+    {
+      "id": "57096e3b-d046-455c-b289-438f77e82dbe",
+      "title": "Marketing Operations Manager – Campaign Automation",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2025-12-10T21:00:27.628+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/57096e3b-d046-455c-b289-438f77e82dbe"
+    },
+    {
+      "id": "cf2d1ef1-aa9a-4332-ae9f-e9504798a13e",
+      "title": "Employee Relations Business Partner, EMEA",
+      "location": "GB-London",
+      "department": "People",
+      "updated_at": "2025-12-12T20:27:31.778+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/cf2d1ef1-aa9a-4332-ae9f-e9504798a13e"
+    },
+    {
+      "id": "9dbb9d89-5c36-4380-b298-4aeb9ba6578a",
+      "title": "Solution Engineer - Data Cloud Architect  - Apps",
+      "location": "US-NY-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2025-12-08T15:43:34.561+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/9dbb9d89-5c36-4380-b298-4aeb9ba6578a"
+    },
+    {
+      "id": "d386f15a-9d4c-43ff-861c-122d22da66dd",
+      "title": "Principal Software Engineer - PostgreSQL",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-30T16:50:47.300+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d386f15a-9d4c-43ff-861c-122d22da66dd"
+    },
+    {
+      "id": "96f0e865-419d-42b9-b64c-27e22a3d9424",
+      "title": "AI Product Sales Specialist",
+      "location": "Tokyo, Japan",
+      "department": "Sales",
+      "updated_at": "2025-12-22T06:16:04.997+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/96f0e865-419d-42b9-b64c-27e22a3d9424"
+    },
+    {
+      "id": "cbdc139a-1c50-4b19-8fac-1d4a20e694f8",
+      "title": "Senior Partner Solution Engineer - ANZ",
+      "location": "AU-Melbourne",
+      "department": "Solution Engineering",
+      "updated_at": "2025-12-19T05:46:07.454+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/cbdc139a-1c50-4b19-8fac-1d4a20e694f8"
+    },
+    {
+      "id": "058c268d-b7ab-4728-bc43-13e8dfb0b54f",
+      "title": "Account Executive (Acquisition)",
+      "location": "DE-Germany-Remote",
+      "department": "Sales",
+      "updated_at": "2026-03-25T10:42:40.146+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/058c268d-b7ab-4728-bc43-13e8dfb0b54f"
+    },
+    {
+      "id": "02aa1900-b08d-44e4-8724-9eba8b090fb1",
+      "title": "Senior Product Manager - Developer Platform",
+      "location": "PL-Warsaw",
+      "department": "Product Management",
+      "updated_at": "2026-02-26T17:51:57.420+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/02aa1900-b08d-44e4-8724-9eba8b090fb1"
+    },
+    {
+      "id": "a81cd092-6af1-499a-b269-c417ecce7e1e",
+      "title": "Solution Engineer",
+      "location": "US-MD-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-21T17:51:29.846+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a81cd092-6af1-499a-b269-c417ecce7e1e"
+    },
+    {
+      "id": "c4a7f41e-c977-4d98-8a99-230dd9df8838",
+      "title": "Account Executive, Commercial Acquisition",
+      "location": "US-MA-Boston",
+      "department": "Sales",
+      "updated_at": "2026-01-08T05:19:22.840+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c4a7f41e-c977-4d98-8a99-230dd9df8838"
+    },
+    {
+      "id": "750d8cb9-0739-455d-844d-98da8f20ff43",
+      "title": "Senior Solution Engineer, Healthcare & Life Science",
+      "location": "US-NC-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-17T17:27:01.620+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/750d8cb9-0739-455d-844d-98da8f20ff43"
+    },
+    {
+      "id": "3d760ccf-dac6-437c-aeec-f65f67582552",
+      "title": "Partner Development Manager - Data Cloud Products, Korea",
+      "location": "KR-South Korea-Remote",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-04-23T04:34:15.544+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3d760ccf-dac6-437c-aeec-f65f67582552"
+    },
+    {
+      "id": "afa654dd-0431-4030-9878-1e48c27465bd",
+      "title": "Senior Software Engineer - Openflow",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-20T19:40:19.644+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/afa654dd-0431-4030-9878-1e48c27465bd"
+    },
+    {
+      "id": "bc7199f7-076e-4831-9eba-7e90f81d0c77",
+      "title": "Account Solution Engineer",
+      "location": "FutureSite-DE-Berlin",
+      "department": "Solution Engineering",
+      "updated_at": "2026-01-20T18:50:42.003+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/bc7199f7-076e-4831-9eba-7e90f81d0c77"
+    },
+    {
+      "id": "2a928b93-a5d4-4285-a92c-032fb389faa2",
+      "title": "Software Engineer - SnowConvert AI",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-01-21T20:33:46.679+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2"
+    },
+    {
+      "id": "7a23d023-ca10-48cf-882f-85916678816d",
+      "title": "Principal Architect, Global Manufacturing CTO",
+      "location": "US-MI-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-22T17:01:37.627+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7a23d023-ca10-48cf-882f-85916678816d"
+    },
+    {
+      "id": "6c2a6557-61d6-4c1b-b448-47334a70f5c7",
+      "title": "Engineering Manager - Freepool",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2025-12-16T14:19:39.344+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6c2a6557-61d6-4c1b-b448-47334a70f5c7"
+    },
+    {
+      "id": "2e734c93-182e-4430-9393-e28ed5c1e71f",
+      "title": "Senior Product Marketing Manager - Apps",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-01-22T22:58:58.527+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2e734c93-182e-4430-9393-e28ed5c1e71f"
+    },
+    {
+      "id": "de785884-dd32-4943-afd2-db5ec94b0c94",
+      "title": "Software Engineering Manager, Identity Access Management",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-01-24T01:08:56.331+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/de785884-dd32-4943-afd2-db5ec94b0c94"
+    },
+    {
+      "id": "a1d41a01-d125-4410-bd42-d0c876e24bbe",
+      "title": "Engineering Manager - Openflow",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-02-27T17:01:21.381+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a1d41a01-d125-4410-bd42-d0c876e24bbe"
+    },
+    {
+      "id": "ee9bfed4-2161-4041-a92e-e244e2fbc39f",
+      "title": "Account Executive, Enterprise Acquisition",
+      "location": "CA-Alberta-Remote",
+      "department": "Sales",
+      "updated_at": "2026-01-22T05:02:27.502+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ee9bfed4-2161-4041-a92e-e244e2fbc39f"
+    },
+    {
+      "id": "f93ddfe4-f521-438c-be3d-cc7bd6836b56",
+      "title": "Solution Engineer, Expansion",
+      "location": "AU-Sydney",
+      "department": "Solution Engineering",
+      "updated_at": "2026-01-23T07:42:46.567+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f93ddfe4-f521-438c-be3d-cc7bd6836b56"
+    },
+    {
+      "id": "23bcd112-d7d8-4060-8889-a7a045f65039",
+      "title": "Enterprise Account Executive - Sydney",
+      "location": "AU-Sydney",
+      "department": "Sales",
+      "updated_at": "2026-03-17T22:59:50.433+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/23bcd112-d7d8-4060-8889-a7a045f65039"
+    },
+    {
+      "id": "24dcede1-0f2d-4d18-ac24-72b3a72de143",
+      "title": "Account Executive, Commercial Acquisition",
+      "location": "US-CO-Denver",
+      "department": "Sales",
+      "updated_at": "2026-04-10T19:53:23.926+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/24dcede1-0f2d-4d18-ac24-72b3a72de143"
+    },
+    {
+      "id": "1b4cc36a-1ceb-47df-a4ca-1509de6e52a5",
+      "title": "Sales Development Representative, Observe",
+      "location": "US-CA-Menlo Park",
+      "department": "Sales Development",
+      "updated_at": "2026-02-23T18:22:09.253+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1b4cc36a-1ceb-47df-a4ca-1509de6e52a5"
+    },
+    {
+      "id": "a6e3fdf0-c1ca-46cb-8123-052df4fc8d14",
+      "title": "Solution Engineer",
+      "location": "CA-Ontario-Toronto",
+      "department": "Solution Engineering",
+      "updated_at": "2026-01-28T15:17:14.890+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a6e3fdf0-c1ca-46cb-8123-052df4fc8d14"
+    },
+    {
+      "id": "36aacacd-c077-4393-8a5c-d81182ad4672",
+      "title": "Solution Engineer",
+      "location": "CA-Ontario-Toronto",
+      "department": "Solution Engineering",
+      "updated_at": "2026-01-28T15:19:26.810+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/36aacacd-c077-4393-8a5c-d81182ad4672"
+    },
+    {
+      "id": "94aa7fc4-72ee-4d8f-844a-4ef1aeb5681c",
+      "title": "Senior Cloud Support Engineer - US Public Sector",
+      "location": "US-GA-Atlanta",
+      "department": "Global Support",
+      "updated_at": "2026-01-27T19:20:27.049+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/94aa7fc4-72ee-4d8f-844a-4ef1aeb5681c"
+    },
+    {
+      "id": "a2dd8bc9-436a-49fa-8b07-fb7a154d5c4e",
+      "title": "Senior Manager, Field Marketing Acquisition",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-01-27T17:49:44.908+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a2dd8bc9-436a-49fa-8b07-fb7a154d5c4e"
+    },
+    {
+      "id": "69d17996-c9a1-4309-a379-398013a7e410",
+      "title": "Principal Machine Learning Engineer- Search Quality",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-01-30T17:31:37.649+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/69d17996-c9a1-4309-a379-398013a7e410"
+    },
+    {
+      "id": "58656ea6-d1e7-4cdb-ae65-c8d4c5457d7d",
+      "title": "Head of Learning & Content Experience",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-25T23:39:23.109+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/58656ea6-d1e7-4cdb-ae65-c8d4c5457d7d"
+    },
+    {
+      "id": "ff95a387-2f3c-488d-b76b-d9b298e6b07d",
+      "title": "Account Engineer",
+      "location": "SG-Singapore",
+      "department": "Solution Engineering",
+      "updated_at": "2026-01-26T02:31:14.690+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ff95a387-2f3c-488d-b76b-d9b298e6b07d"
+    },
+    {
+      "id": "32d441ea-d158-4a1e-9aba-7ed31e79f071",
+      "title": "Account Engineer",
+      "location": "JP-Tokyo",
+      "department": "Solution Engineering",
+      "updated_at": "2026-01-26T02:26:29.374+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/32d441ea-d158-4a1e-9aba-7ed31e79f071"
+    },
+    {
+      "id": "83d4cee5-ad51-4396-ad99-162098375ef3",
+      "title": "Business Development Manager - Services",
+      "location": "AU-Melbourne",
+      "department": "Professional Services",
+      "updated_at": "2026-01-27T04:58:19.861+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/83d4cee5-ad51-4396-ad99-162098375ef3"
+    },
+    {
+      "id": "fea0eedc-a3f7-4442-be27-af3c24c0068b",
+      "title": "Senior Solution Engineer",
+      "location": "IN-Mumbai-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-02-25T03:14:41.653+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/fea0eedc-a3f7-4442-be27-af3c24c0068b"
+    },
+    {
+      "id": "b6a0273d-c158-4b20-a734-3be1ca24063d",
+      "title": "Senior Partner Solution Engineer",
+      "location": "MX-Mexico-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-21T21:28:40.143+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b6a0273d-c158-4b20-a734-3be1ca24063d"
+    },
+    {
+      "id": "3c354724-0329-4810-923e-a6e0f6c1946c",
+      "title": "Enterprise Account Executive - Insurance",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-02-03T20:38:53.807+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3c354724-0329-4810-923e-a6e0f6c1946c"
+    },
+    {
+      "id": "2bca874d-6c17-4bc9-ab05-ad230fde040a",
+      "title": "Sales Development Representative - Portuguese Speaker",
+      "location": "US-GA-Atlanta",
+      "department": "Sales Development",
+      "updated_at": "2026-01-31T00:35:18.830+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a"
+    },
+    {
+      "id": "b2b52786-a41f-4200-b813-9a6b497d4f04",
+      "title": "Senior Solution Engineer",
+      "location": "US-IL-Remote",
+      "department": "Sales",
+      "updated_at": "2026-01-31T01:18:39.240+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b2b52786-a41f-4200-b813-9a6b497d4f04"
+    },
+    {
+      "id": "7023e78f-a87b-46b2-a9c9-1ba6338ae293",
+      "title": "Senior Data Engineer",
+      "location": "PL-Warsaw",
+      "department": "Product Management",
+      "updated_at": "2026-02-06T15:52:35.070+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7023e78f-a87b-46b2-a9c9-1ba6338ae293"
+    },
+    {
+      "id": "8acbcabe-ed52-4fde-bb67-9bd641f916e2",
+      "title": "Senior People Partner, Marketing",
+      "location": "US-CA-Menlo Park",
+      "department": "People",
+      "updated_at": "2026-02-11T22:37:22.967+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8acbcabe-ed52-4fde-bb67-9bd641f916e2"
+    },
+    {
+      "id": "2e759451-ea65-4731-a4ea-23c2a4cb2b88",
+      "title": "Senior Engineering Manager-PostgreSQL ",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-02-02T17:48:03.095+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2e759451-ea65-4731-a4ea-23c2a4cb2b88"
+    },
+    {
+      "id": "d0102931-6ca7-4e53-ad5e-5f1e242b1e1d",
+      "title": "Senior Product Growth Specialist",
+      "location": "US-NY-New York",
+      "department": "Solution Engineering",
+      "updated_at": "2026-02-03T16:08:58.165+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d0102931-6ca7-4e53-ad5e-5f1e242b1e1d"
+    },
+    {
+      "id": "251af11d-4cd3-4c51-9b12-3df73fd653b0",
+      "title": "Senior Analytics Architect, Applied Field Engineer",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-04-23T17:16:08.603+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/251af11d-4cd3-4c51-9b12-3df73fd653b0"
+    },
+    {
+      "id": "708992c7-67da-4f99-99f0-39ed70e360d4",
+      "title": "Backend Software Engineer - Native Apps",
+      "location": "CA-Ontario-Toronto",
+      "department": "Engineering",
+      "updated_at": "2026-03-04T20:30:36.774+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/708992c7-67da-4f99-99f0-39ed70e360d4"
+    },
+    {
+      "id": "6dab6ed8-97c8-4413-b95f-31b84dafd5c3",
+      "title": "Senior Software Engineer - Database Engineering",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2025-11-21T17:30:06.809+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6dab6ed8-97c8-4413-b95f-31b84dafd5c3"
+    },
+    {
+      "id": "950abc30-8bfb-4f15-9bb9-62713c93aa5f",
+      "title": "Software Engineer - Frontend",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-02-24T20:26:46.197+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/950abc30-8bfb-4f15-9bb9-62713c93aa5f"
+    },
+    {
+      "id": "04271939-420b-45d6-8234-6c13663138a3",
+      "title": "Product Manager – Storage Platform & Pricing",
+      "location": "US-WA-Bellevue",
+      "department": "Product Management",
+      "updated_at": "2026-02-03T17:26:22.386+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/04271939-420b-45d6-8234-6c13663138a3"
+    },
+    {
+      "id": "3f8a210b-9003-489a-91c8-e3f0abeee1fc",
+      "title": "Product Manager – Metadata Platform",
+      "location": "US-WA-Bellevue",
+      "department": "Product Management",
+      "updated_at": "2026-02-03T17:22:26.903+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3f8a210b-9003-489a-91c8-e3f0abeee1fc"
+    },
+    {
+      "id": "7869a36a-9878-4c7e-b807-6324084a4638",
+      "title": "Senior Solution Engineer",
+      "location": "US-CA-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-02-04T16:45:27.698+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7869a36a-9878-4c7e-b807-6324084a4638"
+    },
+    {
+      "id": "8a030e72-d9e0-4185-9005-b76b0fa96c24",
+      "title": "Solution Engineer",
+      "location": "CA-Ontario-Toronto",
+      "department": "Sales",
+      "updated_at": "2026-02-10T18:15:15.433+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8a030e72-d9e0-4185-9005-b76b0fa96c24"
+    },
+    {
+      "id": "d08e3ff6-378e-4e3e-9787-39638817ae0f",
+      "title": "Senior Software Engineer - Product Security Assurance",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-27T23:25:17.721+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d08e3ff6-378e-4e3e-9787-39638817ae0f"
+    },
+    {
+      "id": "c8152d6a-c115-4c49-97f9-6c231ceb029d",
+      "title": "Strategic Account Executive - Betting & Gaming",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-02-12T15:19:43.946+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c8152d6a-c115-4c49-97f9-6c231ceb029d"
+    },
+    {
+      "id": "f991db58-6bc1-40b2-a1b9-97d4d2b20a83",
+      "title": "Principal Software Engineer II - Next-Gen Data Transformations",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-04-01T01:55:29.521+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f991db58-6bc1-40b2-a1b9-97d4d2b20a83"
+    },
+    {
+      "id": "e5e412cd-b5ec-4937-a25b-d01839a09007",
+      "title": "Snowflake Data Engineer",
+      "location": "PL-Warsaw",
+      "department": "Product Management",
+      "updated_at": "2026-02-06T15:52:29.007+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e5e412cd-b5ec-4937-a25b-d01839a09007"
+    },
+    {
+      "id": "0631cc64-5300-4294-8dc8-1a051b00565c",
+      "title": "Staff Enterprise Product Manager, Order to Cash",
+      "location": "US-CA-Dublin",
+      "department": "Enterprise Technology",
+      "updated_at": "2026-03-17T16:56:15.917+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0631cc64-5300-4294-8dc8-1a051b00565c"
+    },
+    {
+      "id": "9befd7fb-dd0d-445c-b349-21cf2265821c",
+      "title": "Director, Global Marketing Operations",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-02-09T18:55:00.402+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/9befd7fb-dd0d-445c-b349-21cf2265821c"
+    },
+    {
+      "id": "2b9de303-7581-45dd-965d-9aa7f65e4b9d",
+      "title": "Strategic Event Technology Manager",
+      "location": "US, Remote",
+      "department": "Marketing",
+      "updated_at": "2026-02-14T21:11:46.921+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2b9de303-7581-45dd-965d-9aa7f65e4b9d"
+    },
+    {
+      "id": "0fc633bb-b3c5-4570-ae90-7cf5f28552b3",
+      "title": "Partner Development Manager - EMEA North",
+      "location": "NO-Norway-Remote",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-03-25T23:03:13.220+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0fc633bb-b3c5-4570-ae90-7cf5f28552b3"
+    },
+    {
+      "id": "b2b1709c-d907-496e-a831-a2d4d647c0a3",
+      "title": "Senior Customer Marketing Manager",
+      "location": "US-NY-New York",
+      "department": "Marketing",
+      "updated_at": "2026-02-10T16:56:38.086+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b2b1709c-d907-496e-a831-a2d4d647c0a3"
+    },
+    {
+      "id": "f6d40ad9-da07-477e-8f4f-e29e67e65f6b",
+      "title": "Senior Engineering Manager - SnowConvert AI ",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-15T02:47:43.158+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f6d40ad9-da07-477e-8f4f-e29e67e65f6b"
+    },
+    {
+      "id": "0f4bf596-c081-444f-b0b7-3a731c3d08d0",
+      "title": "Account Executive, Enterprise Acquisition",
+      "location": "US-MA-Boston",
+      "department": "Sales",
+      "updated_at": "2026-04-22T15:10:14.786+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0f4bf596-c081-444f-b0b7-3a731c3d08d0"
+    },
+    {
+      "id": "70d8b449-c4a1-478d-a542-7b4274227f44",
+      "title": "Staff Cloud Support Engineer - Data Integration & ETL, Clients & Connectivity",
+      "location": "SA-Riyadh-MSO",
+      "department": "Global Support",
+      "updated_at": "2026-02-04T12:56:07.353+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/70d8b449-c4a1-478d-a542-7b4274227f44"
+    },
+    {
+      "id": "520ee3ea-d898-4db9-9ad9-8f12c91a96b0",
+      "title": "Senior Manager of Engineering - Capacity Engineering",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-02-16T18:42:20.429+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/520ee3ea-d898-4db9-9ad9-8f12c91a96b0"
+    },
+    {
+      "id": "3861127d-444b-4352-a490-c1bd6aa74715",
+      "title": "Senior Production Engineer",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-02-10T23:39:58.385+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3861127d-444b-4352-a490-c1bd6aa74715"
+    },
+    {
+      "id": "323816e6-ca63-4159-8e15-4f02b4e5fcbd",
+      "title": "Principal Data Cloud Architect - SI Partners",
+      "location": "US-CA-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-21T22:19:29.234+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/323816e6-ca63-4159-8e15-4f02b4e5fcbd"
+    },
+    {
+      "id": "de1599bf-9865-410e-aecb-8f4f8fed480b",
+      "title": "Senior Billing Analyst",
+      "location": "US-CA-Dublin",
+      "department": "Finance",
+      "updated_at": "2026-02-13T01:15:44.753+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/de1599bf-9865-410e-aecb-8f4f8fed480b"
+    },
+    {
+      "id": "a1bfc0a2-3c97-4395-902b-bfc6e4869bf9",
+      "title": "Principal AL/ML Solution Engineer",
+      "location": "US-NY-New York City-Remote",
+      "department": "Sales",
+      "updated_at": "2026-03-26T13:45:02.744+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a1bfc0a2-3c97-4395-902b-bfc6e4869bf9"
+    },
+    {
+      "id": "ac6fae3a-8ace-4ef4-857d-b03cc1f870ac",
+      "title": "Senior Web Engineer",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-04-18T17:07:04.238+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ac6fae3a-8ace-4ef4-857d-b03cc1f870ac"
+    },
+    {
+      "id": "baf1cd01-ba69-4ae5-8465-a4e2f7034803",
+      "title": "Industry Lead, Retail Technology Services, and Data",
+      "location": "US-NY-New York",
+      "department": "Revenue Operations",
+      "updated_at": "2026-02-18T19:54:47.636+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/baf1cd01-ba69-4ae5-8465-a4e2f7034803"
+    },
+    {
+      "id": "0745faaf-63aa-449d-8cbd-bee6e8a0632b",
+      "title": "Software Engineer - Production Engineering ",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2026-04-24T13:44:28.319+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0745faaf-63aa-449d-8cbd-bee6e8a0632b"
+    },
+    {
+      "id": "39d92b40-4bdd-45ce-ad93-47a00d7830b3",
+      "title": "Staff Software Engineer - Production Engineering",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2026-02-18T14:56:52.542+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/39d92b40-4bdd-45ce-ad93-47a00d7830b3"
+    },
+    {
+      "id": "1a256781-b5b6-44e7-b138-253d16031605",
+      "title": "Senior Product Manager - Applied AI",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-03-02T13:12:49.575+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1a256781-b5b6-44e7-b138-253d16031605"
+    },
+    {
+      "id": "d9d2abfe-5b43-423b-8cfe-6f2edc889e94",
+      "title": "Enterprise Account Executive, Observability",
+      "location": "US-NY-New York",
+      "department": "Sales",
+      "updated_at": "2026-04-20T20:58:48.928+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d9d2abfe-5b43-423b-8cfe-6f2edc889e94"
+    },
+    {
+      "id": "88348d29-0ec4-475f-a54e-c6b247cbc6a8",
+      "title": "Strategic Initiatives Associate",
+      "location": "US-CA-Menlo Park",
+      "department": "Office of the CEO",
+      "updated_at": "2026-02-18T00:27:48.323+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/88348d29-0ec4-475f-a54e-c6b247cbc6a8"
+    },
+    {
+      "id": "df0d9127-5506-4135-8e64-fa972a50b133",
+      "title": "Senior Software Engineer - Cloud Provisioning Service",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-02-18T19:05:00.031+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/df0d9127-5506-4135-8e64-fa972a50b133"
+    },
+    {
+      "id": "a0428671-0cdc-47b0-8a5a-007fe52d49e4",
+      "title": "Account Executive, Commercial Acquisition",
+      "location": "US-GA-Atlanta",
+      "department": "Sales",
+      "updated_at": "2026-02-18T20:58:54.631+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a0428671-0cdc-47b0-8a5a-007fe52d49e4"
+    },
+    {
+      "id": "195fba97-8d40-4281-a04a-bf64f37a32f2",
+      "title": "Senior Software Engineer - Production Engineering",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2026-02-20T15:57:24.164+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/195fba97-8d40-4281-a04a-bf64f37a32f2"
+    },
+    {
+      "id": "7d2dbbc7-488c-496c-a472-cd34122fab2a",
+      "title": "Sr. Product Marketing Manager - AI & Data Sharing",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-02-20T20:07:16.370+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7d2dbbc7-488c-496c-a472-cd34122fab2a"
+    },
+    {
+      "id": "b15c3300-e0f2-4af8-8536-8a3f66e97878",
+      "title": "Technical Instructor - Shanghai",
+      "location": "CN-Beijing-MSO",
+      "department": "Educational Services",
+      "updated_at": "2026-02-20T04:00:07.156+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b15c3300-e0f2-4af8-8536-8a3f66e97878"
+    },
+    {
+      "id": "9670db54-bd0d-4dcc-a4af-61724dd82188",
+      "title": "Staff Software Engineer, Identity & Access Management",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-02-23T17:20:51.765+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/9670db54-bd0d-4dcc-a4af-61724dd82188"
+    },
+    {
+      "id": "0dbf6773-9560-417e-ab8a-dcdb800f3e56",
+      "title": "Video Operations Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-02-19T14:27:25.453+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0dbf6773-9560-417e-ab8a-dcdb800f3e56"
+    },
+    {
+      "id": "f4a4fc50-0bda-418e-a8ca-203dea81e801",
+      "title": "Senior Software Engineer - Data Clean Room/ AI Data Hub ",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-22T16:12:43.090+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f4a4fc50-0bda-418e-a8ca-203dea81e801"
+    },
+    {
+      "id": "a8b33525-0ee9-41c7-9d6a-7150079996b4",
+      "title": "Services Financial Analyst",
+      "location": "US-CA-Dublin",
+      "department": "Finance",
+      "updated_at": "2026-04-17T16:00:35.047+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a8b33525-0ee9-41c7-9d6a-7150079996b4"
+    },
+    {
+      "id": "35ca0435-7155-4797-8a45-f978f8bc2cff",
+      "title": "Senior Manager, Executive Communications",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-02-23T20:05:22.147+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/35ca0435-7155-4797-8a45-f978f8bc2cff"
+    },
+    {
+      "id": "e54a25b6-e16c-44a1-bc2d-2478c152028b",
+      "title": "Account Executive, Commercial",
+      "location": "US-WA-Bellevue",
+      "department": "Sales",
+      "updated_at": "2026-03-11T14:05:09.002+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e54a25b6-e16c-44a1-bc2d-2478c152028b"
+    },
+    {
+      "id": "2d44ebf9-0877-430e-b428-75e419b8f9fe",
+      "title": "Account Executive - Central Government ",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-02-25T08:58:52.501+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2d44ebf9-0877-430e-b428-75e419b8f9fe"
+    },
+    {
+      "id": "cf8f9538-e0fa-4c0e-be19-d2e7b218f6a0",
+      "title": "Campaign Program Specialist",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-04-02T18:46:24.166+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/cf8f9538-e0fa-4c0e-be19-d2e7b218f6a0"
+    },
+    {
+      "id": "b7fba62e-95e8-4304-94fa-d278a20956f1",
+      "title": "Solutions Architect",
+      "location": "JP-Japan-Remote",
+      "department": "Professional Services",
+      "updated_at": "2026-02-09T03:03:24.557+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b7fba62e-95e8-4304-94fa-d278a20956f1"
+    },
+    {
+      "id": "b1faeb20-716c-4b93-9f2b-91d8751ed503",
+      "title": "Engineering Manager - Feature Store",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-02-23T16:34:15.390+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b1faeb20-716c-4b93-9f2b-91d8751ed503"
+    },
+    {
+      "id": "a486e499-fc99-4ce9-a994-ea7d61918eee",
+      "title": "R&D Finance Analyst",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-02-19T17:33:18.231+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a486e499-fc99-4ce9-a994-ea7d61918eee"
+    },
+    {
+      "id": "c2e2cd47-ecf1-4eef-a9ea-06b6dc122f64",
+      "title": "Field Marketing Intern (12months) - China (2026)",
+      "location": "CN-Beijing-MSO",
+      "department": "Marketing",
+      "updated_at": "2026-03-24T08:52:11.718+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c2e2cd47-ecf1-4eef-a9ea-06b6dc122f64"
+    },
+    {
+      "id": "dcbd8798-31d0-4551-acf4-0d7a8f8d7757",
+      "title": "Senior Software Engineer - Snowpark Container Service",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-02-27T00:04:15.069+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/dcbd8798-31d0-4551-acf4-0d7a8f8d7757"
+    },
+    {
+      "id": "f15d8680-5ade-433a-8c26-0a83cd9dd24a",
+      "title": "Cloud DevOps Engineer",
+      "location": "IN-Pune",
+      "department": "Enterprise Technology",
+      "updated_at": "2026-03-25T07:33:04.801+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f15d8680-5ade-433a-8c26-0a83cd9dd24a"
+    },
+    {
+      "id": "46cd3e47-586e-439c-b5f9-87756be8a3f1",
+      "title": "Financial Analyst, Enterprise Technology",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-02-28T06:17:13.350+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/46cd3e47-586e-439c-b5f9-87756be8a3f1"
+    },
+    {
+      "id": "72386951-2027-4f4e-a45f-99cafc0eae33",
+      "title": "Data Architecture Lead",
+      "location": "US-CA-Menlo Park",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-04-02T19:38:41.320+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/72386951-2027-4f4e-a45f-99cafc0eae33"
+    },
+    {
+      "id": "55e51edf-35a1-4a55-bc63-a49877ed4713",
+      "title": "Senior Solution Engineer - GCC",
+      "location": "IN-Bangalore-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-10T06:01:16.246+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/55e51edf-35a1-4a55-bc63-a49877ed4713"
+    },
+    {
+      "id": "da3b3b3d-d39b-49d1-993f-57dfeaa76d8f",
+      "title": "Director, Partners & Alliances - China",
+      "location": "CN-Beijing-MSO",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-03-10T03:29:19.277+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/da3b3b3d-d39b-49d1-993f-57dfeaa76d8f"
+    },
+    {
+      "id": "6de9c390-d879-444d-b90b-9c6a33a1fb96",
+      "title": "Senior AI/ML Architect, Applied Field Engineering",
+      "location": "US-WA-Seattle-Remote",
+      "department": "Engineering",
+      "updated_at": "2026-03-02T22:50:45.466+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6de9c390-d879-444d-b90b-9c6a33a1fb96"
+    },
+    {
+      "id": "a904d6a7-f969-4e70-b547-1395b711201a",
+      "title": "Commercial Account Executive - General Business",
+      "location": "JP-Tokyo",
+      "department": "Sales",
+      "updated_at": "2026-02-26T04:01:15.277+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a904d6a7-f969-4e70-b547-1395b711201a"
+    },
+    {
+      "id": "4900b9ea-1ad4-4b2c-9ec0-0ab408b7be07",
+      "title": "Developer Experience Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-27T21:32:49.796+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/4900b9ea-1ad4-4b2c-9ec0-0ab408b7be07"
+    },
+    {
+      "id": "2bf68caf-e527-4b79-b064-0d0daff8cd55",
+      "title": "Commercial Solution Engineer",
+      "location": "SE-Stockholm-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-03T11:53:00.452+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2bf68caf-e527-4b79-b064-0d0daff8cd55"
+    },
+    {
+      "id": "30604dd0-8980-4e18-bc15-53e9ef14e50f",
+      "title": "Senior Product Manager - Streamlit",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-02-28T00:33:40.235+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/30604dd0-8980-4e18-bc15-53e9ef14e50f"
+    },
+    {
+      "id": "8fb1e5de-17f8-4d9b-b399-49c70f0f70f2",
+      "title": "Senior Data Cloud Architect - SI Partners",
+      "location": "US-MN-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-03T16:20:42.346+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8fb1e5de-17f8-4d9b-b399-49c70f0f70f2"
+    },
+    {
+      "id": "58c7ce9a-6c1b-42b4-8c32-865be9dec337",
+      "title": "Account Executive - Wealth & Asset Management",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-03-04T18:21:53.560+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/58c7ce9a-6c1b-42b4-8c32-865be9dec337"
+    },
+    {
+      "id": "7bbe13cd-36d4-412d-89d3-dcf463cd4dfc",
+      "title": "Sales Development Representative",
+      "location": "CN-Shanghai-WW",
+      "department": "Sales Development",
+      "updated_at": "2026-03-10T03:03:16.539+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7bbe13cd-36d4-412d-89d3-dcf463cd4dfc"
+    },
+    {
+      "id": "b0509b1d-3f6f-47aa-b1cb-2db2f0996278",
+      "title": "Senior Sales Financial Analyst",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-02-28T06:28:13.028+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b0509b1d-3f6f-47aa-b1cb-2db2f0996278"
+    },
+    {
+      "id": "593fe4d5-b95a-49f4-bb66-0705f3102e83",
+      "title": "Senior Solution Engineer - GCC",
+      "location": "Hyderabad, Remote, India",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-16T03:15:58.575+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/593fe4d5-b95a-49f4-bb66-0705f3102e83"
+    },
+    {
+      "id": "c28d684b-c8e8-4a4c-b3e6-76c931728e21",
+      "title": "AI Solution Specialist",
+      "location": "US-CA-Menlo Park",
+      "department": "Sales",
+      "updated_at": "2026-03-05T16:01:06.264+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c28d684b-c8e8-4a4c-b3e6-76c931728e21"
+    },
+    {
+      "id": "0e1c4255-bcab-4b81-814e-d65972fe2c9c",
+      "title": "Technical SEO Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-03T06:13:25.307+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0e1c4255-bcab-4b81-814e-d65972fe2c9c"
+    },
+    {
+      "id": "56e3b511-616f-4796-8a0d-82bba851413f",
+      "title": "Sales Development Representative",
+      "location": "KR-Seoul",
+      "department": "Sales Development",
+      "updated_at": "2026-03-02T11:59:25.570+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/56e3b511-616f-4796-8a0d-82bba851413f"
+    },
+    {
+      "id": "454a380f-cf60-4564-b999-41aee4f0172f",
+      "title": "Partner Development Manager - ASEAN",
+      "location": "ID-Jakarta-MSO",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-03-04T02:14:45.961+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/454a380f-cf60-4564-b999-41aee4f0172f"
+    },
+    {
+      "id": "f28bc52c-4faf-40f5-804a-266e34b44c04",
+      "title": "IT Audit Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-03-05T01:35:01.311+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f28bc52c-4faf-40f5-804a-266e34b44c04"
+    },
+    {
+      "id": "1cc29aa4-60a0-4c0b-8937-54aea7d579c1",
+      "title": "Sales Development Representative - Sydney",
+      "location": "Sydney, Australia",
+      "department": "Sales Development",
+      "updated_at": "2026-02-16T04:50:07.946+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1cc29aa4-60a0-4c0b-8937-54aea7d579c1"
+    },
+    {
+      "id": "0ce406b4-f618-43c3-8806-0c14a354eff0",
+      "title": "Product Sales Specialist (Streamlit)",
+      "location": "US-CA-Menlo Park",
+      "department": "Sales",
+      "updated_at": "2026-03-19T20:09:45.861+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0ce406b4-f618-43c3-8806-0c14a354eff0"
+    },
+    {
+      "id": "2c4b3726-7738-4f94-b81f-9a1dfb24143e",
+      "title": "Principal Product Manager, Enterprise Data & AI",
+      "location": "US-CA-Menlo Park",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-03-31T16:07:10.354+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2c4b3726-7738-4f94-b81f-9a1dfb24143e"
+    },
+    {
+      "id": "a4dea157-34aa-4830-8894-4696f1dd843f",
+      "title": "Sr. Manager, Global Fulfillment Solutions",
+      "location": "US-CO-Denver",
+      "department": "Professional Services",
+      "updated_at": "2026-03-03T15:30:38.406+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a4dea157-34aa-4830-8894-4696f1dd843f"
+    },
+    {
+      "id": "91575c5a-4422-45ac-a339-2ebc9942dcfc",
+      "title": "Marketing Operations Automation Manager  - Marketo Platform Architect",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-03T15:06:22.758+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/91575c5a-4422-45ac-a339-2ebc9942dcfc"
+    },
+    {
+      "id": "8985f7de-0108-4e49-a228-de22efcb424f",
+      "title": "Senior Product Marketing Manager - Public Sector",
+      "location": "US-VA-McLean",
+      "department": "Marketing",
+      "updated_at": "2026-03-03T06:18:13.437+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8985f7de-0108-4e49-a228-de22efcb424f"
+    },
+    {
+      "id": "a20eb88b-5307-406f-b2ed-e9d5c5001a82",
+      "title": "Principal Software Engineer II - Product Security",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-09T17:58:52.413+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a20eb88b-5307-406f-b2ed-e9d5c5001a82"
+    },
+    {
+      "id": "2eb56e70-f2a0-4455-85e2-24ddae5cb78f",
+      "title": "Account Executive - FSI Enterprise Growth",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-03-09T19:37:43.293+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2eb56e70-f2a0-4455-85e2-24ddae5cb78f"
+    },
+    {
+      "id": "390d675f-c985-42a9-ae56-bd0f5c6b3c7f",
+      "title": "Product Workload Finance Analyst",
+      "location": "US-WA-Bellevue",
+      "department": "Finance",
+      "updated_at": "2026-03-09T20:57:28.538+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/390d675f-c985-42a9-ae56-bd0f5c6b3c7f"
+    },
+    {
+      "id": "6721e39d-42d7-4835-8066-2cd03870b88e",
+      "title": "AI Deployment Specialist",
+      "location": "US, Remote",
+      "department": "Sales",
+      "updated_at": "2026-02-25T20:52:34.263+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6721e39d-42d7-4835-8066-2cd03870b88e"
+    },
+    {
+      "id": "74a80856-fdc3-41e8-b3b1-19a1bb0930e4",
+      "title": "Solutions Consultant",
+      "location": "MX-Mexico-Remote",
+      "department": "Professional Services",
+      "updated_at": "2026-03-10T14:58:26.316+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/74a80856-fdc3-41e8-b3b1-19a1bb0930e4"
+    },
+    {
+      "id": "0675599f-3475-4706-ab37-925bc34aebe0",
+      "title": "Developer Advocate - Cortex Code Enablement",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-03-11T00:36:50.876+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0675599f-3475-4706-ab37-925bc34aebe0"
+    },
+    {
+      "id": "de11f93c-3985-456a-bcea-08029eb18c18",
+      "title": "Enterprise Account Executive - GCC (FSI)",
+      "location": "IN-Bangalore-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-14T13:00:24.298+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/de11f93c-3985-456a-bcea-08029eb18c18"
+    },
+    {
+      "id": "2056c3ca-007c-4f03-a27c-58ec50c4e7c2",
+      "title": "Enterprise Account Executive - GCC (FSI)",
+      "location": "IN-Mumbai-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-14T13:00:29.052+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2056c3ca-007c-4f03-a27c-58ec50c4e7c2"
+    },
+    {
+      "id": "13fe38e8-d130-4ab2-bea6-f586e30b7c5e",
+      "title": "Forward Deployment Senior Software Engineer ",
+      "location": "US-VA-McLean",
+      "department": "Engineering",
+      "updated_at": "2026-04-21T13:48:12.177+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/13fe38e8-d130-4ab2-bea6-f586e30b7c5e"
+    },
+    {
+      "id": "fdb17538-fc05-4465-9451-20aa612dcd0c",
+      "title": "Sr. Product Marketing Manager, Observe",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-06T15:57:56.480+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/fdb17538-fc05-4465-9451-20aa612dcd0c"
+    },
+    {
+      "id": "59225e9a-42b8-4efc-b120-c083700cb061",
+      "title": "Pursuits Program Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-03-11T18:13:29.651+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/59225e9a-42b8-4efc-b120-c083700cb061"
+    },
+    {
+      "id": "4200495f-b180-4a5d-b529-e30b3251db0b",
+      "title": "Solution Engineer",
+      "location": "NZ-Auckland-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-15T03:09:52.675+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/4200495f-b180-4a5d-b529-e30b3251db0b"
+    },
+    {
+      "id": "e0624f1b-136d-4eac-a5e5-8991efa091e2",
+      "title": "Senior Director of Engineering and Product Recruiting",
+      "location": "US-CA-Menlo Park",
+      "department": "People",
+      "updated_at": "2026-03-09T18:41:07.166+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e0624f1b-136d-4eac-a5e5-8991efa091e2"
+    },
+    {
+      "id": "86570858-e425-4144-9aef-8838cefd18c3",
+      "title": "Sales Engineer, Observe",
+      "location": "US-CA-Menlo Park",
+      "department": "Sales",
+      "updated_at": "2026-03-11T12:39:17.026+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/86570858-e425-4144-9aef-8838cefd18c3"
+    },
+    {
+      "id": "de956358-f960-4d1e-9aeb-f7ddc76d4370",
+      "title": "Senior Manager, Solution Engineering",
+      "location": "US-CA-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-11T14:09:15.593+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/de956358-f960-4d1e-9aeb-f7ddc76d4370"
+    },
+    {
+      "id": "cb7af19f-533e-4765-a5d3-e88990d72adc",
+      "title": "Senior Partner Marketing Manager, AWS",
+      "location": "GB-London",
+      "department": "Marketing",
+      "updated_at": "2026-03-16T11:45:12.108+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/cb7af19f-533e-4765-a5d3-e88990d72adc"
+    },
+    {
+      "id": "ec5c65b2-b08c-49a0-8089-36001f4d9261",
+      "title": "Senior Solution Engineer - Telco's",
+      "location": "GB-London",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-23T09:44:44.410+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ec5c65b2-b08c-49a0-8089-36001f4d9261"
+    },
+    {
+      "id": "ac855d90-73c4-44e9-bfdf-43d34310c27e",
+      "title": "Commercial Account Executive - Acquisition ",
+      "location": "NL-Amsterdam",
+      "department": "Sales",
+      "updated_at": "2026-03-23T15:22:08.850+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ac855d90-73c4-44e9-bfdf-43d34310c27e"
+    },
+    {
+      "id": "e190c6a1-16f3-48a0-b3d3-f44301e4a47b",
+      "title": "Sr. Partner Sales Manager",
+      "location": "CA-Ontario-Toronto",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-03-10T21:30:33.791+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e190c6a1-16f3-48a0-b3d3-f44301e4a47b"
+    },
+    {
+      "id": "9d1908cd-4a4f-4ecb-ab3a-f80d64aca909",
+      "title": "Commercial Account Executive - Acquisition ",
+      "location": "SE-Sweden-Remote",
+      "department": "Sales",
+      "updated_at": "2026-03-16T17:12:13.019+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/9d1908cd-4a4f-4ecb-ab3a-f80d64aca909"
+    },
+    {
+      "id": "b0283c67-3bd8-4be2-a861-d538b7504bb0",
+      "title": "Senior Infrastructure Engineer, Observe by Snowflake",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-10T23:09:28.336+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b0283c67-3bd8-4be2-a861-d538b7504bb0"
+    },
+    {
+      "id": "143a2248-564b-4cfa-85f5-d47bac911d74",
+      "title": "Infrastructure Engineer, Observe by Snowflake",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-09T22:42:01.730+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74"
+    },
+    {
+      "id": "90d6434a-0753-4974-a651-e34908740568",
+      "title": "Staff Enterprise Product Manager (Payroll)",
+      "location": "US-CA-Dublin",
+      "department": "Enterprise Technology",
+      "updated_at": "2026-03-17T21:01:12.047+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/90d6434a-0753-4974-a651-e34908740568"
+    },
+    {
+      "id": "fddd1178-43c9-46d0-941f-42a0fe2d363a",
+      "title": "Regional VP, Partner and Specialist Team, Solution Engineering",
+      "location": "SG-Singapore",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-26T06:23:39.960+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/fddd1178-43c9-46d0-941f-42a0fe2d363a"
+    },
+    {
+      "id": "05b97235-2bca-4e2e-801f-c599af4d9d3f",
+      "title": "Technical Enablement Architect",
+      "location": "US-CA-Menlo Park",
+      "department": "Professional Services",
+      "updated_at": "2026-02-27T20:22:46.854+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/05b97235-2bca-4e2e-801f-c599af4d9d3f"
+    },
+    {
+      "id": "af0cfb7f-8a32-4b6a-bc12-cbce3cf944bf",
+      "title": "Enterprise Account Executive - HCLS / Manufacturing",
+      "location": "FR-Paris",
+      "department": "Sales",
+      "updated_at": "2026-03-17T07:38:56.415+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/af0cfb7f-8a32-4b6a-bc12-cbce3cf944bf"
+    },
+    {
+      "id": "1c30127a-dae2-4ee1-b088-122f91c00af9",
+      "title": "Consulting Manager",
+      "location": "SA-Riyadh-MSO",
+      "department": "Professional Services",
+      "updated_at": "2026-03-17T12:08:56.768+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1c30127a-dae2-4ee1-b088-122f91c00af9"
+    },
+    {
+      "id": "54c04244-8d07-4a36-a81c-4454215f6ae9",
+      "title": "Front End Engineer - Analytics & Compute Experience ",
+      "location": "CA-Ontario-Toronto",
+      "department": "Engineering",
+      "updated_at": "2026-03-17T01:39:42.335+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/54c04244-8d07-4a36-a81c-4454215f6ae9"
+    },
+    {
+      "id": "931e0e6a-6c92-4b03-b5d8-1885bd44f902",
+      "title": "Account Executive - Saudi (Arabic speaker)",
+      "location": "SA-Riyadh-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-16T10:31:38.430+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/931e0e6a-6c92-4b03-b5d8-1885bd44f902"
+    },
+    {
+      "id": "843f6b41-e23b-4bab-90e3-77b098794026",
+      "title": "Principal Solution Engineer - FSI",
+      "location": "GB-London",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-22T13:19:14.268+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/843f6b41-e23b-4bab-90e3-77b098794026"
+    },
+    {
+      "id": "4a5057a2-9cbd-4450-aa37-f230bdf89bfd",
+      "title": "Senior Product Manager - Cortex Platform",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-03-11T17:42:28.638+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/4a5057a2-9cbd-4450-aa37-f230bdf89bfd"
+    },
+    {
+      "id": "a6292a81-7cf7-4e29-bb77-f7d0935e7bdb",
+      "title": "Staff Software Engineer -  AI Developer Tooling ",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-04-08T15:35:22.491+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a6292a81-7cf7-4e29-bb77-f7d0935e7bdb"
+    },
+    {
+      "id": "05666500-d64f-4c17-9230-8eb99b2e53ec",
+      "title": "Staff Business Systems Analyst, Order to Cash",
+      "location": "US-CA-Dublin",
+      "department": "Enterprise Technology",
+      "updated_at": "2026-03-17T16:56:10.677+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/05666500-d64f-4c17-9230-8eb99b2e53ec"
+    },
+    {
+      "id": "47925964-c50e-409b-82af-feec996b408d",
+      "title": "Commercial Account Executive - Acquisition ",
+      "location": "CH-Zurich-MSO",
+      "department": "Sales",
+      "updated_at": "2026-03-18T11:24:00.010+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/47925964-c50e-409b-82af-feec996b408d"
+    },
+    {
+      "id": "e2b03b7a-2c85-4599-8b04-8757c582d226",
+      "title": "Sales Development Representative ",
+      "location": "GB-London",
+      "department": "Sales Development",
+      "updated_at": "2026-03-18T13:43:06.792+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e2b03b7a-2c85-4599-8b04-8757c582d226"
+    },
+    {
+      "id": "e39a441a-07e4-4ea3-a687-b483007deb94",
+      "title": "Product Manager - Traffic & Networking",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-03-09T22:15:31.664+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e39a441a-07e4-4ea3-a687-b483007deb94"
+    },
+    {
+      "id": "8426afd8-9764-4ca1-8579-5f8fca5a8e2f",
+      "title": "Product Manager - Product Compliance",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-03-09T22:11:44.694+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8426afd8-9764-4ca1-8579-5f8fca5a8e2f"
+    },
+    {
+      "id": "d75de8ed-ba24-4925-a507-14422fca1cec",
+      "title": "Sales Development Representative - EMEA ",
+      "location": "GB-London",
+      "department": "Sales Development",
+      "updated_at": "2026-03-20T09:48:39.187+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d75de8ed-ba24-4925-a507-14422fca1cec"
+    },
+    {
+      "id": "2d8294cf-2a37-4b88-b00e-4db5c7a247a9",
+      "title": "Senior Solution Engineer - Insurance",
+      "location": "GB-London",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-22T13:19:09.202+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2d8294cf-2a37-4b88-b00e-4db5c7a247a9"
+    },
+    {
+      "id": "7f07e261-e83e-496c-b7fa-99bf1f1f317f",
+      "title": "Account Executive",
+      "location": "NL-Amsterdam",
+      "department": "Sales",
+      "updated_at": "2026-03-19T08:49:42.204+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7f07e261-e83e-496c-b7fa-99bf1f1f317f"
+    },
+    {
+      "id": "cbe88a47-235f-416d-b06c-b01fd6d9d8b6",
+      "title": "Global Alliance Director, AWS Partnership",
+      "location": "US-WA-Bellevue",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-03-16T18:03:54.631+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/cbe88a47-235f-416d-b06c-b01fd6d9d8b6"
+    },
+    {
+      "id": "015ed756-c4c1-4b3c-b43d-81f2826e8836",
+      "title": "Enterprise Account Executive - Acquisition",
+      "location": "AU-Melbourne",
+      "department": "Sales",
+      "updated_at": "2026-03-23T02:15:17.548+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/015ed756-c4c1-4b3c-b43d-81f2826e8836"
+    },
+    {
+      "id": "e125288d-530b-4e59-bd17-63d6392bc507",
+      "title": "Partner Solution Engineer - GCC",
+      "location": "IN-Bangalore-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-30T06:56:51.881+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e125288d-530b-4e59-bd17-63d6392bc507"
+    },
+    {
+      "id": "aff4210d-127f-45d3-844b-9313b4e86edd",
+      "title": "Account Engineer Intern - Summer 2026",
+      "location": "US-CO-Denver",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-25T23:49:15.309+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/aff4210d-127f-45d3-844b-9313b4e86edd"
+    },
+    {
+      "id": "c9f1bb99-8c24-4dfe-958e-44df578f92c8",
+      "title": "Customer Marketing Intern - Summer 2026",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-25T23:45:54.487+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c9f1bb99-8c24-4dfe-958e-44df578f92c8"
+    },
+    {
+      "id": "d0f829a0-1619-46fc-958e-85e7bebb5686",
+      "title": "Auditor/Senior Auditor - Business",
+      "location": "IN-Pune",
+      "department": "Finance",
+      "updated_at": "2026-03-17T05:51:57.745+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d0f829a0-1619-46fc-958e-85e7bebb5686"
+    },
+    {
+      "id": "1e66256e-aa85-4eba-9312-fbcccffc1f52",
+      "title": "Senior Product Manager, Observe by Snowflake",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-03-18T22:52:24.990+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1e66256e-aa85-4eba-9312-fbcccffc1f52"
+    },
+    {
+      "id": "eacac37f-9bba-4503-b329-72864edb822c",
+      "title": "Engineering Manager, Observe Product Backend",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-17T18:11:25.290+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/eacac37f-9bba-4503-b329-72864edb822c"
+    },
+    {
+      "id": "117c49a1-d672-4f60-ba0e-060a20e8e2d1",
+      "title": "Client Platform  Engineer Intern - Summer 2026 ",
+      "location": "US-CA-Menlo Park",
+      "department": "Enterprise Technology",
+      "updated_at": "2026-03-24T23:32:14.583+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/117c49a1-d672-4f60-ba0e-060a20e8e2d1"
+    },
+    {
+      "id": "3dbe104f-8d7e-4694-918b-ad6ca5d24371",
+      "title": "Administrative Assistant",
+      "location": "DE-Berlin-Trion Building",
+      "department": "Engineering",
+      "updated_at": "2026-03-23T22:38:40.773+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3dbe104f-8d7e-4694-918b-ad6ca5d24371"
+    },
+    {
+      "id": "2c8674c3-7b3b-4a09-abe0-929fe9a5d22f",
+      "title": "Associate Solution Engineer",
+      "location": "KR-Seoul",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-17T05:40:25.734+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2c8674c3-7b3b-4a09-abe0-929fe9a5d22f"
+    },
+    {
+      "id": "e260a87a-0e50-4857-bac1-95c30bab92ce",
+      "title": "VP, Deputy General Counsel - Product & IP",
+      "location": "US-CA-Menlo Park",
+      "department": "Legal",
+      "updated_at": "2026-03-31T22:00:10.469+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e260a87a-0e50-4857-bac1-95c30bab92ce"
+    },
+    {
+      "id": "70784d9e-fddb-4e3a-a4e2-2a4f4f197efe",
+      "title": "Account Executive - Retail, CPG,Telco, Media,Travel & Hospitality",
+      "location": "FR-Paris",
+      "department": "Sales",
+      "updated_at": "2026-04-27T20:11:38.078+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/70784d9e-fddb-4e3a-a4e2-2a4f4f197efe"
+    },
+    {
+      "id": "933a763d-a99a-4f09-96b0-b413f7a439c4",
+      "title": "Account Executive (Expansion)",
+      "location": "DE-Munich-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-27T11:38:43.424+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/933a763d-a99a-4f09-96b0-b413f7a439c4"
+    },
+    {
+      "id": "1d1bf5f2-f764-4a01-ada2-cfa853e30db0",
+      "title": "Account Executive",
+      "location": "NL-Amsterdam",
+      "department": "Sales",
+      "updated_at": "2026-03-17T15:30:47.227+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1d1bf5f2-f764-4a01-ada2-cfa853e30db0"
+    },
+    {
+      "id": "f9a4d508-4b13-4173-8af0-9d5564ba2d6d",
+      "title": "Manager, Solution Engineering",
+      "location": "GB-London",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-21T12:24:20.826+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f9a4d508-4b13-4173-8af0-9d5564ba2d6d"
+    },
+    {
+      "id": "6c066236-f874-4853-ae94-30fb615ea8dc",
+      "title": "Senior Value Advisor",
+      "location": "US, Remote",
+      "department": "Sales",
+      "updated_at": "2026-03-25T17:50:49.556+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6c066236-f874-4853-ae94-30fb615ea8dc"
+    },
+    {
+      "id": "999e05ec-8e69-4c88-9c5d-2240606ff5e7",
+      "title": "Partner Development Director, Enterprise Technologies",
+      "location": "US-CA-Remote",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-03-24T22:38:47.537+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/999e05ec-8e69-4c88-9c5d-2240606ff5e7"
+    },
+    {
+      "id": "217b1d27-815a-4ad1-b8b7-8fe52e57cd26",
+      "title": "AI Engineer - Cortex Code Quality",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-24T23:34:13.354+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/217b1d27-815a-4ad1-b8b7-8fe52e57cd26"
+    },
+    {
+      "id": "ae43323e-8b10-4c01-b1af-987145191d01",
+      "title": "Staff Machine Learning Engineer - Cortex Code Quality",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-08T18:55:00.776+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ae43323e-8b10-4c01-b1af-987145191d01"
+    },
+    {
+      "id": "feeb61fb-3208-4f36-b645-a3cd6f8fa3c4",
+      "title": "Staff Software Engineer — Cortex Code Platform",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-03-24T23:38:18.275+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/feeb61fb-3208-4f36-b645-a3cd6f8fa3c4"
+    },
+    {
+      "id": "5948c8ef-5a0e-4219-8fd8-fea56305e931",
+      "title": "Senior Social Media Manager, Developer Community ",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-04-17T15:25:33.335+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5948c8ef-5a0e-4219-8fd8-fea56305e931"
+    },
+    {
+      "id": "a56ccd6c-39ba-46bc-b4c7-86d77815b983",
+      "title": "Director, Strategic Events EMEA ",
+      "location": "GB-London",
+      "department": "Marketing",
+      "updated_at": "2026-03-26T15:30:54.987+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a56ccd6c-39ba-46bc-b4c7-86d77815b983"
+    },
+    {
+      "id": "6e2509bf-babf-40fc-bb2f-957269ea0c29",
+      "title": "Senior Software Engineer, Customer Experience Engineering",
+      "location": "US-CA-Menlo Park",
+      "department": "Global Support",
+      "updated_at": "2026-03-26T17:59:20.188+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6e2509bf-babf-40fc-bb2f-957269ea0c29"
+    },
+    {
+      "id": "db54960b-fe73-4cd9-9c2d-85221eca66b2",
+      "title": "Senior Software Engineer, Observe by Snowflake Frontend  ",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-17T03:09:14.257+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/db54960b-fe73-4cd9-9c2d-85221eca66b2"
+    },
+    {
+      "id": "ecff38e1-4dc7-403c-a5a3-29fd6cda3d3f",
+      "title": "Account Executive",
+      "location": "NO-Norway-Remote",
+      "department": "Sales",
+      "updated_at": "2026-03-27T12:56:04.059+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ecff38e1-4dc7-403c-a5a3-29fd6cda3d3f"
+    },
+    {
+      "id": "e6640dc7-a1b3-46ce-b154-e7b5f3345e5c",
+      "title": "Senior Solution Engineer",
+      "location": "GB-London",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-27T16:51:49.711+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e6640dc7-a1b3-46ce-b154-e7b5f3345e5c"
+    },
+    {
+      "id": "777ecd11-58b7-495f-8ddf-452e07256599",
+      "title": "Account Executive, Enterprise Acquisition",
+      "location": "Los Angeles, CA",
+      "department": "Sales",
+      "updated_at": "2026-03-27T18:02:04.046+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/777ecd11-58b7-495f-8ddf-452e07256599"
+    },
+    {
+      "id": "a13407e7-5058-4a09-b093-5016cfd78ed7",
+      "title": "Manager, Sales Development",
+      "location": "KR-Seoul",
+      "department": "Sales Development",
+      "updated_at": "2026-03-23T02:27:20.743+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a13407e7-5058-4a09-b093-5016cfd78ed7"
+    },
+    {
+      "id": "7b9a94ee-5940-40d2-9cd5-67fc23a4ed1a",
+      "title": "Sales Development Representative - Financial Services ",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-02-26T15:29:46.677+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7b9a94ee-5940-40d2-9cd5-67fc23a4ed1a"
+    },
+    {
+      "id": "f1eb6ba0-d4e0-4062-a2b7-be0ffcf4fd46",
+      "title": "Solutions Architect (EMEA North)",
+      "location": "FI-Finland-Remote",
+      "department": "Professional Services",
+      "updated_at": "2026-03-30T11:49:30.612+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f1eb6ba0-d4e0-4062-a2b7-be0ffcf4fd46"
+    },
+    {
+      "id": "21b87d7c-21b6-4381-979d-46dae9b7a71c",
+      "title": "Executive Assistant - Customer Experience, Solution Engineering",
+      "location": "US-CA-Menlo Park",
+      "department": "Revenue Operations",
+      "updated_at": "2026-03-30T13:42:43.284+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/21b87d7c-21b6-4381-979d-46dae9b7a71c"
+    },
+    {
+      "id": "5a5c3173-9a95-4e19-8394-e1b47fda2228",
+      "title": "Demand Generation Manager - Observability",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-24T15:46:51.133+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5a5c3173-9a95-4e19-8394-e1b47fda2228"
+    },
+    {
+      "id": "88bc9874-5ad3-4c7b-8f49-af909dd59265",
+      "title": "Sr. Demand Generation Manager, SEM - Observability",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-24T15:38:52.142+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/88bc9874-5ad3-4c7b-8f49-af909dd59265"
+    },
+    {
+      "id": "66f89fd8-dd23-400f-b4b9-3a3a07575fdc",
+      "title": "Sr. Demand Generation Manager, ABM - Observability",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-24T15:19:37.968+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/66f89fd8-dd23-400f-b4b9-3a3a07575fdc"
+    },
+    {
+      "id": "0880f837-21a2-4bd0-944e-e40273f9f7ae",
+      "title": "Field Marketing Manager, Observability",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-03-24T15:14:19.263+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0880f837-21a2-4bd0-944e-e40273f9f7ae"
+    },
+    {
+      "id": "faa7e28a-f2a6-43cd-adc3-f551c537c953",
+      "title": "Enterprise Account Executive - Acquisition",
+      "location": "AU-Brisbane-MSO",
+      "department": "Sales",
+      "updated_at": "2026-03-30T19:09:22.861+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/faa7e28a-f2a6-43cd-adc3-f551c537c953"
+    },
+    {
+      "id": "a6267168-ad3b-4bf0-856d-3205ce34dd2c",
+      "title": "Senior Solution Engineer, Enterprise Acquisition - Sydney",
+      "location": "AU-Sydney",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-30T19:11:36.477+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a6267168-ad3b-4bf0-856d-3205ce34dd2c"
+    },
+    {
+      "id": "761bedb6-343c-4973-ab29-1529ac5b1438",
+      "title": "Solution Engineer",
+      "location": "KR-Seoul",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-20T10:13:48.894+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/761bedb6-343c-4973-ab29-1529ac5b1438"
+    },
+    {
+      "id": "e2178b92-95c6-4b96-a2ee-a529a3a066fe",
+      "title": "Field Marketing Working Student - Munich",
+      "location": "DE-Munich-MSO",
+      "department": "Marketing",
+      "updated_at": "2026-04-01T11:57:18.130+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e2178b92-95c6-4b96-a2ee-a529a3a066fe"
+    },
+    {
+      "id": "978218a1-12ee-4365-8b25-af93a8f2e5d7",
+      "title": "Senior Manager, Solution Engineering",
+      "location": "FR-Paris",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-25T14:54:42.965+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/978218a1-12ee-4365-8b25-af93a8f2e5d7"
+    },
+    {
+      "id": "d1823395-6522-4b35-bfbf-365ad939529f",
+      "title": "Sales Development Representative - Spanish Speaker",
+      "location": "US-GA-Atlanta",
+      "department": "Sales Development",
+      "updated_at": "2026-03-31T15:38:41.205+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d1823395-6522-4b35-bfbf-365ad939529f"
+    },
+    {
+      "id": "7089b6ae-71d9-4ce2-91f3-4c3f026160fa",
+      "title": "Senior Corporate Counsel 2, Global Partnerships & Alliances",
+      "location": "US-CA-Menlo Park",
+      "department": "Legal",
+      "updated_at": "2026-03-31T16:43:40.420+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7089b6ae-71d9-4ce2-91f3-4c3f026160fa"
+    },
+    {
+      "id": "52615673-a622-4b97-9448-251bddfcdba6",
+      "title": "Deal Desk Manager",
+      "location": "US-GA-Atlanta",
+      "department": "Finance",
+      "updated_at": "2026-04-02T20:09:29.830+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/52615673-a622-4b97-9448-251bddfcdba6"
+    },
+    {
+      "id": "6374db55-baaa-40ce-ae43-c6dd70824217",
+      "title": "Senior Solution Engineer, Healthcare & Life Sciences",
+      "location": "US-MN-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-31T18:30:27.789+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6374db55-baaa-40ce-ae43-c6dd70824217"
+    },
+    {
+      "id": "37cadd7e-59f8-4582-a74f-26af598e4e4d",
+      "title": "Executive Assistant, GTM - Sales Specialist",
+      "location": "US-CA-Menlo Park",
+      "department": "Sales",
+      "updated_at": "2026-03-26T19:11:04.475+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/37cadd7e-59f8-4582-a74f-26af598e4e4d"
+    },
+    {
+      "id": "900f42db-30cf-4537-81ff-586c3e9fc021",
+      "title": "Major Account Executive - Semiconductors",
+      "location": "US-CA-Bay Area-Remote",
+      "department": "Sales",
+      "updated_at": "2026-03-30T12:45:50.022+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/900f42db-30cf-4537-81ff-586c3e9fc021"
+    },
+    {
+      "id": "68b55d92-eb67-4ee3-976a-9623eafc3450",
+      "title": "Senior Security Architect, Applied Field Engineering (AFE)",
+      "location": "US-NY-New York",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-01T19:03:15.382+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/68b55d92-eb67-4ee3-976a-9623eafc3450"
+    },
+    {
+      "id": "7b5aa610-f583-44ad-b573-7f68a3f125ce",
+      "title": "Senior Security Architect, Applied Field Engineering (AFE)",
+      "location": "US-CA-Menlo Park",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-01T19:04:38.403+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7b5aa610-f583-44ad-b573-7f68a3f125ce"
+    },
+    {
+      "id": "deaebf03-4681-417b-a870-648d0d6a2a94",
+      "title": "Staff Research Scientist, AI Agents & LLMs",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-03-26T23:58:31.616+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/deaebf03-4681-417b-a870-648d0d6a2a94"
+    },
+    {
+      "id": "59ae4be0-ec29-4994-a879-101e375483af",
+      "title": "Patent Analyst",
+      "location": "IN-Pune",
+      "department": "Legal",
+      "updated_at": "2026-04-01T06:47:30.863+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/59ae4be0-ec29-4994-a879-101e375483af"
+    },
+    {
+      "id": "940a3b83-8714-4ce0-9acc-75ac716cca9e",
+      "title": "Solution Engineer",
+      "location": "SA-Riyadh-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-31T17:07:53.639+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/940a3b83-8714-4ce0-9acc-75ac716cca9e"
+    },
+    {
+      "id": "71fd0121-4ca5-4437-b1cc-896989d4c798",
+      "title": "Senior Director, Privacy, Security & Data Compliance",
+      "location": "US-CA-Menlo Park",
+      "department": "Legal",
+      "updated_at": "2026-04-02T15:08:21.913+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/71fd0121-4ca5-4437-b1cc-896989d4c798"
+    },
+    {
+      "id": "bd9d7653-f818-40ba-b98e-cbee8261581a",
+      "title": "Industry Architect – Advertising & Media",
+      "location": "US-LA-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-03T17:49:16.957+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/bd9d7653-f818-40ba-b98e-cbee8261581a"
+    },
+    {
+      "id": "9fc4661b-31df-42f0-a0c6-2bf1465d90be",
+      "title": "Director of Engineering, Snowflake Apps",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-03T19:48:32.289+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/9fc4661b-31df-42f0-a0c6-2bf1465d90be"
+    },
+    {
+      "id": "2cc61389-5d92-40a4-af4c-b8b33f7d89cc",
+      "title": "Contract Administator",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-04-03T21:52:29.617+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2cc61389-5d92-40a4-af4c-b8b33f7d89cc"
+    },
+    {
+      "id": "8fb70cca-f3fd-4b57-a5dd-4df51fd08b25",
+      "title": "Account Executive - Eastern Europe",
+      "location": "PL-Warsaw",
+      "department": "Sales",
+      "updated_at": "2026-04-27T12:36:31.505+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8fb70cca-f3fd-4b57-a5dd-4df51fd08b25"
+    },
+    {
+      "id": "fff1a1d7-acdd-4a05-ab3f-d3935aa64570",
+      "title": "People Systems Analyst",
+      "location": "US-CA-Menlo Park",
+      "department": "People",
+      "updated_at": "2026-03-31T20:33:38.853+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/fff1a1d7-acdd-4a05-ab3f-d3935aa64570"
+    },
+    {
+      "id": "cc07b9e3-5048-4955-b7e6-2ee793026c38",
+      "title": "Sr People Compliance Analyst",
+      "location": "US-CA-Menlo Park",
+      "department": "People",
+      "updated_at": "2026-03-16T23:19:45.710+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/cc07b9e3-5048-4955-b7e6-2ee793026c38"
+    },
+    {
+      "id": "fda9ea54-487a-4ea1-bbb9-f48b2789a29d",
+      "title": "Director, Sales Operations Go-to-Market Planning",
+      "location": "US-CA-Menlo Park",
+      "department": "Revenue Operations",
+      "updated_at": "2026-03-31T18:46:03.912+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/fda9ea54-487a-4ea1-bbb9-f48b2789a29d"
+    },
+    {
+      "id": "3907c5a7-f725-4a53-a547-a33f65c5d65d",
+      "title": "Data Platform Architect - Applied Field Engineering",
+      "location": "US-WA-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-03-24T15:58:30.277+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3907c5a7-f725-4a53-a547-a33f65c5d65d"
+    },
+    {
+      "id": "baf72122-41d8-43d2-8b2e-e334b6563290",
+      "title": "Sr. Partner Development Manager, Financial Services DCP Partners",
+      "location": "US-NY-New York",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-04-01T16:36:52.799+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/baf72122-41d8-43d2-8b2e-e334b6563290"
+    },
+    {
+      "id": "968848c0-6111-439e-9ace-be4e56ed37e2",
+      "title": "Account Executive, Enterprise",
+      "location": "US-MA-Boston",
+      "department": "Sales",
+      "updated_at": "2026-03-19T17:26:12.875+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/968848c0-6111-439e-9ace-be4e56ed37e2"
+    },
+    {
+      "id": "e1012c21-c4bc-4c98-9d03-0c8fe3c1727c",
+      "title": "Staff Product Manager - Pipelines & Orchestration",
+      "location": "US-WA-Bellevue",
+      "department": "Product Management",
+      "updated_at": "2026-03-30T21:50:39.056+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e1012c21-c4bc-4c98-9d03-0c8fe3c1727c"
+    },
+    {
+      "id": "1309d94f-1450-41a3-a1cd-17125cfcb6d9",
+      "title": "Senior Penetration Testing Engineer ",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-06T21:21:15.857+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1309d94f-1450-41a3-a1cd-17125cfcb6d9"
+    },
+    {
+      "id": "0f66da84-afac-469c-8cc5-3df06306be25",
+      "title": "District Manager, Commercial Acquisition",
+      "location": "CA-Ontario-Toronto",
+      "department": "Sales",
+      "updated_at": "2026-04-07T18:21:53.774+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0f66da84-afac-469c-8cc5-3df06306be25"
+    },
+    {
+      "id": "5f86cd12-f57d-49f4-8b31-8ee0d7d66bfc",
+      "title": "Senior Cloud Support Engineer - SQL",
+      "location": "KR-Seoul",
+      "department": "Global Support",
+      "updated_at": "2026-04-01T07:40:06.058+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5f86cd12-f57d-49f4-8b31-8ee0d7d66bfc"
+    },
+    {
+      "id": "920cc4a8-cb4a-46a1-92ad-08cc061afbc0",
+      "title": "Enterprise Account Executive",
+      "location": "IN-Mumbai-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-01T07:50:09.963+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/920cc4a8-cb4a-46a1-92ad-08cc061afbc0"
+    },
+    {
+      "id": "15390ce2-d71d-44c7-bf55-e9d7cfcf11a5",
+      "title": "Enterprise Account Executive - Expansion",
+      "location": "PH-Philippines-Remote",
+      "department": "Sales",
+      "updated_at": "2026-04-07T05:15:10.752+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/15390ce2-d71d-44c7-bf55-e9d7cfcf11a5"
+    },
+    {
+      "id": "4674b19c-2a2f-4315-8229-b23a2c1336b4",
+      "title": "Technical Director for AI Functions",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-10T19:16:38.092+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/4674b19c-2a2f-4315-8229-b23a2c1336b4"
+    },
+    {
+      "id": "e1087779-5136-4b9a-8a9f-37d3881d0f69",
+      "title": "Senior Learning & Development Program Manager",
+      "location": "US-MA-Boston",
+      "department": "People",
+      "updated_at": "2026-04-02T18:34:18.858+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e1087779-5136-4b9a-8a9f-37d3881d0f69"
+    },
+    {
+      "id": "fa33b692-0ce3-43e2-a2f7-1c3fb7ab82ab",
+      "title": "Engineering Manager - Transformation & Data Lake",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-04-02T20:55:22.544+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/fa33b692-0ce3-43e2-a2f7-1c3fb7ab82ab"
+    },
+    {
+      "id": "893806bb-b3c2-47d2-9058-fb3889db33ff",
+      "title": "Account Executive, Commercial Acquisition",
+      "location": "US-CO-Denver",
+      "department": "Sales",
+      "updated_at": "2026-04-09T21:18:20.926+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/893806bb-b3c2-47d2-9058-fb3889db33ff"
+    },
+    {
+      "id": "c73e0e90-9be1-4ca1-ac6b-d2ec6bcbb2d1",
+      "title": "Enterprise Account Exective - Observability",
+      "location": "SE-Stockholm-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-22T16:17:22.684+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c73e0e90-9be1-4ca1-ac6b-d2ec6bcbb2d1"
+    },
+    {
+      "id": "aca4a63f-64aa-446e-b203-1cee63a6f91c",
+      "title": "Senior Solutions Engineer, Media & Entertainment",
+      "location": "US-NY-New York City-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-10T17:13:10.992+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/aca4a63f-64aa-446e-b203-1cee63a6f91c"
+    },
+    {
+      "id": "7f3c1107-664e-4bab-8188-9f015580b818",
+      "title": "Account Executive, Enterprise Growth",
+      "location": "US-CA-Menlo Park",
+      "department": "Sales",
+      "updated_at": "2026-04-06T18:37:03.122+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7f3c1107-664e-4bab-8188-9f015580b818"
+    },
+    {
+      "id": "6754de86-7485-4826-9aad-ef24cce405a9",
+      "title": "Anti-Abuse Senior Software Engineer, Product Security",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-04-10T21:01:10.056+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/6754de86-7485-4826-9aad-ef24cce405a9"
+    },
+    {
+      "id": "2b9a8107-5a1e-4145-974b-3116f5bb3560",
+      "title": "Senior Solution Engineer",
+      "location": "SG-Singapore",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-07T14:29:56.123+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2b9a8107-5a1e-4145-974b-3116f5bb3560"
+    },
+    {
+      "id": "b6e0f4a7-7e69-4c92-b3cc-13d018bbabe9",
+      "title": "Principal Software Engineer - AI Poland",
+      "location": "PL-Warsaw",
+      "department": "Engineering",
+      "updated_at": "2026-04-07T08:07:10.282+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b6e0f4a7-7e69-4c92-b3cc-13d018bbabe9"
+    },
+    {
+      "id": "feafdbc7-5906-41c6-9dfe-764894aeb9f8",
+      "title": "Senior Talent Brand Specialist",
+      "location": "US-CA-Menlo Park",
+      "department": "People",
+      "updated_at": "2026-04-03T00:19:08.390+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/feafdbc7-5906-41c6-9dfe-764894aeb9f8"
+    },
+    {
+      "id": "5f82009a-104d-49e6-ad0d-b3924a3a1a48",
+      "title": "Senior UX Manager, Observe by Snowflake",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-04-03T16:26:45.259+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5f82009a-104d-49e6-ad0d-b3924a3a1a48"
+    },
+    {
+      "id": "e2aa3549-1da5-4dd4-b6d3-5cdf3eba6c1b",
+      "title": "Senior Director, Compensation",
+      "location": "US-CA-Menlo Park",
+      "department": "People",
+      "updated_at": "2026-04-08T23:12:37.674+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e2aa3549-1da5-4dd4-b6d3-5cdf3eba6c1b"
+    },
+    {
+      "id": "cc02c7aa-16b7-4003-93eb-db2f038b3e52",
+      "title": "Sr. Integrations Developer, Workday HCM",
+      "location": "US-CA-Dublin",
+      "department": "People",
+      "updated_at": "2026-04-07T15:30:10.628+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/cc02c7aa-16b7-4003-93eb-db2f038b3e52"
+    },
+    {
+      "id": "745f8b76-989e-46f9-b3fd-f5b83b4ba70c",
+      "title": "Solution Engineer - Data Engineering Specialist - Bilingual (Spanish)",
+      "location": "US-GA-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-08T17:33:30.551+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/745f8b76-989e-46f9-b3fd-f5b83b4ba70c"
+    },
+    {
+      "id": "1014482d-b232-4943-8b2d-7f28c8a14de1",
+      "title": "Senior Solution Engineer - SLED ",
+      "location": "US-SC-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-15T11:37:28.892+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1014482d-b232-4943-8b2d-7f28c8a14de1"
+    },
+    {
+      "id": "7923e603-3808-4f12-80e5-6bb1a06fc404",
+      "title": "Senior Solution Engineer",
+      "location": "US-CA-Menlo Park",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-14T16:48:06.674+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7923e603-3808-4f12-80e5-6bb1a06fc404"
+    },
+    {
+      "id": "762981d1-17b7-4dcf-9754-531155004dab",
+      "title": "Senior Manager, Solution Engineering",
+      "location": "SE-Stockholm-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-02T08:20:01.320+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/762981d1-17b7-4dcf-9754-531155004dab"
+    },
+    {
+      "id": "b394b40b-ebab-4e7b-a43b-27d2b3247a42",
+      "title": "Account Executive, Commercial",
+      "location": "US-CO-Denver",
+      "department": "Sales",
+      "updated_at": "2026-04-09T00:57:45.862+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b394b40b-ebab-4e7b-a43b-27d2b3247a42"
+    },
+    {
+      "id": "84a6d413-62f9-4e84-9bac-53e79e371778",
+      "title": "Senior Solution Engineer",
+      "location": "CA-Alberta-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-13T19:34:38.919+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/84a6d413-62f9-4e84-9bac-53e79e371778"
+    },
+    {
+      "id": "7fe10cf3-f04a-4f5e-8536-2d20e3eb5d91",
+      "title": "Executive Operations",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-06T16:37:06.519+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7fe10cf3-f04a-4f5e-8536-2d20e3eb5d91"
+    },
+    {
+      "id": "5172e8b1-d7c6-4500-b536-f18d064d17a0",
+      "title": "Sourcing Manager",
+      "location": "US-WA-Bellevue",
+      "department": "People",
+      "updated_at": "2026-04-03T17:37:58.238+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5172e8b1-d7c6-4500-b536-f18d064d17a0"
+    },
+    {
+      "id": "24083626-d2b0-4c90-94ad-62b535f76b47",
+      "title": "Partner Development Manager - ASEAN (GSI)",
+      "location": "SG-Singapore",
+      "department": "Alliances and Channels",
+      "updated_at": "2026-04-08T02:58:09.652+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/24083626-d2b0-4c90-94ad-62b535f76b47"
+    },
+    {
+      "id": "a040adc3-9592-49cb-84db-27fcc8ede438",
+      "title": "Senior Solution Engineer ",
+      "location": "US-MA-Boston",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-15T11:39:56.692+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a040adc3-9592-49cb-84db-27fcc8ede438"
+    },
+    {
+      "id": "13d86e27-42ca-4400-9316-d58806a05772",
+      "title": "Senior Solution Engineer",
+      "location": "US-CO-Denver",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-15T11:41:22.824+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/13d86e27-42ca-4400-9316-d58806a05772"
+    },
+    {
+      "id": "d335b1a1-bc0a-4016-b02a-86299d55609c",
+      "title": "Vice President, Deputy General Counsel – Commercial",
+      "location": "US-CA-Menlo Park",
+      "department": "Legal",
+      "updated_at": "2026-04-13T22:45:44.751+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d335b1a1-bc0a-4016-b02a-86299d55609c"
+    },
+    {
+      "id": "763010e8-7070-4f9d-aa57-0ae1f5a306e9",
+      "title": "Solution Engineer",
+      "location": "US-NY-New York",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-15T11:43:12.150+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/763010e8-7070-4f9d-aa57-0ae1f5a306e9"
+    },
+    {
+      "id": "ce89d7db-4c16-4569-98b5-f66f976e99aa",
+      "title": "Technical Delivery Director",
+      "location": "US-CA-Menlo Park",
+      "department": "Professional Services",
+      "updated_at": "2026-04-03T19:57:05.027+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ce89d7db-4c16-4569-98b5-f66f976e99aa"
+    },
+    {
+      "id": "2e6f15d5-f108-46db-b92a-ca98c8da4a65",
+      "title": "Product Workload Finance Analyst",
+      "location": "US-WA-Bellevue",
+      "department": "Finance",
+      "updated_at": "2026-04-14T16:13:48.801+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2e6f15d5-f108-46db-b92a-ca98c8da4a65"
+    },
+    {
+      "id": "2d362220-ee8d-412d-9fcd-6ccf17a169ec",
+      "title": "Regional Leader, EMEA Sales - Observability ",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-04-22T16:09:21.701+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2d362220-ee8d-412d-9fcd-6ccf17a169ec"
+    },
+    {
+      "id": "a968d2ae-637a-4ce0-afd1-7088ba4735f0",
+      "title": "Senior Manager, Technical Support",
+      "location": "US-CA-Dublin",
+      "department": "Global Support",
+      "updated_at": "2026-04-14T17:21:10.046+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a968d2ae-637a-4ce0-afd1-7088ba4735f0"
+    },
+    {
+      "id": "cb7a219e-d72b-49b5-aa43-edfff9ead81d",
+      "title": "Manager, Solution Engineering",
+      "location": "US-NY-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-14T18:39:19.593+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/cb7a219e-d72b-49b5-aa43-edfff9ead81d"
+    },
+    {
+      "id": "1e010659-1551-4c45-a9ed-09a1bba10f81",
+      "title": "Staff Analyst, GTM Analytics",
+      "location": "US-CA-Menlo Park",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-04-13T03:30:40.386+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1e010659-1551-4c45-a9ed-09a1bba10f81"
+    },
+    {
+      "id": "65758ff6-d500-4638-b1ec-95800978a16c",
+      "title": "Applied Scientist, Customer FinOps Intelligence",
+      "location": "US-CA-Menlo Park",
+      "department": "Sales",
+      "updated_at": "2026-04-14T19:58:44.285+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/65758ff6-d500-4638-b1ec-95800978a16c"
+    },
+    {
+      "id": "5f935ec0-5842-4c35-bd13-b38143551723",
+      "title": "Analyst/ Senior Analyst, People Analytics",
+      "location": "US-CA-Menlo Park",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-04-13T01:13:40.549+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5f935ec0-5842-4c35-bd13-b38143551723"
+    },
+    {
+      "id": "ff7fbdd3-98a7-4552-959f-bb4812b2dc8d",
+      "title": "Director, Data Science – GTM (Data, Analytics & AI)",
+      "location": "US-CA-Menlo Park",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-04-14T20:03:27.310+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ff7fbdd3-98a7-4552-959f-bb4812b2dc8d"
+    },
+    {
+      "id": "c02bab9f-5d7f-4808-9dce-c118efc347ac",
+      "title": "Senior Data Analytics Engineer",
+      "location": "US-CA-Menlo Park",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-04-16T19:37:29.985+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c02bab9f-5d7f-4808-9dce-c118efc347ac"
+    },
+    {
+      "id": "159f0c00-6eed-4d93-a5cc-462a81fa651d",
+      "title": "Enterprise Account Exective - Observability",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-04-22T16:16:18.622+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/159f0c00-6eed-4d93-a5cc-462a81fa651d"
+    },
+    {
+      "id": "106edc19-7c0a-4ae5-b7e1-cd55be78f4dd",
+      "title": "Senior Solution Engineer",
+      "location": "US-IL-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-15T12:20:05.542+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/106edc19-7c0a-4ae5-b7e1-cd55be78f4dd"
+    },
+    {
+      "id": "3f54063c-f72f-47e7-818f-b6ec0fa8d668",
+      "title": "Senior Product Designer",
+      "location": "US-CA-Menlo Park",
+      "department": "Product Management",
+      "updated_at": "2026-04-10T04:31:17.522+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3f54063c-f72f-47e7-818f-b6ec0fa8d668"
+    },
+    {
+      "id": "41a3d739-6554-4d4f-adf4-2334eb449fd1",
+      "title": "Enterprise Account Exective - Observability",
+      "location": "FR-Paris",
+      "department": "Sales",
+      "updated_at": "2026-04-22T16:16:43.418+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/41a3d739-6554-4d4f-adf4-2334eb449fd1"
+    },
+    {
+      "id": "7e8aa8bd-df51-44bd-b5c3-4011b4810739",
+      "title": "Principal Solution Engineer, Financial Services",
+      "location": "US-NC-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-15T17:56:45.918+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7e8aa8bd-df51-44bd-b5c3-4011b4810739"
+    },
+    {
+      "id": "de2ed6ff-f08b-4f38-b51a-9debf15c1d5c",
+      "title": "Senior Solution Engineer, Financial Services",
+      "location": "US-NY-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-14T17:41:45.023+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/de2ed6ff-f08b-4f38-b51a-9debf15c1d5c"
+    },
+    {
+      "id": "2cec1f1a-a789-4e86-b71d-7aee75ec75b0",
+      "title": "Enterprise Account Exective - Observability",
+      "location": "NL-Amsterdam",
+      "department": "Sales",
+      "updated_at": "2026-04-22T16:18:20.023+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2cec1f1a-a789-4e86-b71d-7aee75ec75b0"
+    },
+    {
+      "id": "9e4d1992-48e6-4a78-9655-6657462c0452",
+      "title": "Enterprise Program Manager, Observability",
+      "location": "US-CA-Menlo Park",
+      "department": "Global Support",
+      "updated_at": "2026-04-15T21:15:24.197+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/9e4d1992-48e6-4a78-9655-6657462c0452"
+    },
+    {
+      "id": "385b29d8-ef08-47a0-a2c3-fe1b53367e85",
+      "title": "Enterprise Account Exective - Observability",
+      "location": "DE-Munich-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-22T16:18:45.718+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/385b29d8-ef08-47a0-a2c3-fe1b53367e85"
+    },
+    {
+      "id": "22228c5b-1683-49ef-9056-d2240ca92ce7",
+      "title": "Senior Data Analytics Engineer ",
+      "location": "US-CA-Menlo Park",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-04-16T19:23:52.263+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/22228c5b-1683-49ef-9056-d2240ca92ce7"
+    },
+    {
+      "id": "5638aa0c-3b2e-42e7-8994-955d92844b76",
+      "title": "Senior District Manager, Enterprise Acquisition",
+      "location": "US-NY-New York",
+      "department": "Sales",
+      "updated_at": "2026-04-15T23:39:07.349+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/5638aa0c-3b2e-42e7-8994-955d92844b76"
+    },
+    {
+      "id": "7aeb58ca-b683-453a-916b-520a9d549d8e",
+      "title": "Partner Marketing Lead, AI",
+      "location": "US-WA-Bellevue",
+      "department": "Marketing",
+      "updated_at": "2026-04-09T18:36:38.221+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7aeb58ca-b683-453a-916b-520a9d549d8e"
+    },
+    {
+      "id": "38b76c17-eb96-4413-966c-bf8fc5aad68e",
+      "title": "Sales Development Representative",
+      "location": "IN-Bangalore-MSO",
+      "department": "Sales Development",
+      "updated_at": "2026-04-15T06:42:32.658+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/38b76c17-eb96-4413-966c-bf8fc5aad68e"
+    },
+    {
+      "id": "e61f7d98-061f-491c-8f1b-5820bda69472",
+      "title": "Sales Development Representative",
+      "location": "IN-Mumbai-MSO",
+      "department": "Sales Development",
+      "updated_at": "2026-04-15T06:42:29.307+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e61f7d98-061f-491c-8f1b-5820bda69472"
+    },
+    {
+      "id": "2452ea0e-cdac-4c22-b5ec-6076518c0beb",
+      "title": "Senior District Manager - Acquisition",
+      "location": "DK-Copenhagen-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-16T07:34:55.722+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2452ea0e-cdac-4c22-b5ec-6076518c0beb"
+    },
+    {
+      "id": "ae508fb1-5dbf-43ee-8852-e7c88540de73",
+      "title": "Digital Marketing Specialist",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-04-09T22:11:09.118+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ae508fb1-5dbf-43ee-8852-e7c88540de73"
+    },
+    {
+      "id": "d790c839-62cf-4378-8f80-eb98b1577016",
+      "title": "Senior Solution Engineer",
+      "location": "US-IL-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-13T15:16:41.559+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d790c839-62cf-4378-8f80-eb98b1577016"
+    },
+    {
+      "id": "dc878ba0-062a-496f-8b5a-d40b3210eafc",
+      "title": "Account Executive, Latin America ",
+      "location": "MX-Mexico-Remote",
+      "department": "Sales",
+      "updated_at": "2026-03-30T20:07:34.231+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/dc878ba0-062a-496f-8b5a-d40b3210eafc"
+    },
+    {
+      "id": "1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
+      "title": "Staff Software Engineer - Parameters",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-04-13T22:55:11.192+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/1ed263be-f6d1-41fb-8cd7-fc99112c2ca1"
+    },
+    {
+      "id": "0a80fba7-8406-4934-b76c-64153b98ab94",
+      "title": "Senior Solution Engineer - Federal",
+      "location": "US-VA-McLean",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-13T19:24:55.197+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/0a80fba7-8406-4934-b76c-64153b98ab94"
+    },
+    {
+      "id": "3a14c8d2-73af-4479-8c87-dd748ee4531b",
+      "title": "Delivery Operations Systems & Process Manager",
+      "location": "US-CO-Denver",
+      "department": "Professional Services",
+      "updated_at": "2026-04-03T21:05:06.910+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3a14c8d2-73af-4479-8c87-dd748ee4531b"
+    },
+    {
+      "id": "896f250b-b553-458d-b0d4-80ea9ceee826",
+      "title": "Senior PS Sales Solutions Architect",
+      "location": "US-CO-Denver",
+      "department": "Professional Services",
+      "updated_at": "2026-04-16T20:03:03.630+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/896f250b-b553-458d-b0d4-80ea9ceee826"
+    },
+    {
+      "id": "bcd7eea8-1f1e-437b-b7d1-52361493d55e",
+      "title": "Senior Software Engineer - Production Control Plane",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-18T02:03:15.597+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/bcd7eea8-1f1e-437b-b7d1-52361493d55e"
+    },
+    {
+      "id": "246b9beb-f3f3-4279-a817-00cce883e3b8",
+      "title": "Senior International Tax Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-04-18T04:11:12.799+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/246b9beb-f3f3-4279-a817-00cce883e3b8"
+    },
+    {
+      "id": "7c53d7f5-1a7f-4fdb-a8c1-b59060d9551d",
+      "title": "Product Analyst",
+      "location": "US-WA-Bellevue",
+      "department": "Finance",
+      "updated_at": "2026-04-14T15:48:24.430+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7c53d7f5-1a7f-4fdb-a8c1-b59060d9551d"
+    },
+    {
+      "id": "b241904d-7d42-41f0-9674-82e53d964846",
+      "title": "Analyst, Finance Analytics & AI",
+      "location": "US-CA-Menlo Park",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-04-20T14:48:18.005+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b241904d-7d42-41f0-9674-82e53d964846"
+    },
+    {
+      "id": "dba101f7-c6f7-49e2-a1e6-06c3c2ddee5b",
+      "title": "Senior Software Engineer - Observe Data Management",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-20T15:45:43.048+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/dba101f7-c6f7-49e2-a1e6-06c3c2ddee5b"
+    },
+    {
+      "id": "b87ac955-b0a3-443f-922e-74193d6f004d",
+      "title": "Senior Partner Marketing Manager, Public Sector",
+      "location": "US-VA-McLean",
+      "department": "Marketing",
+      "updated_at": "2026-04-08T23:59:25.258+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b87ac955-b0a3-443f-922e-74193d6f004d"
+    },
+    {
+      "id": "83da282e-ff98-45a2-9849-667cce0766f0",
+      "title": "Senior Solution Engineer",
+      "location": "SG-Singapore",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-09T10:04:55.927+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/83da282e-ff98-45a2-9849-667cce0766f0"
+    },
+    {
+      "id": "8d54cbf2-ca42-4297-b498-2f1620be66c5",
+      "title": "Senior Software Developer - Full Stack",
+      "location": "US-CA-Dublin",
+      "department": "Enterprise Technology",
+      "updated_at": "2026-04-13T22:15:53.113+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8d54cbf2-ca42-4297-b498-2f1620be66c5"
+    },
+    {
+      "id": "3272836f-807d-4306-af07-83a848803e01",
+      "title": "Software Engineer - Notebooks ",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-04-10T17:22:12.863+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3272836f-807d-4306-af07-83a848803e01"
+    },
+    {
+      "id": "364c14ff-e4c9-4f50-b5aa-b02b0aa98e7a",
+      "title": "Senior Frontend Software Engineer - Notebooks ",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-24T16:55:22.664+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/364c14ff-e4c9-4f50-b5aa-b02b0aa98e7a"
+    },
+    {
+      "id": "bd6e11e3-ee22-49ca-b92b-394cbcaa32d3",
+      "title": "Senior Forward Deployed Engineer - SnowConvert AI",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-16T00:16:11.325+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/bd6e11e3-ee22-49ca-b92b-394cbcaa32d3"
+    },
+    {
+      "id": "07e50e24-84ac-4002-ad26-9de1d991362c",
+      "title": "Software Engineer - Observe",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-20T19:55:13.278+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/07e50e24-84ac-4002-ad26-9de1d991362c"
+    },
+    {
+      "id": "c4a9dac4-d58e-4875-80ac-ecf7c9102d62",
+      "title": "Product Marketing Lead - AI Solutions",
+      "location": "US-WA-Bellevue",
+      "department": "Marketing",
+      "updated_at": "2026-04-22T18:05:34.803+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c4a9dac4-d58e-4875-80ac-ecf7c9102d62"
+    },
+    {
+      "id": "8904ed85-75d6-48cf-b01b-7941677fde4a",
+      "title": "Data Engineer Intern - Pune (2026)",
+      "location": "IN-Pune",
+      "department": "Data Analytics and AI",
+      "updated_at": "2026-04-21T13:18:56.025+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a"
+    },
+    {
+      "id": "06c9bcde-02fb-4445-b965-6d812d3ba98e",
+      "title": "Associate Solution Engineer",
+      "location": "NO-Oslo-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-22T09:27:55.769+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/06c9bcde-02fb-4445-b965-6d812d3ba98e"
+    },
+    {
+      "id": "37acf8bc-ab5a-43e0-b72d-6464ca1f47b5",
+      "title": "Associate Solution Engineer",
+      "location": "DK-Copenhagen-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-22T09:27:50.103+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/37acf8bc-ab5a-43e0-b72d-6464ca1f47b5"
+    },
+    {
+      "id": "ddfb5ead-b8be-4d81-91fe-97055fc8af00",
+      "title": "Software Engineer - Customer Experience Engineering",
+      "location": "PL-Warsaw",
+      "department": "Global Support",
+      "updated_at": "2026-04-21T16:08:59.761+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ddfb5ead-b8be-4d81-91fe-97055fc8af00"
+    },
+    {
+      "id": "3b15e969-42d4-48c0-8e01-a95985aec533",
+      "title": "Senior Software Engineer - Customer Experience Engineering",
+      "location": "PL-Warsaw",
+      "department": "Global Support",
+      "updated_at": "2026-04-13T18:09:54.131+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3b15e969-42d4-48c0-8e01-a95985aec533"
+    },
+    {
+      "id": "55375b6c-d675-452a-ad11-5acf462702a7",
+      "title": "Sr. District Manager, Enterprise Sales",
+      "location": "US-NY-New York",
+      "department": "Sales",
+      "updated_at": "2026-04-09T21:41:11.771+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/55375b6c-d675-452a-ad11-5acf462702a7"
+    },
+    {
+      "id": "8aaca557-05dc-4412-8d3b-28ed686df200",
+      "title": "Software Engineer, Engineering Infrastructure",
+      "location": "CA-Ontario-Toronto",
+      "department": "Engineering",
+      "updated_at": "2026-04-21T19:00:49.255+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/8aaca557-05dc-4412-8d3b-28ed686df200"
+    },
+    {
+      "id": "ba48d3df-08c5-4f52-9f63-9b492614be34",
+      "title": "Senior Applied Field Engineering, Analytics",
+      "location": "US-WA-Bellevue",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-21T18:59:30.370+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ba48d3df-08c5-4f52-9f63-9b492614be34"
+    },
+    {
+      "id": "c66c9e35-4a5a-43af-a8e0-69c5208ef890",
+      "title": "Senior PS Sales Solutions Architect",
+      "location": "US-CA-Menlo Park",
+      "department": "Professional Services",
+      "updated_at": "2026-04-17T20:29:54.959+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c66c9e35-4a5a-43af-a8e0-69c5208ef890"
+    },
+    {
+      "id": "509681a0-08cd-484f-aaa6-ffdb8ea5a5ce",
+      "title": "Solution Engineer - Data Engineering Specialist (FSI)",
+      "location": "US-NY-New York",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-21T21:05:41.033+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/509681a0-08cd-484f-aaa6-ffdb8ea5a5ce"
+    },
+    {
+      "id": "d442fe64-f165-4132-85fc-7401fad88724",
+      "title": "Product Growth Specialist (PGS) - Data Engineering",
+      "location": "US-CA-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-21T21:10:52.109+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d442fe64-f165-4132-85fc-7401fad88724"
+    },
+    {
+      "id": "c1e5337a-deb8-4139-ad55-f42ad24e1882",
+      "title": "Workplace Coordinator",
+      "location": "PL-Warsaw",
+      "department": "Workplace",
+      "updated_at": "2026-04-22T07:35:32.798+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c1e5337a-deb8-4139-ad55-f42ad24e1882"
+    },
+    {
+      "id": "7347bb03-93a2-4c96-99ad-ac7861f3ecfe",
+      "title": "Applied Field Engineer AI/ML Intern (3 months) - London 2026",
+      "location": "GB-London",
+      "department": "Sales",
+      "updated_at": "2026-04-22T09:37:53.687+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7347bb03-93a2-4c96-99ad-ac7861f3ecfe"
+    },
+    {
+      "id": "3065ea81-b2d2-4d29-800d-7c69c1c256aa",
+      "title": "Associate Solution Engineer (Acquisition)",
+      "location": "DE-Munich-MSO",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-22T10:05:18.116+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3065ea81-b2d2-4d29-800d-7c69c1c256aa"
+    },
+    {
+      "id": "c95ced3f-4bdd-4c44-8ca5-1a2d2710c9e4",
+      "title": "Solution Engineer",
+      "location": "GB-London",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-22T13:12:28.744+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c95ced3f-4bdd-4c44-8ca5-1a2d2710c9e4"
+    },
+    {
+      "id": "9ac203c7-76aa-493e-a629-0785cea5ed83",
+      "title": "Product Growth Specialist - Data Engineering",
+      "location": "US-VA-Remote",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-23T12:29:16.190+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/9ac203c7-76aa-493e-a629-0785cea5ed83"
+    },
+    {
+      "id": "d35519be-6fb1-4f6f-98d8-fe3a12095f2c",
+      "title": "Commercial Solution Engineer",
+      "location": "FutureSite-DE-Berlin",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-24T09:38:23.141+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d35519be-6fb1-4f6f-98d8-fe3a12095f2c"
+    },
+    {
+      "id": "2207f15a-c1fb-40fb-80ea-90658035ddb9",
+      "title": "Executive Communications Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Marketing",
+      "updated_at": "2026-04-16T17:30:56.008+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2207f15a-c1fb-40fb-80ea-90658035ddb9"
+    },
+    {
+      "id": "c73bd1cd-7c40-4375-8eed-3ebb0d33cc0d",
+      "title": "Enterprise Security Trust Program Manager, Customer Trust",
+      "location": "DE-Berlin-Trion Building",
+      "department": "Engineering",
+      "updated_at": "2026-04-23T16:10:41.003+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/c73bd1cd-7c40-4375-8eed-3ebb0d33cc0d"
+    },
+    {
+      "id": "85ad455a-ecbc-45b3-bab3-76685251e136",
+      "title": "Data Engineering Solutions Specialist ",
+      "location": "US-NY-Remote",
+      "department": "Revenue Operations",
+      "updated_at": "2026-04-23T19:40:56.738+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/85ad455a-ecbc-45b3-bab3-76685251e136"
+    },
+    {
+      "id": "76278625-d0e3-4dcb-aa98-a675268100bc",
+      "title": "Associate Solution Engineer, Commercial ",
+      "location": "US-GA-Atlanta",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-23T02:26:03.960+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/76278625-d0e3-4dcb-aa98-a675268100bc"
+    },
+    {
+      "id": "b6aa9896-a7c5-4443-8656-60087f7aa07c",
+      "title": "Solution Engineering Manager",
+      "location": "US-CA-Menlo Park",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-20T19:17:47.174+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b6aa9896-a7c5-4443-8656-60087f7aa07c"
+    },
+    {
+      "id": "e1dd1cce-d39a-4a8a-9abc-4d783049ca78",
+      "title": "Enterprise Technology, Support Engineer Intern",
+      "location": "US-CA-Menlo Park",
+      "department": "Enterprise Technology",
+      "updated_at": "2026-04-24T17:26:57.480+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e1dd1cce-d39a-4a8a-9abc-4d783049ca78"
+    },
+    {
+      "id": "3c018564-63c0-4179-ba91-f42ce75a40fa",
+      "title": "Software Engineer - Streamlit",
+      "location": "US-WA-Bellevue",
+      "department": "Engineering",
+      "updated_at": "2026-04-22T22:26:13.446+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3c018564-63c0-4179-ba91-f42ce75a40fa"
+    },
+    {
+      "id": "2f09ebe4-ba37-409e-8d0c-a2eccb91bfac",
+      "title": "Consulting Manager, AI/ML",
+      "location": "US-CA-Menlo Park",
+      "department": "Professional Services",
+      "updated_at": "2026-04-21T21:51:49.673+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/2f09ebe4-ba37-409e-8d0c-a2eccb91bfac"
+    },
+    {
+      "id": "a9ac05e3-cfe7-474c-a8e6-41baff859964",
+      "title": "Senior SWE, AI Backend: Observe by Snowflake",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-17T20:58:29.869+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a9ac05e3-cfe7-474c-a8e6-41baff859964"
+    },
+    {
+      "id": "b143b0bb-5c74-4353-9189-c87217b380c8",
+      "title": "Manager, Sales Development",
+      "location": "US-CO-Denver",
+      "department": "Sales Development",
+      "updated_at": "2026-04-27T15:55:00.124+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b143b0bb-5c74-4353-9189-c87217b380c8"
+    },
+    {
+      "id": "f288375d-5d6b-4686-94bf-8018583ff03b",
+      "title": "Senior Technical Support Engineer, Observe by Snowflake",
+      "location": "CH-Zurich-Observe",
+      "department": "Engineering",
+      "updated_at": "2026-04-18T01:32:44.457+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f288375d-5d6b-4686-94bf-8018583ff03b"
+    },
+    {
+      "id": "d734e82f-59e4-4bf2-bcb8-d80ae0ce0c11",
+      "title": "Auditor - Business",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-04-21T14:42:16.651+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/d734e82f-59e4-4bf2-bcb8-d80ae0ce0c11"
+    },
+    {
+      "id": "f528f20a-aaa4-4ec9-a2c2-48d9e5a38695",
+      "title": "Senior Technical Account Manager",
+      "location": "GB-London",
+      "department": "Global Support",
+      "updated_at": "2026-04-16T11:20:12.830+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f528f20a-aaa4-4ec9-a2c2-48d9e5a38695"
+    },
+    {
+      "id": "3eea87fa-73c8-46dc-b69b-7beb438b48d8",
+      "title": "Senior Software Engineer, Enterprise",
+      "location": "CH-Zurich-Observe",
+      "department": "Engineering",
+      "updated_at": "2026-04-27T18:57:13.451+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3eea87fa-73c8-46dc-b69b-7beb438b48d8"
+    },
+    {
+      "id": "7d67f48c-21d1-47fa-ad41-c69920532393",
+      "title": "Director, Technical Accounting",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-04-23T03:12:30.220+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/7d67f48c-21d1-47fa-ad41-c69920532393"
+    },
+    {
+      "id": "18b7198e-7af9-4136-bef0-a3bfe6be0e1e",
+      "title": "Account Executive - Manufacturing & Industry",
+      "location": "FR-Paris",
+      "department": "Sales",
+      "updated_at": "2026-04-27T20:06:37.643+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/18b7198e-7af9-4136-bef0-a3bfe6be0e1e"
+    },
+    {
+      "id": "3a15dda6-cf90-4552-86d0-8fabde86b5ac",
+      "title": "Account Executive Public Sector",
+      "location": "ES-Madrid-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-27T20:32:30.809+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/3a15dda6-cf90-4552-86d0-8fabde86b5ac"
+    },
+    {
+      "id": "ae2d6f1c-70ec-4a4c-bca6-e091dafe81ab",
+      "title": "Sr. Enterprise Data & AI Architect",
+      "location": "US-CA-Menlo Park",
+      "department": "Solution Engineering",
+      "updated_at": "2026-04-27T21:17:38.087+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/ae2d6f1c-70ec-4a4c-bca6-e091dafe81ab"
+    },
+    {
+      "id": "e03f342c-7c03-44e5-962e-f2c52af6998c",
+      "title": "Executive Assistant - Engineering",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-27T21:47:34.090+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/e03f342c-7c03-44e5-962e-f2c52af6998c"
+    },
+    {
+      "id": "38d45cbd-11fa-49c3-aea2-be77f896e3e1",
+      "title": "Senior PS Sales Solutions Architect",
+      "location": "US-IL-Remote",
+      "department": "Professional Services",
+      "updated_at": "2026-04-17T20:24:48.940+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/38d45cbd-11fa-49c3-aea2-be77f896e3e1"
+    },
+    {
+      "id": "a1f1779b-464c-48f6-a664-56314825c8ac",
+      "title": "Staff Softare Engineer, Cortex AI Infrastructure",
+      "location": "US-CA-Menlo Park",
+      "department": "Engineering",
+      "updated_at": "2026-04-27T21:43:14.227+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/a1f1779b-464c-48f6-a664-56314825c8ac"
+    },
+    {
+      "id": "16bf5348-3e01-4518-bf9c-17362b67ecea",
+      "title": "Senior Data Scientist",
+      "location": "US-CA-Menlo Park",
+      "department": "Finance",
+      "updated_at": "2026-04-28T00:46:47.722+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/16bf5348-3e01-4518-bf9c-17362b67ecea"
+    },
+    {
+      "id": "b3f5c974-a9e1-4198-8d94-c6e5fd0fa81f",
+      "title": "Account Executive - Public Sector",
+      "location": "AU-Brisbane-MSO",
+      "department": "Sales",
+      "updated_at": "2026-04-20T23:43:44.782+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/b3f5c974-a9e1-4198-8d94-c6e5fd0fa81f"
+    },
+    {
+      "id": "f08b7b19-11cb-4cb7-8b1e-10c239fe40e9",
+      "title": "Practice Manager",
+      "location": "JP-Japan-Remote",
+      "department": "Professional Services",
+      "updated_at": "2026-04-01T05:58:19.795+00:00",
+      "url": "https://jobs.ashbyhq.com/snowflake/f08b7b19-11cb-4cb7-8b1e-10c239fe40e9"
+    }
+  ]
+}

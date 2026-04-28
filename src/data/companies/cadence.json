@@ -1,0 +1,14 @@
+{
+  "slug": "cadence",
+  "name": "Cadence",
+  "website": "https://www.cadence.com",
+  "sector": "EDA Software",
+  "headquarters": "San Jose, CA",
+  "description": "EDA tools, IP, system analysis. Synopsys duopoly partner.",
+  "ats": "workday",
+  "workday": {
+    "host": "cadence.wd1.myworkdayjobs.com",
+    "tenant": "cadence",
+    "site": "External_Careers"
+  }
+}

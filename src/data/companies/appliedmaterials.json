@@ -1,0 +1,14 @@
+{
+  "slug": "appliedmaterials",
+  "name": "Applied Materials",
+  "website": "https://www.appliedmaterials.com",
+  "sector": "Semicon Equipment",
+  "headquarters": "Santa Clara, CA",
+  "description": "Semiconductor manufacturing equipment — deposition, etch, CMP. Critical to leading-edge fab capacity.",
+  "ats": "workday",
+  "workday": {
+    "host": "amat.wd1.myworkdayjobs.com",
+    "tenant": "amat",
+    "site": "External"
+  }
+}

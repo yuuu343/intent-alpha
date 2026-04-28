@@ -1,0 +1,3870 @@
+{
+  "company": "datadog",
+  "ats": "greenhouse",
+  "atsIdentifier": "datadog",
+  "fetchedAt": "2026-04-28T04:52:00.156Z",
+  "count": 429,
+  "jobs": [
+    {
+      "id": "7843744",
+      "title": "AI Governance Analyst 1",
+      "location": "New York, New York, USA",
+      "department": "Security",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7843744/?gh_jid=7843744"
+    },
+    {
+      "id": "7194969",
+      "title": "AI Research Engineer - Datadog AI Research (DAIR)",
+      "location": "Paris, France",
+      "department": "Dev Eng",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969"
+    },
+    {
+      "id": "7183013",
+      "title": "AI Research Engineer – Datadog AI Research (DAIR)",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013"
+    },
+    {
+      "id": "6572669",
+      "title": "AI Research Scientist – Datadog AI Research (DAIR)",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669"
+    },
+    {
+      "id": "6652564",
+      "title": "AI Research Scientist – Datadog AI Research (DAIR)",
+      "location": "Paris, France",
+      "department": "Dev Eng",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564"
+    },
+    {
+      "id": "7508990",
+      "title": "Area Vice President, Enterprise Security Sales",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Enterprise Sales",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7508990/?gh_jid=7508990"
+    },
+    {
+      "id": "7762722",
+      "title": "Area Vice President, Sales Engineering",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California, USA",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Boston / New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7762722/?gh_jid=7762722"
+    },
+    {
+      "id": "7676226",
+      "title": "Business Value Associate",
+      "location": "London, United Kingdom; Paris, France",
+      "department": "GTM Enablement",
+      "offices": "London / Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7676226/?gh_jid=7676226"
+    },
+    {
+      "id": "7572025",
+      "title": "Business Value Associate (NORAM)",
+      "location": "New York, New York, USA",
+      "department": "GTM Enablement",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7572025/?gh_jid=7572025"
+    },
+    {
+      "id": "7517353",
+      "title": "Business Value Manager - Sao Paulo",
+      "location": "Sao Paulo, Brazil",
+      "department": "GTM Enablement",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7517353/?gh_jid=7517353"
+    },
+    {
+      "id": "6009777",
+      "title": "Commercial Account Executive",
+      "location": "Tokyo, Japan",
+      "department": "Commercial Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6009777/?gh_jid=6009777"
+    },
+    {
+      "id": "1694375",
+      "title": "Commercial Account Executive",
+      "location": "Denver, Colorado, USA",
+      "department": "Commercial Sales",
+      "offices": "Denver",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375"
+    },
+    {
+      "id": "5798241",
+      "title": "Commercial Account Executive",
+      "location": "Tokyo, Japan",
+      "department": "Commercial Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5798241/?gh_jid=5798241"
+    },
+    {
+      "id": "7463765",
+      "title": "Commercial Account Executive",
+      "location": "Sydney, Australia",
+      "department": "Commercial Sales",
+      "offices": "Sydney",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7463765/?gh_jid=7463765"
+    },
+    {
+      "id": "6512321",
+      "title": "Commercial Account Executive",
+      "location": "Bangalore, India",
+      "department": "Commercial Sales",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6512321/?gh_jid=6512321"
+    },
+    {
+      "id": "6512326",
+      "title": "Commercial Account Executive",
+      "location": "Seoul, South Korea",
+      "department": "Commercial Sales",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326"
+    },
+    {
+      "id": "6512586",
+      "title": "Commercial Account Executive",
+      "location": "Seoul, South Korea",
+      "department": "Commercial Sales",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6512586/?gh_jid=6512586"
+    },
+    {
+      "id": "7716209",
+      "title": "Commercial Account Executive - Africa",
+      "location": "Amsterdam, The Netherlands",
+      "department": "Commercial Sales",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7716209/?gh_jid=7716209"
+    },
+    {
+      "id": "1497543",
+      "title": "Commercial Account Executive (Boston)",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Commercial Sales",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/1497543/?gh_jid=1497543"
+    },
+    {
+      "id": "7777384",
+      "title": "Commercial Account Executive - CEE",
+      "location": "Amsterdam, The Netherlands",
+      "department": "Commercial Sales",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7777384/?gh_jid=7777384"
+    },
+    {
+      "id": "5283132",
+      "title": "Commercial Account Executive (DACH)",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+      "department": "Commercial Sales",
+      "offices": "Amsterdam / Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5283132/?gh_jid=5283132"
+    },
+    {
+      "id": "7824375",
+      "title": "Commercial Account Executive (France)",
+      "location": "Dublin, Ireland",
+      "department": "Commercial Sales",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7824375/?gh_jid=7824375"
+    },
+    {
+      "id": "7463727",
+      "title": "Commercial Account Executive (Indonesia Market)",
+      "location": "Singapore, Singapore",
+      "department": "Commercial Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7463727/?gh_jid=7463727"
+    },
+    {
+      "id": "7736489",
+      "title": "Commercial Account Executive - Israel",
+      "location": "Tel Aviv, Israel",
+      "department": "Commercial Sales",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7736489/?gh_jid=7736489"
+    },
+    {
+      "id": "7745714",
+      "title": "Commercial Account Executive - LATAM (Portuguese Speaking) - Boston",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Commercial Sales",
+      "offices": "Boston",
+      "updated_at": "2026-04-27T10:17:53-04:00",
+      "url": "https://careers.datadoghq.com/detail/7745714/?gh_jid=7745714"
+    },
+    {
+      "id": "7858788",
+      "title": "Commercial Account Executive - LATAM (Portuguese Speaking) - Denver",
+      "location": "Denver, Colorado, USA",
+      "department": "Commercial Sales",
+      "offices": "Denver",
+      "updated_at": "2026-04-27T14:17:54-04:00",
+      "url": "https://careers.datadoghq.com/detail/7858788/?gh_jid=7858788"
+    },
+    {
+      "id": "7329207",
+      "title": "Commercial Account Executive - LATAM (Spanish Speaking) - Boston",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Commercial Sales",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207"
+    },
+    {
+      "id": "7463736",
+      "title": "Commercial Account Executive (Malaysia Market)",
+      "location": "Singapore, Singapore",
+      "department": "Commercial Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7463736/?gh_jid=7463736"
+    },
+    {
+      "id": "7576831",
+      "title": "Commercial Account Executive (Saudi Arabia)",
+      "location": "Riyadh, Saudi Arabia",
+      "department": "Commercial Sales",
+      "offices": "Remote - Saudi Arabia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7576831/?gh_jid=7576831"
+    },
+    {
+      "id": "7848869",
+      "title": "Commercial Account Executive - Singapore (Vietnam market)",
+      "location": "Singapore, Singapore",
+      "department": "Commercial Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-26T22:00:45-04:00",
+      "url": "https://careers.datadoghq.com/detail/7848869/?gh_jid=7848869"
+    },
+    {
+      "id": "6427176",
+      "title": "Commercial Account Executive UKI/Nordics",
+      "location": "Dublin, Ireland",
+      "department": "Commercial Sales",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6427176/?gh_jid=6427176"
+    },
+    {
+      "id": "7483199",
+      "title": "Commercial & Mid Market Sales Engineer",
+      "location": "Tokyo, Japan",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7483199/?gh_jid=7483199"
+    },
+    {
+      "id": "7481124",
+      "title": "Commercial & Mid Market Sales Engineer",
+      "location": "Tokyo, Japan",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7481124/?gh_jid=7481124"
+    },
+    {
+      "id": "7685641",
+      "title": "Commercial & Mid-Market Sales Engineer",
+      "location": "Bangalore, India",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7685641/?gh_jid=7685641"
+    },
+    {
+      "id": "7746158",
+      "title": "Commercial Sales Engineer ",
+      "location": "Dublin, Ireland",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7746158/?gh_jid=7746158"
+    },
+    {
+      "id": "7683226",
+      "title": "Commercial Sales Engineer (AMER - West)",
+      "location": "Denver, Colorado, USA",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Denver",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226"
+    },
+    {
+      "id": "7452669",
+      "title": "Commercial Sales Engineer (East)",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Boston / New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669"
+    },
+    {
+      "id": "7731622",
+      "title": "Commercial Sales Engineer (Sao Paulo)",
+      "location": "Sao Paulo, Brazil",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7731622/?gh_jid=7731622"
+    },
+    {
+      "id": "7594608",
+      "title": "Commercial Sales Engineer (Tel Aviv)",
+      "location": "Tel Aviv, Israel",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7594608/?gh_jid=7594608"
+    },
+    {
+      "id": "7701556",
+      "title": "Commercial Sales Engineer (Turkish-speaking)",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Amsterdam / Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7701556/?gh_jid=7701556"
+    },
+    {
+      "id": "7523786",
+      "title": "Contracts Manager - NYC",
+      "location": "New York, New York, USA",
+      "department": "Legal Operations",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7523786/?gh_jid=7523786"
+    },
+    {
+      "id": "7413847",
+      "title": "Corporate Development Lead - EMEA",
+      "location": "Paris, France",
+      "department": "Corporate Development",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7413847/?gh_jid=7413847"
+    },
+    {
+      "id": "5486716",
+      "title": "Customer Success Associate",
+      "location": "Tokyo, Japan",
+      "department": "Commercial Customer Success",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716"
+    },
+    {
+      "id": "6009779",
+      "title": "Customer Success Associate",
+      "location": "Tokyo, Japan",
+      "department": "Commercial Customer Success",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779"
+    },
+    {
+      "id": "7172466",
+      "title": "Customer Success Associate - Boston",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Commercial Customer Success",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466"
+    },
+    {
+      "id": "7548129",
+      "title": "Customer Success Associate (Commercial Accounts)",
+      "location": "Sydney, Australia",
+      "department": "Commercial Customer Success",
+      "offices": "Sydney",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7548129/?gh_jid=7548129"
+    },
+    {
+      "id": "7813304",
+      "title": "Customer Success Associate (Commercial Accounts) - Singapore (ASEAN Market)",
+      "location": "Singapore, Singapore",
+      "department": "Commercial Customer Success",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7813304/?gh_jid=7813304"
+    },
+    {
+      "id": "7228240",
+      "title": "Customer Success Associate - Denver",
+      "location": "Denver, Colorado, USA",
+      "department": "Commercial Customer Success",
+      "offices": "Denver",
+      "updated_at": "2026-04-27T15:37:04-04:00",
+      "url": "https://careers.datadoghq.com/detail/7228240/?gh_jid=7228240"
+    },
+    {
+      "id": "7761064",
+      "title": "Customer Success Associate - Dublin",
+      "location": "Dublin, Ireland",
+      "department": "Commercial Customer Success",
+      "offices": "Dublin",
+      "updated_at": "2026-04-27T05:02:28-04:00",
+      "url": "https://careers.datadoghq.com/detail/7761064/?gh_jid=7761064"
+    },
+    {
+      "id": "7790098",
+      "title": "Customer Success Manager",
+      "location": "Seoul, South Korea",
+      "department": "Commercial Customer Success",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7790098/?gh_jid=7790098"
+    },
+    {
+      "id": "7790048",
+      "title": "Customer Success Manager",
+      "location": "Seoul, South Korea",
+      "department": "Commercial Customer Success",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7790048/?gh_jid=7790048"
+    },
+    {
+      "id": "7128703",
+      "title": "Customer Success Manager - Boston",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Commercial Customer Success",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7128703/?gh_jid=7128703"
+    },
+    {
+      "id": "7232590",
+      "title": "Customer Success Manager - Denver",
+      "location": "Denver, Colorado, USA",
+      "department": "Commercial Customer Success",
+      "offices": "Denver",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590"
+    },
+    {
+      "id": "7785252",
+      "title": "Customer Success Manager (Key Accounts)",
+      "location": "Sydney, Australia",
+      "department": "Commercial Customer Success",
+      "offices": "Sydney",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7785252/?gh_jid=7785252"
+    },
+    {
+      "id": "7816557",
+      "title": "Customer Success Manager (Key Accounts)",
+      "location": "Bangalore, India",
+      "department": "Commercial Customer Success",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-24T13:01:16-04:00",
+      "url": "https://careers.datadoghq.com/detail/7816557/?gh_jid=7816557"
+    },
+    {
+      "id": "7658144",
+      "title": "Customer Success Manager - Spanish ",
+      "location": "Dublin, Ireland",
+      "department": "Commercial Customer Success",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7658144/?gh_jid=7658144"
+    },
+    {
+      "id": "7536402",
+      "title": "Datadog for Startups Engineering Lead",
+      "location": "San Francisco, California, USA",
+      "department": "Corporate Development",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7536402/?gh_jid=7536402"
+    },
+    {
+      "id": "7851446",
+      "title": "DataPUPS Early ID Summit",
+      "location": "New York, New York, USA",
+      "department": "Engineering Interns",
+      "offices": "New York",
+      "updated_at": "2026-04-24T15:40:33-04:00",
+      "url": "https://careers.datadoghq.com/detail/7851446/?gh_jid=7851446"
+    },
+    {
+      "id": "7739837",
+      "title": "Deal Desk Analyst - São Paulo",
+      "location": "Sao Paulo, Brazil",
+      "department": "Deal Desk",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7739837/?gh_jid=7739837"
+    },
+    {
+      "id": "7852747",
+      "title": "Director, Compensation Programs",
+      "location": "New York, New York, USA",
+      "department": "People",
+      "offices": "New York",
+      "updated_at": "2026-04-27T12:21:40-04:00",
+      "url": "https://careers.datadoghq.com/detail/7852747/?gh_jid=7852747"
+    },
+    {
+      "id": "7608964",
+      "title": "Director, Enterprise Sales",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Enterprise Sales",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7608964/?gh_jid=7608964"
+    },
+    {
+      "id": "7825532",
+      "title": "Director, Enterprise Sales",
+      "location": "Sao Paulo, Brazil",
+      "department": "Enterprise Sales",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7825532/?gh_jid=7825532"
+    },
+    {
+      "id": "7733590",
+      "title": "Director, Enterprise Sales (Iberia)",
+      "location": "Madrid, Spain",
+      "department": "Enterprise Sales",
+      "offices": "Madrid",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7733590/?gh_jid=7733590"
+    },
+    {
+      "id": "7309775",
+      "title": "Director, Enterprise Sales - Public Sector (State, Local, Education/SLED)",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7309775/?gh_jid=7309775"
+    },
+    {
+      "id": "7309633",
+      "title": "Director, Enterprise Sales - Public Sector (State, Local, Education/SLED)",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7309633/?gh_jid=7309633"
+    },
+    {
+      "id": "7821252",
+      "title": "Director, Head of Global Benefits",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California, USA",
+      "department": "People",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7821252/?gh_jid=7821252"
+    },
+    {
+      "id": "7815510",
+      "title": "Director, Major Accounts",
+      "location": "Texas, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Chicago / Remote - Texas",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7815510/?gh_jid=7815510"
+    },
+    {
+      "id": "7348686",
+      "title": "Director, Major Accounts",
+      "location": "United Kingdom, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - UK",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7348686/?gh_jid=7348686"
+    },
+    {
+      "id": "7798672",
+      "title": "Director of Product Management, AI Observability",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7798672/?gh_jid=7798672"
+    },
+    {
+      "id": "7616721",
+      "title": "Director of Product Management - Applied AI",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7616721/?gh_jid=7616721"
+    },
+    {
+      "id": "7583609",
+      "title": "Director, Product Management - Core Platforms",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7583609/?gh_jid=7583609"
+    },
+    {
+      "id": "7679601",
+      "title": "Director, Product Management - Security",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7679601/?gh_jid=7679601"
+    },
+    {
+      "id": "7416668",
+      "title": "Director, Technical Product Partnerships",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7416668/?gh_jid=7416668"
+    },
+    {
+      "id": "7707345",
+      "title": "Director, Technical Support Engineering",
+      "location": "Mexico City, Mexico; Sao Paulo, Brazil",
+      "department": "Support Engineering",
+      "offices": "Mexico City / Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7707345/?gh_jid=7707345"
+    },
+    {
+      "id": "7514534",
+      "title": "Director, User Research - Product Design",
+      "location": "New York, New York, USA",
+      "department": "Product Design",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7514534/?gh_jid=7514534"
+    },
+    {
+      "id": "7727662",
+      "title": "Engineering Manager I, Core Observability, Paris",
+      "location": "Paris, France",
+      "department": "Security",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7727662/?gh_jid=7727662"
+    },
+    {
+      "id": "7766177",
+      "title": "Engineering Manager - Security Incident Response (EMEA)",
+      "location": "France, Remote; Ireland, Remote; Spain, Remote; United Kingdom, Remote",
+      "department": "Security",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7766177/?gh_jid=7766177"
+    },
+    {
+      "id": "7766179",
+      "title": "Engineering Manager - Security Incident Response (EMEA)",
+      "location": "Portugal, Remote",
+      "department": "Security",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7766179/?gh_jid=7766179"
+    },
+    {
+      "id": "7339331",
+      "title": "Engineering Manager - Security Incident Response (EMEA)",
+      "location": "Paris, France",
+      "department": "Security",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7339331/?gh_jid=7339331"
+    },
+    {
+      "id": "7297389",
+      "title": "Enterprise Account Executive",
+      "location": "Thailand, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Thailand",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7297389/?gh_jid=7297389"
+    },
+    {
+      "id": "6677658",
+      "title": "Enterprise Account Executive - Denmark",
+      "location": "Copenhagen, Denmark",
+      "department": "Enterprise Sales",
+      "offices": "Copenhagen / Remote - Denmark",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6677658/?gh_jid=6677658"
+    },
+    {
+      "id": "6836442",
+      "title": "Enterprise Account Executive - UKI",
+      "location": "London, United Kingdom",
+      "department": "Enterprise Sales",
+      "offices": "London / Remote - UK",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6836442/?gh_jid=6836442"
+    },
+    {
+      "id": "7599334",
+      "title": "Enterprise Account Executive (UKI) - Public Sector",
+      "location": "London, United Kingdom",
+      "department": "Enterprise Sales",
+      "offices": "London",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7599334/?gh_jid=7599334"
+    },
+    {
+      "id": "7435209",
+      "title": "Enterprise Customer Success Manager",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Customer Success",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7435209/?gh_jid=7435209"
+    },
+    {
+      "id": "7794029",
+      "title": "Enterprise Customer Success Manager",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Customer Success",
+      "offices": "Jakarta / Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7794029/?gh_jid=7794029"
+    },
+    {
+      "id": "7794297",
+      "title": "Enterprise Customer Success Manager",
+      "location": "Jakarta, Indonesia",
+      "department": "Enterprise Customer Success",
+      "offices": "Jakarta / Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7794297/?gh_jid=7794297"
+    },
+    {
+      "id": "7436312",
+      "title": "Enterprise Customer Success Manager",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Customer Success",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7436312/?gh_jid=7436312"
+    },
+    {
+      "id": "7722705",
+      "title": "Enterprise Customer Success Manager - West",
+      "location": "Denver, Colorado, USA",
+      "department": "Enterprise Customer Success",
+      "offices": "Denver",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7722705/?gh_jid=7722705"
+    },
+    {
+      "id": "7796981",
+      "title": "Enterprise Sales Engineer",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7796981/?gh_jid=7796981"
+    },
+    {
+      "id": "6430289",
+      "title": "Enterprise Sales Engineer",
+      "location": "Osaka, Japan",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Osaka",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6430289/?gh_jid=6430289"
+    },
+    {
+      "id": "7811662",
+      "title": "Enterprise Sales Engineer",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7811662/?gh_jid=7811662"
+    },
+    {
+      "id": "7721005",
+      "title": "Enterprise Sales Engineer",
+      "location": "Brisbane, Australia",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - Australia / Sydney",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7721005/?gh_jid=7721005"
+    },
+    {
+      "id": "6703351",
+      "title": "Enterprise Sales Engineer",
+      "location": "Osaka, Japan",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Osaka",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6703351/?gh_jid=6703351"
+    },
+    {
+      "id": "7855619",
+      "title": "Enterprise Sales Engineer",
+      "location": "Canberra, Australia",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - Australia / Sydney",
+      "updated_at": "2026-04-27T01:14:31-04:00",
+      "url": "https://careers.datadoghq.com/detail/7855619/?gh_jid=7855619"
+    },
+    {
+      "id": "6831903",
+      "title": "Enterprise Sales Engineer (Bahasa Indonesia speaking)",
+      "location": "Jakarta, Indonesia",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Jakarta / Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6831903/?gh_jid=6831903"
+    },
+    {
+      "id": "6832925",
+      "title": "Enterprise Sales Engineer (Bahasa Indonesia speaking)",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Jakarta / Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6832925/?gh_jid=6832925"
+    },
+    {
+      "id": "7255532",
+      "title": "Enterprise Sales Engineer - Brazil",
+      "location": "Sao Paulo, Brazil",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7255532/?gh_jid=7255532"
+    },
+    {
+      "id": "7667809",
+      "title": "Enterprise Sales Engineer (Hong Kong Market)",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7667809/?gh_jid=7667809"
+    },
+    {
+      "id": "7843358",
+      "title": "Enterprise Sales Engineer - Mexico",
+      "location": "Mexico, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - Mexico",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7843358/?gh_jid=7843358"
+    },
+    {
+      "id": "7101976",
+      "title": "Enterprise Sales Engineer - Nordics",
+      "location": "Copenhagen, Denmark; Stockholm, Sweden",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Stockholm",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7101976/?gh_jid=7101976"
+    },
+    {
+      "id": "7661700",
+      "title": "Enterprise Sales Engineer - Paris",
+      "location": "Paris, France",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Paris / Remote - France",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7661700/?gh_jid=7661700"
+    },
+    {
+      "id": "7610352",
+      "title": "Enterprise Sales Engineer - Poland",
+      "location": "Poland, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - Poland",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7610352/?gh_jid=7610352"
+    },
+    {
+      "id": "7777514",
+      "title": "Enterprise Sales Engineer (Saudi Arabia)",
+      "location": "Riyadh, Saudi Arabia",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - Saudi Arabia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7777514/?gh_jid=7777514"
+    },
+    {
+      "id": "7487353",
+      "title": "Enterprise Sales Engineer - UK",
+      "location": "United Kingdom, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - UK",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7487353/?gh_jid=7487353"
+    },
+    {
+      "id": "5505818",
+      "title": "Enterprise Sales Executive",
+      "location": "Mexico, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Mexico City / Remote - Mexico",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5505818/?gh_jid=5505818"
+    },
+    {
+      "id": "7477119",
+      "title": "Enterprise Sales Executive",
+      "location": "Bangalore, India",
+      "department": "Enterprise Sales",
+      "offices": "Bangalore / Remote - India",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7477119/?gh_jid=7477119"
+    },
+    {
+      "id": "7476356",
+      "title": "Enterprise Sales Executive",
+      "location": "Mumbai, India",
+      "department": "Enterprise Sales",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7476356/?gh_jid=7476356"
+    },
+    {
+      "id": "4828332",
+      "title": "Enterprise Sales Executive",
+      "location": "Canada, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Ontario / Remote - Quebec",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/4828332/?gh_jid=4828332"
+    },
+    {
+      "id": "7465857",
+      "title": "Enterprise Sales Executive",
+      "location": "North Carolina, USA, Remote; Tennessee, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Charlotte / Raleigh / Remote - North Carolina / Remote - Tennessee",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857"
+    },
+    {
+      "id": "7677477",
+      "title": "Enterprise Sales Executive",
+      "location": "Delhi, India",
+      "department": "Enterprise Sales",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7677477/?gh_jid=7677477"
+    },
+    {
+      "id": "7466155",
+      "title": "Enterprise Sales Executive",
+      "location": "Florida, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Florida",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155"
+    },
+    {
+      "id": "7703288",
+      "title": "Enterprise Sales Executive",
+      "location": "Seoul, South Korea",
+      "department": "Enterprise Sales",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7703288/?gh_jid=7703288"
+    },
+    {
+      "id": "7421331",
+      "title": "Enterprise Sales Executive",
+      "location": "North Carolina, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - North Carolina / Washington, DC",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331"
+    },
+    {
+      "id": "7426707",
+      "title": "Enterprise Sales Executive",
+      "location": "Washington, District of Columbia, USA",
+      "department": "Enterprise Sales",
+      "offices": "Remote - North Carolina / Washington, DC",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707"
+    },
+    {
+      "id": "7405822",
+      "title": "Enterprise Sales Executive",
+      "location": "Georgia, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Georgia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822"
+    },
+    {
+      "id": "7410254",
+      "title": "Enterprise Sales Executive",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Enterprise Sales",
+      "offices": "Boston / Remote - Massachusetts",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254"
+    },
+    {
+      "id": "7405831",
+      "title": "Enterprise Sales Executive ",
+      "location": "New York, New York, USA",
+      "department": "Enterprise Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831"
+    },
+    {
+      "id": "7312778",
+      "title": "Enterprise Sales Executive - Expansion",
+      "location": "Jakarta, Indonesia",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Indonesia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7312778/?gh_jid=7312778"
+    },
+    {
+      "id": "7426680",
+      "title": "Enterprise Sales Executive (FED)",
+      "location": "Washington, District of Columbia, USA",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Maryland / Virginia / Washington, DC",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680"
+    },
+    {
+      "id": "7421284",
+      "title": "Enterprise Sales Executive (FED)",
+      "location": "Maryland, USA, Remote; Virginia, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Maryland / Virginia / Washington, DC",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284"
+    },
+    {
+      "id": "7590429",
+      "title": "Enterprise Sales Executive (Hong Kong Market)",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7590429/?gh_jid=7590429"
+    },
+    {
+      "id": "7453039",
+      "title": " Enterprise Sales Executive (SLED)",
+      "location": "Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Chicago / Denver / Remote - Texas",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039"
+    },
+    {
+      "id": "7426752",
+      "title": "Enterprise Sales Executive (SLED)",
+      "location": "San Francisco, California, USA",
+      "department": "Enterprise Sales",
+      "offices": "Remote - California / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752"
+    },
+    {
+      "id": "5925905",
+      "title": "Enterprise Sales Executive (Sweden) ",
+      "location": "Stockholm, Sweden",
+      "department": "Enterprise Sales",
+      "offices": "Stockholm",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5925905/?gh_jid=5925905"
+    },
+    {
+      "id": "7590670",
+      "title": "Enterprise Sales Executive (Vietnam Market)",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7590670/?gh_jid=7590670"
+    },
+    {
+      "id": "7129428",
+      "title": "Enterprise Security Sales Specialist",
+      "location": "Chicago, Illinois, USA; San Francisco, California, USA",
+      "department": "Enterprise Sales",
+      "offices": "Chicago / Remote - Texas / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428"
+    },
+    {
+      "id": "7703553",
+      "title": "Field CTO (Japan)",
+      "location": "Tokyo, Japan",
+      "department": "Product Solutions Architecture",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7703553/?gh_jid=7703553"
+    },
+    {
+      "id": "7526356",
+      "title": "Field CTO (Japan)",
+      "location": "Tokyo, Japan",
+      "department": "Product Solutions Architecture",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7526356/?gh_jid=7526356"
+    },
+    {
+      "id": "7848310",
+      "title": "Field CTO (Retail & E-commerce)",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Product Solutions Architecture",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-24T10:27:10-04:00",
+      "url": "https://careers.datadoghq.com/detail/7848310/?gh_jid=7848310"
+    },
+    {
+      "id": "7785860",
+      "title": "Field Enablement Manager (Customer Success)",
+      "location": "New York, New York, USA",
+      "department": "GTM Enablement",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7785860/?gh_jid=7785860"
+    },
+    {
+      "id": "7514840",
+      "title": "Field Enablement Manager (LATAM)",
+      "location": "Sao Paulo, Brazil",
+      "department": "GTM Enablement",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7514840/?gh_jid=7514840"
+    },
+    {
+      "id": "7593487",
+      "title": "FinOps Lead",
+      "location": "New York, New York, USA",
+      "department": "Finance",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7593487/?gh_jid=7593487"
+    },
+    {
+      "id": "7804736",
+      "title": "Front Desk Associate - Dublin",
+      "location": "Dublin, Ireland",
+      "department": "Business Operations",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7804736/?gh_jid=7804736"
+    },
+    {
+      "id": "7654981",
+      "title": "Group Product Manager - Containers",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7654981/?gh_jid=7654981"
+    },
+    {
+      "id": "7608826",
+      "title": "Group Product Manager - Threat Detection and Incident Response (Cloud SIEM)",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7608826/?gh_jid=7608826"
+    },
+    {
+      "id": "7636353",
+      "title": "GTM Strategy and Operations Analyst - EMEA",
+      "location": "Dublin, Ireland",
+      "department": "Sales Strategy",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7636353/?gh_jid=7636353"
+    },
+    {
+      "id": "7843331",
+      "title": "GTM Strategy and Operations Associate",
+      "location": "New York, New York, USA",
+      "department": "Sales Strategy",
+      "offices": "New York",
+      "updated_at": "2026-04-27T15:49:57-04:00",
+      "url": "https://careers.datadoghq.com/detail/7843331/?gh_jid=7843331"
+    },
+    {
+      "id": "7642154",
+      "title": "GTM Strategy and Operations Senior Associate - ANZ",
+      "location": "Sydney, Australia",
+      "department": "Sales Strategy",
+      "offices": "Sydney",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7642154/?gh_jid=7642154"
+    },
+    {
+      "id": "7821345",
+      "title": "GTM Strategy/Operations Associate - Dublin",
+      "location": "Dublin, Ireland",
+      "department": "Sales Strategy",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7821345/?gh_jid=7821345"
+    },
+    {
+      "id": "7745775",
+      "title": "GTM Strategy & Operations Senior Associate - Sales Development & AI",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Sales Strategy",
+      "offices": "Boston / New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7745775/?gh_jid=7745775"
+    },
+    {
+      "id": "7687552",
+      "title": "Head of Channels & Alliances",
+      "location": "Seoul, South Korea",
+      "department": "Channels & Alliances",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7687552/?gh_jid=7687552"
+    },
+    {
+      "id": "7484033",
+      "title": "Head of Channels & Alliances - India",
+      "location": "Bangalore, India",
+      "department": "Channels & Alliances",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7484033/?gh_jid=7484033"
+    },
+    {
+      "id": "7729887",
+      "title": "Head of Enterprise Sales, Japan",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7729887/?gh_jid=7729887"
+    },
+    {
+      "id": "7730200",
+      "title": "Head of Enterprise Sales, Japan",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7730200/?gh_jid=7730200"
+    },
+    {
+      "id": "7809909",
+      "title": "Implementation Services Project Manager",
+      "location": "Singapore, Singapore",
+      "department": "Technical Post Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7809909/?gh_jid=7809909"
+    },
+    {
+      "id": "7807916",
+      "title": "Implementation Services Project Manager - Denver",
+      "location": "Denver, Colorado, USA",
+      "department": "Technical Post Sales",
+      "offices": "Denver",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7807916/?gh_jid=7807916"
+    },
+    {
+      "id": "7561561",
+      "title": "Incident and Escalations Manager 3 - Sao Paulo",
+      "location": "Sao Paulo, Brazil",
+      "department": "Support Engineering",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7561561/?gh_jid=7561561"
+    },
+    {
+      "id": "7391788",
+      "title": "IT Support Technician Intern",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Engineering Interns",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788"
+    },
+    {
+      "id": "7826176",
+      "title": "IT Support Technician Intern",
+      "location": "Paris, France",
+      "department": "Engineering Interns",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176"
+    },
+    {
+      "id": "7409247",
+      "title": "Key Accounts Executive",
+      "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - California / Remote - Colorado / Remote - Washington",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7409247/?gh_jid=7409247"
+    },
+    {
+      "id": "7579684",
+      "title": "Key Accounts Executive",
+      "location": "Illinois, USA, Remote; Michigan, USA, Remote; Minnesota, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Illinois / Remote - Michigan / Remote - Minnesota / Remote - Ohio / Remote - Texas",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7579684/?gh_jid=7579684"
+    },
+    {
+      "id": "7409236",
+      "title": "Key Accounts Executive",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Enterprise Sales",
+      "offices": "Boston / New York / Remote - Pennsylvania",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236"
+    },
+    {
+      "id": "7492312",
+      "title": "Major Account Manager",
+      "location": "Florida, USA, Remote; North Carolina, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Boston / New York / Remote - Florida / Remote - North Carolina / Remote - Rhode Island",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312"
+    },
+    {
+      "id": "7409198",
+      "title": "Major Account Manager",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Enterprise Sales",
+      "offices": "Boston / New York / Remote - Florida / Remote - North Carolina / Remote - Rhode Island",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198"
+    },
+    {
+      "id": "7244867",
+      "title": "Major Account Manager (UK)",
+      "location": "United Kingdom, Remote",
+      "department": "Enterprise Sales",
+      "offices": "London / Remote - UK",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7244867/?gh_jid=7244867"
+    },
+    {
+      "id": "7343626",
+      "title": "Manager 1, Technical Support Engineering",
+      "location": "Tokyo, Japan",
+      "department": "Support Engineering",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7343626/?gh_jid=7343626"
+    },
+    {
+      "id": "7496237",
+      "title": "Manager 2, Premier Support Engineering - Amsterdam",
+      "location": "Amsterdam, The Netherlands",
+      "department": "Support Engineering",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7496237/?gh_jid=7496237"
+    },
+    {
+      "id": "7684983",
+      "title": "Manager, Commercial & Mid-Market Sales Engineering",
+      "location": "Bangalore, India",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7684983/?gh_jid=7684983"
+    },
+    {
+      "id": "7685824",
+      "title": "Manager, Commercial & Mid-Market Sales Engineering (ASEAN)",
+      "location": "Singapore, Singapore",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7685824/?gh_jid=7685824"
+    },
+    {
+      "id": "7463989",
+      "title": "Manager, Commercial Sales",
+      "location": "Tokyo, Japan",
+      "department": "Commercial Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7463989/?gh_jid=7463989"
+    },
+    {
+      "id": "7463785",
+      "title": "Manager, Commercial Sales",
+      "location": "Bangalore, India",
+      "department": "Commercial Sales",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7463785/?gh_jid=7463785"
+    },
+    {
+      "id": "7463769",
+      "title": "Manager, Commercial Sales",
+      "location": "Tokyo, Japan",
+      "department": "Commercial Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7463769/?gh_jid=7463769"
+    },
+    {
+      "id": "7791332",
+      "title": "Manager, Commercial Sales Engineering",
+      "location": "Tokyo, Japan",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7791332/?gh_jid=7791332"
+    },
+    {
+      "id": "7641414",
+      "title": "Manager, Commercial Sales Engineering (Sao Paulo)",
+      "location": "Sao Paulo, Brazil",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7641414/?gh_jid=7641414"
+    },
+    {
+      "id": "7785250",
+      "title": "Manager, Commercial Sales - Mexico City",
+      "location": "Mexico City, Mexico",
+      "department": "Commercial Sales",
+      "offices": "Mexico City",
+      "updated_at": "2026-04-27T13:09:53-04:00",
+      "url": "https://careers.datadoghq.com/detail/7785250/?gh_jid=7785250"
+    },
+    {
+      "id": "7857997",
+      "title": "Manager, Customer Success - Boston",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Commercial Customer Success",
+      "offices": "Boston",
+      "updated_at": "2026-04-27T12:36:10-04:00",
+      "url": "https://careers.datadoghq.com/detail/7857997/?gh_jid=7857997"
+    },
+    {
+      "id": "7524140",
+      "title": "Manager, Enterprise Customer Success",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Customer Success",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7524140/?gh_jid=7524140"
+    },
+    {
+      "id": "7746286",
+      "title": "Manager, GTM Strategy/Operations",
+      "location": "New York, New York, USA",
+      "department": "Sales Strategy",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7746286/?gh_jid=7746286"
+    },
+    {
+      "id": "7414003",
+      "title": "Manager I, Developer Advocacy",
+      "location": "California, USA, Remote; Colorado, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
+      "department": "Community",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7414003/?gh_jid=7414003"
+    },
+    {
+      "id": "7440560",
+      "title": "Manager I, Developer Advocacy",
+      "location": "Canada, Remote",
+      "department": "Community",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7440560/?gh_jid=7440560"
+    },
+    {
+      "id": "7613808",
+      "title": "Manager I, Engineering - AI Platform - Annotation & Evaluation",
+      "location": "New York, New York, USA",
+      "department": "Leadership",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7613808/?gh_jid=7613808"
+    },
+    {
+      "id": "7529852",
+      "title": "Manager I, Engineering - AI Platform - Training & Serving",
+      "location": "Paris, France",
+      "department": "Leadership",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7529852/?gh_jid=7529852"
+    },
+    {
+      "id": "7814972",
+      "title": "Manager I, Engineering - APM Backend",
+      "location": "Paris, France",
+      "department": "Leadership",
+      "offices": "Bordeaux / Lisbon / Lyon / Madrid / Montpellier / Nantes / Paris / Remote - France / Sophia Antipolis / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7814972/?gh_jid=7814972"
+    },
+    {
+      "id": "7731735",
+      "title": "Manager I, Engineering - APM Retrieval",
+      "location": "New York, New York, USA",
+      "department": "Leadership",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7731735/?gh_jid=7731735"
+    },
+    {
+      "id": "7560494",
+      "title": "Manager I, Engineering - Applied AI - Natural Language & Conversational Interfaces",
+      "location": "New York, New York, USA",
+      "department": "Leadership",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7560494/?gh_jid=7560494"
+    },
+    {
+      "id": "7742739",
+      "title": "Manager I, Engineering - Code Coverage",
+      "location": "Madrid, Spain",
+      "department": "Dev Eng",
+      "offices": "Madrid",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7742739/?gh_jid=7742739"
+    },
+    {
+      "id": "7629758",
+      "title": "Manager I, Engineering - CodeGen",
+      "location": "New York, New York, USA",
+      "department": "Leadership",
+      "offices": "Boston / New York / Remote - Texas",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7629758/?gh_jid=7629758"
+    },
+    {
+      "id": "7696093",
+      "title": "Manager I, Engineering - Core Analytics",
+      "location": "New York, New York, USA",
+      "department": "Leadership",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7696093/?gh_jid=7696093"
+    },
+    {
+      "id": "7672619",
+      "title": "Manager I, Engineering - Dataviz Explorations",
+      "location": "Paris, France",
+      "department": "Leadership",
+      "offices": "Lisbon / Madrid / Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7672619/?gh_jid=7672619"
+    },
+    {
+      "id": "7586019",
+      "title": "Manager I, Engineering - OrgStore Blueprint",
+      "location": "Madrid, Spain",
+      "department": "Leadership",
+      "offices": "Bordeaux / Lisbon / Lyon / Madrid / Montpellier / Nantes / Paris / Remote - France / Sophia Antipolis / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7586019/?gh_jid=7586019"
+    },
+    {
+      "id": "7646952",
+      "title": "Manager I, Engineering - Platform Trust & Safety ",
+      "location": "New York, New York, USA",
+      "department": "Security",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7646952/?gh_jid=7646952"
+    },
+    {
+      "id": "7573784",
+      "title": "Manager I, Engineering - Resource Graph",
+      "location": "Paris, France",
+      "department": "Leadership",
+      "offices": "Bordeaux / Lisbon / Lyon / Madrid / Montpellier / Nantes / Paris / Remote - France / Sophia Antipolis / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7573784/?gh_jid=7573784"
+    },
+    {
+      "id": "7761803",
+      "title": "Manager I, Engineering - Subscriptions",
+      "location": "New York, New York, USA",
+      "department": "Leadership",
+      "offices": "Boston / New York / Remote - Texas",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7761803/?gh_jid=7761803"
+    },
+    {
+      "id": "7520030",
+      "title": "Manager II, Engineering - AI Platform Training, Serving and Storage",
+      "location": "Paris, France",
+      "department": "Leadership",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7520030/?gh_jid=7520030"
+    },
+    {
+      "id": "7594627",
+      "title": "Manager II, Engineering - AI Platform Training, Serving and Storage (NorAm)",
+      "location": "New York, New York, USA",
+      "department": "Leadership",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7594627/?gh_jid=7594627"
+    },
+    {
+      "id": "7650238",
+      "title": "Manager II, Engineering - Applied AI (NorAm)",
+      "location": "New York, New York, USA",
+      "department": "Leadership",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7650238/?gh_jid=7650238"
+    },
+    {
+      "id": "7858397",
+      "title": "Manager II, Engineering - Bring Your Own Cloud",
+      "location": "New York, New York, USA",
+      "department": "Leadership",
+      "offices": "New York",
+      "updated_at": "2026-04-27T12:15:43-04:00",
+      "url": "https://careers.datadoghq.com/detail/7858397/?gh_jid=7858397"
+    },
+    {
+      "id": "7842665",
+      "title": "Manager II, Engineering - Source Security",
+      "location": "New York, New York, USA",
+      "department": "Security",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7842665/?gh_jid=7842665"
+    },
+    {
+      "id": "7756975",
+      "title": "Manager I, IT Support (Paris)",
+      "location": "Paris, France",
+      "department": "Enterprise Technology",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7756975/?gh_jid=7756975"
+    },
+    {
+      "id": "7748975",
+      "title": "Manager I, Security Engineering - Vulnerability Management",
+      "location": "New York, New York, USA",
+      "department": "Security",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7748975/?gh_jid=7748975"
+    },
+    {
+      "id": "7800409",
+      "title": "Manager, Mid Market - Brazil",
+      "location": "Sao Paulo, Brazil",
+      "department": "Mid-Market Sales",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-27T13:10:48-04:00",
+      "url": "https://careers.datadoghq.com/detail/7800409/?gh_jid=7800409"
+    },
+    {
+      "id": "7785321",
+      "title": "Manager, Mid Market Sales",
+      "location": "Bangalore, India",
+      "department": "Mid-Market Sales",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7785321/?gh_jid=7785321"
+    },
+    {
+      "id": "7276497",
+      "title": "Manager, Mid Market Sales",
+      "location": "Tokyo, Japan",
+      "department": "Mid-Market Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7276497/?gh_jid=7276497"
+    },
+    {
+      "id": "7276749",
+      "title": "Manager, Mid Market Sales",
+      "location": "Tokyo, Japan",
+      "department": "Mid-Market Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7276749/?gh_jid=7276749"
+    },
+    {
+      "id": "7478179",
+      "title": "Manager, Mid-Market Sales (Nordics, CEE, Baltics)",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+      "department": "Mid-Market Sales",
+      "offices": "Amsterdam / Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7478179/?gh_jid=7478179"
+    },
+    {
+      "id": "6632056",
+      "title": "Manager, Networking",
+      "location": "Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA",
+      "department": "Enterprise Technology",
+      "offices": "Boston / Denver / New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6632056/?gh_jid=6632056"
+    },
+    {
+      "id": "7660508",
+      "title": "Manager, Sales Development",
+      "location": "Seoul, South Korea",
+      "department": "Sales Development",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7660508/?gh_jid=7660508"
+    },
+    {
+      "id": "7789198",
+      "title": "Manager, Sales Development",
+      "location": "Bangalore, India",
+      "department": "Sales Development",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7789198/?gh_jid=7789198"
+    },
+    {
+      "id": "7660700",
+      "title": "Manager, Sales Development",
+      "location": "Seoul, South Korea",
+      "department": "Sales Development",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7660700/?gh_jid=7660700"
+    },
+    {
+      "id": "7737197",
+      "title": "Manager, Sales Enablement Program Management",
+      "location": "New York, New York, USA",
+      "department": "GTM Enablement",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7737197/?gh_jid=7737197"
+    },
+    {
+      "id": "7689485",
+      "title": "Marketing Operations Manager (LATAM)",
+      "location": "Sao Paulo, Brazil",
+      "department": "Marketing Operations",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7689485/?gh_jid=7689485"
+    },
+    {
+      "id": "6163246",
+      "title": "Mid Market Account Executive",
+      "location": "Denver, Colorado, USA",
+      "department": "Mid-Market Sales",
+      "offices": "Denver",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6163246/?gh_jid=6163246"
+    },
+    {
+      "id": "6665385",
+      "title": "Mid Market Account Executive",
+      "location": "New York, New York, USA",
+      "department": "Mid-Market Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385"
+    },
+    {
+      "id": "6522009",
+      "title": "Mid Market Account Executive",
+      "location": "Tokyo, Japan",
+      "department": "Mid-Market Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6522009/?gh_jid=6522009"
+    },
+    {
+      "id": "7785319",
+      "title": "Mid Market Account Executive",
+      "location": "Bangalore, India",
+      "department": "Mid-Market Sales",
+      "offices": "Bangalore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7785319/?gh_jid=7785319"
+    },
+    {
+      "id": "6523631",
+      "title": "Mid Market Account Executive",
+      "location": "Tokyo, Japan",
+      "department": "Mid-Market Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6523631/?gh_jid=6523631"
+    },
+    {
+      "id": "6798820",
+      "title": "Mid-Market Account Executive (Boston)",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Mid-Market Sales",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6798820/?gh_jid=6798820"
+    },
+    {
+      "id": "7773458",
+      "title": "Mid Market Account Executive (Brazil)",
+      "location": "Sao Paulo, Brazil",
+      "department": "Mid-Market Sales",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-27T13:11:33-04:00",
+      "url": "https://careers.datadoghq.com/detail/7773458/?gh_jid=7773458"
+    },
+    {
+      "id": "7476847",
+      "title": "Mid-Market Account Executive (DACH)",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+      "department": "Mid-Market Sales",
+      "offices": "Amsterdam / Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7476847/?gh_jid=7476847"
+    },
+    {
+      "id": "7746735",
+      "title": "Mid Market Account Executive - France",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+      "department": "Mid-Market Sales",
+      "offices": "Amsterdam / Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7746735/?gh_jid=7746735"
+    },
+    {
+      "id": "7082012",
+      "title": "Mid-Market Account Executive (San Francisco)",
+      "location": "San Francisco, California, USA",
+      "department": "Mid-Market Sales",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-24T13:23:32-04:00",
+      "url": "https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012"
+    },
+    {
+      "id": "7530418",
+      "title": "Mid-Market Sales (CEE / Nordics)",
+      "location": "Amsterdam, The Netherlands",
+      "department": "Mid-Market Sales",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7530418/?gh_jid=7530418"
+    },
+    {
+      "id": "7491922",
+      "title": "Mid-Market Sales Engineer (Boston)",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7491922/?gh_jid=7491922"
+    },
+    {
+      "id": "7721661",
+      "title": "Open Source Program Developer",
+      "location": "Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; The Netherlands, Remote; United Kingdom, Remote",
+      "department": "Community",
+      "offices": "Remote - France",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7721661/?gh_jid=7721661"
+    },
+    {
+      "id": "7760903",
+      "title": "Open Source Program Developer",
+      "location": "Portugal, Remote",
+      "department": "Community",
+      "offices": "Remote - France",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7760903/?gh_jid=7760903"
+    },
+    {
+      "id": "7636202",
+      "title": "Open Source Program Developer",
+      "location": "District of Columbia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Pennsylvania, USA, Remote",
+      "department": "Community",
+      "offices": "Remote - DC / Remote - Massachusetts / Remote - New York / Remote - Pennsylvania",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7636202/?gh_jid=7636202"
+    },
+    {
+      "id": "7747713",
+      "title": "Partner Manager - Channels (Pan-SEMEA)",
+      "location": "Paris, France",
+      "department": "Channels & Alliances",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7747713/?gh_jid=7747713"
+    },
+    {
+      "id": "7747038",
+      "title": "Partner Manager - Commercial Cloud Alliances (South EMEA)",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland; London, United Kingdom",
+      "department": "Channels & Alliances",
+      "offices": "Amsterdam / Dublin / London",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7747038/?gh_jid=7747038"
+    },
+    {
+      "id": "7739908",
+      "title": "Partner Marketing Manager",
+      "location": "Tokyo, Japan",
+      "department": "Partner Marketing",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7739908/?gh_jid=7739908"
+    },
+    {
+      "id": "7779207",
+      "title": "Partner Marketing Manager, Cloud - NAMER",
+      "location": "New York, New York, USA",
+      "department": "Partner Marketing",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7779207/?gh_jid=7779207"
+    },
+    {
+      "id": "7555656",
+      "title": "Partner Sales Manager - UKI",
+      "location": "London, United Kingdom",
+      "department": "Channels & Alliances",
+      "offices": "London",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7555656/?gh_jid=7555656"
+    },
+    {
+      "id": "7722122",
+      "title": "Partner Solutions Architect (EMEA)",
+      "location": "Lisbon, Portugal",
+      "department": "Channels & Alliances",
+      "offices": "Lisbon / Madrid / Paris / Remote - Germany",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7722122/?gh_jid=7722122"
+    },
+    {
+      "id": "7683726",
+      "title": "Partner Solutions Architect (EMEA)",
+      "location": "Germany, Remote; Paris, France",
+      "department": "Channels & Alliances",
+      "offices": "Lisbon / Madrid / Paris / Remote - Germany",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726"
+    },
+    {
+      "id": "7776476",
+      "title": "Partner Solutions Architect (LATAM)",
+      "location": "Chile, Remote; Sao Paulo, Brazil",
+      "department": "Channels & Alliances",
+      "offices": "Remote - Chile / Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7776476/?gh_jid=7776476"
+    },
+    {
+      "id": "7605887",
+      "title": "Partner Solutions Architect (Public Sector)",
+      "location": "Denver, Colorado, USA",
+      "department": "Channels & Alliances",
+      "offices": "Denver",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7605887/?gh_jid=7605887"
+    },
+    {
+      "id": "7705443",
+      "title": "People Business Partner - NYC",
+      "location": "New York, New York, USA",
+      "department": "People",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7705443/?gh_jid=7705443"
+    },
+    {
+      "id": "7781274",
+      "title": "People Business Partner (Paris)",
+      "location": "Paris, France",
+      "department": "People",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7781274/?gh_jid=7781274"
+    },
+    {
+      "id": "7728298",
+      "title": "People Solutions Coordinator - NYC",
+      "location": "New York, New York, USA",
+      "department": "People",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298"
+    },
+    {
+      "id": "7833883",
+      "title": "Principal Growth Marketing Manager - SEO/GEO",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Demand Generation",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-27T14:10:25-04:00",
+      "url": "https://careers.datadoghq.com/detail/7833883/?gh_jid=7833883"
+    },
+    {
+      "id": "7747026",
+      "title": "Principal Partner Manager - Channels (South EMEA GSI)",
+      "location": "Italy, Remote; Madrid, Spain; Paris, France; Tel Aviv, Israel",
+      "department": "Channels & Alliances",
+      "offices": "Madrid / Paris / Remote - Italy / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7747026/?gh_jid=7747026"
+    },
+    {
+      "id": "7594642",
+      "title": "Principal Product Marketing Manager (Applied AI/ Platform Products)",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Product Marketing",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7594642/?gh_jid=7594642"
+    },
+    {
+      "id": "7798052",
+      "title": "Privacy Counsel",
+      "location": "New York, New York, USA",
+      "department": "Legal Operations",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7798052/?gh_jid=7798052"
+    },
+    {
+      "id": "7559797",
+      "title": "Product Designer II, CCM",
+      "location": "Paris, France",
+      "department": "Product Design",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7559797/?gh_jid=7559797"
+    },
+    {
+      "id": "7808839",
+      "title": "Product Manager II - AI & Data Security",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7808839/?gh_jid=7808839"
+    },
+    {
+      "id": "7646496",
+      "title": "Product Manager II - Cloud Detection & Response",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7646496/?gh_jid=7646496"
+    },
+    {
+      "id": "7641271",
+      "title": "Product Manager II - Code Security",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7641271/?gh_jid=7641271"
+    },
+    {
+      "id": "7704689",
+      "title": "Product Manager II - Custom Metrics",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7704689/?gh_jid=7704689"
+    },
+    {
+      "id": "7776413",
+      "title": "Product Manager II - Identity Security",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7776413/?gh_jid=7776413"
+    },
+    {
+      "id": "7144556",
+      "title": "Product Manager II - Model Lab",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7144556/?gh_jid=7144556"
+    },
+    {
+      "id": "7694469",
+      "title": "Product Manager II – Real User Monitoring (RUM)",
+      "location": "Paris, France",
+      "department": "Product Management",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7694469/?gh_jid=7694469"
+    },
+    {
+      "id": "7800765",
+      "title": "Product Manager II – Risk-Based Alerting (SIEM)",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7800765/?gh_jid=7800765"
+    },
+    {
+      "id": "7759965",
+      "title": "Product Marketing Manager ",
+      "location": "New York, New York, USA",
+      "department": "Product Marketing",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7759965/?gh_jid=7759965"
+    },
+    {
+      "id": "7695243",
+      "title": "Product Marketing Manager (Cloud Alliances)",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Product Marketing",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7695243/?gh_jid=7695243"
+    },
+    {
+      "id": "7689452",
+      "title": "Product Marketing Manager (Emerging Products / AI)",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Product Marketing",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7689452/?gh_jid=7689452"
+    },
+    {
+      "id": "7803551",
+      "title": "Product Marketing Manager - Log Management",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Product Marketing",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7803551/?gh_jid=7803551"
+    },
+    {
+      "id": "7818744",
+      "title": "Product Operations Manager",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7818744/?gh_jid=7818744"
+    },
+    {
+      "id": "7627531",
+      "title": "Product Solutions Architect - LLM Observability",
+      "location": "Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
+      "department": "Product Solutions Architecture",
+      "offices": "Boston / Denver / New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7627531/?gh_jid=7627531"
+    },
+    {
+      "id": "7732699",
+      "title": "Product Solutions Architect - Product Analytics and Experimentation",
+      "location": "Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
+      "department": "Product Solutions Architecture",
+      "offices": "Boston / Denver / New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7732699/?gh_jid=7732699"
+    },
+    {
+      "id": "7732564",
+      "title": "Real Estate Associate Project Manager",
+      "location": "Amsterdam, The Netherlands; London, United Kingdom; Paris, France",
+      "department": "Business Operations",
+      "offices": "Amsterdam / London / Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7732564/?gh_jid=7732564"
+    },
+    {
+      "id": "7650367",
+      "title": "Recruiter II, Business Recruiting",
+      "location": "Tokyo, Japan",
+      "department": "Business Recruiting",
+      "offices": "Singapore / Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7650367/?gh_jid=7650367"
+    },
+    {
+      "id": "7441057",
+      "title": "Regional Director, Enterprise Sales",
+      "location": "Jakarta, Indonesia",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Indonesia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7441057/?gh_jid=7441057"
+    },
+    {
+      "id": "7338847",
+      "title": "Regional Director - Enterprise Sales (Saudi Arabia) ",
+      "location": "Riyadh, Saudi Arabia",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Saudi Arabia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7338847/?gh_jid=7338847"
+    },
+    {
+      "id": "7757745",
+      "title": "Regional Manager, Sales Engineering - Chicago",
+      "location": "Illinois, USA, Remote; Minnesota, USA, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - Illinois / Remote - Minnesota",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7757745/?gh_jid=7757745"
+    },
+    {
+      "id": "7699376",
+      "title": "Rev Ops, Technical Programs Specialist - Boston",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Sales Operations",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7699376/?gh_jid=7699376"
+    },
+    {
+      "id": "7742781",
+      "title": "SaaS Administrator 1 - Enterprise IT Operations",
+      "location": "New York, New York, USA",
+      "department": "Enterprise Technology",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7742781/?gh_jid=7742781"
+    },
+    {
+      "id": "7806043",
+      "title": "Sales Development Representative",
+      "location": "Tokyo, Japan",
+      "department": "Sales Development",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7806043/?gh_jid=7806043"
+    },
+    {
+      "id": "7805001",
+      "title": "Sales Development Representative",
+      "location": "Singapore, Singapore",
+      "department": "Sales Development",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7805001/?gh_jid=7805001"
+    },
+    {
+      "id": "6686710",
+      "title": "Sales Development Representative",
+      "location": "Seoul, South Korea",
+      "department": "Sales Development",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6686710/?gh_jid=6686710"
+    },
+    {
+      "id": "7806117",
+      "title": "Sales Development Representative",
+      "location": "Tokyo, Japan",
+      "department": "Sales Development",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7806117/?gh_jid=7806117"
+    },
+    {
+      "id": "7514910",
+      "title": "Sales Development Representative",
+      "location": "Sydney, Australia",
+      "department": "Sales Development",
+      "offices": "Sydney",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7514910/?gh_jid=7514910"
+    },
+    {
+      "id": "7180254",
+      "title": "Sales Development Representative (Benelux)",
+      "location": "Amsterdam, The Netherlands",
+      "department": "Sales Development",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-27T06:40:48-04:00",
+      "url": "https://careers.datadoghq.com/detail/7180254/?gh_jid=7180254"
+    },
+    {
+      "id": "6307160",
+      "title": "Sales Development Representative (DACH) ",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+      "department": "Sales Development",
+      "offices": "Amsterdam / Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6307160/?gh_jid=6307160"
+    },
+    {
+      "id": "7724481",
+      "title": "Sales Development Representative (Hong Kong Market)",
+      "location": "Singapore, Singapore",
+      "department": "Sales Development",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7724481/?gh_jid=7724481"
+    },
+    {
+      "id": "7179866",
+      "title": "Sales Development Representative - Iberia",
+      "location": "Amsterdam, The Netherlands",
+      "department": "Sales Development",
+      "offices": "Amsterdam / Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7179866/?gh_jid=7179866"
+    },
+    {
+      "id": "7214964",
+      "title": "Sales Development Representative - Italy",
+      "location": "Amsterdam, The Netherlands",
+      "department": "Sales Development",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7214964/?gh_jid=7214964"
+    },
+    {
+      "id": "6998241",
+      "title": "Sales Development Representative (Middle East)",
+      "location": "Amsterdam, The Netherlands",
+      "department": "Sales Development",
+      "offices": "Amsterdam",
+      "updated_at": "2026-04-27T06:02:19-04:00",
+      "url": "https://careers.datadoghq.com/detail/6998241/?gh_jid=6998241"
+    },
+    {
+      "id": "6857395",
+      "title": "Sales Development Representative (Nordics) - Dublin",
+      "location": "Dublin, Ireland",
+      "department": "Sales Development",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6857395/?gh_jid=6857395"
+    },
+    {
+      "id": "7016097",
+      "title": "Sales Development Representative (UKI)",
+      "location": "Dublin, Ireland",
+      "department": "Sales Development",
+      "offices": "Dublin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7016097/?gh_jid=7016097"
+    },
+    {
+      "id": "7721591",
+      "title": "Sales Engineer (Customer Success - Portuguese speaking)",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Commercial & Mid-Market Sales Engineering",
+      "offices": "Boston / New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7721591/?gh_jid=7721591"
+    },
+    {
+      "id": "7587086",
+      "title": "Sales Revenue Analyst - NYC",
+      "location": "New York, New York, USA",
+      "department": "Sales Operations",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7587086/?gh_jid=7587086"
+    },
+    {
+      "id": "7437215",
+      "title": "Sales Sourcer II, Business Recruiting",
+      "location": "Singapore, Singapore",
+      "department": "Business Recruiting",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7437215/?gh_jid=7437215"
+    },
+    {
+      "id": "7659059",
+      "title": "Sales Systems Analyst",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Sales Operations",
+      "offices": "Boston / New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7659059/?gh_jid=7659059"
+    },
+    {
+      "id": "7554877",
+      "title": "Security Sales Engineer",
+      "location": "California, USA, Remote; Colorado, USA, Remote; Georgia, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Texas, USA, Remote; Washington, USA, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - California / Remote - Colorado / Remote - Georgia / Remote - Illinois / Remote - Massachusetts / Remote - New York / Remote - Texas / Remote - Washington",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877"
+    },
+    {
+      "id": "7731292",
+      "title": "Senior AI Engineer",
+      "location": "Paris, France",
+      "department": "Dev Eng",
+      "offices": "Dublin / Lisbon / Madrid / Paris / Paris 27 RdC / Paris 33RLF / Remote - France / Remote - Germany / Remote - Portugal / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7731292/?gh_jid=7731292"
+    },
+    {
+      "id": "7415266",
+      "title": "Senior AI Engineer - APM Experiences",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote - British Columbia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7415266/?gh_jid=7415266"
+    },
+    {
+      "id": "7553034",
+      "title": "Senior AI Engineer - Bits AI Security Analyst",
+      "location": "Paris, France",
+      "department": "Dev Eng",
+      "offices": "Dublin / Lisbon / Madrid / Paris / Paris 27 RdC / Paris 33RLF / Remote - France / Remote - Germany / Remote - Portugal / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7553034/?gh_jid=7553034"
+    },
+    {
+      "id": "6781197",
+      "title": "Senior Applied Scientist",
+      "location": "Paris, France",
+      "department": "Dev Eng",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6781197/?gh_jid=6781197"
+    },
+    {
+      "id": "7547361",
+      "title": "Senior Backend Software Engineer - Product Analytics",
+      "location": "Tel Aviv, Israel",
+      "department": "Dev Eng",
+      "offices": "Bordeaux / EMEA / Lisbon / Lyon / Madrid / Montpellier / Nantes / Paris / Paris 27 RdC / Remote / Remote - France / Remote - Germany / Remote - Ireland / Sophia Antipolis / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7547361/?gh_jid=7547361"
+    },
+    {
+      "id": "7815616",
+      "title": "Senior Cloud Security Engineer - K8s",
+      "location": "New York, New York, USA",
+      "department": "Security",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7815616/?gh_jid=7815616"
+    },
+    {
+      "id": "7555575",
+      "title": "Senior Corporate Development Lead, AI",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Corporate Development",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7555575/?gh_jid=7555575"
+    },
+    {
+      "id": "7382522",
+      "title": "Senior Counsel, Corporate & M&A",
+      "location": "New York, New York, USA",
+      "department": "Legal Operations",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7382522/?gh_jid=7382522"
+    },
+    {
+      "id": "7624552",
+      "title": "Senior Curriculum Manager, Sales Enablement",
+      "location": "New York, New York, USA",
+      "department": "GTM Enablement",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7624552/?gh_jid=7624552"
+    },
+    {
+      "id": "7810544",
+      "title": "Senior Customer Data Science - Solutions / Experimentation",
+      "location": "London, United Kingdom; Paris, France",
+      "department": "Product Management",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544"
+    },
+    {
+      "id": "7555520",
+      "title": "Senior Developer Advocate - Data Observability",
+      "location": "California, USA, Remote; Colorado, USA, Remote; Illinois, USA, Remote; New York, USA, Remote; Washington, USA, Remote",
+      "department": "Community",
+      "offices": "Remote - California / Remote - Colorado / Remote - Illinois / Remote - New York / Remote - Washington",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7555520/?gh_jid=7555520"
+    },
+    {
+      "id": "7494521",
+      "title": "Senior Field Enablement Manager - Leadership Development",
+      "location": "New York, New York, USA",
+      "department": "GTM Enablement",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7494521/?gh_jid=7494521"
+    },
+    {
+      "id": "7467351",
+      "title": "Senior FP&A Analyst - NYC",
+      "location": "New York, New York, USA",
+      "department": "Finance",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7467351/?gh_jid=7467351"
+    },
+    {
+      "id": "7731306",
+      "title": "Senior Generative AI Engineer",
+      "location": "Paris, France",
+      "department": "Dev Eng",
+      "offices": "Dublin / Lisbon / Madrid / Paris / Paris 27 RdC / Paris 33RLF / Remote - France / Remote - Germany / Remote - Portugal / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7731306/?gh_jid=7731306"
+    },
+    {
+      "id": "7695268",
+      "title": "Senior Group Manager, Customer Marketing",
+      "location": "New York, New York, USA",
+      "department": "Product Marketing",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7695268/?gh_jid=7695268"
+    },
+    {
+      "id": "7742547",
+      "title": "Senior Group Manager, Marketing Operations",
+      "location": "New York, New York, USA",
+      "department": "Marketing Operations",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7742547/?gh_jid=7742547"
+    },
+    {
+      "id": "7833886",
+      "title": "Senior Group Manager, Product Marketing",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Product Marketing",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7833886/?gh_jid=7833886"
+    },
+    {
+      "id": "7674142",
+      "title": "Senior Interaction Designer, Design Lab",
+      "location": "New York, New York, USA",
+      "department": "Product Design",
+      "offices": "New York",
+      "updated_at": "2026-04-24T13:25:12-04:00",
+      "url": "https://careers.datadoghq.com/detail/7674142/?gh_jid=7674142"
+    },
+    {
+      "id": "7811960",
+      "title": "Senior Internal Auditor",
+      "location": "New York, New York, USA",
+      "department": "Finance",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7811960/?gh_jid=7811960"
+    },
+    {
+      "id": "7731295",
+      "title": "Senior LLM Engineer",
+      "location": "Paris, France",
+      "department": "Dev Eng",
+      "offices": "Dublin / Lisbon / Madrid / Paris / Paris 27 RdC / Paris 33RLF / Remote - France / Remote - Germany / Remote - Portugal / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7731295/?gh_jid=7731295"
+    },
+    {
+      "id": "7735459",
+      "title": "Senior Manager, Payroll - NYC",
+      "location": "New York, New York, USA",
+      "department": "People",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7735459/?gh_jid=7735459"
+    },
+    {
+      "id": "7814967",
+      "title": "Senior Manager, Revenue",
+      "location": "New York, New York, USA",
+      "department": "Finance",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7814967/?gh_jid=7814967"
+    },
+    {
+      "id": "7658810",
+      "title": "Senior Manager, Technical Account Management ",
+      "location": "London, United Kingdom",
+      "department": "Technical Post Sales",
+      "offices": "Dublin / London",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7658810/?gh_jid=7658810"
+    },
+    {
+      "id": "7831520",
+      "title": "Senior Mid Market Account Executive - San Francisco",
+      "location": "San Francisco, California, USA",
+      "department": "Mid-Market Sales",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-27T13:13:22-04:00",
+      "url": "https://careers.datadoghq.com/detail/7831520/?gh_jid=7831520"
+    },
+    {
+      "id": "7650024",
+      "title": "Senior Partner Manager - Alliances (Chile) ",
+      "location": "Chile, Remote",
+      "department": "Channels & Alliances",
+      "offices": "Remote - Chile",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7650024/?gh_jid=7650024"
+    },
+    {
+      "id": "7775772",
+      "title": "Senior Partner Manager - Channels",
+      "location": "Singapore, Singapore",
+      "department": "Channels & Alliances",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7775772/?gh_jid=7775772"
+    },
+    {
+      "id": "7599341",
+      "title": "Senior Partner Manager - Channels",
+      "location": "Chile, Remote",
+      "department": "Channels & Alliances",
+      "offices": "Remote - Chile",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7599341/?gh_jid=7599341"
+    },
+    {
+      "id": "7792671",
+      "title": "Senior Partner Manager - Channels (Israel)",
+      "location": "Tel Aviv, Israel",
+      "department": "Channels & Alliances",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7792671/?gh_jid=7792671"
+    },
+    {
+      "id": "7747046",
+      "title": "Senior Partner Manager - Channels (Middle East)",
+      "location": "Dubai, United Arab Emirates",
+      "department": "Channels & Alliances",
+      "offices": "Dubai",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7747046/?gh_jid=7747046"
+    },
+    {
+      "id": "7580196",
+      "title": "Senior Partner Manager - Channels (Nordics)",
+      "location": "Stockholm, Sweden",
+      "department": "Channels & Alliances",
+      "offices": "Stockholm",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7580196/?gh_jid=7580196"
+    },
+    {
+      "id": "7792709",
+      "title": "Senior Partner Manager - Channels (PubSec UK)",
+      "location": "London, United Kingdom",
+      "department": "Channels & Alliances",
+      "offices": "London",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7792709/?gh_jid=7792709"
+    },
+    {
+      "id": "7582681",
+      "title": "Senior Partner Manager - Channels (Security)",
+      "location": "Sao Paulo, Brazil",
+      "department": "Channels & Alliances",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7582681/?gh_jid=7582681"
+    },
+    {
+      "id": "6369156",
+      "title": "Senior Partner Manager - Cloud Alliances South EMEA (France)",
+      "location": "Paris, France",
+      "department": "Channels & Alliances",
+      "offices": "Remote - France",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6369156/?gh_jid=6369156"
+    },
+    {
+      "id": "7461043",
+      "title": "Senior People Business Partner",
+      "location": "Tokyo, Japan",
+      "department": "People",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7461043/?gh_jid=7461043"
+    },
+    {
+      "id": "7341691",
+      "title": "Senior People Business Partner - NYC",
+      "location": "New York, New York, USA",
+      "department": "People",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7341691/?gh_jid=7341691"
+    },
+    {
+      "id": "7674133",
+      "title": "Senior Product Designer, Motion",
+      "location": "New York, New York, USA",
+      "department": "Product Design",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7674133/?gh_jid=7674133"
+    },
+    {
+      "id": "7519505",
+      "title": "Senior Product Manager - Application Performance Monitoring (APM)",
+      "location": "Paris, France",
+      "department": "Product Management",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7519505/?gh_jid=7519505"
+    },
+    {
+      "id": "7833865",
+      "title": "Senior Product Manager - Code Security",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7833865/?gh_jid=7833865"
+    },
+    {
+      "id": "7785350",
+      "title": "Senior Product Manager - Data Agent",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7785350/?gh_jid=7785350"
+    },
+    {
+      "id": "7723988",
+      "title": "Senior Product Manager - Integrations & Ecosystem",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7723988/?gh_jid=7723988"
+    },
+    {
+      "id": "7763117",
+      "title": "Senior Product Manager - Network Path",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7763117/?gh_jid=7763117"
+    },
+    {
+      "id": "7560326",
+      "title": "Senior Product Manager - Notebooks",
+      "location": "New York, New York, USA",
+      "department": "Product Management",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7560326/?gh_jid=7560326"
+    },
+    {
+      "id": "7750751",
+      "title": "Senior Product Solutions Architect - Logs",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Product Solutions Architecture",
+      "offices": "Boston / New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7750751/?gh_jid=7750751"
+    },
+    {
+      "id": "7527768",
+      "title": "Senior Product Solutions Architect - Logs",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland; London, United Kingdom; Madrid, Spain; Paris, France",
+      "department": "Product Solutions Architecture",
+      "offices": "Amsterdam / Dublin / London / Madrid / Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7527768/?gh_jid=7527768"
+    },
+    {
+      "id": "7460368",
+      "title": "Senior Sales Engineer",
+      "location": "Illinois, USA, Remote; Kansas, USA, Remote; Minnesota, USA, Remote; Missouri, USA, Remote; Wisconsin, USA, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Chicago / Remote - Kansas / Remote - Minnesota / Remote - Missouri / Remote - Wisconsin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7460368/?gh_jid=7460368"
+    },
+    {
+      "id": "7792033",
+      "title": "Senior Sales Engineer - Brazil",
+      "location": "Sao Paulo, Brazil",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7792033/?gh_jid=7792033"
+    },
+    {
+      "id": "7843333",
+      "title": "Senior Sales Engineer - Italy",
+      "location": "Italy, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - Italy",
+      "updated_at": "2026-04-24T04:04:23-04:00",
+      "url": "https://careers.datadoghq.com/detail/7843333/?gh_jid=7843333"
+    },
+    {
+      "id": "7516279",
+      "title": "Senior Sales Engineer - Key Accounts",
+      "location": "Illinois, USA, Remote; Texas, USA, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - California",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7516279/?gh_jid=7516279"
+    },
+    {
+      "id": "7711785",
+      "title": "Senior Sales Engineer - Key Accounts Northcentral",
+      "location": "Illinois, USA, Remote; Michigan, USA, Remote; Ohio, USA, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Chicago / Remote - Michigan / Remote - Ohio",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7711785/?gh_jid=7711785"
+    },
+    {
+      "id": "7711883",
+      "title": "Senior Sales Engineer - Key Accounts Southcentral",
+      "location": "Texas, USA, Remote",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Remote - Texas",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7711883/?gh_jid=7711883"
+    },
+    {
+      "id": "7791296",
+      "title": "Senior Sales Engineer - Majors (France)",
+      "location": "Paris, France",
+      "department": "Enterprise Sales Engineering",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7791296/?gh_jid=7791296"
+    },
+    {
+      "id": "7761259",
+      "title": "Senior Security Engineer, Security Incident Response Team (SIRT)",
+      "location": "New York, New York, USA",
+      "department": "Security",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7761259/?gh_jid=7761259"
+    },
+    {
+      "id": "7566827",
+      "title": "Senior Software Engineer (AI)",
+      "location": "Madrid, Spain",
+      "department": "Dev Eng",
+      "offices": "Dublin / Lisbon / Madrid / Paris / Paris 27 RdC / Paris 33RLF / Remote - France / Remote - Germany / Remote - Portugal / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7566827/?gh_jid=7566827"
+    },
+    {
+      "id": "7097751",
+      "title": "Senior Software Engineer (AI)",
+      "location": "Tel Aviv, Israel",
+      "department": "Dev Eng",
+      "offices": "Dublin / Lisbon / Madrid / Paris / Paris 27 RdC / Paris 33RLF / Remote - France / Remote - Germany / Remote - Portugal / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7097751/?gh_jid=7097751"
+    },
+    {
+      "id": "7440341",
+      "title": "Senior Software Engineer - AI Code Gen - Agent Engineer",
+      "location": "Paris, France",
+      "department": "Dev Eng",
+      "offices": "Dublin / Lisbon / Madrid / Paris / Paris 27 RdC / Paris 33RLF / Remote - France / Remote - Germany / Remote - Portugal / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7440341/?gh_jid=7440341"
+    },
+    {
+      "id": "7107875",
+      "title": "Senior Software Engineer - AI Code Gen - Agent Engineer",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote - British Columbia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7107875/?gh_jid=7107875"
+    },
+    {
+      "id": "7043352",
+      "title": "Senior Software Engineer - AI Platform",
+      "location": "Paris, France; Sophia Antipolis, France",
+      "department": "Dev Eng",
+      "offices": "Paris / Paris 27 RdC / Sophia Antipolis",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7043352/?gh_jid=7043352"
+    },
+    {
+      "id": "7050512",
+      "title": "Senior Software Engineer, AI Platform - Evaluation & Annotation ",
+      "location": "Paris, France; Sophia Antipolis, France",
+      "department": "Dev Eng",
+      "offices": "Paris / Paris 27 RdC / Sophia Antipolis",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7050512/?gh_jid=7050512"
+    },
+    {
+      "id": "7083878",
+      "title": "Senior Software Engineer - Backend & Scalability",
+      "location": "Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Sophia Antipolis, France; Tel Aviv, Israel",
+      "department": "Dev Eng",
+      "offices": "Grenoble / Lisbon / Madrid / Montpellier / Paris / Portugal / Remote / Remote - France / Remote - Germany / Remote - Poland / Remote - Portugal / Remote - Switzerland / Remote - UK / Sophia Antipolis / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7083878/?gh_jid=7083878"
+    },
+    {
+      "id": "7555524",
+      "title": "Senior Software Engineer, Community Open Source Engineering",
+      "location": "New York, New York, USA",
+      "department": "Community",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7555524/?gh_jid=7555524"
+    },
+    {
+      "id": "7472886",
+      "title": "Senior Software Engineer - Data Science",
+      "location": "Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Sophia Antipolis, France",
+      "department": "Dev Eng",
+      "offices": "Paris / Remote - France",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7472886/?gh_jid=7472886"
+    },
+    {
+      "id": "4599111",
+      "title": "Senior Software Engineer - Distributed Systems",
+      "location": "Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Sophia Antipolis, France; Tel Aviv, Israel",
+      "department": "Dev Eng",
+      "offices": "Grenoble / Lisbon / Madrid / Montpellier / Paris / Portugal / Remote / Remote - France / Remote - Germany / Remote - Poland / Remote - Portugal / Remote - Switzerland / Remote - UK / Sophia Antipolis / Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/4599111/?gh_jid=4599111"
+    },
+    {
+      "id": "3851927",
+      "title": "Senior Software Engineer - Distributed Systems",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote / Remote - British Columbia / Remote - California / Remote - Georgia / Remote - New York / Remote - Rhode Island / Remote - Tennessee / Remote - Virginia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927"
+    },
+    {
+      "id": "7566336",
+      "title": "Senior Software Engineer, macOS Specialist",
+      "location": "Bordeaux, France; Grenoble, France; Lyon, France; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France",
+      "department": "Dev Eng",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7566336/?gh_jid=7566336"
+    },
+    {
+      "id": "7820817",
+      "title": "Senior Software Engineer, macOS Specialist",
+      "location": "Portugal, Remote",
+      "department": "Dev Eng",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7820817/?gh_jid=7820817"
+    },
+    {
+      "id": "7820814",
+      "title": "Senior Software Engineer, macOS Specialist",
+      "location": "Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; United Kingdom, Remote",
+      "department": "Dev Eng",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7820814/?gh_jid=7820814"
+    },
+    {
+      "id": "6960503",
+      "title": "Senior Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503"
+    },
+    {
+      "id": "5608424",
+      "title": "Senior Staff Software Engineer ",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5608424/?gh_jid=5608424"
+    },
+    {
+      "id": "7793359",
+      "title": "Senior Staff Visual Designer, Design Lab",
+      "location": "New York, New York, USA",
+      "department": "Product Design",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7793359/?gh_jid=7793359"
+    },
+    {
+      "id": "7607540",
+      "title": "Senior Talent Manager (Talent Partner)",
+      "location": "New York, New York, USA",
+      "department": "People",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7607540/?gh_jid=7607540"
+    },
+    {
+      "id": "7555494",
+      "title": "Senior Technical Curriculum Developer - Cloud Infrastructure",
+      "location": "California, USA, Remote; New York, USA, Remote",
+      "department": "Community",
+      "offices": "Remote - California / Remote - New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7555494/?gh_jid=7555494"
+    },
+    {
+      "id": "7759526",
+      "title": "Senior Technical Curriculum Developer, Engineering Enablement",
+      "location": "New York, New York, USA",
+      "department": "Community",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7759526/?gh_jid=7759526"
+    },
+    {
+      "id": "7695546",
+      "title": "Senior Technical Product Marketing Manager (Security)",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "department": "Product Marketing",
+      "offices": "New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7695546/?gh_jid=7695546"
+    },
+    {
+      "id": "7446392",
+      "title": "Senior Technical Program Manager, Knowledge Systems",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California, USA",
+      "department": "Technical Solutions Operations",
+      "offices": "Boston / New York / San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392"
+    },
+    {
+      "id": "7807756",
+      "title": "Services Architect 3",
+      "location": "Singapore, Singapore",
+      "department": "Technical Post Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7807756/?gh_jid=7807756"
+    },
+    {
+      "id": "7807783",
+      "title": "Services Architect 3 - Denver",
+      "location": "Denver, Colorado, USA",
+      "department": "Technical Post Sales",
+      "offices": "Denver",
+      "updated_at": "2026-04-24T09:57:55-04:00",
+      "url": "https://careers.datadoghq.com/detail/7807783/?gh_jid=7807783"
+    },
+    {
+      "id": "7807760",
+      "title": "Services Architect 3 - New York",
+      "location": "New York, New York, USA",
+      "department": "Technical Post Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-24T09:57:47-04:00",
+      "url": "https://careers.datadoghq.com/detail/7807760/?gh_jid=7807760"
+    },
+    {
+      "id": "7646452",
+      "title": "Software Engineer - Early Career",
+      "location": "Lisbon, Portugal",
+      "department": "Early Career",
+      "offices": "Lisbon",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7646452/?gh_jid=7646452"
+    },
+    {
+      "id": "7811537",
+      "title": "Sourcer II, Business Recruiting - Japan",
+      "location": "Tokyo, Japan",
+      "department": "Business Recruiting",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7811537/?gh_jid=7811537"
+    },
+    {
+      "id": "7752299",
+      "title": "Staff AI Engineer - Cloud FinOps",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7752299/?gh_jid=7752299"
+    },
+    {
+      "id": "7629288",
+      "title": "Staff AI Engineer - Notebooks",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7629288/?gh_jid=7629288"
+    },
+    {
+      "id": "7627445",
+      "title": "Staff AI Engineer - Notebooks ",
+      "location": "Portugal, Remote",
+      "department": "Dev Eng",
+      "offices": "Lisbon / Madrid / Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7627445/?gh_jid=7627445"
+    },
+    {
+      "id": "7574412",
+      "title": "Staff AI Engineer - Notebooks ",
+      "location": "Madrid, Spain; Paris, France",
+      "department": "Dev Eng",
+      "offices": "Lisbon / Madrid / Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7574412/?gh_jid=7574412"
+    },
+    {
+      "id": "7627429",
+      "title": "Staff AI Engineer - Notebooks ",
+      "location": "France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote",
+      "department": "Dev Eng",
+      "offices": "Lisbon / Madrid / Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7627429/?gh_jid=7627429"
+    },
+    {
+      "id": "7574626",
+      "title": "Staff AI Engineer - Notebooks ",
+      "location": "Lisbon, Portugal",
+      "department": "Dev Eng",
+      "offices": "Lisbon / Madrid / Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7574626/?gh_jid=7574626"
+    },
+    {
+      "id": "7777798",
+      "title": "Staff Application Security Engineer",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Security",
+      "offices": "Boston / New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7777798/?gh_jid=7777798"
+    },
+    {
+      "id": "6958985",
+      "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985"
+    },
+    {
+      "id": "3210217",
+      "title": "Staff Software Engineer",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote - Colorado / Remote - DC / Remote - Massachusetts / Remote - New York / Remote - Ontario / Remote - Pennsylvania / Remote - Texas / Remote - Wisconsin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/3210217/?gh_jid=3210217"
+    },
+    {
+      "id": "7635298",
+      "title": "Staff Software Engineer – Logs Management",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote - Colorado / Remote - DC / Remote - Massachusetts / Remote - New York / Remote - Ontario / Remote - Pennsylvania / Remote - Texas / Remote - Wisconsin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7635298/?gh_jid=7635298"
+    },
+    {
+      "id": "7743369",
+      "title": "Staff Software Engineer – Logs Observability Pipelines",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote - Colorado / Remote - DC / Remote - Massachusetts / Remote - New York / Remote - Ontario / Remote - Pennsylvania / Remote - Texas / Remote - Wisconsin",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7743369/?gh_jid=7743369"
+    },
+    {
+      "id": "7107437",
+      "title": "Staff Software Engineer - ML Observability",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "Boston / New York / Remote",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7107437/?gh_jid=7107437"
+    },
+    {
+      "id": "7144531",
+      "title": "Staff Statistics Engineer - Feature Flagging and Experimentation",
+      "location": "New York, New York, USA",
+      "department": "Dev Eng",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7144531/?gh_jid=7144531"
+    },
+    {
+      "id": "7496207",
+      "title": "Staff Visual Designer, Design Lab",
+      "location": "New York, New York, USA",
+      "department": "Product Design",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7496207/?gh_jid=7496207"
+    },
+    {
+      "id": "7142205",
+      "title": "Strategic Account Executive",
+      "location": "Seoul, South Korea",
+      "department": "Enterprise Sales",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7142205/?gh_jid=7142205"
+    },
+    {
+      "id": "7155024",
+      "title": "Strategic Account Executive",
+      "location": "California, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - California",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024"
+    },
+    {
+      "id": "7131363",
+      "title": "Strategic Account Executive",
+      "location": "North Carolina, USA, Remote; South Carolina, USA, Remote; Tennessee, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - North Carolina / Remote - South Carolina / Remote - Tennessee",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363"
+    },
+    {
+      "id": "5496357",
+      "title": "Strategic Account Executive",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5496357/?gh_jid=5496357"
+    },
+    {
+      "id": "7131386",
+      "title": "Strategic Account Executive",
+      "location": "New York, New York, USA",
+      "department": "Enterprise Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7131386/?gh_jid=7131386"
+    },
+    {
+      "id": "7131396",
+      "title": "Strategic Account Executive",
+      "location": "Mexico City, Mexico",
+      "department": "Enterprise Sales",
+      "offices": "Mexico City",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7131396/?gh_jid=7131396"
+    },
+    {
+      "id": "7131726",
+      "title": "Strategic Account Executive",
+      "location": "Jakarta, Indonesia",
+      "department": "Enterprise Sales",
+      "offices": "Jakarta / Remote - Indonesia / Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7131726/?gh_jid=7131726"
+    },
+    {
+      "id": "7117086",
+      "title": "Strategic Account Executive",
+      "location": "Boston, Massachusetts, USA",
+      "department": "Enterprise Sales",
+      "offices": "Boston",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7117086/?gh_jid=7117086"
+    },
+    {
+      "id": "7057036",
+      "title": "Strategic Account Executive",
+      "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - DC / Remote - Maryland / Remote - Virginia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036"
+    },
+    {
+      "id": "7055008",
+      "title": "Strategic Account Executive",
+      "location": "Sao Paulo, Brazil",
+      "department": "Enterprise Sales",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7055008/?gh_jid=7055008"
+    },
+    {
+      "id": "6522755",
+      "title": "Strategic Account Executive",
+      "location": "Chicago, Illinois, USA",
+      "department": "Enterprise Sales",
+      "offices": "Chicago",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6522755/?gh_jid=6522755"
+    },
+    {
+      "id": "7439145",
+      "title": "Strategic Account Executive",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7439145/?gh_jid=7439145"
+    },
+    {
+      "id": "6016967",
+      "title": "Strategic Account Executive",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6016967/?gh_jid=6016967"
+    },
+    {
+      "id": "6242929",
+      "title": "Strategic Account Executive",
+      "location": "Florida, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Florida",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929"
+    },
+    {
+      "id": "6252677",
+      "title": "Strategic Account Executive",
+      "location": "Bangalore, India",
+      "department": "Enterprise Sales",
+      "offices": "Bangalore / Remote - India",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6252677/?gh_jid=6252677"
+    },
+    {
+      "id": "6522720",
+      "title": "Strategic Account Executive",
+      "location": "Georgia, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Atlanta / Remote - Alabama / Remote - Georgia / Remote - Tennessee",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720"
+    },
+    {
+      "id": "6522736",
+      "title": "Strategic Account Executive",
+      "location": "Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Michigan / Remote - Ohio / Remote - Pennsylvania",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736"
+    },
+    {
+      "id": "7131404",
+      "title": "Strategic Account Executive",
+      "location": "Chile, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Chile",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404"
+    },
+    {
+      "id": "6522747",
+      "title": "Strategic Account Executive",
+      "location": "Minnesota, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Minnesota",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747"
+    },
+    {
+      "id": "6522865",
+      "title": "Strategic Account Executive",
+      "location": "Canada, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Ontario / Toronto",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865"
+    },
+    {
+      "id": "5581254",
+      "title": "Strategic Account Executive (Benelux)",
+      "location": "Amsterdam, The Netherlands",
+      "department": "Enterprise Sales",
+      "offices": "Amsterdam / Remote - Netherlands",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5581254/?gh_jid=5581254"
+    },
+    {
+      "id": "5511968",
+      "title": "Strategic Account Executive (DACH)",
+      "location": "Germany, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Germany",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5511968/?gh_jid=5511968"
+    },
+    {
+      "id": "7645709",
+      "title": "Strategic Account Executive (FED)",
+      "location": "Canberra, Australia",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Australia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7645709/?gh_jid=7645709"
+    },
+    {
+      "id": "7155359",
+      "title": "Strategic Account Executive (FED)",
+      "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - DC / Remote - Maryland / Remote - Virginia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7155359/?gh_jid=7155359"
+    },
+    {
+      "id": "7442122",
+      "title": "Strategic Account Executive (Hong Kong Market)",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7442122/?gh_jid=7442122"
+    },
+    {
+      "id": "6572400",
+      "title": "Strategic Account Executive (Iberia)",
+      "location": "Madrid, Spain",
+      "department": "Enterprise Sales",
+      "offices": "Madrid / Remote - Spain",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6572400/?gh_jid=6572400"
+    },
+    {
+      "id": "7101117",
+      "title": "Strategic Account Executive - Paris",
+      "location": "Paris, France",
+      "department": "Enterprise Sales",
+      "offices": "Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7101117/?gh_jid=7101117"
+    },
+    {
+      "id": "7439569",
+      "title": "Strategic Account Executive, Public Sector Japan, FED",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7439569/?gh_jid=7439569"
+    },
+    {
+      "id": "7439149",
+      "title": "Strategic Account Executive, Public Sector Japan, FED",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7439149/?gh_jid=7439149"
+    },
+    {
+      "id": "7439573",
+      "title": "Strategic Account Executive, Public Sector Japan, SLED",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7439573/?gh_jid=7439573"
+    },
+    {
+      "id": "7439152",
+      "title": "Strategic Account Executive, Public Sector Japan, SLED",
+      "location": "Tokyo, Japan",
+      "department": "Enterprise Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7439152/?gh_jid=7439152"
+    },
+    {
+      "id": "5742916",
+      "title": "Strategic Account Executive (Rome - Italy) ",
+      "location": "Rome, Italy",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Italy",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5742916/?gh_jid=5742916"
+    },
+    {
+      "id": "7338800",
+      "title": "Strategic Account Executive (Saudi Arabia)",
+      "location": "Riyadh, Saudi Arabia",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Saudi Arabia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7338800/?gh_jid=7338800"
+    },
+    {
+      "id": "7314667",
+      "title": "Strategic Account Executive (SLED)",
+      "location": "Florida, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Boston / Chicago / New York / Remote - California / Remote - DC / Remote - Florida / Remote - Illinois / Remote - Maryland / Remote - North Carolina / Remote - South Carolina / Remote - Virginia",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667"
+    },
+    {
+      "id": "7453034",
+      "title": "Strategic Account Executive (SLED)",
+      "location": "Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Illinois / Remote - Michigan / Remote - Texas",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034"
+    },
+    {
+      "id": "6430945",
+      "title": "Strategic Account Executive (SLED)",
+      "location": "Kansas, USA, Remote; Missouri, USA, Remote; Washington, USA, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - California / Remote - Kansas / Remote - Minnesota / Remote - Missouri / Remote - Washington",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945"
+    },
+    {
+      "id": "5416261",
+      "title": "Strategic Account Executive (Switzerland)",
+      "location": "Switzerland, Remote",
+      "department": "Enterprise Sales",
+      "offices": "Remote - Switzerland",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5416261/?gh_jid=5416261"
+    },
+    {
+      "id": "5622381",
+      "title": "Strategic Account Executive (UKI)",
+      "location": "London, United Kingdom",
+      "department": "Enterprise Sales",
+      "offices": "London / Remote - UK",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/5622381/?gh_jid=5622381"
+    },
+    {
+      "id": "7591735",
+      "title": "Strategic Account Executive (UKI) - Public Sector",
+      "location": "London, United Kingdom",
+      "department": "Enterprise Sales",
+      "offices": "London",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7591735/?gh_jid=7591735"
+    },
+    {
+      "id": "7515110",
+      "title": "Strategic Account Executive (Vietnam Market)",
+      "location": "Singapore, Singapore",
+      "department": "Enterprise Sales",
+      "offices": "Singapore",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7515110/?gh_jid=7515110"
+    },
+    {
+      "id": "7131767",
+      "title": "Strategic Account Executive - West",
+      "location": "Mumbai, India",
+      "department": "Enterprise Sales",
+      "offices": "Remote - India",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7131767/?gh_jid=7131767"
+    },
+    {
+      "id": "7624017",
+      "title": "Strategic Finance Associate - NYC",
+      "location": "New York, New York, USA",
+      "department": "Finance",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017"
+    },
+    {
+      "id": "7834547",
+      "title": "Technical Account Manager 2 - NYC",
+      "location": "New York, New York, USA",
+      "department": "Technical Post Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-24T12:59:16-04:00",
+      "url": "https://careers.datadoghq.com/detail/7834547/?gh_jid=7834547"
+    },
+    {
+      "id": "7834559",
+      "title": "Technical Account Manager 2 - San Francisco",
+      "location": "Chicago, Illinois, USA; San Francisco, California, USA",
+      "department": "Technical Post Sales",
+      "offices": "Chicago / San Francisco",
+      "updated_at": "2026-04-24T09:06:28-04:00",
+      "url": "https://careers.datadoghq.com/detail/7834559/?gh_jid=7834559"
+    },
+    {
+      "id": "7834545",
+      "title": "Technical Account Manager 2 - São Paulo",
+      "location": "Sao Paulo, Brazil",
+      "department": "Technical Post Sales",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7834545/?gh_jid=7834545"
+    },
+    {
+      "id": "7705493",
+      "title": "Technical Account Manager 2 - Tel Aviv",
+      "location": "Tel Aviv, Israel",
+      "department": "Technical Post Sales",
+      "offices": "Tel Aviv",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7705493/?gh_jid=7705493"
+    },
+    {
+      "id": "7708309",
+      "title": "Technical Account Manager 2 (Thai Speaking)",
+      "location": "Thailand, Remote",
+      "department": "Technical Post Sales",
+      "offices": "Remote - Thailand / Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7708309/?gh_jid=7708309"
+    },
+    {
+      "id": "7683009",
+      "title": "Technical Account Manager 3",
+      "location": "Tokyo, Japan",
+      "department": "Technical Post Sales",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7683009/?gh_jid=7683009"
+    },
+    {
+      "id": "7670018",
+      "title": "Technical Account Manager 3 (French speaking)",
+      "location": "New York, New York, USA",
+      "department": "Technical Post Sales",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7670018/?gh_jid=7670018"
+    },
+    {
+      "id": "7839435",
+      "title": "Technical Account Manager 3 - London",
+      "location": "Dublin, Ireland; London, United Kingdom",
+      "department": "Technical Post Sales",
+      "offices": "Dublin / London",
+      "updated_at": "2026-04-24T10:17:41-04:00",
+      "url": "https://careers.datadoghq.com/detail/7839435/?gh_jid=7839435"
+    },
+    {
+      "id": "7458825",
+      "title": "Technical Account Manager 3 - Sao Paulo",
+      "location": "Sao Paulo, Brazil",
+      "department": "Technical Post Sales",
+      "offices": "Sao Paulo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7458825/?gh_jid=7458825"
+    },
+    {
+      "id": "7555497",
+      "title": "Technical Content Editor",
+      "location": "New York, New York, USA",
+      "department": "Community",
+      "offices": "New York",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7555497/?gh_jid=7555497"
+    },
+    {
+      "id": "7627229",
+      "title": "Technical Curriculum Developer - Security",
+      "location": "California, USA, Remote; Colorado, USA, Remote; Illinois, USA, Remote; New York, USA, Remote; Washington, USA, Remote",
+      "department": "Community",
+      "offices": "Remote - California / Remote - Colorado / Remote - Illinois / Remote - New York / Remote - Washington",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7627229/?gh_jid=7627229"
+    },
+    {
+      "id": "7493027",
+      "title": "Technical Solutions Field Enablement Manager, APJ",
+      "location": "Tokyo, Japan",
+      "department": "GTM Enablement",
+      "offices": "Singapore / Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7493027/?gh_jid=7493027"
+    },
+    {
+      "id": "7760411",
+      "title": "Technical Solutions Field Enablement Manager, APJ",
+      "location": "Singapore, Singapore",
+      "department": "GTM Enablement",
+      "offices": "Singapore / Tokyo",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7760411/?gh_jid=7760411"
+    },
+    {
+      "id": "6882229",
+      "title": "Technical Support Engineer 1 - 2",
+      "location": "Seoul, South Korea",
+      "department": "Support Engineering",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229"
+    },
+    {
+      "id": "6883301",
+      "title": "Technical Support Engineer 1 - 2",
+      "location": "Seoul, South Korea",
+      "department": "Support Engineering",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301"
+    },
+    {
+      "id": "6759702",
+      "title": "Technical Support Engineer 2",
+      "location": "Tokyo, Japan",
+      "department": "Support Engineering",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T20:50:54-04:00",
+      "url": "https://careers.datadoghq.com/detail/6759702/?gh_jid=6759702"
+    },
+    {
+      "id": "6761448",
+      "title": "Technical Support Engineer 2",
+      "location": "Tokyo, Japan",
+      "department": "Support Engineering",
+      "offices": "Tokyo",
+      "updated_at": "2026-04-23T20:50:54-04:00",
+      "url": "https://careers.datadoghq.com/detail/6761448/?gh_jid=6761448"
+    },
+    {
+      "id": "7477573",
+      "title": "Technical Support Engineer 2",
+      "location": "Seoul, South Korea",
+      "department": "Support Engineering",
+      "offices": "Seoul",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7477573/?gh_jid=7477573"
+    },
+    {
+      "id": "7496253",
+      "title": "Technical Support Engineer 2, Premier - EMEA",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland; Paris, France",
+      "department": "Support Engineering",
+      "offices": "Amsterdam / Dublin / Paris",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7496253/?gh_jid=7496253"
+    },
+    {
+      "id": "7449072",
+      "title": "Technical Support Engineer 2, Premier - San Francisco",
+      "location": "San Francisco, California, USA",
+      "department": "Support Engineering",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072"
+    },
+    {
+      "id": "7758574",
+      "title": "Technical Support Engineer 3, Premier - San Francisco",
+      "location": "San Francisco, California, USA",
+      "department": "Support Engineering",
+      "offices": "San Francisco",
+      "updated_at": "2026-04-23T13:41:00-04:00",
+      "url": "https://careers.datadoghq.com/detail/7758574/?gh_jid=7758574"
+    }
+  ]
+}
