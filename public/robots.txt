@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://intent-alpha.pages.dev/sitemap-index.xml
+Sitemap: https://intent-alpha.hide3desudesu.workers.dev/sitemap-index.xml

@@ -9,7 +9,7 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft))
   <h1>Articles</h1>
   <p class="muted">{articles.length} hypothesis article{articles.length === 1 ? '' : 's'}.</p>
   {articles.map((a) => (
-    <a class="card" href={`/articles/${a.id}`} style="display:block; color:inherit;">
+    <a class="card" href={`/articles/${a.id}/`} style="display:block; color:inherit;">
       <h3>{a.data.title}</h3>
       <p class="muted" style="margin-bottom: 0.5rem;">
         <span class={`confidence confidence-${a.data.confidence}`}>{a.data.confidence}</span>

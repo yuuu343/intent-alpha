@@ -39,7 +39,7 @@ const jsonLd = {
   <h2>Hypotheses ({articles.length})</h2>
   {articles.length === 0 && <p class="muted">No articles yet for {company.data.name}.</p>}
   {articles.map((a) => (
-    <a class="card" href={`/articles/${a.id}`} style="display:block; color:inherit;">
+    <a class="card" href={`/articles/${a.id}/`} style="display:block; color:inherit;">
       <h3>{a.data.title}</h3>
       <p class="muted" style="margin-bottom: 0.5rem;">
         <span class={`confidence confidence-${a.data.confidence}`}>{a.data.confidence}</span>

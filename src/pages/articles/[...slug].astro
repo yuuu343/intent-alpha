@@ -36,7 +36,7 @@ const jsonLd = {
   jsonLd={jsonLd}
 >
   <p class="muted" style="margin-bottom: 0.5rem;">
-    <a href={company ? `/companies/${company.id}` : '#'}>{company?.data.name ?? article.data.company}</a>
+    <a href={company ? `/companies/${company.id}/` : '#'}>{company?.data.name ?? article.data.company}</a>
     &nbsp;·&nbsp;
     <time datetime={article.data.publishedAt.toISOString()}>
       {article.data.publishedAt.toISOString().slice(0, 10)}

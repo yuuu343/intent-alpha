@@ -11,7 +11,7 @@ const companies = (await getCollection('companies'))
   <ul>
     {companies.map((c) => (
       <li>
-        <a href={`/companies/${c.id}`}>{c.data.name}</a>
+        <a href={`/companies/${c.id}/`}>{c.data.name}</a>
         {c.data.sector && <span class="muted"> — {c.data.sector}</span>}
       </li>
     ))}

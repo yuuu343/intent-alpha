@@ -21,7 +21,7 @@ const description = 'Intent Alpha infers what companies are building next from t
   <h2>Latest hypotheses</h2>
   {articles.length === 0 && <p class="muted">No articles yet — first ones land soon.</p>}
   {articles.map((a) => (
-    <a class="card" href={`/articles/${a.id}`} style="display:block; color:inherit;">
+    <a class="card" href={`/articles/${a.id}/`} style="display:block; color:inherit;">
       <h3>{a.data.title}</h3>
       <p class="muted" style="margin-bottom: 0.5rem;">
         <span class={`confidence confidence-${a.data.confidence}`}>{a.data.confidence}</span>
@@ -38,7 +38,7 @@ const description = 'Intent Alpha infers what companies are building next from t
   <p class="muted">{companies.length} so far.</p>
   <ul>
     {companies.map((c) => (
-      <li><a href={`/companies/${c.id}`}>{c.data.name}</a> <span class="muted">— {c.data.sector ?? c.data.description.slice(0, 80)}</span></li>
+      <li><a href={`/companies/${c.id}/`}>{c.data.name}</a> <span class="muted">— {c.data.sector ?? c.data.description.slice(0, 80)}</span></li>
     ))}
   </ul>
 </Layout>
