@@ -10,5 +10,6 @@
     "host": "arm.wd1.myworkdayjobs.com",
     "tenant": "Arm",
     "site": "Externalcareers"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

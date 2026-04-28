@@ -10,5 +10,6 @@
     "host": "qualcomm.wd5.myworkdayjobs.com",
     "tenant": "Qualcomm",
     "site": "External"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

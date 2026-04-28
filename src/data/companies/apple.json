@@ -6,5 +6,6 @@
   "headquarters": "Cupertino, CA",
   "description": "Designs and sells consumer electronics, software and services; building neural-engine silicon and on-device AI features across the device line.",
   "ats": "custom",
-  "customNote": "jobs.apple.com — bot-protected (Akamai), requires headless browser to fetch"
+  "customNote": "jobs.apple.com — bot-protected (Akamai), requires headless browser to fetch",
+  "aiRelevance": "ai_adjacent"
 }

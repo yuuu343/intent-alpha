@@ -6,5 +6,6 @@
   "headquarters": "San Francisco, CA",
   "description": "Discussion network with ad business, post-IPO public company; data licensing to AI labs.",
   "ats": "greenhouse",
-  "atsIdentifier": "reddit"
+  "atsIdentifier": "reddit",
+  "aiRelevance": "non_ai"
 }

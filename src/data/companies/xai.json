@@ -1,0 +1,11 @@
+{
+  "slug": "xai",
+  "name": "xAI",
+  "website": "https://x.ai",
+  "sector": "AI / Foundation Models",
+  "headquarters": "Palo Alto, CA",
+  "description": "Foundation-model lab building Grok, integrated with X. Colossus training cluster (Memphis) is among the largest single-site GPU deployments.",
+  "aiRelevance": "ai_native",
+  "ats": "greenhouse",
+  "atsIdentifier": "xai"
+}

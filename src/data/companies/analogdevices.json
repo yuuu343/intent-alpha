@@ -10,5 +10,6 @@
     "host": "analog.wd1.myworkdayjobs.com",
     "tenant": "analog",
     "site": "External_Careers"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

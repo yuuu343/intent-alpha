@@ -10,5 +10,6 @@
     "host": "nxp.wd3.myworkdayjobs.com",
     "tenant": "nxp",
     "site": "careers"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

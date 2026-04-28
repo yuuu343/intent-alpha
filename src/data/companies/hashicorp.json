@@ -6,5 +6,6 @@
   "headquarters": "San Francisco, CA",
   "description": "Terraform, Vault, Consul, Nomad — infrastructure-as-code and zero-trust networking.",
   "ats": "custom",
-  "customNote": "Not on Greenhouse/Lever/Ashby; uses IBM ATS post-acquisition. TBD."
+  "customNote": "Not on Greenhouse/Lever/Ashby; uses IBM ATS post-acquisition. TBD.",
+  "aiRelevance": "non_ai"
 }

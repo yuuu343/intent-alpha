@@ -2,11 +2,14 @@
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
-const articles = (await getCollection('articles', ({ data }) => !data.draft))
+const articles = (await getCollection('articles', ({ data }) => !data.draft && !data.archived))
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
-const companies = (await getCollection('companies'))
+const allCompanies = (await getCollection('companies'))
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
+// Primary roster = AI-relevant companies. Non-AI tracked subjects are kept
+// reachable by direct URL but hidden from the homepage flow.
+const companies = allCompanies.filter((c) => c.data.aiRelevance !== 'non_ai');
 
 const totalPostings = articles.reduce((s, a) => s + (a.data.totalPostings ?? 0), 0);
 const totalSignals = articles.reduce((s, a) => s + (a.data.signalCount ?? 0), 0);

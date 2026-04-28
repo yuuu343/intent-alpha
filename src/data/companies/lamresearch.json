@@ -10,5 +10,6 @@
     "host": "lamresearch.wd1.myworkdayjobs.com",
     "tenant": "lamresearch",
     "site": "External"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

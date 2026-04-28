@@ -1,0 +1,2079 @@
+{
+  "company": "xai",
+  "ats": "greenhouse",
+  "atsIdentifier": "xai",
+  "fetchedAt": "2026-04-28T07:01:52.948Z",
+  "count": 230,
+  "jobs": [
+    {
+      "id": "5045788007",
+      "title": "3D Tutor",
+      "location": "Remote",
+      "department": "Vision",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T18:45:06-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5045788007"
+    },
+    {
+      "id": "4922800007",
+      "title": "Accounting Expert",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:23:24-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4922800007"
+    },
+    {
+      "id": "5039318007",
+      "title": "Accounting Expert - Faculty / Professor of Accounting",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:23:32-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5039318007"
+    },
+    {
+      "id": "5039326007",
+      "title": "Accounting Expert -  Tax",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:23:38-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5039326007"
+    },
+    {
+      "id": "5039320007",
+      "title": "Accounting Expert - Technical Accounting ",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:23:10-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5039320007"
+    },
+    {
+      "id": "4931312007",
+      "title": "AI Healthcare and Administration Tutor  ",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:40:31-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4931312007"
+    },
+    {
+      "id": "5090171007",
+      "title": "AI Tutor - Arabic",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T18:49:37-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090171007"
+    },
+    {
+      "id": "5098930007",
+      "title": "AI Tutor - Audio Editing",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:35:01-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5098930007"
+    },
+    {
+      "id": "5090176007",
+      "title": "AI Tutor - Bengali",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T18:57:30-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090176007"
+    },
+    {
+      "id": "5090180007",
+      "title": "AI Tutor - Chinese",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090180007"
+    },
+    {
+      "id": "5040344007",
+      "title": "AI Tutor - Crypto",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:38:45-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5040344007"
+    },
+    {
+      "id": "5090189007",
+      "title": "AI Tutor - Danish",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:38:36-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090189007"
+    },
+    {
+      "id": "5090197007",
+      "title": "AI Tutor - Dutch",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T01:52:39-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090197007"
+    },
+    {
+      "id": "5090198007",
+      "title": "AI Tutor - English",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:39:17-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090198007"
+    },
+    {
+      "id": "5090199007",
+      "title": "AI Tutor - Finnish",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T01:52:56-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090199007"
+    },
+    {
+      "id": "5090202007",
+      "title": "AI Tutor - French",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:41:11-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090202007"
+    },
+    {
+      "id": "5090120007",
+      "title": "AI Tutor - German",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:41:24-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090120007"
+    },
+    {
+      "id": "5090203007",
+      "title": "AI Tutor - Gujarati",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:41:34-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090203007"
+    },
+    {
+      "id": "5090206007",
+      "title": "AI Tutor - Hebrew",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T01:53:10-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090206007"
+    },
+    {
+      "id": "5090207007",
+      "title": "AI Tutor - Hindi",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:09-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090207007"
+    },
+    {
+      "id": "5095657007",
+      "title": "AI Tutor - Indonesian",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:25:35-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5095657007"
+    },
+    {
+      "id": "5090209007",
+      "title": "AI Tutor - Italian",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:13-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090209007"
+    },
+    {
+      "id": "5095658007",
+      "title": "AI Tutor - Japanese",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:16-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5095658007"
+    },
+    {
+      "id": "5090210007",
+      "title": "AI Tutor - Korean",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:19-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090210007"
+    },
+    {
+      "id": "5090213007",
+      "title": "AI Tutor - Marathi",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:22-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090213007"
+    },
+    {
+      "id": "5090215007",
+      "title": "AI Tutor - Norwegian",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T01:53:22-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090215007"
+    },
+    {
+      "id": "5090218007",
+      "title": "AI Tutor - Polish",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:50:41-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090218007"
+    },
+    {
+      "id": "5090221007",
+      "title": "AI Tutor - Portuguese",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:24:50-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090221007"
+    },
+    {
+      "id": "5090246007",
+      "title": "AI Tutor - Punjabi",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:26:41-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090246007"
+    },
+    {
+      "id": "5063490007",
+      "title": "AI Tutor - Software Engineering Specialist",
+      "location": "Remote",
+      "department": "Software Engineering",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:20:48-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5063490007"
+    },
+    {
+      "id": "5090264007",
+      "title": "AI Tutor - Spanish",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:42-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090264007"
+    },
+    {
+      "id": "5090265007",
+      "title": "AI Tutor - Swedish",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T01:53:36-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090265007"
+    },
+    {
+      "id": "5090268007",
+      "title": "AI Tutor - Tagalog",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:26:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090268007"
+    },
+    {
+      "id": "5090269007",
+      "title": "AI Tutor - Tamil",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:50-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090269007"
+    },
+    {
+      "id": "5090270007",
+      "title": "AI Tutor - Telugu",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:52-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090270007"
+    },
+    {
+      "id": "5090272007",
+      "title": "AI Tutor - Thai",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:54-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090272007"
+    },
+    {
+      "id": "5095662007",
+      "title": "AI Tutor - Turkish",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:43:58-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5095662007"
+    },
+    {
+      "id": "5090273007",
+      "title": "AI Tutor - Urdu",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:44:02-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090273007"
+    },
+    {
+      "id": "5090274007",
+      "title": "AI Tutor - Vietnamese",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:44:05-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090274007"
+    },
+    {
+      "id": "4559147007",
+      "title": "Application Security Engineer",
+      "location": "Palo Alto, CA",
+      "department": "Information Security",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4559147007"
+    },
+    {
+      "id": "4925878007",
+      "title": "Applied Math Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:34:50-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925878007"
+    },
+    {
+      "id": "4991448007",
+      "title": "Backend Engineer",
+      "location": "London, UK",
+      "department": "Infrastructure",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4991448007"
+    },
+    {
+      "id": "5120536007",
+      "title": "Backend Engineer - API",
+      "location": "London, UK",
+      "department": "Engineering",
+      "offices": "London, UK",
+      "updated_at": "2026-04-24T14:40:54-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5120536007"
+    },
+    {
+      "id": "5119111007",
+      "title": "Backend Engineer - API",
+      "location": "Palo Alto, CA",
+      "department": "Engineering",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-23T13:37:01-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5119111007"
+    },
+    {
+      "id": "5006477007",
+      "title": "Backend Engineer - Enterprise",
+      "location": "Tokyo, JP",
+      "department": "Product",
+      "offices": "Tokyo, JP",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5006477007"
+    },
+    {
+      "id": "4925783007",
+      "title": "Biology Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:35:17-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925783007"
+    },
+    {
+      "id": "5040409007",
+      "title": "Bookkeeping Specialist",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:35:49-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5040409007"
+    },
+    {
+      "id": "5099668007",
+      "title": "Business Expert - Administrative",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:48:05-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5099668007"
+    },
+    {
+      "id": "5099665007",
+      "title": "Business Expert - Customer Support & Success",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:48:18-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5099665007"
+    },
+    {
+      "id": "5099671007",
+      "title": "Business Expert - Executive Leadership",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:48:32-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5099671007"
+    },
+    {
+      "id": "5099670007",
+      "title": "Business Expert - Facilities & Real Estate",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:48:40-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5099670007"
+    },
+    {
+      "id": "5099662007",
+      "title": "Business Expert - Human Resources & Talent",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:48:49-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5099662007"
+    },
+    {
+      "id": "5095721007",
+      "title": "Business Expert - Management Consulting",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:49:00-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5095721007"
+    },
+    {
+      "id": "5099654007",
+      "title": "Business Expert - Marketing & Communications",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:49:14-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5099654007"
+    },
+    {
+      "id": "5099657007",
+      "title": "Business Expert - Operations",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:49:25-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5099657007"
+    },
+    {
+      "id": "5099635007",
+      "title": "Business Expert - Sales & Business Development",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:49:48-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5099635007"
+    },
+    {
+      "id": "5099660007",
+      "title": "Business Expert - Supply Chain, Procurement & Logistics",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T16:49:38-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5099660007"
+    },
+    {
+      "id": "4925847007",
+      "title": "Chemical Engineering Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:37:29-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925847007"
+    },
+    {
+      "id": "4925805007",
+      "title": "Chemistry Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:37:44-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925805007"
+    },
+    {
+      "id": "4925850007",
+      "title": "Civil Engineering Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:38:07-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925850007"
+    },
+    {
+      "id": "4970517007",
+      "title": "Client Account Manager",
+      "location": "Tokyo, JP",
+      "department": "Sales",
+      "offices": "Tokyo, JP",
+      "updated_at": "2026-04-23T19:46:13-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4970517007"
+    },
+    {
+      "id": "5038183007",
+      "title": "Client Account Manager (Contract)",
+      "location": "Dublin, IE",
+      "department": "Sales",
+      "offices": "Dublin, IE",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5038183007"
+    },
+    {
+      "id": "5035274007",
+      "title": "Client Account Manager (Madrid)",
+      "location": "Remote",
+      "department": "Sales",
+      "offices": "Remote International",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5035274007"
+    },
+    {
+      "id": "5038193007",
+      "title": "Client Parter (Madrid)",
+      "location": "Remote",
+      "department": "Sales",
+      "offices": "Remote International",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5038193007"
+    },
+    {
+      "id": "4970473007",
+      "title": "Client Partner",
+      "location": "Tokyo, JP",
+      "department": "Sales",
+      "offices": "Tokyo, JP",
+      "updated_at": "2026-04-23T18:03:57-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4970473007"
+    },
+    {
+      "id": "4940376007",
+      "title": "Client Partner",
+      "location": "Bastrop, TX; Los Angeles, CA; New York, NY",
+      "department": "Sales",
+      "offices": "Bastrop, TX / Los Angeles, CA / New York, NY",
+      "updated_at": "2026-04-23T18:02:29-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4940376007"
+    },
+    {
+      "id": "5025815007",
+      "title": "Client Partner",
+      "location": "Dubai, UAE",
+      "department": "Sales",
+      "offices": "Dubai, UAE",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5025815007"
+    },
+    {
+      "id": "4981938007",
+      "title": "Client Partner",
+      "location": "Singapore, SG",
+      "department": "Sales",
+      "offices": "Singapore, SG",
+      "updated_at": "2026-04-23T19:53:37-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4981938007"
+    },
+    {
+      "id": "4990853007",
+      "title": "Client Partner - Ecommerce & Digital Native",
+      "location": "Singapore, SG",
+      "department": "Sales",
+      "offices": "Singapore, SG",
+      "updated_at": "2026-04-23T19:50:47-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4990853007"
+    },
+    {
+      "id": "5013537007",
+      "title": "Commercial Counsel - Data Centers",
+      "location": "Palo Alto, CA",
+      "department": "Legal",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-24T10:46:27-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5013537007"
+    },
+    {
+      "id": "5119679007",
+      "title": "Construction Manager",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-24T12:41:44-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5119679007"
+    },
+    {
+      "id": "5055751007",
+      "title": "Construction Manager (Power Generation)",
+      "location": "United States",
+      "department": "Data Center",
+      "offices": "US",
+      "updated_at": "2026-04-23T18:20:26-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5055751007"
+    },
+    {
+      "id": "5115071007",
+      "title": "Construction Supervisor (Night Shift), Power Generation Plant",
+      "location": "Southaven, MS",
+      "department": "Data Center",
+      "offices": "Southaven, MS",
+      "updated_at": "2026-04-23T19:56:24-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5115071007"
+    },
+    {
+      "id": "5116056007",
+      "title": "Controls Engineer",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-22T18:31:51-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5116056007"
+    },
+    {
+      "id": "5040428007",
+      "title": "Corporate Law & Securities Expert",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:38:37-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5040428007"
+    },
+    {
+      "id": "5112514007",
+      "title": "Data Analyst - Physical Infrastructure",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5112514007"
+    },
+    {
+      "id": "4741579007",
+      "title": "Data Center Operations Technician ",
+      "location": "Memphis, TN; Southaven, MS",
+      "department": "Data Center",
+      "offices": "Memphis, TN / Southaven, MS",
+      "updated_at": "2026-04-23T18:37:37-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4741579007"
+    },
+    {
+      "id": "5085890007",
+      "title": "Data Center Operations Technician (Night Shift)",
+      "location": "Hillsboro, OR",
+      "department": "Data Center",
+      "offices": "Hillsboro, OR",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5085890007"
+    },
+    {
+      "id": "5120884007",
+      "title": "Data Engineer",
+      "location": "Palo Alto, CA",
+      "department": "Engineering",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-24T18:46:13-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5120884007"
+    },
+    {
+      "id": "4925835007",
+      "title": "Data Science Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:38:53-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925835007"
+    },
+    {
+      "id": "4559148007",
+      "title": "Detection & Response Engineer",
+      "location": "Palo Alto, CA",
+      "department": "Information Security",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-23T18:04:18-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4559148007"
+    },
+    {
+      "id": "4985451007",
+      "title": "Developer Experience Engineer",
+      "location": "London, UK",
+      "department": "Infrastructure",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4985451007"
+    },
+    {
+      "id": "4959599007",
+      "title": "Dispute Analyst - X Payments",
+      "location": "Bastrop, TX",
+      "department": "Safety",
+      "offices": "Bastrop, TX",
+      "updated_at": "2026-04-24T10:16:23-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4959599007"
+    },
+    {
+      "id": "4977435007",
+      "title": "Earth Science Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:39:46-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4977435007"
+    },
+    {
+      "id": "4922802007",
+      "title": "Economics Expert",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:39:53-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4922802007"
+    },
+    {
+      "id": "4977264007",
+      "title": "Electrical Engineer",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4977264007"
+    },
+    {
+      "id": "4753835007",
+      "title": "Electrical Engineer (EIT)",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4753835007"
+    },
+    {
+      "id": "4925853007",
+      "title": "Electrical Engineering Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:40:03-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925853007"
+    },
+    {
+      "id": "5109691007",
+      "title": "Engineering Lead - Consumer Subscriptions",
+      "location": "Palo Alto, CA",
+      "department": "Engineering",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5109691007"
+    },
+    {
+      "id": "5116194007",
+      "title": "Environmental Engineer ",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5116194007"
+    },
+    {
+      "id": "5116111007",
+      "title": "Environmental Health & Safety Engineer",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5116111007"
+    },
+    {
+      "id": "5041977007",
+      "title": "Exceptional Designer",
+      "location": "Palo Alto, CA",
+      "department": "Design",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5041977007"
+    },
+    {
+      "id": "4956028007",
+      "title": "Exceptional Software Engineer",
+      "location": "Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA",
+      "department": "Engineering",
+      "offices": "Austin, TX / New York, NY / Palo Alto, CA / Seattle, WA",
+      "updated_at": "2026-04-23T18:13:27-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4956028007"
+    },
+    {
+      "id": "4956070007",
+      "title": "Exceptional Software Engineer",
+      "location": "London, UK",
+      "department": "Engineering",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4956070007"
+    },
+    {
+      "id": "4939302007",
+      "title": "Facilities Maintenance Technician",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4939302007"
+    },
+    {
+      "id": "5080508007",
+      "title": "Facilities Manager",
+      "location": "Austin, TX",
+      "department": "Operations",
+      "offices": "Austin, TX",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5080508007"
+    },
+    {
+      "id": "4821683007",
+      "title": "Facilities Operations Lead",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4821683007"
+    },
+    {
+      "id": "4685202007",
+      "title": "Facilities Operations Manager",
+      "location": "Southaven, MS",
+      "department": "Data Center",
+      "offices": "Southaven, MS",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4685202007"
+    },
+    {
+      "id": "4538639007",
+      "title": "Facilities Operations Technician",
+      "location": "Memphis, TN; Southaven, MS",
+      "department": "Data Center",
+      "offices": "Memphis, TN / Southaven, MS",
+      "updated_at": "2026-04-23T19:41:50-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4538639007"
+    },
+    {
+      "id": "5087278007",
+      "title": "Fiber Documentation Engineer",
+      "location": "Austin, TX; Memphis, TN; Remote",
+      "department": "Data Center",
+      "offices": "Austin, TX / Memphis, TN",
+      "updated_at": "2026-04-23T19:41:16-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5087278007"
+    },
+    {
+      "id": "4760806007",
+      "title": "Finance Expert",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:40:19-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4760806007"
+    },
+    {
+      "id": "5040407007",
+      "title": "Finance Expert - Corporate Finance ",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:38:29-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5040407007"
+    },
+    {
+      "id": "5039377007",
+      "title": "Finance Expert - Credit Analyst ",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:39:27-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5039377007"
+    },
+    {
+      "id": "4933173007",
+      "title": "Finance Expert - Equity Research",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:40:10-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4933173007"
+    },
+    {
+      "id": "5039381007",
+      "title": "Finance Expert - FICC Research",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:39:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5039381007"
+    },
+    {
+      "id": "5039375007",
+      "title": "Finance Expert - Fixed Income",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:39:29-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5039375007"
+    },
+    {
+      "id": "5039410007",
+      "title": "Finance Expert - Macro Research Analyst ",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:41:49-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5039410007"
+    },
+    {
+      "id": "4933179007",
+      "title": "Finance Expert - Portfolio Management",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:46:42-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4933179007"
+    },
+    {
+      "id": "5039376007",
+      "title": "Finance Expert - Private Credit ",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:39:30-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5039376007"
+    },
+    {
+      "id": "4922806007",
+      "title": "Finance Expert - Quant",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:47:07-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4922806007"
+    },
+    {
+      "id": "5040333007",
+      "title": "Finance Expert - Quantitative Trading ",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:47:20-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5040333007"
+    },
+    {
+      "id": "5040379007",
+      "title": "Finance Expert - Real Estate Investment",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:47:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5040379007"
+    },
+    {
+      "id": "5040365007",
+      "title": "Finance Expert - Risk",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:47:36-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5040365007"
+    },
+    {
+      "id": "5040389007",
+      "title": "Finance Expert - Structured Finance",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:48:07-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5040389007"
+    },
+    {
+      "id": "4781647007",
+      "title": "Food Service Specialist",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4781647007"
+    },
+    {
+      "id": "5042697007",
+      "title": "Global Supply Manager - SaaS",
+      "location": "Palo Alto, CA",
+      "department": "Finance",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5042697007"
+    },
+    {
+      "id": "5055608007",
+      "title": "Growth Marketing Manager – Lifecycle",
+      "location": "Austin, TX; London, UK; New York, NY; Palo Alto, CA",
+      "department": "Marketing",
+      "offices": "Austin, TX / London, UK / New York, NY / Palo Alto, CA",
+      "updated_at": "2026-04-23T19:31:02-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5055608007"
+    },
+    {
+      "id": "5005154007",
+      "title": "Head of GTM - Systems & Agents",
+      "location": "Palo Alto, CA",
+      "department": "Sales",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5005154007"
+    },
+    {
+      "id": "5080506007",
+      "title": "Hospitality Manager",
+      "location": "Austin, TX",
+      "department": "Operations",
+      "offices": "Austin, TX",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5080506007"
+    },
+    {
+      "id": "5080437007",
+      "title": "Hospitality Manager ",
+      "location": "Palo Alto, CA",
+      "department": "Operations",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5080437007"
+    },
+    {
+      "id": "5047544007",
+      "title": "Image Tutor ",
+      "location": "Remote",
+      "department": "Vision",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:40:39-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5047544007"
+    },
+    {
+      "id": "5090998007",
+      "title": "Infrastructure Security Engineer",
+      "location": "Palo Alto, CA",
+      "department": "Information Security",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090998007"
+    },
+    {
+      "id": "5039373007",
+      "title": "Investment Banking Expert - DCM",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:39:32-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5039373007"
+    },
+    {
+      "id": "4954568007",
+      "title": "Investment Banking Expert - ECM",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:41:12-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4954568007"
+    },
+    {
+      "id": "4933187007",
+      "title": "Investment Banking Expert - M&A",
+      "location": "Remote",
+      "department": "Financial",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:41:22-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4933187007"
+    },
+    {
+      "id": "5070973007",
+      "title": "IT Services Technician",
+      "location": "Seattle, WA",
+      "department": "Information Technology",
+      "offices": "Seattle, WA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5070973007"
+    },
+    {
+      "id": "5033593007",
+      "title": "IT Services Technician",
+      "location": "Palo Alto, CA",
+      "department": "Information Technology",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5033593007"
+    },
+    {
+      "id": "4916679007",
+      "title": "IT Services Technician",
+      "location": "New York, NY",
+      "department": "Information Technology",
+      "offices": "New York, NY",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4916679007"
+    },
+    {
+      "id": "4871633007",
+      "title": "IT Systems Engineer",
+      "location": "Palo Alto, CA",
+      "department": "Information Technology",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4871633007"
+    },
+    {
+      "id": "4931315007",
+      "title": "Legal & Compliance Tutor",
+      "location": "Remote",
+      "department": "Legal & Compliance",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:41:40-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4931315007"
+    },
+    {
+      "id": "5032210007",
+      "title": "Legal Counsel",
+      "location": "London, UK",
+      "department": "Legal",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5032210007"
+    },
+    {
+      "id": "5006340007",
+      "title": "Legal Director, X Payments",
+      "location": "Palo Alto, CA",
+      "department": "Legal",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-23T15:29:26-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5006340007"
+    },
+    {
+      "id": "5101856007",
+      "title": "Legal Operations Analyst",
+      "location": "Singapore, SG",
+      "department": "Legal",
+      "offices": "Singapore, SG",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5101856007"
+    },
+    {
+      "id": "4797289007",
+      "title": "Line Cook",
+      "location": "Palo Alto, CA",
+      "department": "Operations",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4797289007"
+    },
+    {
+      "id": "4959528007",
+      "title": "Manager, Law Enforcement Response Team",
+      "location": "Bastrop, TX",
+      "department": "Legal",
+      "offices": "Bastrop, TX",
+      "updated_at": "2026-04-23T18:17:10-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4959528007"
+    },
+    {
+      "id": "5090695007",
+      "title": "Manager, Safety Operations",
+      "location": "Bastrop, TX",
+      "department": "Safety",
+      "offices": "Bastrop, TX",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090695007"
+    },
+    {
+      "id": "4925823007",
+      "title": "Materials Science Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:45:07-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925823007"
+    },
+    {
+      "id": "4925848007",
+      "title": "Mechanical Engineering Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:45:25-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925848007"
+    },
+    {
+      "id": "4855858007",
+      "title": "Medicine Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:45:34-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4855858007"
+    },
+    {
+      "id": "5044403007",
+      "title": "Member of Technical Staff",
+      "location": "Memphis, TN",
+      "department": "Engineering",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5044403007"
+    },
+    {
+      "id": "4996796007",
+      "title": "Member of Technical Staff - Ads",
+      "location": "Palo Alto, CA",
+      "department": "Engineering",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4996796007"
+    },
+    {
+      "id": "5052040007",
+      "title": "Member of Technical Staff - Compute Infrastructure",
+      "location": "Palo Alto, CA; Seattle, WA",
+      "department": "Infrastructure",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-23T18:04:36-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5052040007"
+    },
+    {
+      "id": "4803862007",
+      "title": "Member of Technical Staff - Data Platform",
+      "location": "Palo Alto, CA",
+      "department": "Product",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4803862007"
+    },
+    {
+      "id": "5051984007",
+      "title": "Member of Technical Staff - Grok Product",
+      "location": "Palo Alto, CA",
+      "department": "Product",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-27T17:28:22-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5051984007"
+    },
+    {
+      "id": "5051985007",
+      "title": "Member of Technical Staff - Imagine Model",
+      "location": "Palo Alto, CA; Seattle, WA",
+      "department": "Model",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-23T18:04:05-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5051985007"
+    },
+    {
+      "id": "5052027007",
+      "title": "Member of Technical Staff - Imagine Product",
+      "location": "Palo Alto, CA",
+      "department": "Product",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5052027007"
+    },
+    {
+      "id": "4533894007",
+      "title": "Member of Technical Staff - Inference",
+      "location": "Palo Alto, CA",
+      "department": "Infrastructure",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4533894007"
+    },
+    {
+      "id": "5052038007",
+      "title": "Member of Technical Staff - Internal Tools (Front-End)",
+      "location": "Palo Alto, CA",
+      "department": "Model",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5052038007"
+    },
+    {
+      "id": "5074110007",
+      "title": "Member of Technical Staff - International Government ",
+      "location": "London, UK",
+      "department": "Grok for Government",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5074110007"
+    },
+    {
+      "id": "4805874007",
+      "title": "Member of Technical Staff -  Media",
+      "location": "Palo Alto, CA; Seattle, WA",
+      "department": "Product",
+      "offices": "Palo Alto, CA / Seattle, WA",
+      "updated_at": "2026-04-23T18:31:56-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4805874007"
+    },
+    {
+      "id": "4965893007",
+      "title": "Member of Technical Staff - Mid-training",
+      "location": "Palo Alto, CA",
+      "department": "Model",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4965893007"
+    },
+    {
+      "id": "5086324007",
+      "title": "Member of Technical Staff - Model Training",
+      "location": "Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA",
+      "department": "Model",
+      "offices": "Austin, TX / New York, NY / Palo Alto, CA / Seattle, WA",
+      "updated_at": "2026-04-27T16:44:31-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5086324007"
+    },
+    {
+      "id": "5086969007",
+      "title": "Member of Technical Staff - Model Training",
+      "location": "London, UK",
+      "department": "Model",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5086969007"
+    },
+    {
+      "id": "5111374007",
+      "title": "Member of Technical Staff - Multimodal Understanding",
+      "location": "Palo Alto, CA",
+      "department": "Model",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5111374007"
+    },
+    {
+      "id": "4803905007",
+      "title": "Member of Technical Staff - Observability",
+      "location": "Palo Alto, CA",
+      "department": "Product",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4803905007"
+    },
+    {
+      "id": "4378344007",
+      "title": "Member of Technical Staff - Pre-Training",
+      "location": "Palo Alto, CA",
+      "department": "Model",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4378344007"
+    },
+    {
+      "id": "4805886007",
+      "title": "Member of Technical Staff - Real-Time Storage",
+      "location": "Palo Alto, CA",
+      "department": "Infrastructure",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4805886007"
+    },
+    {
+      "id": "5073866007",
+      "title": "Member of Technical Staff - Reasoning",
+      "location": "London, UK",
+      "department": "Model",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5073866007"
+    },
+    {
+      "id": "4703144007",
+      "title": "Member of Technical Staff - Recommendation Systems",
+      "location": "Palo Alto, CA",
+      "department": "Engineering",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4703144007"
+    },
+    {
+      "id": "4715499007",
+      "title": "Member of Technical Staff - RL Infrastructure",
+      "location": "Palo Alto, CA",
+      "department": "Model",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4715499007"
+    },
+    {
+      "id": "5007872007",
+      "title": "Member of Technical Staff - Sandbox Service",
+      "location": "London, UK",
+      "department": "Infrastructure",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5007872007"
+    },
+    {
+      "id": "5051966007",
+      "title": "Member of Technical Staff - Voice Model",
+      "location": "Palo Alto, CA",
+      "department": "Model",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-23T18:59:20-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5051966007"
+    },
+    {
+      "id": "5051970007",
+      "title": "Member of Technical Staff - Voice Product",
+      "location": "Palo Alto, CA",
+      "department": "Product",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5051970007"
+    },
+    {
+      "id": "5063930007",
+      "title": "Member of Technical Staff – Web Engineering",
+      "location": "Palo Alto, CA",
+      "department": "Product",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-24T10:02:08-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5063930007"
+    },
+    {
+      "id": "5063929007",
+      "title": "Member of Technical Staff – X Core Product",
+      "location": "Palo Alto, CA",
+      "department": "Product",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5063929007"
+    },
+    {
+      "id": "5107958007",
+      "title": "Member of Technical Staff - X Money",
+      "location": "New York, NY; Palo Alto, CA",
+      "department": "Product",
+      "offices": "New York, NY / Palo Alto, CA",
+      "updated_at": "2026-04-23T19:56:07-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5107958007"
+    },
+    {
+      "id": "5007310007",
+      "title": "Member of Technical Staff - X Money",
+      "location": "Tokyo, JP",
+      "department": "Product",
+      "offices": "Tokyo, JP",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5007310007"
+    },
+    {
+      "id": "5108231007",
+      "title": "Member of Technical Staff - X Money",
+      "location": "London, UK",
+      "department": "Product",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5108231007"
+    },
+    {
+      "id": "4758524007",
+      "title": "Member of Technical Staff - X Money, Fraud and Payments",
+      "location": "New York, NY; Palo Alto, CA",
+      "department": "Engineering",
+      "offices": "New York, NY / Palo Alto, CA",
+      "updated_at": "2026-04-23T19:52:26-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4758524007"
+    },
+    {
+      "id": "5084214007",
+      "title": "Mission Manager – International Government (South America)",
+      "location": "Palo Alto, CA",
+      "department": "Grok for Government",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5084214007"
+    },
+    {
+      "id": "4892323007",
+      "title": "Mobile Android Engineer",
+      "location": "New York, NY; Palo Alto, CA; Remote",
+      "department": "Product",
+      "offices": "New York, NY / Palo Alto, CA / Remote",
+      "updated_at": "2026-04-23T18:30:44-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4892323007"
+    },
+    {
+      "id": "5057008007",
+      "title": "Mobile Android Engineer",
+      "location": "London, UK",
+      "department": "Product",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5057008007"
+    },
+    {
+      "id": "5057013007",
+      "title": "Mobile iOS Engineer",
+      "location": "London, UK",
+      "department": "Product",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5057013007"
+    },
+    {
+      "id": "4985386007",
+      "title": "Mobile iOS Engineer",
+      "location": "New York, NY; Palo Alto, CA; Remote",
+      "department": "Product",
+      "offices": "New York, NY / Palo Alto, CA / Remote",
+      "updated_at": "2026-04-23T18:34:29-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4985386007"
+    },
+    {
+      "id": "5017518007",
+      "title": "Model Behavior Tutor - Epistemic Rigor & Truthfulness",
+      "location": "Remote",
+      "department": "Post-Training",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:58:40-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5017518007"
+    },
+    {
+      "id": "5017526007",
+      "title": "Model Behavior Tutor - Social Cognition & EQ",
+      "location": "Remote",
+      "department": "Post-Training",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:58:30-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5017526007"
+    },
+    {
+      "id": "5017523007",
+      "title": "Model Behavior Tutor - Style, Taste & Aesthetics",
+      "location": "Remote",
+      "department": "Post-Training",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:58:14-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5017523007"
+    },
+    {
+      "id": "5017511007",
+      "title": "Model Behavior Tutor - Wit & Conversation",
+      "location": "Remote",
+      "department": "Post-Training",
+      "offices": "Remote",
+      "updated_at": "2026-04-23T19:57:49-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5017511007"
+    },
+    {
+      "id": "4870731007",
+      "title": "Network Engineer",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4870731007"
+    },
+    {
+      "id": "4946691007",
+      "title": "Network Engineer - AI/HPC",
+      "location": "Memphis, TN; Palo Alto, CA",
+      "department": "Infrastructure",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-27T19:03:38-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4946691007"
+    },
+    {
+      "id": "4950906007",
+      "title": "Network Engineer - Edge",
+      "location": "Palo Alto, CA; Seattle, WA",
+      "department": "Infrastructure",
+      "offices": "Palo Alto, CA / Seattle, WA",
+      "updated_at": "2026-04-23T18:19:32-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4950906007"
+    },
+    {
+      "id": "5043570007",
+      "title": "Network Engineer - ML Infrastructure (High-Speed Interconnects)",
+      "location": "Palo Alto, CA",
+      "department": "Infrastructure",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-23T19:56:16-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5043570007"
+    },
+    {
+      "id": "4800712007",
+      "title": "Network Security Engineer",
+      "location": "Palo Alto, CA",
+      "department": "Information Security",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4800712007"
+    },
+    {
+      "id": "4997616007",
+      "title": "Occupational Math Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:46:18-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4997616007"
+    },
+    {
+      "id": "5016003007",
+      "title": "Office Coordinator (Contract)",
+      "location": "Singapore, SG",
+      "department": "People",
+      "offices": "Singapore, SG",
+      "updated_at": "2026-04-23T18:16:31-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5016003007"
+    },
+    {
+      "id": "4992581007",
+      "title": "Operations & Maintenance Technician",
+      "location": "Memphis, TN; Southaven, MS",
+      "department": "Data Center",
+      "offices": "Memphis, TN / Southaven, MS",
+      "updated_at": "2026-04-23T19:52:15-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4992581007"
+    },
+    {
+      "id": "5035336007",
+      "title": "Partner Account Manager (Contract)- EMEA",
+      "location": "Dublin, IE",
+      "department": "Sales",
+      "offices": "Dublin, IE",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5035336007"
+    },
+    {
+      "id": "4925744007",
+      "title": "People Operations Specialist",
+      "location": "New York, NY; Palo Alto, CA",
+      "department": "People",
+      "offices": "New York, NY / Palo Alto, CA",
+      "updated_at": "2026-04-23T19:45:36-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925744007"
+    },
+    {
+      "id": "4925832007",
+      "title": "Physics Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:46:30-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925832007"
+    },
+    {
+      "id": "5080521007",
+      "title": "Porter",
+      "location": "Austin, TX",
+      "department": "Operations",
+      "offices": "Austin, TX",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5080521007"
+    },
+    {
+      "id": "5065030007",
+      "title": "Porter Supervisor",
+      "location": "Palo Alto, CA",
+      "department": "Operations",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5065030007"
+    },
+    {
+      "id": "4869805007",
+      "title": "Power Generation Engineer",
+      "location": "Memphis, TN; Southaven, MS",
+      "department": "Data Center",
+      "offices": "Memphis, TN / Southaven, MS",
+      "updated_at": "2026-04-23T18:03:42-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4869805007"
+    },
+    {
+      "id": "5094542007",
+      "title": "Program Manager - Quality & Training (Safety Operations)",
+      "location": "Bastrop, TX",
+      "department": "Safety",
+      "offices": "Bastrop, TX",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5094542007"
+    },
+    {
+      "id": "4925859007",
+      "title": "Pure Math Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:47:00-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925859007"
+    },
+    {
+      "id": "5077471007",
+      "title": "Recruiting Coordinator",
+      "location": "Tokyo, JP",
+      "department": "People",
+      "offices": "Tokyo, JP",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5077471007"
+    },
+    {
+      "id": "4777102007",
+      "title": "Safety Specialist",
+      "location": "Memphis, TN; Southaven, MS",
+      "department": "Data Center",
+      "offices": "Memphis, TN / Southaven, MS",
+      "updated_at": "2026-04-23T18:37:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4777102007"
+    },
+    {
+      "id": "5050657007",
+      "title": "Security Engineer - Azure Government",
+      "location": "Palo Alto, CA; Washington, D.C.",
+      "department": "Information Security",
+      "offices": "Palo Alto, CA / Washington, D.C.",
+      "updated_at": "2026-04-23T19:45:46-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5050657007"
+    },
+    {
+      "id": "5008186007",
+      "title": "Security Engineer - Detection & Response",
+      "location": "New York, NY; Palo Alto, CA",
+      "department": "Information Security",
+      "offices": "New York, NY / Palo Alto, CA",
+      "updated_at": "2026-04-23T19:35:46-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5008186007"
+    },
+    {
+      "id": "4835611007",
+      "title": "Security Engineer - Platform Security",
+      "location": "Palo Alto, CA",
+      "department": "Information Security",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4835611007"
+    },
+    {
+      "id": "5090690007",
+      "title": "Senior Analyst, Legal Operations",
+      "location": "Bastrop, TX",
+      "department": "Safety",
+      "offices": "Bastrop, TX",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5090690007"
+    },
+    {
+      "id": "5093554007",
+      "title": "Senior Analyst, Safety Operations",
+      "location": "Bastrop, TX",
+      "department": "Safety",
+      "offices": "Bastrop, TX",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5093554007"
+    },
+    {
+      "id": "5097907007",
+      "title": "Senior Analyst - Safety Operations (Child Safety)",
+      "location": "Bastrop, TX",
+      "department": "Safety",
+      "offices": "Bastrop, TX",
+      "updated_at": "2026-04-24T10:23:06-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5097907007"
+    },
+    {
+      "id": "5097904007",
+      "title": "Senior Analyst - Safety Operations (Child Safety)",
+      "location": "Palo Alto, CA",
+      "department": "Safety",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-24T10:23:57-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5097904007"
+    },
+    {
+      "id": "5035931007",
+      "title": "Senior Audio Visual Engineer",
+      "location": "Palo Alto, CA",
+      "department": "Information Technology",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5035931007"
+    },
+    {
+      "id": "5058161007",
+      "title": "Senior BSA/AML Investigator",
+      "location": "New York, NY; Palo Alto, CA",
+      "department": "Safety",
+      "offices": "New York, NY / Palo Alto, CA",
+      "updated_at": "2026-04-23T18:32:57-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5058161007"
+    },
+    {
+      "id": "5105096007",
+      "title": "Senior Data Analyst- Fraud & AML",
+      "location": "New York, NY; Palo Alto, CA",
+      "department": "Safety",
+      "offices": "New York, NY / Palo Alto, CA",
+      "updated_at": "2026-04-23T19:50:11-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5105096007"
+    },
+    {
+      "id": "5051763007",
+      "title": "Senior Data Center Operations Technician",
+      "location": "Memphis, TN; Southaven, MS",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-23T18:14:33-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5051763007"
+    },
+    {
+      "id": "5051745007",
+      "title": "Senior Facilities Operations Technician",
+      "location": "Memphis, TN; Southaven, MS",
+      "department": "Data Center",
+      "offices": "Memphis, TN / Southaven, MS",
+      "updated_at": "2026-04-23T19:55:50-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5051745007"
+    },
+    {
+      "id": "4913772007",
+      "title": "Senior HR Business Partner",
+      "location": "Palo Alto, CA",
+      "department": "People",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4913772007"
+    },
+    {
+      "id": "5083451007",
+      "title": "Senior IT Support Engineer",
+      "location": "Austin, TX",
+      "department": "Information Technology",
+      "offices": "Austin, TX",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5083451007"
+    },
+    {
+      "id": "5071895007",
+      "title": "Senior IT Systems Engineer",
+      "location": "Palo Alto, CA",
+      "department": "Information Technology",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5071895007"
+    },
+    {
+      "id": "5037943007",
+      "title": "Senior Sales & Agency Manager (Spain)",
+      "location": "Remote",
+      "department": "Sales",
+      "offices": "Remote International",
+      "updated_at": "2026-04-23T18:32:16-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5037943007"
+    },
+    {
+      "id": "5105106007",
+      "title": "Senior SAR Program Manager",
+      "location": "New York, NY; Palo Alto, CA",
+      "department": "Safety",
+      "offices": "New York, NY / Palo Alto, CA",
+      "updated_at": "2026-04-23T19:49:32-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5105106007"
+    },
+    {
+      "id": "5042709007",
+      "title": "Senior Sourcing Specialist - Indirect ",
+      "location": "Austin, TX",
+      "department": "Finance",
+      "offices": "Austin, TX",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5042709007"
+    },
+    {
+      "id": "4803447007",
+      "title": "Site Reliability Engineer - Cybersecurity",
+      "location": "Palo Alto, CA",
+      "department": "Information Security",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4803447007"
+    },
+    {
+      "id": "4681662007",
+      "title": "Site Reliability Engineer (SRE)",
+      "location": "London, UK",
+      "department": "Infrastructure",
+      "offices": "London, UK",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4681662007"
+    },
+    {
+      "id": "5022474007",
+      "title": "SOC Manager",
+      "location": "Palo Alto, CA",
+      "department": "Security",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5022474007"
+    },
+    {
+      "id": "4925830007",
+      "title": "Space Science Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:47:50-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925830007"
+    },
+    {
+      "id": "5119713007",
+      "title": "Sr. Manager, Logistics - Data Center Operations",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-24T13:04:11-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5119713007"
+    },
+    {
+      "id": "4925866007",
+      "title": "Statistics Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:47:58-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925866007"
+    },
+    {
+      "id": "5012694007",
+      "title": "Structural Engineer - Data Centers",
+      "location": "Memphis, TN",
+      "department": "Data Center",
+      "offices": "Memphis, TN",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5012694007"
+    },
+    {
+      "id": "4940364007",
+      "title": "Support Agent - X Payments",
+      "location": "Bastrop, TX",
+      "department": "Safety",
+      "offices": "Bastrop, TX",
+      "updated_at": "2026-04-24T10:16:49-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4940364007"
+    },
+    {
+      "id": "4925845007",
+      "title": "Systems Engineering Tutor",
+      "location": "Remote",
+      "department": "STEM",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:40:56-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4925845007"
+    },
+    {
+      "id": "5085005007",
+      "title": "Tax Law Expert",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:48:15-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5085005007"
+    },
+    {
+      "id": "5059413007",
+      "title": "Technical Recruiter",
+      "location": "Palo Alto, CA",
+      "department": "People",
+      "offices": "Palo Alto, CA",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5059413007"
+    },
+    {
+      "id": "5083569007",
+      "title": "Tutor - Competition Math",
+      "location": "Remote",
+      "department": "Human Data",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:38:20-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5083569007"
+    },
+    {
+      "id": "5055630007",
+      "title": "UX Designer - Growth/Monetization",
+      "location": "New York, NY",
+      "department": "Marketing",
+      "offices": "New York, NY",
+      "updated_at": "2026-04-21T20:42:28-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5055630007"
+    },
+    {
+      "id": "5047564007",
+      "title": "Video Tutor",
+      "location": "Remote",
+      "department": "Vision",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-27T21:48:25-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5047564007"
+    },
+    {
+      "id": "4879789007",
+      "title": "Web Design Tutor",
+      "location": "Remote",
+      "department": "Post-Training",
+      "offices": "Palo Alto, CA / Remote",
+      "updated_at": "2026-04-23T19:57:14-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/4879789007"
+    },
+    {
+      "id": "5017529007",
+      "title": "Writing Specialist",
+      "location": "Remote",
+      "department": "Post-Training",
+      "offices": "Remote",
+      "updated_at": "2026-04-27T21:48:36-04:00",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5017529007"
+    }
+  ]
+}

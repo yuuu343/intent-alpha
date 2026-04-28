@@ -6,5 +6,6 @@
   "headquarters": "Toronto, Canada",
   "description": "Foundation-model lab focused on enterprise deployment, RAG, and custom fine-tunes.",
   "ats": "ashby",
-  "atsIdentifier": "cohere"
+  "atsIdentifier": "cohere",
+  "aiRelevance": "ai_native"
 }

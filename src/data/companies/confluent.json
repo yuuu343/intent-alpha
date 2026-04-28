@@ -6,5 +6,6 @@
   "headquarters": "Mountain View, CA",
   "description": "Apache Kafka commercial steward — streaming platform, Kafka-as-a-service.",
   "ats": "ashby",
-  "atsIdentifier": "confluent"
+  "atsIdentifier": "confluent",
+  "aiRelevance": "non_ai"
 }

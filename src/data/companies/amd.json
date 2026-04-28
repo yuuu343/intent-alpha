@@ -10,5 +10,6 @@
     "host": "amd.wd1.myworkdayjobs.com",
     "tenant": "amd",
     "site": "Careers_External_Site"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

@@ -10,5 +10,6 @@
     "host": "cadence.wd1.myworkdayjobs.com",
     "tenant": "cadence",
     "site": "External_Careers"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

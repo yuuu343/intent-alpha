@@ -10,5 +10,6 @@
     "host": "westerndigital.wd1.myworkdayjobs.com",
     "tenant": "westerndigital",
     "site": "External"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

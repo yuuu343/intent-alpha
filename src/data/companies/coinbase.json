@@ -6,5 +6,6 @@
   "headquarters": "Remote (US)",
   "description": "Crypto exchange, custody, layer-2 (Base), payments. Largest US crypto company by listing.",
   "ats": "greenhouse",
-  "atsIdentifier": "coinbase"
+  "atsIdentifier": "coinbase",
+  "aiRelevance": "non_ai"
 }

@@ -6,5 +6,6 @@
   "headquarters": "New York, NY",
   "description": "Document database, Atlas managed cloud, vector search for AI.",
   "ats": "greenhouse",
-  "atsIdentifier": "mongodb"
+  "atsIdentifier": "mongodb",
+  "aiRelevance": "ai_adjacent"
 }

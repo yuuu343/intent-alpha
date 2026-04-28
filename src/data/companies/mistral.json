@@ -1,0 +1,11 @@
+{
+  "slug": "mistral",
+  "name": "Mistral AI",
+  "website": "https://mistral.ai",
+  "sector": "AI / Foundation Models",
+  "headquarters": "Paris, France",
+  "description": "Open-weight foundation-model lab. Le Chat product, Mistral Large / Codestral / Pixtral model line. EU sovereignty positioning.",
+  "aiRelevance": "ai_native",
+  "ats": "ashby",
+  "atsIdentifier": "mistral"
+}

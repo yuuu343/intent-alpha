@@ -6,5 +6,6 @@
   "headquarters": "San Francisco, CA",
   "description": "Global edge network: CDN, security, Workers serverless, R2 storage, AI inference at edge.",
   "ats": "greenhouse",
-  "atsIdentifier": "cloudflare"
+  "atsIdentifier": "cloudflare",
+  "aiRelevance": "ai_adjacent"
 }

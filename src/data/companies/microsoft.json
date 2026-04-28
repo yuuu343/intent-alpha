@@ -6,5 +6,6 @@
   "headquarters": "Redmond, WA",
   "description": "Cloud (Azure), productivity software (M365, GitHub), and AI (Copilot, OpenAI partnership). Largest enterprise software vendor.",
   "ats": "custom",
-  "customNote": "gcsservices.careers.microsoft.com — TLS/SNI restrictions in serverless fetch"
+  "customNote": "gcsservices.careers.microsoft.com — TLS/SNI restrictions in serverless fetch",
+  "aiRelevance": "ai_adjacent"
 }

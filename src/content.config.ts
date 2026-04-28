@@ -14,6 +14,7 @@ const articles = defineCollection({
     horizon: z.string().default('12-18 months'),
     tags: z.array(z.string()).default([]),
     draft: z.boolean().default(false),
+    archived: z.boolean().default(false),
     provId: z.string().optional(),
     cycle: z.string().optional(),
     signalCount: z.number().int().optional(),
@@ -38,6 +39,7 @@ const companies = defineCollection({
     description: z.string(),
     sector: z.string().optional(),
     headquarters: z.string().optional(),
+    aiRelevance: z.enum(['ai_native', 'ai_infra', 'ai_adjacent', 'non_ai']).default('ai_adjacent'),
   }),
 });
 

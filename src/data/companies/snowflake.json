@@ -6,5 +6,6 @@
   "headquarters": "Bozeman, MT",
   "description": "Cloud data warehouse / data cloud platform. Multi-cloud (AWS / Azure / GCP).",
   "ats": "ashby",
-  "atsIdentifier": "snowflake"
+  "atsIdentifier": "snowflake",
+  "aiRelevance": "ai_adjacent"
 }

@@ -10,5 +10,6 @@
     "host": "amat.wd1.myworkdayjobs.com",
     "tenant": "amat",
     "site": "External"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

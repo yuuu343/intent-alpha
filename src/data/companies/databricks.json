@@ -6,5 +6,6 @@
   "headquarters": "San Francisco, CA",
   "description": "Lakehouse data platform, MLOps, generative-AI tooling (Mosaic acquisition).",
   "ats": "greenhouse",
-  "atsIdentifier": "databricks"
+  "atsIdentifier": "databricks",
+  "aiRelevance": "ai_adjacent"
 }

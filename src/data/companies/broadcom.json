@@ -10,5 +10,6 @@
     "host": "broadcom.wd1.myworkdayjobs.com",
     "tenant": "broadcom",
     "site": "External_Careers"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

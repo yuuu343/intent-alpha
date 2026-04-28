@@ -10,5 +10,6 @@
     "host": "nvidia.wd5.myworkdayjobs.com",
     "tenant": "nvidia",
     "site": "NVIDIAExternalCareerSite"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

@@ -10,5 +10,6 @@
     "host": "coherent.wd5.myworkdayjobs.com",
     "tenant": "coherent",
     "site": "External"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

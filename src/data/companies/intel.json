@@ -10,5 +10,6 @@
     "host": "intel.wd1.myworkdayjobs.com",
     "tenant": "intel",
     "site": "External"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

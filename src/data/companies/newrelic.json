@@ -6,5 +6,6 @@
   "headquarters": "San Francisco, CA",
   "description": "Application performance monitoring and observability platform.",
   "ats": "greenhouse",
-  "atsIdentifier": "newrelic"
+  "atsIdentifier": "newrelic",
+  "aiRelevance": "non_ai"
 }

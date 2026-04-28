@@ -10,5 +10,6 @@
     "host": "asml.wd3.myworkdayjobs.com",
     "tenant": "asml",
     "site": "ASML_Careers"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

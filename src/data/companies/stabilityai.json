@@ -1,0 +1,11 @@
+{
+  "slug": "stabilityai",
+  "name": "Stability AI",
+  "website": "https://stability.ai",
+  "sector": "AI / Generative Media",
+  "headquarters": "London, UK",
+  "description": "Open-weight generative media — Stable Diffusion image, Stable Audio, Stable Video. Multimodal foundation models.",
+  "aiRelevance": "ai_native",
+  "ats": "greenhouse",
+  "atsIdentifier": "stabilityai"
+}

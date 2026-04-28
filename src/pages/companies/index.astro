@@ -2,28 +2,55 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
-const companies = (await getCollection('companies'))
+const all = (await getCollection('companies'))
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const groups = {
+  ai_native:   all.filter((c) => c.data.aiRelevance === 'ai_native'),
+  ai_infra:    all.filter((c) => c.data.aiRelevance === 'ai_infra'),
+  ai_adjacent: all.filter((c) => c.data.aiRelevance === 'ai_adjacent'),
+  non_ai:      all.filter((c) => c.data.aiRelevance === 'non_ai'),
+};
+
+const groupLabel = {
+  ai_native:   ['Foundation Labs & AI-Native', 'Companies whose primary product is AI itself.'],
+  ai_infra:    ['Compute & Silicon for AI',     'Semiconductors, photonics, memory, networking — the hardware that AI runs on.'],
+  ai_adjacent: ['AI-Adjacent Platforms',        'Major AI surface but not AI-first — hyperscalers, data platforms, vertical SaaS.'],
+  non_ai:      ['Off-thesis (archived)',        'Tracked earlier; outside the AI register. Kept reachable but deprioritised.'],
+};
+
+const order = ['ai_native', 'ai_infra', 'ai_adjacent', 'non_ai'];
+const total = groups.ai_native.length + groups.ai_infra.length + groups.ai_adjacent.length;
 ---
-<Layout title="Companies" description="Companies tracked by Intent Alpha.">
+<Layout title="Companies" description="Companies tracked by Intent Alpha, grouped by AI relevance.">
   <section class="hero" style="border-bottom: 0; padding-bottom: 1.5rem;">
     <span class="meta meta--accent">The Register</span>
     <h1>Companies</h1>
-    <p class="lede">The set under continuous observation. Each entry has its own hiring history and any dispatches drawn from it.</p>
+    <p class="lede">The set under continuous observation, grouped by where they sit in the AI stack: foundation labs, compute & silicon, AI-adjacent platforms.</p>
   </section>
 
-  <div class="section-head">
-    <h2>Tracked</h2>
-    <span class="count">№ 01–{String(companies.length).padStart(2, '0')}</span>
-  </div>
-
-  <div class="list-rows">
-    {companies.map((c, i) => (
-      <a class="list-row" href={`/companies/${c.id}/`}>
-        <span class="name">{c.data.name}</span>
-        <span class="desc">{c.data.sector ?? c.data.description.slice(0, 80)}</span>
-        <span class="num">№ {String(i + 1).padStart(2, '0')}</span>
-      </a>
-    ))}
-  </div>
+  {order.map((key) => {
+    const list = groups[key as keyof typeof groups];
+    if (list.length === 0) return null;
+    const [label, blurb] = groupLabel[key as keyof typeof groupLabel];
+    const muted = key === 'non_ai';
+    return (
+      <>
+        <div class="section-head" style={`margin-top: ${muted ? '4rem' : '2.5rem'};`}>
+          <h2>{label}</h2>
+          <span class="count">{list.length} {list.length === 1 ? 'entry' : 'entries'}</span>
+        </div>
+        <p class="meta" style="margin-bottom: 1rem; color: var(--fg-muted); text-transform: none; letter-spacing: 0;">{blurb}</p>
+        <div class="list-rows">
+          {list.map((c, i) => (
+            <a class="list-row" href={`/companies/${c.id}/`} style={muted ? 'opacity: 0.7;' : ''}>
+              <span class="name">{c.data.name}</span>
+              <span class="desc">{c.data.sector ?? c.data.description.slice(0, 80)}</span>
+              <span class="num">№ {String(i + 1).padStart(2, '0')}</span>
+            </a>
+          ))}
+        </div>
+      </>
+    );
+  })}
 </Layout>

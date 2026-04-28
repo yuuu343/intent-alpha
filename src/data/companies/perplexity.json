@@ -1,0 +1,11 @@
+{
+  "slug": "perplexity",
+  "name": "Perplexity",
+  "website": "https://www.perplexity.ai",
+  "sector": "AI / Search",
+  "headquarters": "San Francisco, CA",
+  "description": "AI-native search and answer engine. Pages product, Comet browser. Wraps frontier LLMs with retrieval.",
+  "aiRelevance": "ai_native",
+  "ats": "ashby",
+  "atsIdentifier": "perplexity"
+}

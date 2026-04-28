@@ -6,5 +6,6 @@
   "headquarters": "Seattle, WA",
   "description": "Retail marketplace, AWS cloud (largest infra provider), Prime Video, Alexa, robotics, advertising, satellites.",
   "ats": "custom",
-  "customNote": "amazon.jobs — bot-protected"
+  "customNote": "amazon.jobs — bot-protected",
+  "aiRelevance": "ai_adjacent"
 }

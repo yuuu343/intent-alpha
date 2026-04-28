@@ -10,5 +10,6 @@
     "host": "lattice.wd5.myworkdayjobs.com",
     "tenant": "lattice",
     "site": "External"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

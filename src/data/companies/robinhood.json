@@ -6,5 +6,6 @@
   "headquarters": "Menlo Park, CA",
   "description": "Retail brokerage, crypto, retirement. Margin-trading and active retail user growth.",
   "ats": "greenhouse",
-  "atsIdentifier": "robinhood"
+  "atsIdentifier": "robinhood",
+  "aiRelevance": "non_ai"
 }

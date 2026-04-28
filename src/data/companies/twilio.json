@@ -6,5 +6,6 @@
   "headquarters": "San Francisco, CA",
   "description": "Programmable communications APIs (SMS, voice, email). Adding AI agents.",
   "ats": "greenhouse",
-  "atsIdentifier": "twilio"
+  "atsIdentifier": "twilio",
+  "aiRelevance": "non_ai"
 }

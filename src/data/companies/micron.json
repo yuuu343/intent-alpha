@@ -10,5 +10,6 @@
     "host": "micron.wd1.myworkdayjobs.com",
     "tenant": "micron",
     "site": "External"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

@@ -6,5 +6,6 @@
   "headquarters": "Durham, NC",
   "description": "Silicon-carbide power semiconductors (EV traction, industrial power).",
   "ats": "custom",
-  "customNote": "careers.wolfspeed.com — custom system, TBD"
+  "customNote": "careers.wolfspeed.com — custom system, TBD",
+  "aiRelevance": "ai_infra"
 }

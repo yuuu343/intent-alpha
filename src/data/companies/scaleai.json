@@ -1,0 +1,11 @@
+{
+  "slug": "scaleai",
+  "name": "Scale AI",
+  "website": "https://scale.com",
+  "sector": "AI / Data Infrastructure",
+  "headquarters": "San Francisco, CA",
+  "description": "Data labeling, evaluation, and RLHF pipelines for foundation labs and enterprise AI deployments. Critical layer in the AI supply chain.",
+  "aiRelevance": "ai_native",
+  "ats": "greenhouse",
+  "atsIdentifier": "scaleai"
+}

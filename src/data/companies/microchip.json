@@ -10,5 +10,6 @@
     "host": "microchip.wd5.myworkdayjobs.com",
     "tenant": "microchip",
     "site": "External"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

@@ -10,5 +10,6 @@
     "host": "salesforce.wd1.myworkdayjobs.com",
     "tenant": "salesforce",
     "site": "External_Career_Site"
-  }
+  },
+  "aiRelevance": "ai_adjacent"
 }

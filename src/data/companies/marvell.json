@@ -10,5 +10,6 @@
     "host": "marvell.wd1.myworkdayjobs.com",
     "tenant": "Marvell",
     "site": "MarvellCareers2"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

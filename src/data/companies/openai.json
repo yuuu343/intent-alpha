@@ -6,5 +6,6 @@
   "headquarters": "San Francisco, CA",
   "description": "Foundation model lab building GPT family and ChatGPT product. Microsoft strategic partner.",
   "ats": "ashby",
-  "atsIdentifier": "openai"
+  "atsIdentifier": "openai",
+  "aiRelevance": "ai_native"
 }

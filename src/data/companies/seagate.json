@@ -10,5 +10,6 @@
     "host": "seagate.wd5.myworkdayjobs.com",
     "tenant": "seagate",
     "site": "Seagate_Careers"
-  }
+  },
+  "aiRelevance": "ai_infra"
 }

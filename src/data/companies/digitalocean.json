@@ -6,5 +6,6 @@
   "headquarters": "New York, NY",
   "description": "Developer-focused cloud (compute, managed databases, Kubernetes); GPU droplets for inference.",
   "ats": "custom",
-  "customNote": "ATS unconfirmed; greenhouse/digitalocean returns 404."
+  "customNote": "ATS unconfirmed; greenhouse/digitalocean returns 404.",
+  "aiRelevance": "non_ai"
 }

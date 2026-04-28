@@ -6,5 +6,6 @@
   "atsIdentifier": "servicenow",
   "description": "Workflow automation cloud (Now Platform) for IT, employee, customer, and creator workflows. Adding GenAI agents (Now Assist) across the suite.",
   "sector": "Cloud / Workflow SaaS",
-  "headquarters": "Santa Clara, CA"
+  "headquarters": "Santa Clara, CA",
+  "aiRelevance": "ai_adjacent"
 }

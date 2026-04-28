@@ -6,5 +6,6 @@
   "headquarters": "New York, NY",
   "description": "Monitoring, APM, logs, security, cost analytics across cloud and infrastructure.",
   "ats": "greenhouse",
-  "atsIdentifier": "datadog"
+  "atsIdentifier": "datadog",
+  "aiRelevance": "ai_adjacent"
 }

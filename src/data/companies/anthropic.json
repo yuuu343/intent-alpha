@@ -6,5 +6,6 @@
   "atsIdentifier": "anthropic",
   "description": "AI safety company building Claude, a family of large language models focused on helpful, harmless, and honest AI assistance.",
   "sector": "AI",
-  "headquarters": "San Francisco, CA"
+  "headquarters": "San Francisco, CA",
+  "aiRelevance": "ai_native"
 }

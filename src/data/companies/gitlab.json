@@ -6,5 +6,6 @@
   "headquarters": "Remote (US)",
   "description": "Source control, CI/CD, security, AI assistance for DevSecOps.",
   "ats": "greenhouse",
-  "atsIdentifier": "gitlab"
+  "atsIdentifier": "gitlab",
+  "aiRelevance": "non_ai"
 }

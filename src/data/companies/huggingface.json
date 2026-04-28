@@ -1,0 +1,11 @@
+{
+  "slug": "huggingface",
+  "name": "Hugging Face",
+  "website": "https://huggingface.co",
+  "sector": "AI / Open-Source Hub",
+  "headquarters": "New York, NY",
+  "description": "Open-source AI model and dataset hub. Transformers library, Inference Endpoints, Spaces. The de facto registry for the open-source AI stack.",
+  "aiRelevance": "ai_native",
+  "ats": "custom",
+  "customNote": "huggingface.co/api/job-listings — auth-protected, no public board endpoint"
+}
