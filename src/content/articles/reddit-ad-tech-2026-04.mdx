@@ -1,0 +1,129 @@
+---
+title: "Reddit Is Building DIY Ad-Tech, Not a Data-Licensing Business"
+description: "57% of Reddit's open roles are revenue-side: ads sales, ads engineering, and ads data science. Data licensing is the headline; ads is the build-out."
+company: reddit
+publishedAt: 2026-04-28
+hypothesis: "Reddit's hiring shape shows the company building toward DIY ad-tech parity with Meta and Google, not toward a data-licensing-led business model. 57% of open roles are revenue-side (sales, ads engineering, ads data science). Data licensing partnerships with AI labs are real but ancillary; the structural commitment is to becoming a self-sufficient ad-targeting platform."
+confidence: medium
+horizon: "12-18 months"
+tags: ["social", "ads", "AI", "data-licensing"]
+provId: "PROV-008"
+cycle: "0008"
+signalCount: 82
+totalPostings: 145
+---
+
+## TL;DR
+
+Reddit's public Greenhouse board on 2026-04-28 carries 145 open roles.
+**82 of them — 57% — are revenue-side**: Large Customer Sales (28),
+Mid Market & SMB (24), Ads Engineering (11), Ads Data Science (10), and
+Global Client Solutions (9). Headline AI/ML hiring (10 roles) sits inside
+the Machine Learning department, but a near-equal number (10) sits in
+*Ads Data Science* — model work explicitly scoped to ad targeting and
+measurement.
+
+The post-IPO Reddit story has had two narratives: data licensing to AI
+labs (the OpenAI and Google deals) and ad-revenue scaling. The hiring
+pattern is unambiguous about which is the bet: **ads**, by a wide margin.
+
+## What the cluster shows
+
+By department:
+
+| Department | Roles | % | Bucket |
+|---|---|---|---|
+| Large Customer Sales | 28 | 19.3% | revenue |
+| Mid Market & SMB | 24 | 16.6% | revenue |
+| Ads Engineering | 11 | 7.6% | revenue |
+| Engineering (general) | 11 | 7.6% | platform |
+| Ads Data Science | 10 | 6.9% | revenue |
+| Machine Learning | 10 | 6.9% | platform |
+| Global Client Solutions | 9 | 6.2% | revenue |
+| Client Platforms | 5 | 3.4% | revenue/platform |
+| BE Platform | 3 | 2.1% | platform |
+| Consumer Data Science | 3 | 2.1% | platform |
+| Safety | 3 | 2.1% | platform |
+
+**Revenue-side total: 82 (56.6%)**.
+Platform / engineering / consumer / safety total: 35 (24.1%).
+Operations / HR / Legal / other: 28 (19.3%).
+
+Trigrams over the title set: "large customer sales" (×19), "client partner
+large" (×13). The sales motion is enterprise — direct-relationship deals
+with major advertisers — not self-serve.
+
+A few diagnostic IDs:
+- `7074776` Senior Machine Learning Engineer, ML Training Platform — the
+  rare *internal* ML training infra role.
+- `7520366` International Strategic Finance, London — international
+  finance build-out.
+- `7572902` Tax Planning Senior Manager.
+- `7799480` Corporate Paralegal.
+
+There is no posting that mentions "data licensing" / "data partnerships"
+/ "licensing partnerships" as a primary scope. Whatever Reddit's
+licensing motion is, it isn't visible in current hiring.
+
+## Why ad-tech is the bet, not data licensing
+
+Three observations.
+
+**Ads Data Science is its own department.** When ML for advertising is
+an org-chart-level entity (10 roles) separate from generalist ML (10
+roles), the company is communicating that ad-quality and targeting
+infrastructure is treated as core, not auxiliary. This is the Meta /
+Google ad-tech operational pattern, applied at smaller scale.
+
+**Sales is enterprise-shaped, not platform-shaped.** "Large Customer
+Sales" and "Client Partner — Large" trigrams indicate direct-relationship
+sellers, not a self-serve-platform sales-ops org. Combined with Mid Market
+& SMB (24 roles), Reddit is building a multi-tier ad-sales motion that
+mirrors how Twitter and Pinterest staff their direct-ad businesses.
+
+**Data licensing is invisible in the hiring.** The data-licensing deals
+have generated significant press; if licensing were the strategic bet,
+we'd expect a Data Licensing or Partnerships department, contract-engineering
+roles, or AI-lab-customer-success postings. None of these appear. Licensing
+is a transactional revenue line, not an organisational commitment.
+
+The contrast with Cloudflare (PROV-005) is interesting. Cloudflare's
+Workers AI is loud on the product page and quiet in hiring (3 dedicated
+roles). Reddit's data-licensing story is loud in press coverage and
+silent in hiring. Both gaps are signals about where investment is
+*not* going.
+
+## What would change our mind
+
+Hypothesis flips to **low** confidence if:
+- A Data Licensing or AI Partnerships department appears in the next
+  snapshot.
+- Ads Engineering and Ads Data Science consolidate into general Engineering
+  (signal of de-investment in ad-tech specialisation).
+- Sales hiring drops materially while a different revenue mechanism
+  ramps.
+
+Hypothesis strengthens to **high** confidence if:
+- Ads Engineering grows past 15% of total roles.
+- Reddit announces in-house ad measurement / clean-room infrastructure
+  competing with Meta's CAPI or Google's enhanced conversions.
+- A self-serve-ads platform expansion is announced (mirroring Pinterest's
+  motion in 2024–25).
+
+## Caveats
+
+- 145 open roles is small. The 57% revenue-side ratio could shift with
+  a single hiring round.
+- Data-licensing deals are revenue events that don't require ongoing
+  hiring; their absence from the org chart isn't proof they are being
+  de-prioritised, only that the structural investment is elsewhere.
+- "Ads" / "Sales" departments at any post-IPO consumer internet company
+  trend up; this hypothesis is about the *proportion* relative to platform
+  investment, which is unusually skewed.
+
+## Method
+
+Source: Reddit's public Greenhouse board
+(`boards-api.greenhouse.io/v1/boards/reddit/jobs`), snapshot 2026-04-28,
+145 jobs. Department field from Greenhouse. Snapshot at
+`data/snapshots/reddit/2026-04-28.json`.

@@ -1,0 +1,124 @@
+---
+title: "Cohere Has Two Centres of Gravity: Modeling and Agents"
+description: "Modeling is 29% of Cohere's open roles. Agentic Platform is its own department at 13%. No other frontier AI lab has structurally split agents from research."
+company: cohere
+publishedAt: 2026-04-28
+hypothesis: "Cohere has structurally bet on agents as a product, not a feature — making it the only frontier-AI lab with 'Agentic Platform' as a peer department to Modeling. The 29:13 split signals long-term commitment to a dual identity (research lab AND agent-platform vendor) rather than a single research-first or product-first axis."
+confidence: medium
+horizon: "12-18 months"
+tags: ["AI", "agents", "foundation-models"]
+provId: "PROV-006"
+cycle: "0006"
+signalCount: 48
+totalPostings: 115
+---
+
+## TL;DR
+
+Cohere's public Ashby board on 2026-04-28 carries 115 open roles. The
+department layout is unusual for a frontier-AI lab:
+
+- **Modeling — 33 roles (28.7%)** — the research-and-training nucleus, with
+  pre-training, post-training, training performance engineering, and
+  training infrastructure all visible as separate sub-functions.
+- **Agentic Platform — 15 roles (13.0%)** — *its own department*, not an
+  internal team within a product or research org.
+- Embeddings & Search (2), Inference (4), Cohere Labs (2), Modeling for
+  Public Safety roles round out the technical side.
+
+No other frontier-AI lab in this register breaks "agents" out as a peer
+department to research. Anthropic's hiring (PROV-001) centres on physical
+infrastructure ownership. OpenAI's (PROV-003) on enterprise productisation
+and Forward-Deployed Engineering. Databricks (PROV-004) builds an "AI
+platform" but with a data-platform lineage. Cohere is the only one
+structurally treating agents as the **shipped artefact**.
+
+## What the cluster shows
+
+| Department | Roles | Notes |
+|---|---|---|
+| Modeling | 33 | Pre-Training Data, Post-Training, Training Infra, Training Performance Eng. |
+| Agentic Platform | 15 | Product surface for agent workflows |
+| Product | 12 | |
+| Revenue | 11 | Enterprise GTM (paired with 14 sales-keyword roles) |
+| PM/PgM | 7 | |
+| Internships | 6 | |
+| Inference | 4 | Audio Inference, Inference Infrastructure (incl. SRE) |
+| Embeddings & Search | 2 | Smaller, but a distinct dept |
+| Cohere Labs | 2 | Research lab branch |
+| Multimodal AI | 2 | |
+
+Specific roles diagnostic of the agentic split:
+
+- `1fa01a03-…` Applied AI Engineer — Agentic Workflows
+- `9c18b199-…` Applied AI Engineer — Agentic Workflows (Singapore)
+- `031c2335-…` Applied AI Engineer — Agentic Workflows (Korea)
+
+International posting of "Agentic Workflows" applied engineers in three
+geographies (US/SG/KR) matches the shape of a product-vendor expanding
+deployment expertise around customers, not a research lab hiring centrally.
+
+Modeling-side structure shows the lab discipline still in place:
+
+- `d42f5fd4-…` Member of Technical Staff, Training Performance Engineer
+- `a13207e7-…` Member of Technical Staff, Training Infra Engineer
+- `554a9380-…` Member of Technical Staff, Post-Training
+- `859e2e47-…` Member of Technical Staff, Pre-Training Data
+
+The "Member of Technical Staff" framing is the OpenAI / Anthropic research
+register; Cohere uses it specifically inside Modeling.
+
+## Why this points to deliberate dual identity
+
+Three observations.
+
+**Agentic Platform isn't an internal team — it's a department.** Internal
+teams don't appear separately on a public job board with their own
+hiring lanes. When agents are an org with their own DevRel, applied
+engineers, and infrastructure, the company is communicating that this
+is a product line.
+
+**Modeling still dominates by absolute count.** 33 vs 15 = 2.2:1 in
+Modeling's favour. Cohere has not abandoned the research register the
+way OpenAI's hiring has trended. The two centres of gravity coexist.
+
+**Inference is its own department too.** 4 roles, including SRE for
+inference infrastructure (`8b6696e1-…`). For a model-vendor, this is the
+shape of the org operating its own inference fleet, distinct from
+training compute. Combined with the Modeling sub-functions (pre-training,
+post-training), the full pipeline from pre-training through agent
+deployment is visible as a coherent operational stack.
+
+## What would change our mind
+
+Hypothesis flips to **low** confidence if:
+- Agentic Platform is folded back into Product or Modeling within two
+  quarters (signal that it was an organisational experiment, not a bet).
+- "Applied AI Engineer — Agentic Workflows" hires consolidate into
+  generalist Applied roles (signals agents-as-feature, not agents-as-product).
+- Modeling share drops below 20% (signal of pivot away from research toward
+  productisation only).
+
+Hypothesis strengthens to **high** confidence if:
+- Agentic Platform expands to its own DevRel / Field Engineering branches
+  (currently Applied-only).
+- A first-class agent product is announced with public pricing distinct
+  from the Cohere model API.
+- Cohere Labs (the research-lab branch) grows separately from Modeling,
+  formalising a research / production split inside the company.
+
+## Caveats
+
+- 115 open roles is a small sample for ratio claims. The 29% / 13% read
+  could shift materially with one departmental hiring round.
+- "Agentic Platform" as a department name is a description; we don't have
+  the org-chart evidence to be sure how independently it operates.
+- Cohere is privately held and headcount-disclosed sparingly. Hiring is
+  the main public signal we have; this is its limitation.
+
+## Method
+
+Source: Cohere's public Ashby board
+(`api.ashbyhq.com/posting-api/job-board/cohere`), snapshot 2026-04-28,
+115 jobs. Department field from Ashby. Snapshot at
+`data/snapshots/cohere/2026-04-28.json`.

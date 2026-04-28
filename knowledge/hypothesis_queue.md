@@ -249,3 +249,107 @@ critic_notes: |
 orchestrator_review: FALSE
 published_to: src/content/articles/cloudflare-enterprise-gtm-2026-04.mdx
 ```
+
+```yaml
+id: PROV-006
+state: PUBLISHED
+company: cohere
+cycle: "0006"
+title: "Cohere Has Two Centres of Gravity: Modeling and Agents"
+hypothesis: >
+  Cohere has structurally bet on agents as a product, not a feature — making
+  it the only frontier-AI lab with "Agentic Platform" as a peer department to
+  Modeling. The 29:13 split signals long-term commitment to a dual identity
+  (research lab AND agent-platform vendor).
+horizon: "12-18 months"
+confidence: medium
+snapshot_source: data/snapshots/cohere/2026-04-28.json
+signal_count: 48 of 115 (~42%, dual-cluster)
+signal_clusters:
+  - Modeling dept: 33 (28.7%) — Member of Technical Staff training/post-training pipeline
+  - Agentic Platform dept: 15 (13.0%) — explicit department, not internal team
+  - Applied AI – Agentic Workflows present in 3 geographies (1fa01a03-…, 9c18b199-… SG, 031c2335-… Korea)
+  - Inference dept: 4 (Audio Inference, Inference Infra, SRE)
+  - Embeddings & Search dept: 2; Cohere Labs dept: 2
+counter_evidence:
+  - "115 open roles is small; ratios sensitive to one hiring round."
+  - "'Agentic Platform' as a department name is descriptive — we don't have org-chart evidence on independence."
+critic_verdict: PASS
+critic_notes: |
+  Distinctive among AI labs (no other lab has agents-as-department).
+  Specificity high. Confidence medium pending product-pricing or DevRel
+  expansion corroboration.
+orchestrator_review: FALSE
+published_to: src/content/articles/cohere-agentic-platform-2026-04.mdx
+```
+
+```yaml
+id: PROV-007
+state: PUBLISHED
+company: coinbase
+cycle: "0007"
+title: "Coinbase Is Staffing Itself Into a Bank"
+hypothesis: >
+  Coinbase's hiring is converging on the proportional shape of a regulated
+  financial institution, not a crypto-pioneer startup. Finance & Accounting,
+  Legal & Compliance, and Engineering — Security together hold ~32% of open
+  positions; combined with internal Core AI Infrastructure build-out, this is
+  the staffing of an organisation preparing for sustained regulatory engagement
+  and bank-grade compliance permanence.
+horizon: "12-18 months"
+confidence: medium
+snapshot_source: data/snapshots/coinbase/2026-04-28.json
+signal_count: 37 of 114 (~32% compliance triad)
+signal_clusters:
+  - Finance & Accounting dept: 18 (15.8%) — incl. 880ccfde-… Director SEC Reporting and Technical Accounting, ce7ce12a-… Intl Accounting Manager
+  - Engineering – Security dept: 10 (8.8%) — 7701657 Blockchain Security, 7411772 Offensive Security IoT/Network Pentesting, 7611268 CorpSec
+  - Legal & Compliance dept: 9 (7.9%)
+  - Core AI Infrastructure (internal): 7847428 Senior SRE, 7648987 Staff ML Eng Platform / Core AI Automation
+  - Cyprus operations expansion: 7759747 / 7759744 (EU-licensed entity scaling)
+counter_evidence:
+  - "114 roles is small; proportions sensitive to changes."
+  - "Compliance hiring at this proportion can also reflect a single enforcement event being absorbed."
+critic_verdict: PASS
+critic_notes: |
+  Counter-narrative ('crypto-bank') is sharp and specific. 32% compliance
+  triad is well above 3-cluster threshold. Confidence medium pending
+  national-bank-charter-style corroboration.
+orchestrator_review: FALSE
+published_to: src/content/articles/coinbase-bank-shape-2026-04.mdx
+```
+
+```yaml
+id: PROV-008
+state: PUBLISHED
+company: reddit
+cycle: "0008"
+title: "Reddit Is Building DIY Ad-Tech, Not a Data-Licensing Business"
+hypothesis: >
+  Reddit's hiring shape shows the company building toward DIY ad-tech parity
+  with Meta and Google, not toward a data-licensing-led business model. 57% of
+  open roles are revenue-side (sales, ads engineering, ads data science). Data-
+  licensing partnerships with AI labs are real but ancillary; the structural
+  commitment is to becoming a self-sufficient ad-targeting platform.
+horizon: "12-18 months"
+confidence: medium
+snapshot_source: data/snapshots/reddit/2026-04-28.json
+signal_count: 82 of 145 (56.6% revenue-side)
+signal_clusters:
+  - Large Customer Sales dept: 28 (19.3%)
+  - Mid Market & SMB dept: 24 (16.6%)
+  - Ads Engineering dept: 11 (7.6%)
+  - Ads Data Science dept: 10 (6.9%) — peer to general ML at 10
+  - Global Client Solutions dept: 9 (6.2%)
+  - Trigram "large customer sales" ×19, "client partner large" ×13
+  - No data-licensing department or partnerships-engineering postings visible
+counter_evidence:
+  - "Data licensing is a revenue event, not an org commitment — its absence isn't proof of de-prioritisation."
+  - "Ads scale-up is typical post-IPO consumer internet stage effect."
+critic_verdict: PASS
+critic_notes: |
+  Counter-narrative (against the data-licensing press story) is the type we
+  should publish — falsifiable. Specificity high (57% revenue-side is
+  Reddit-specific given its scale).
+orchestrator_review: FALSE
+published_to: src/content/articles/reddit-ad-tech-2026-04.mdx
+```
