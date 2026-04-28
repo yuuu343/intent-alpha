@@ -179,9 +179,49 @@ main {
   padding-bottom: 3rem;
   max-width: calc(var(--measure-full) * var(--phi-inv));
   border-bottom: var(--rule-thick) solid var(--rule);
+  position: relative;
+  isolation: isolate;
 }
 @media (max-width: 760px) {
   .hero { max-width: 100%; }
+}
+
+/* ---- golden-spiral watermark (homepage hero background) ---- */
+/* Faint geometry behind the headline. The spiral and its subdivisions reveal
+   the page's hidden composition without competing with content. Aspect ratio
+   144:89 (Fibonacci φ approximation). Eye lands near "next." period. */
+.hero-spiral {
+  position: absolute;
+  inset: 0 -2rem 0 -1rem;
+  width: auto;
+  height: 100%;
+  color: var(--rule);
+  opacity: 0.55;
+  z-index: -1;
+  pointer-events: none;
+  user-select: none;
+}
+.hero-spiral .grid line,
+.hero-spiral .grid rect { stroke: currentColor; fill: none; vector-effect: non-scaling-stroke; }
+.hero-spiral .grid line { stroke-width: 0.4; opacity: 0.55; }
+.hero-spiral .grid rect { stroke-width: 0.55; opacity: 0.7; }
+.hero-spiral .curve {
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 0.7;
+  vector-effect: non-scaling-stroke;
+  stroke-dasharray: 600;
+  stroke-dashoffset: 600;
+  animation: spiral-draw 3200ms cubic-bezier(0.4, 0, 0.2, 1) 800ms forwards;
+}
+@keyframes spiral-draw {
+  to { stroke-dashoffset: 0; }
+}
+@media (max-width: 760px) {
+  .hero-spiral { opacity: 0.32; inset: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-spiral .curve { animation: none; stroke-dashoffset: 0; }
 }
 .hero h1 {
   font-size: var(--fs-hero);
@@ -227,7 +267,7 @@ main {
 /* small lines ("What", "are building") = 1/φ² of base ≈ 0.38em
    large lines ("companies", "next.")    = base */
 .hero-art .line-1 {
-  font-size: calc(1em / var(--phi-sq));   /* ≈ 0.382em */
+  font-size: 0.5em;                       /* admin tuning: bumped from 1/φ² (0.382) */
   margin-left: 1.05em;
   color: var(--fg-soft);
   font-style: italic;
@@ -242,7 +282,7 @@ main {
   position: relative;  /* for swash anchor */
 }
 .hero-art .line-3 {
-  font-size: calc(1em / var(--phi-sq));   /* ≈ 0.382em */
+  font-size: 0.5em;                       /* admin tuning: bumped from 1/φ² (0.382) */
   margin-left: 3.6em;
   margin-top: 0.05em;
   margin-bottom: 0.05em;

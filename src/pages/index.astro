@@ -17,6 +17,19 @@ const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 ---
 <Layout title="Intent Alpha" description={description}>
   <section class="hero">
+    <svg class="hero-spiral" viewBox="0 0 144 89" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <g class="grid">
+        <rect x="0" y="0" width="144" height="89"/>
+        <line x1="89" y1="0" x2="89" y2="89"/>
+        <line x1="89" y1="55" x2="144" y2="55"/>
+        <line x1="110" y1="55" x2="110" y2="89"/>
+        <line x1="89" y1="68" x2="110" y2="68"/>
+        <line x1="102" y1="55" x2="102" y2="68"/>
+        <line x1="102" y1="63" x2="110" y2="63"/>
+        <line x1="105" y1="63" x2="105" y2="68"/>
+      </g>
+      <path class="curve" d="M 0 89 A 89 89 0 0 1 89 0 A 55 55 0 0 1 144 55 A 34 34 0 0 1 110 89 A 21 21 0 0 1 89 68 A 13 13 0 0 1 102 55 A 8 8 0 0 1 110 63 A 5 5 0 0 1 105 68 A 3 3 0 0 1 102 65 A 2 2 0 0 1 104 67"/>
+    </svg>
     <span class="meta meta--accent">An editorial register on hiring as strategy</span>
     <h1 class="hero-art" aria-label="What companies are building next.">
       <span class="line line-1"><em>What</em></span>
