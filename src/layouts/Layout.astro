@@ -97,6 +97,23 @@ const issueLabel = 'Vol. 01';
     <main>
       <slot />
     </main>
+    {bgEquation && (
+      <div class="eq-watermark" aria-hidden="true">
+        <span class="eq-line">
+          {Array.from(bgEquation).map((ch, i) => {
+            // Deterministic pseudo-random per character index — irregular but stable
+            // build-to-build. Knuth multiplicative hash mod 4 picks the direction.
+            const dir = ['from-top', 'from-bottom', 'from-left', 'from-right'][((i * 2654435761) >>> 0) % 4];
+            const delay = 250 + (((i * 7919) % 18) * 55);
+            return (
+              <span class={`eq-ch ${dir}`} style={`animation-delay: ${delay}ms;`}>
+                {ch === ' ' ? ' ' : ch}
+              </span>
+            );
+          })}
+        </span>
+      </div>
+    )}
     <footer class="site-footer">
       <div class="inner">
         <span>Intent // Alpha · Vol. 01</span>

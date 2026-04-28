@@ -532,7 +532,30 @@ main {
   to   { opacity: 1; transform: translateX(0) rotate(0); }
 }
 
-@media (max-width: 900px) { .eq-watermark { display: none; } }
+/* On narrow viewports there is no right-margin to host the equation, so we let
+   it fall back into normal flow just before the footer (still scrolls with
+   the page, just inline rather than absolutely positioned). */
+@media (max-width: 900px) {
+  .eq-watermark {
+    position: relative;
+    top: auto;
+    right: auto;
+    left: auto;
+    max-width: 100%;
+    margin: 1rem 0 2.75rem;
+    padding: 0 1.25rem;
+    text-align: center;
+    transform: rotate(-3deg);
+    transform-origin: center center;
+    overflow: visible;
+  }
+  .eq-watermark .eq-line {
+    font-size: clamp(0.95rem, 4.4vw, 1.55rem);
+    white-space: normal;
+    word-break: keep-all;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .eq-watermark .eq-ch { animation: none; opacity: 1; transform: none; }
 }
