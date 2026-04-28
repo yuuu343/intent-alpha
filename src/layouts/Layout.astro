@@ -22,6 +22,9 @@ const {
 const siteName = 'Intent Alpha';
 const canonical = new URL(Astro.url.pathname, Astro.site).toString();
 const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
+
+// Issue stamp at the masthead — derived from the first day the site shipped
+const issueLabel = 'Vol. 01';
 ---
 <!doctype html>
 <html lang="en">
@@ -34,6 +37,13 @@ const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
     <link rel="canonical" href={canonical} />
     <link rel="alternate" type="application/rss+xml" title={`${siteName} RSS`} href="/rss.xml" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..600,30..100,0..1;1,9..144,300..600,30..100,0..1&family=Inter:wght@300..700&family=JetBrains+Mono:wght@400..600&display=swap"
+    />
 
     <meta property="og:type" content={ogType} />
     <meta property="og:title" content={fullTitle} />
@@ -52,19 +62,24 @@ const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
   <body>
     <header class="site-header">
       <div class="inner">
-        <a class="brand" href="/">Intent Alpha</a>
+        <a class="brand" href="/">Intent<span class="slash"> // </span>Alpha</a>
         <nav>
+          <a href="/articles/">Dispatches</a>
           <a href="/companies/">Companies</a>
-          <a href="/articles/">Articles</a>
           <a href="/about/">About</a>
         </nav>
+        <span class="issue">{issueLabel}</span>
       </div>
     </header>
     <main>
       <slot />
     </main>
     <footer class="site-footer">
-      Inferring company direction from public hiring signals. Not investment advice.
+      <div class="inner">
+        <span>Intent // Alpha · Vol. 01</span>
+        <span>Hiring signals → company direction. Not investment advice.</span>
+        <a href="/rss.xml">RSS</a>
+      </div>
     </footer>
   </body>
 </html>

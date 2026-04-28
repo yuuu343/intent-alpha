@@ -15,6 +15,8 @@ const { company } = Astro.props;
 const articles = (await getCollection('articles', ({ data }) => !data.draft && data.company === company.id))
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
+const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
@@ -22,32 +24,57 @@ const jsonLd = {
   url: company.data.website,
   description: company.data.description,
 };
+
+const host = new URL(company.data.website).host;
 ---
 <Layout
   title={company.data.name}
-  description={`Hiring-signal analysis and future-direction hypotheses for ${company.data.name}.`}
+  description={`Hiring-signal analysis and direction hypotheses for ${company.data.name}.`}
   jsonLd={jsonLd}
 >
-  <p class="muted" style="margin-bottom: 0.5rem;">
-    <a href={company.data.website} rel="noopener">{new URL(company.data.website).host}</a>
-    {company.data.sector && <> &nbsp;·&nbsp; {company.data.sector}</>}
-    {company.data.headquarters && <> &nbsp;·&nbsp; {company.data.headquarters}</>}
-  </p>
-  <h1>{company.data.name}</h1>
-  <p>{company.data.description}</p>
+  <a class="back" href="/companies/">All Companies</a>
 
-  <h2>Hypotheses ({articles.length})</h2>
-  {articles.length === 0 && <p class="muted">No articles yet for {company.data.name}.</p>}
-  {articles.map((a) => (
-    <a class="card" href={`/articles/${a.id}/`} style="display:block; color:inherit;">
-      <h3>{a.data.title}</h3>
-      <p class="muted" style="margin-bottom: 0.5rem;">
-        <span class={`confidence confidence-${a.data.confidence}`}>{a.data.confidence}</span>
-        &nbsp;<time datetime={a.data.publishedAt.toISOString()}>
-          {a.data.publishedAt.toISOString().slice(0, 10)}
-        </time>
-      </p>
-      <p>{a.data.description}</p>
-    </a>
-  ))}
+  <header class="article-head">
+    <div class="meta-line">
+      <span class="meta meta--accent">Subject</span>
+      <span class="meta">{company.data.ats.toUpperCase()}</span>
+      {company.data.sector && <span class="meta">{company.data.sector}</span>}
+      {company.data.headquarters && <span class="meta">{company.data.headquarters}</span>}
+    </div>
+    <h1>{company.data.name}</h1>
+    <p class="deck">{company.data.description}</p>
+    <p class="meta" style="margin-top: 1.5rem;">
+      <a href={company.data.website} rel="noopener" style="color: var(--fg-muted); text-decoration-color: var(--rule);">{host}</a>
+    </p>
+  </header>
+
+  <div class="section-head">
+    <h2>Dispatches on {company.data.name}</h2>
+    <span class="count">{articles.length} {articles.length === 1 ? 'entry' : 'entries'}</span>
+  </div>
+
+  {articles.length === 0 && (
+    <p class="meta" style="padding: 1.5rem 0;">No dispatches yet for {company.data.name}. Stay tuned.</p>
+  )}
+
+  <div class="dispatch-list">
+    {articles.map((a) => (
+      <a class="dispatch" href={`/articles/${a.id}/`}>
+        <div class="meta-col">
+          <span class="meta meta--accent">{a.data.cycle ? `Cycle №${a.data.cycle}` : 'Cycle —'}</span>
+          <span class="meta">{fmtDate(a.data.publishedAt)}</span>
+        </div>
+        <div>
+          <h3>{a.data.title}</h3>
+          <p class="desc">{a.data.description}</p>
+        </div>
+        <div class="stamp-col">
+          <span class={`stamp stamp--${a.data.confidence}`}>
+            <span class="v">{a.data.confidence}</span>
+            <span class="h">{a.data.horizon}</span>
+          </span>
+        </div>
+      </a>
+    ))}
+  </div>
 </Layout>

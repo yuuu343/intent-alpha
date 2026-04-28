@@ -15,6 +15,8 @@ const { Content } = await render(article);
 
 const company = (await getCollection('companies')).find((c) => c.id === article.data.company);
 
+const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -35,33 +37,57 @@ const jsonLd = {
   updatedAt={article.data.updatedAt}
   jsonLd={jsonLd}
 >
-  <p class="muted" style="margin-bottom: 0.5rem;">
-    <a href={company ? `/companies/${company.id}/` : '#'}>{company?.data.name ?? article.data.company}</a>
-    &nbsp;·&nbsp;
-    <time datetime={article.data.publishedAt.toISOString()}>
-      {article.data.publishedAt.toISOString().slice(0, 10)}
-    </time>
-  </p>
-  <h1>{article.data.title}</h1>
-  <p style="font-size: 1.05rem;" class="muted">{article.data.description}</p>
+  <a class="back" href="/articles/">All Dispatches</a>
 
-  <div class="card" style="margin: 1.25rem 0;">
-    <p style="margin: 0;">
-      <strong>Hypothesis:</strong> {article.data.hypothesis}
-    </p>
-    <p style="margin: 0.5rem 0 0;">
-      <span class={`confidence confidence-${article.data.confidence}`}>{article.data.confidence} confidence</span>
-      &nbsp;·&nbsp; horizon: {article.data.horizon}
-    </p>
+  <header class="article-head">
+    <div class="meta-line">
+      <span class="meta meta--accent">{article.data.cycle ? `Cycle №${article.data.cycle}` : 'Cycle —'}</span>
+      <span class="meta">{fmtDate(article.data.publishedAt)}</span>
+      {company && (
+        <a class="meta" href={`/companies/${company.id}/`} style="text-decoration: none;">
+          {company.data.name}
+        </a>
+      )}
+      {article.data.provId && <span class="meta" style="color: var(--fg-faint);">{article.data.provId}</span>}
+    </div>
+
+    <h1>{article.data.title}</h1>
+    <p class="deck">{article.data.description}</p>
+  </header>
+
+  <div class="hypothesis-block">
+    <div class="label">Hypothesis</div>
+    <div>
+      <div class="body">{article.data.hypothesis}</div>
+      <div class="meta-row">
+        <span class={`stamp stamp--${article.data.confidence}`}>
+          <span class="v">{article.data.confidence}</span>
+          <span class="h">{article.data.horizon}</span>
+        </span>
+        {article.data.signalCount && article.data.totalPostings && (
+          <span class="meta" style="align-self: center;">
+            {article.data.signalCount} <span style="color: var(--fg-faint);">/ {article.data.totalPostings}</span> postings
+          </span>
+        )}
+      </div>
+    </div>
   </div>
 
   <article class="prose">
     <Content />
   </article>
 
-  {article.data.tags.length > 0 && (
-    <p style="margin-top: 2rem;">
-      {article.data.tags.map((t) => <span class="tag">{t}</span>)}
-    </p>
-  )}
+  <section class="sources">
+    <div class="label">Sources</div>
+    <div>
+      <ul>
+        {article.data.provId && <li>{article.data.provId} — Critic verdict: PASS</li>}
+        {article.data.signalCount && article.data.totalPostings && (
+          <li>{article.data.signalCount} of {article.data.totalPostings} postings clustered as signal</li>
+        )}
+        {company && <li>{company.data.name} public board ({company.data.ats})</li>}
+        <li>Snapshot: data/snapshots/{article.data.company}/{article.data.publishedAt.toISOString().slice(0,10)}.json</li>
+      </ul>
+    </div>
+  </section>
 </Layout>

@@ -14,6 +14,10 @@ const articles = defineCollection({
     horizon: z.string().default('12-18 months'),
     tags: z.array(z.string()).default([]),
     draft: z.boolean().default(false),
+    provId: z.string().optional(),
+    cycle: z.string().optional(),
+    signalCount: z.number().int().optional(),
+    totalPostings: z.number().int().optional(),
   }),
 });
 

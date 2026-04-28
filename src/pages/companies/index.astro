@@ -6,14 +6,24 @@ const companies = (await getCollection('companies'))
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
 ---
 <Layout title="Companies" description="Companies tracked by Intent Alpha.">
-  <h1>Companies</h1>
-  <p class="muted">{companies.length} tracked.</p>
-  <ul>
-    {companies.map((c) => (
-      <li>
-        <a href={`/companies/${c.id}/`}>{c.data.name}</a>
-        {c.data.sector && <span class="muted"> — {c.data.sector}</span>}
-      </li>
+  <section class="hero" style="border-bottom: 0; padding-bottom: 1.5rem;">
+    <span class="meta meta--accent">The Register</span>
+    <h1>Companies</h1>
+    <p class="lede">The set under continuous observation. Each entry has its own hiring history and any dispatches drawn from it.</p>
+  </section>
+
+  <div class="section-head">
+    <h2>Tracked</h2>
+    <span class="count">№ 01–{String(companies.length).padStart(2, '0')}</span>
+  </div>
+
+  <div class="list-rows">
+    {companies.map((c, i) => (
+      <a class="list-row" href={`/companies/${c.id}/`}>
+        <span class="name">{c.data.name}</span>
+        <span class="desc">{c.data.sector ?? c.data.description.slice(0, 80)}</span>
+        <span class="num">№ {String(i + 1).padStart(2, '0')}</span>
+      </a>
     ))}
-  </ul>
+  </div>
 </Layout>
