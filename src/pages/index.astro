@@ -1,20 +1,39 @@
 ---
+import fs from 'node:fs';
+import path from 'node:path';
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import { THEMES } from '../data/themes';
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft && !data.archived))
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
 const allCompanies = (await getCollection('companies'))
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
-// Primary roster = AI-relevant companies. Non-AI tracked subjects are kept
-// reachable by direct URL but hidden from the homepage flow.
 const companies = allCompanies.filter((c) => c.data.aiRelevance !== 'non_ai');
 
-const totalPostings = articles.reduce((s, a) => s + (a.data.totalPostings ?? 0), 0);
-const totalSignals = articles.reduce((s, a) => s + (a.data.signalCount ?? 0), 0);
+// Theme totals across the AI-relevant snapshot set, computed at build time.
+const SNAPSHOTS = path.resolve(process.cwd(), 'data', 'snapshots');
+const snapJobs: { title: string }[] = [];
+let panoramaPostings = 0;
+let panoramaCompanies = 0;
+for (const c of companies) {
+  const dir = path.join(SNAPSHOTS, c.id);
+  if (!fs.existsSync(dir)) continue;
+  const files = fs.readdirSync(dir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+  if (!files.length) continue;
+  const snap = JSON.parse(fs.readFileSync(path.join(dir, files[files.length - 1]), 'utf8'));
+  snapJobs.push(...(snap.jobs ?? []));
+  panoramaPostings += snap.count ?? snap.jobs?.length ?? 0;
+  panoramaCompanies++;
+}
+const themeStats = THEMES.map((t) => ({
+  ...t,
+  total: snapJobs.filter((j) => t.regex.test(j.title || '')).length,
+})).sort((a, b) => b.total - a.total);
+const topThemes = themeStats.slice(0, 4);
 
-const description = 'Intent Alpha reads public job postings at leading technology companies and infers what they are building next. A dispatch on hiring as strategy.';
+const description = 'Intent Alpha reads the public job boards of foundation labs, chip companies, and AI-adjacent platforms, and looks for what AI is becoming. Hypotheses with the hiring signals they rest on.';
 
 const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 ---
@@ -46,30 +65,56 @@ const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
       <span class="line line-4">next<span class="period">.</span></span>
     </h1>
     <p class="lede">
-      We read the public job boards of leading technology companies — Greenhouse, Lever,
-      Workday — and infer where each is pointing the next twelve to eighteen months.
-      Every dispatch is an explicit hypothesis with the hiring signals it rests on.
+      We read the public job boards of foundation labs, chip companies, and
+      AI-adjacent platforms, and look for <em>what AI is becoming</em>. Every
+      dispatch is an explicit hypothesis grounded in hiring signals; every
+      theme aggregates them across the field.
     </p>
   </section>
 
   <section class="stats">
     <div class="item">
-      <span class="num">{companies.length}</span>
-      <span class="lbl">Companies tracked</span>
+      <span class="num">{panoramaCompanies}</span>
+      <span class="lbl">AI companies in panorama</span>
     </div>
     <div class="item">
-      <span class="num">{totalPostings || '—'}</span>
-      <span class="lbl">Postings analysed</span>
+      <span class="num">{panoramaPostings.toLocaleString()}</span>
+      <span class="lbl">Open roles aggregated</span>
     </div>
     <div class="item">
-      <span class="num"><em>{totalSignals || '—'}</em></span>
-      <span class="lbl">Signals isolated</span>
+      <span class="num"><em>{THEMES.length}</em></span>
+      <span class="lbl">Themes mapped</span>
     </div>
     <div class="item">
       <span class="num">{articles.length}</span>
       <span class="lbl">Dispatches published</span>
     </div>
   </section>
+
+  <div class="section-head">
+    <h2>The Panorama</h2>
+    <a href="/themes/" class="count" style="text-decoration: none;">All {THEMES.length} themes →</a>
+  </div>
+  <p class="meta" style="margin-bottom: 1rem; color: var(--fg-muted); text-transform: none; letter-spacing: 0;">
+    Where the field is putting its hires, aggregated across {panoramaCompanies} companies.
+  </p>
+  <div class="dispatch-list">
+    {topThemes.map((t) => (
+      <a class="dispatch" href={`/themes/${t.slug}/`}>
+        <div class="meta-col">
+          <span class="meta meta--accent">Theme</span>
+          <span class="meta">{t.total.toLocaleString()} roles</span>
+        </div>
+        <div>
+          <h3>{t.name}</h3>
+          <p class="desc">{t.blurb}</p>
+        </div>
+        <div class="stamp-col">
+          <span class="meta" style="color: var(--fg-faint);">→</span>
+        </div>
+      </a>
+    ))}
+  </div>
 
   <div class="section-head">
     <h2>Latest Dispatches</h2>

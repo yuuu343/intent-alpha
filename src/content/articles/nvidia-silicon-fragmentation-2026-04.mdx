@@ -97,6 +97,19 @@ Hypothesis strengthens to **high** confidence if any of the following appear:
   vertical-specific networking, robotics, and AV teams.
 - We will revisit when the next snapshot lands.
 
+## What this implies for AI
+
+Vertical-specific silicon means the abstraction "one GPU does everything"
+breaks down. Training, inference, on-vehicle compute, robotics actuation,
+and networking will run on different specialised hardware with different
+software stacks. CUDA's universality — the moat that made NVIDIA's
+hyperscaler dominance compounding — may give way, gradually, to per-vertical
+SDKs that don't share runtimes. For application developers this means
+more porting work; for the field it means heterogeneity in the AI
+deployment substrate. Watch for first-class non-CUDA compilers and
+domain-specific runtimes (Isaac for robotics, DriveOS for AV, Spectrum-X
+for networking) to graduate from auxiliary to primary.
+
 ## Method
 
 Source: NVIDIA's public Workday endpoint
