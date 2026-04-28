@@ -41,6 +41,16 @@ const { postings, lastFetch } = loadCompanyStats(company.id);
 const dispatchesCount = articles.length;
 const signalsSum = articles.reduce((s, a) => s + (a.data.signalCount ?? 0), 0);
 
+// Default equation by AI relevance — soft topical hint when the company isn't
+// the subject of an article yet.
+const equationByRelevance: Record<string, string | undefined> = {
+  ai_native:   'softmax(zᵢ) = exp(zᵢ) / Σⱼ exp(zⱼ)',
+  ai_infra:    'n(t) = n₀ · 2^(t/T)',
+  ai_adjacent: undefined,
+  non_ai:      undefined,
+};
+const companyEquation = equationByRelevance[company.data.aiRelevance];
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
@@ -56,6 +66,7 @@ const host = new URL(company.data.website).host;
   description={`Hiring-signal analysis and direction hypotheses for ${company.data.name}.`}
   jsonLd={jsonLd}
   spineGlyph="№"
+  bgEquation={companyEquation}
 >
   <a class="back" href="/companies/">All Companies</a>
 

@@ -482,14 +482,23 @@ main {
    - hidden under 900px (no whitespace to host it) */
 .eq-watermark {
   position: absolute;
-  top: clamp(6.5rem, 11vw, 10rem);
-  right: clamp(0.75rem, 2.5vw, 2.5rem);
+  top: calc(clamp(6.5rem, 11vw, 10rem) + var(--n, 0) * clamp(22rem, 36vw, 32rem));
   pointer-events: none;
   user-select: none;
   z-index: 0;
   max-width: 32vw;
+}
+.eq-watermark--right {
+  right: clamp(0.75rem, 2.5vw, 2.5rem);
+  left: auto;
   transform: rotate(-5deg);
   transform-origin: right top;
+}
+.eq-watermark--left {
+  left: clamp(0.75rem, 2.5vw, 2.5rem);
+  right: auto;
+  transform: rotate(4deg);
+  transform-origin: left top;
 }
 .eq-watermark .eq-line {
   font-family: var(--font-display);
@@ -532,23 +541,27 @@ main {
   to   { opacity: 1; transform: translateX(0) rotate(0); }
 }
 
-/* On narrow viewports there is no right-margin to host the equation, so we let
-   it fall back into normal flow just before the footer (still scrolls with
-   the page, just inline rather than absolutely positioned). */
+/* On narrow viewports there is no right-margin to host equations, so they
+   fall back into normal flow just before the footer (still scrolls with the
+   page, just inline rather than absolutely positioned). All stacked equations
+   reflow into a vertical list. */
 @media (max-width: 900px) {
-  .eq-watermark {
+  .eq-watermark,
+  .eq-watermark--right,
+  .eq-watermark--left {
     position: relative;
     top: auto;
     right: auto;
     left: auto;
     max-width: 100%;
-    margin: 1rem 0 2.75rem;
+    margin: 0.5rem 0 1.5rem;
     padding: 0 1.25rem;
     text-align: center;
     transform: rotate(-3deg);
     transform-origin: center center;
     overflow: visible;
   }
+  .eq-watermark--left { transform: rotate(2deg); }
   .eq-watermark .eq-line {
     font-size: clamp(0.95rem, 4.4vw, 1.55rem);
     white-space: normal;

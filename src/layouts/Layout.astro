@@ -9,7 +9,8 @@ interface Props {
   updatedAt?: Date;
   jsonLd?: Record<string, unknown>;
   spineGlyph?: string;
-  bgEquation?: string;
+  bgEquation?: string;        // single-equation form (kept for backward compat)
+  bgEquations?: string[];     // multi-equation form
 }
 
 const {
@@ -21,7 +22,12 @@ const {
   jsonLd,
   spineGlyph = 'α',
   bgEquation,
+  bgEquations,
 } = Astro.props;
+
+const equations: string[] = bgEquations && bgEquations.length > 0
+  ? bgEquations
+  : (bgEquation ? [bgEquation] : []);
 
 const siteName = 'Intent Alpha';
 const canonical = new URL(Astro.url.pathname, Astro.site).toString();
@@ -79,24 +85,28 @@ const issueLabel = 'Vol. 01';
     <main>
       <slot />
     </main>
-    {bgEquation && (
-      <div class="eq-watermark" aria-hidden="true">
-        <span class="eq-line">
-          {Array.from(bgEquation).map((ch, i) => {
-            // Deterministic pseudo-random per character index — irregular but
-            // stable build-to-build. Knuth multiplicative hash mod 4 picks the
-            // direction; a different prime mod 18 picks the delay.
-            const dir = ['from-top', 'from-bottom', 'from-left', 'from-right'][((i * 2654435761) >>> 0) % 4];
-            const delay = 250 + (((i * 7919) % 18) * 55);
-            return (
-              <span class={`eq-ch ${dir}`} style={`animation-delay: ${delay}ms;`}>
-                {ch === ' ' ? ' ' : ch}
-              </span>
-            );
-          })}
-        </span>
-      </div>
-    )}
+    {equations.map((eq, eqIdx) => {
+      const side = eqIdx % 2 === 0 ? 'right' : 'left';
+      // Each equation gets a unique salt so per-character animations don't all
+      // synchronise across stacked equations.
+      const salt = (eqIdx + 1) * 31;
+      return (
+        <div class={`eq-watermark eq-watermark--${side}`} style={`--n: ${eqIdx};`} aria-hidden="true">
+          <span class="eq-line">
+            {Array.from(eq).map((ch, i) => {
+              const k = i + salt;
+              const dir = ['from-top', 'from-bottom', 'from-left', 'from-right'][((k * 2654435761) >>> 0) % 4];
+              const delay = 250 + (((k * 7919) % 18) * 55);
+              return (
+                <span class={`eq-ch ${dir}`} style={`animation-delay: ${delay}ms;`}>
+                  {ch === ' ' ? ' ' : ch}
+                </span>
+              );
+            })}
+          </span>
+        </div>
+      );
+    })}
     <footer class="site-footer">
       <div class="inner">
         <span>Intent // Alpha · Vol. 01</span>
