@@ -367,19 +367,36 @@ main {
   .hero-art .swash path { animation: none; stroke-dashoffset: 0; }
 }
 
-/* ---- C: soft entrance fade-rise on inner-page heroes and article-heads ----
-   Single direction (up), no rotation, ~900ms. Lighter than home's four-direction
-   choreography — gives every page a subtle "settle" without competing. */
-@keyframes soft-rise {
-  from { opacity: 0; transform: translateY(0.55em); }
+/* ---- C: directional entrance on inner-page heroes and article-heads ----
+   Each element comes from a different edge (above / left / right) — a quieter
+   echo of the homepage hero's four-direction choreography, with no residual
+   rotation so the elements settle flat. Slower than v1 (1200–1500ms). */
+@keyframes inner-from-above {
+  from { opacity: 0; transform: translateY(-0.85em); }
   to   { opacity: 1; transform: translateY(0); }
 }
-.hero .meta              { animation: soft-rise 800ms cubic-bezier(0.2, 0.7, 0.2, 1) 80ms both; }
-.hero h1:not(.hero-art)  { animation: soft-rise 900ms cubic-bezier(0.2, 0.7, 0.2, 1) 200ms both; }
-.hero .lede              { animation: soft-rise 950ms cubic-bezier(0.2, 0.7, 0.2, 1) 350ms both; }
-.article-head .meta-line { animation: soft-rise 800ms cubic-bezier(0.2, 0.7, 0.2, 1) 80ms both; }
-.article-head h1         { animation: soft-rise 900ms cubic-bezier(0.2, 0.7, 0.2, 1) 200ms both; }
-.article-head .deck      { animation: soft-rise 950ms cubic-bezier(0.2, 0.7, 0.2, 1) 350ms both; }
+@keyframes inner-from-left {
+  from { opacity: 0; transform: translateX(-1.1em); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes inner-from-right {
+  from { opacity: 0; transform: translateX(1.1em); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes inner-from-below {
+  from { opacity: 0; transform: translateY(0.85em); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* hero (inner index pages: /articles/, /companies/, /about/) */
+.hero .meta              { animation: inner-from-above 1200ms cubic-bezier(0.16, 1, 0.3, 1) 150ms  both; }
+.hero h1:not(.hero-art)  { animation: inner-from-left  1500ms cubic-bezier(0.16, 1, 0.3, 1) 450ms  both; }
+.hero .lede              { animation: inner-from-right 1500ms cubic-bezier(0.16, 1, 0.3, 1) 800ms  both; }
+
+/* article-head (article + company subject pages) */
+.article-head .meta-line { animation: inner-from-above 1200ms cubic-bezier(0.16, 1, 0.3, 1) 150ms  both; }
+.article-head h1         { animation: inner-from-left  1500ms cubic-bezier(0.16, 1, 0.3, 1) 450ms  both; }
+.article-head .deck      { animation: inner-from-below 1500ms cubic-bezier(0.16, 1, 0.3, 1) 800ms  both; }
 
 @media (prefers-reduced-motion: reduce) {
   .hero .meta,
