@@ -210,9 +210,11 @@ main {
   fill: none;
   stroke-width: 0.9;
   vector-effect: non-scaling-stroke;
-  stroke-dasharray: 600;
-  stroke-dashoffset: 600;
-  animation: spiral-draw 3200ms cubic-bezier(0.4, 0, 0.2, 1) 800ms forwards;
+  /* pathLength="100" on the element normalises the path; dash/offset map 1:1
+     so the draw is monotonic from outer arc → inner eye over the full duration. */
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: spiral-draw 4600ms cubic-bezier(0.45, 0.05, 0.25, 1) 900ms forwards;
 }
 @keyframes spiral-draw {
   to { stroke-dashoffset: 0; }
