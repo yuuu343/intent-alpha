@@ -19,6 +19,7 @@ const articles = defineCollection({
     cycle: z.string().optional(),
     signalCount: z.number().int().optional(),
     totalPostings: z.number().int().optional(),
+    equation: z.string().optional(),
   }),
 });
 

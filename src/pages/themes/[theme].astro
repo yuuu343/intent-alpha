@@ -67,7 +67,7 @@ const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 
 const description = `${t.name} hiring across the AI-relevant roster: ${totalMatches.toLocaleString()} roles across ${rows.length} companies. ${t.blurb}`;
 ---
-<Layout title={`${t.name} — Themes`} description={description}>
+<Layout title={`${t.name} — Themes`} description={description} spineGlyph={t.glyph} bgEquation={t.equation}>
   <a class="back" href="/themes/">All Themes</a>
 
   <header class="article-head">
