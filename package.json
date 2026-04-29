@@ -14,7 +14,8 @@
     "cross-ref": "node scripts/cross-reference.mjs",
     "vocab-shift": "node scripts/vocab-shift.mjs",
     "withdrawal": "node scripts/withdrawal-lifetime.mjs",
-    "diffusion": "node scripts/diffusion-velocity.mjs"
+    "diffusion": "node scripts/diffusion-velocity.mjs",
+    "gh-deps": "node scripts/github-dependents.mjs"
   },
   "dependencies": {
     "astro": "^5.0.0",

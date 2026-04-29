@@ -1,0 +1,67 @@
+{
+  "org": "anthropics",
+  "fetchedAt": "2026-04-29T10:25:14.989Z",
+  "note": "Counts are scraped from /network/dependents tab labels. Repositories and Packages tabs separately. Format may shift; see parseDependentCounts in this script for the regex.",
+  "rows": [
+    {
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills/network/dependents",
+      "repositories": 216,
+      "packages": 569
+    },
+    {
+      "repo": "claude-code",
+      "url": "https://github.com/anthropics/claude-code/network/dependents",
+      "repositories": 520,
+      "packages": 25
+    },
+    {
+      "repo": "claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks/network/dependents",
+      "repositories": 26,
+      "packages": 120
+    },
+    {
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official/network/dependents",
+      "repositories": 556,
+      "packages": 25
+    },
+    {
+      "repo": "knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins/network/dependents",
+      "repositories": 38,
+      "packages": 54
+    },
+    {
+      "repo": "financial-services-plugins",
+      "url": "https://github.com/anthropics/financial-services-plugins/network/dependents",
+      "repositories": 15,
+      "packages": 27
+    },
+    {
+      "repo": "claude-code-action",
+      "url": "https://github.com/anthropics/claude-code-action/network/dependents",
+      "repositories": 342,
+      "packages": 175
+    },
+    {
+      "repo": "claude-agent-sdk-python",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python/network/dependents",
+      "repositories": 931,
+      "packages": 121
+    },
+    {
+      "repo": "anthropic-sdk-python",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/network/dependents",
+      "repositories": 637,
+      "packages": 90
+    },
+    {
+      "repo": "anthropic-sdk-typescript",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/network/dependents",
+      "repositories": 303,
+      "packages": 46
+    }
+  ]
+}
