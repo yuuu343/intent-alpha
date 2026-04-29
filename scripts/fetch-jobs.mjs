@@ -4,9 +4,11 @@
 // prior snapshot and prints a summary.
 //
 // Usage:
-//   node scripts/fetch-jobs.mjs               # fetch all companies
+//   node scripts/fetch-jobs.mjs               # fetch all companies (verbose)
 //   node scripts/fetch-jobs.mjs anthropic     # fetch one company by slug
 //   node scripts/fetch-jobs.mjs --concurrency 6
+//   node scripts/fetch-jobs.mjs --quiet       # skip per-company log, summary only
+//                                                (errors still print)
 //
 // Output:
 //   data/snapshots/<slug>/<YYYY-MM-DD>.json
@@ -236,8 +238,10 @@ async function main() {
   const args = process.argv.slice(2);
   let filter = null;
   let concurrency = 4;
+  let quiet = false;
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--concurrency') { concurrency = parseInt(args[++i], 10) || 4; }
+    else if (args[i] === '--quiet' || args[i] === '-q') { quiet = true; }
     else if (!args[i].startsWith('--')) { filter = args[i]; }
   }
 
@@ -251,7 +255,7 @@ async function main() {
 
   const summary = await runWithConcurrency(companies, concurrency, async (c) => {
     if (c.ats === 'custom') {
-      console.log(`[${c.slug}] SKIP (custom: ${c.customNote ?? 'no fetcher'})`);
+      if (!quiet) console.log(`[${c.slug}] SKIP (custom: ${c.customNote ?? 'no fetcher'})`);
       return { slug: c.slug, skipped: true, note: c.customNote };
     }
     try {
@@ -269,10 +273,10 @@ async function main() {
       const dir = path.join(SNAPSHOTS_DIR, c.slug);
       await mkdir(dir, { recursive: true });
       await writeFile(path.join(dir, `${date}.json`), JSON.stringify(snapshot, null, 2));
-      console.log(`[${c.slug}] ${jobs.length} jobs (+${diff.added.length} / -${diff.removed.length})`);
+      if (!quiet) console.log(`[${c.slug}] ${jobs.length} jobs (+${diff.added.length} / -${diff.removed.length})`);
       return { slug: c.slug, count: jobs.length, added: diff.added.length, removed: diff.removed.length };
     } catch (err) {
-      console.log(`[${c.slug}] FAILED: ${err.message}`);
+      console.log(`[${c.slug}] FAILED: ${err.message}`);  // errors always surface
       return { slug: c.slug, error: err.message };
     }
   });
