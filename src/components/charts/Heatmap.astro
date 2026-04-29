@@ -80,17 +80,23 @@ function opacity(v: number) {
       );
     })}
 
-    {/* Cells */}
+    {/* Cells. Inline style sets --cell-op (target opacity) and animation-delay
+        (diagonal-wave staggering by row+col). The CSS keyframe animates
+        fill-opacity from 0 to var(--cell-op) on initial paint. After the
+        animation ends, JS that sets element.style.fillOpacity directly (e.g.
+        the /explore/ filter handler) overrides without re-triggering the
+        animation. */}
     {rows.map((row, ri) => cols.map((col, ci) => {
       const v = cellMap.get(`${row.id}|${col.id}`) ?? 0;
       const x = ROW_LABEL_W + ci * COL_W;
       const y = COL_LABEL_H + ri * ROW_H;
       const op = opacity(v);
+      const delay = (ri + ci) * 9;
       const href = cellHref?.(row.id, col.id);
       const title = cellTitle?.(row.id, col.id, v) ?? `${row.label} · ${col.label}: ${v}`;
       const cell = (
         <g class="hm-cell" data-row={row.id} data-col={col.id}>
-          <rect class="hm-cell-bg" x={x} y={y} width={COL_W} height={ROW_H} style={`fill-opacity: ${op};`}/>
+          <rect class="hm-cell-bg" x={x} y={y} width={COL_W} height={ROW_H} style={`--cell-op: ${op}; animation-delay: ${delay}ms;`}/>
           <text class="hm-cell-text" x={x + COL_W / 2} y={y + ROW_H * 0.7} text-anchor="middle" style={v === 0 ? 'display: none;' : ''}>{v}</text>
           <title>{title}</title>
         </g>
@@ -123,7 +129,19 @@ function opacity(v: number) {
   }
   .hm-cell-bg {
     fill: var(--accent);
+    fill-opacity: var(--cell-op, 0);
+    animation: hm-cell-in 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
     transition: fill-opacity 180ms ease;
+  }
+  @keyframes hm-cell-in {
+    from { fill-opacity: 0; }
+    to   { fill-opacity: var(--cell-op, 0); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .hm-cell-bg {
+      animation: none;
+      fill-opacity: var(--cell-op, 0);
+    }
   }
   .heatmap a:hover .hm-cell-bg {
     fill-opacity: 1 !important;

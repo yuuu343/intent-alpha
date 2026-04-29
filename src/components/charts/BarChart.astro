@@ -29,13 +29,14 @@ const max = Math.max(maxValue ?? 0, ...items.map((i) => i.value), 1);
 ---
 <figure class="bc-fig" style={`--bc-label-w: ${labelWidth};`}>
   <div class="barchart">
-    {items.map((item) => {
+    {items.map((item, i) => {
       const pct = (item.value / max) * 100;
+      const delay = i * 45;
       const row = (
         <div class="bc-row">
           <span class="bc-label">{item.label}</span>
           <div class="bc-track">
-            <div class="bc-fill" style={`width: ${pct.toFixed(2)}%;`}/>
+            <div class="bc-fill" style={`--target-w: ${pct.toFixed(2)}%; animation-delay: ${delay}ms;`}/>
           </div>
           <span class="bc-value">{fmt(item.value)}</span>
           <span class="bc-meta">{item.meta ?? ''}</span>
@@ -86,7 +87,19 @@ const max = Math.max(maxValue ?? 0, ...items.map((i) => i.value), 1);
   .bc-fill {
     height: 100%;
     background: var(--accent);
+    width: var(--target-w, 0%);
+    animation: bc-fill-in 800ms cubic-bezier(0.16, 1, 0.3, 1) both;
     transition: background 180ms ease;
+  }
+  @keyframes bc-fill-in {
+    from { width: 0; }
+    to   { width: var(--target-w, 0%); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .bc-fill {
+      animation: none;
+      width: var(--target-w, 0%);
+    }
   }
   .bc-value {
     font-family: var(--font-mono);
