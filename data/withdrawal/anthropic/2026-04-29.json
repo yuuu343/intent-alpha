@@ -1,13 +1,13 @@
 {
   "slug": "anthropic",
-  "computedAt": "2026-04-29T17:00:33.908Z",
+  "computedAt": "2026-04-29T18:35:37.099Z",
   "snapshotCount": 2,
   "snapshotDates": [
     "2026-04-28",
     "2026-04-29"
   ],
   "framework": {
-    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn. trimmed.* stats use a 5–95 percentile cut to suppress mis-posts (1-day) and permanent boilerplate (year+).",
     "buckets": [
       "0–14d (likely withdrawn)",
       "15–60d",
@@ -3177,13 +3177,6 @@
       "lifetimeDays": 1
     },
     {
-      "id": "5196153008",
-      "title": "Partner Success Manager",
-      "firstSeen": "2026-04-29",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 0
-    },
-    {
       "id": "5198842008",
       "title": "Productivity Engineer",
       "firstSeen": "2026-04-29",
@@ -3249,9 +3242,17 @@
   ],
   "summary": {
     "withdrawnCount": 15,
-    "stillOpenCount": 446,
+    "stillOpenCount": 445,
     "bucketCounts": {
       "0–14d (likely withdrawn)": 15
+    },
+    "trimmed": {
+      "count": 15,
+      "mean": 0,
+      "median": 0,
+      "kept": 15,
+      "lo": 0,
+      "hi": 0
     }
   }
 }

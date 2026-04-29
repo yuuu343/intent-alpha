@@ -1,13 +1,13 @@
 {
   "slug": "mistral",
-  "computedAt": "2026-04-29T17:00:36.059Z",
+  "computedAt": "2026-04-29T18:35:38.249Z",
   "snapshotCount": 2,
   "snapshotDates": [
     "2026-04-28",
     "2026-04-29"
   ],
   "framework": {
-    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn. trimmed.* stats use a 5–95 percentile cut to suppress mis-posts (1-day) and permanent boilerplate (year+).",
     "buckets": [
       "0–14d (likely withdrawn)",
       "15–60d",
@@ -1212,6 +1212,12 @@
   "summary": {
     "withdrawnCount": 0,
     "stillOpenCount": 170,
-    "bucketCounts": {}
+    "bucketCounts": {},
+    "trimmed": {
+      "count": 0,
+      "mean": 0,
+      "median": 0,
+      "kept": 0
+    }
   }
 }
