@@ -1,0 +1,691 @@
+{
+  "slug": "scaleai",
+  "computedAt": "2026-04-29T17:00:37.629Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 167,
+      "topUnigrams": [
+        [
+          "software",
+          33
+        ],
+        [
+          "public",
+          25
+        ],
+        [
+          "sector",
+          25
+        ],
+        [
+          "ai",
+          24
+        ],
+        [
+          "enterprise",
+          22
+        ],
+        [
+          "machine",
+          19
+        ],
+        [
+          "learning",
+          19
+        ],
+        [
+          "genai",
+          17
+        ],
+        [
+          "research",
+          17
+        ],
+        [
+          "frontier",
+          15
+        ],
+        [
+          "product",
+          13
+        ],
+        [
+          "fellow",
+          11
+        ],
+        [
+          "human",
+          11
+        ],
+        [
+          "collective",
+          11
+        ],
+        [
+          "forward",
+          11
+        ],
+        [
+          "deployed",
+          11
+        ],
+        [
+          "gps",
+          10
+        ],
+        [
+          "robotics",
+          10
+        ],
+        [
+          "technical",
+          9
+        ],
+        [
+          "scientist",
+          9
+        ],
+        [
+          "data",
+          8
+        ],
+        [
+          "operations",
+          7
+        ],
+        [
+          "strategic",
+          7
+        ],
+        [
+          "finance",
+          6
+        ],
+        [
+          "program",
+          6
+        ],
+        [
+          "applied",
+          6
+        ],
+        [
+          "infrastructure",
+          6
+        ],
+        [
+          "security",
+          6
+        ],
+        [
+          "systems",
+          6
+        ],
+        [
+          "engagement",
+          6
+        ]
+      ],
+      "topBigrams": [
+        [
+          "public sector",
+          25
+        ],
+        [
+          "machine learning",
+          19
+        ],
+        [
+          "learning research",
+          11
+        ],
+        [
+          "fellow human",
+          11
+        ],
+        [
+          "human frontier",
+          11
+        ],
+        [
+          "frontier collective",
+          11
+        ],
+        [
+          "forward deployed",
+          11
+        ],
+        [
+          "enterprise genai",
+          9
+        ],
+        [
+          "research scientist",
+          8
+        ],
+        [
+          "applied ai",
+          5
+        ],
+        [
+          "global public",
+          5
+        ],
+        [
+          "collective uk",
+          5
+        ],
+        [
+          "collective us",
+          5
+        ],
+        [
+          "software forward",
+          5
+        ],
+        [
+          "deployed gps",
+          5
+        ],
+        [
+          "software enterprise",
+          5
+        ],
+        [
+          "ai enterprise",
+          4
+        ],
+        [
+          "research agent",
+          4
+        ],
+        [
+          "full-stack software",
+          4
+        ],
+        [
+          "strategic projects",
+          4
+        ],
+        [
+          "technical program",
+          4
+        ],
+        [
+          "software public",
+          4
+        ],
+        [
+          "ai applications",
+          3
+        ],
+        [
+          "deployed ai",
+          3
+        ],
+        [
+          "learning fellow",
+          3
+        ],
+        [
+          "ml systems",
+          3
+        ],
+        [
+          "gen ai",
+          3
+        ],
+        [
+          "account executive",
+          2
+        ],
+        [
+          "saudi arabia",
+          2
+        ],
+        [
+          "deployment strategist",
+          2
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 169,
+      "topUnigrams": [
+        [
+          "software",
+          32
+        ],
+        [
+          "ai",
+          26
+        ],
+        [
+          "enterprise",
+          25
+        ],
+        [
+          "public",
+          24
+        ],
+        [
+          "sector",
+          24
+        ],
+        [
+          "machine",
+          19
+        ],
+        [
+          "learning",
+          19
+        ],
+        [
+          "genai",
+          17
+        ],
+        [
+          "research",
+          17
+        ],
+        [
+          "frontier",
+          15
+        ],
+        [
+          "product",
+          14
+        ],
+        [
+          "fellow",
+          11
+        ],
+        [
+          "human",
+          11
+        ],
+        [
+          "collective",
+          11
+        ],
+        [
+          "forward",
+          11
+        ],
+        [
+          "deployed",
+          11
+        ],
+        [
+          "gps",
+          10
+        ],
+        [
+          "scientist",
+          9
+        ],
+        [
+          "robotics",
+          9
+        ],
+        [
+          "data",
+          8
+        ],
+        [
+          "technical",
+          8
+        ],
+        [
+          "platform",
+          8
+        ],
+        [
+          "operations",
+          7
+        ],
+        [
+          "infrastructure",
+          7
+        ],
+        [
+          "strategic",
+          7
+        ],
+        [
+          "finance",
+          6
+        ],
+        [
+          "program",
+          6
+        ],
+        [
+          "applied",
+          6
+        ],
+        [
+          "security",
+          6
+        ],
+        [
+          "systems",
+          6
+        ]
+      ],
+      "topBigrams": [
+        [
+          "public sector",
+          24
+        ],
+        [
+          "machine learning",
+          19
+        ],
+        [
+          "learning research",
+          11
+        ],
+        [
+          "fellow human",
+          11
+        ],
+        [
+          "human frontier",
+          11
+        ],
+        [
+          "frontier collective",
+          11
+        ],
+        [
+          "forward deployed",
+          11
+        ],
+        [
+          "enterprise genai",
+          9
+        ],
+        [
+          "research scientist",
+          8
+        ],
+        [
+          "applied ai",
+          5
+        ],
+        [
+          "global public",
+          5
+        ],
+        [
+          "collective uk",
+          5
+        ],
+        [
+          "collective us",
+          5
+        ],
+        [
+          "software forward",
+          5
+        ],
+        [
+          "deployed gps",
+          5
+        ],
+        [
+          "software enterprise",
+          5
+        ],
+        [
+          "account executive",
+          4
+        ],
+        [
+          "ai enterprise",
+          4
+        ],
+        [
+          "research agent",
+          4
+        ],
+        [
+          "full-stack software",
+          4
+        ],
+        [
+          "strategic projects",
+          4
+        ],
+        [
+          "technical program",
+          4
+        ],
+        [
+          "gen ai",
+          4
+        ],
+        [
+          "ai applications",
+          3
+        ],
+        [
+          "enterprise account",
+          3
+        ],
+        [
+          "deployed ai",
+          3
+        ],
+        [
+          "learning fellow",
+          3
+        ],
+        [
+          "software public",
+          3
+        ],
+        [
+          "ml systems",
+          3
+        ],
+        [
+          "solutions enterprise",
+          3
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "account executive",
+          "before": 2,
+          "after": 4,
+          "delta": 2
+        },
+        {
+          "term": "enterprise account",
+          "before": 1,
+          "after": 3,
+          "delta": 2
+        },
+        {
+          "term": "public sector",
+          "before": 25,
+          "after": 24,
+          "delta": -1
+        },
+        {
+          "term": "software public",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "ai infrastructure",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "gen ai",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "solutions enterprise",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "executive saudi",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "saudi arabia",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "ai applications",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "applications ops",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ops gps",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ai deployment",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "deployment strategist",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "ai product",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ai strategy",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "strategy consultant",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "consultant frontier",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "frontier tech",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "analytics data",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "data science",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "science finance",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "annotations operations",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "operations associate",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "operations program",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "applied ai",
+          "before": 5,
+          "after": 5,
+          "delta": 0
+        },
+        {
+          "term": "ai enterprise",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "enterprise genai",
+          "before": 9,
+          "after": 9,
+          "delta": 0
+        },
+        {
+          "term": "ai global",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "global public",
+          "before": 5,
+          "after": 5,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

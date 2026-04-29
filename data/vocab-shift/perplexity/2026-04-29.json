@@ -1,0 +1,691 @@
+{
+  "slug": "perplexity",
+  "computedAt": "2026-04-29T17:00:37.152Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 71,
+      "topUnigrams": [
+        [
+          "technical",
+          42
+        ],
+        [
+          "member",
+          41
+        ],
+        [
+          "ai",
+          14
+        ],
+        [
+          "software",
+          13
+        ],
+        [
+          "search",
+          12
+        ],
+        [
+          "product",
+          6
+        ],
+        [
+          "security",
+          5
+        ],
+        [
+          "backend",
+          5
+        ],
+        [
+          "machine",
+          5
+        ],
+        [
+          "learning",
+          5
+        ],
+        [
+          "research",
+          5
+        ],
+        [
+          "enterprise",
+          5
+        ],
+        [
+          "data",
+          5
+        ],
+        [
+          "internship",
+          5
+        ],
+        [
+          "engineering",
+          4
+        ],
+        [
+          "infrastructure",
+          4
+        ],
+        [
+          "customer",
+          4
+        ],
+        [
+          "scientist",
+          4
+        ],
+        [
+          "inference",
+          3
+        ],
+        [
+          "success",
+          3
+        ],
+        [
+          "operations",
+          3
+        ],
+        [
+          "ios",
+          2
+        ],
+        [
+          "applied",
+          2
+        ],
+        [
+          "support",
+          2
+        ],
+        [
+          "apac",
+          2
+        ],
+        [
+          "core",
+          2
+        ],
+        [
+          "platform",
+          2
+        ],
+        [
+          "commercial",
+          2
+        ],
+        [
+          "strategic",
+          2
+        ],
+        [
+          "systems",
+          2
+        ]
+      ],
+      "topBigrams": [
+        [
+          "member technical",
+          41
+        ],
+        [
+          "technical ai",
+          10
+        ],
+        [
+          "technical software",
+          7
+        ],
+        [
+          "machine learning",
+          5
+        ],
+        [
+          "technical backend",
+          4
+        ],
+        [
+          "data scientist",
+          4
+        ],
+        [
+          "ai inference",
+          3
+        ],
+        [
+          "backend software",
+          3
+        ],
+        [
+          "internship search",
+          3
+        ],
+        [
+          "technical data",
+          3
+        ],
+        [
+          "technical ios",
+          2
+        ],
+        [
+          "ios software",
+          2
+        ],
+        [
+          "ai infrastructure",
+          2
+        ],
+        [
+          "customer support",
+          2
+        ],
+        [
+          "technical machine",
+          2
+        ],
+        [
+          "technical search",
+          2
+        ],
+        [
+          "ai research",
+          2
+        ],
+        [
+          "enterprise customer",
+          2
+        ],
+        [
+          "customer success",
+          2
+        ],
+        [
+          "search quality",
+          2
+        ],
+        [
+          "search machine",
+          2
+        ],
+        [
+          "learning research",
+          2
+        ],
+        [
+          "product marketing",
+          2
+        ],
+        [
+          "engineering ai",
+          2
+        ],
+        [
+          "user operations",
+          2
+        ],
+        [
+          "operations generalist",
+          2
+        ],
+        [
+          "software monetization",
+          1
+        ],
+        [
+          "engineering site",
+          1
+        ],
+        [
+          "technical cloud",
+          1
+        ],
+        [
+          "cloud security",
+          1
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 71,
+      "topUnigrams": [
+        [
+          "technical",
+          42
+        ],
+        [
+          "member",
+          41
+        ],
+        [
+          "software",
+          14
+        ],
+        [
+          "ai",
+          14
+        ],
+        [
+          "search",
+          12
+        ],
+        [
+          "product",
+          6
+        ],
+        [
+          "security",
+          5
+        ],
+        [
+          "backend",
+          5
+        ],
+        [
+          "machine",
+          5
+        ],
+        [
+          "learning",
+          5
+        ],
+        [
+          "research",
+          5
+        ],
+        [
+          "enterprise",
+          5
+        ],
+        [
+          "data",
+          5
+        ],
+        [
+          "internship",
+          5
+        ],
+        [
+          "engineering",
+          4
+        ],
+        [
+          "infrastructure",
+          4
+        ],
+        [
+          "customer",
+          4
+        ],
+        [
+          "scientist",
+          4
+        ],
+        [
+          "inference",
+          3
+        ],
+        [
+          "success",
+          3
+        ],
+        [
+          "generalist",
+          3
+        ],
+        [
+          "operations",
+          3
+        ],
+        [
+          "ios",
+          2
+        ],
+        [
+          "applied",
+          2
+        ],
+        [
+          "support",
+          2
+        ],
+        [
+          "apac",
+          2
+        ],
+        [
+          "core",
+          2
+        ],
+        [
+          "platform",
+          2
+        ],
+        [
+          "commercial",
+          2
+        ],
+        [
+          "strategic",
+          2
+        ]
+      ],
+      "topBigrams": [
+        [
+          "member technical",
+          41
+        ],
+        [
+          "technical ai",
+          9
+        ],
+        [
+          "technical software",
+          8
+        ],
+        [
+          "machine learning",
+          5
+        ],
+        [
+          "technical backend",
+          4
+        ],
+        [
+          "data scientist",
+          4
+        ],
+        [
+          "ai inference",
+          3
+        ],
+        [
+          "backend software",
+          3
+        ],
+        [
+          "internship search",
+          3
+        ],
+        [
+          "technical data",
+          3
+        ],
+        [
+          "technical ios",
+          2
+        ],
+        [
+          "ios software",
+          2
+        ],
+        [
+          "ai infrastructure",
+          2
+        ],
+        [
+          "applied ai",
+          2
+        ],
+        [
+          "customer support",
+          2
+        ],
+        [
+          "technical machine",
+          2
+        ],
+        [
+          "technical search",
+          2
+        ],
+        [
+          "ai research",
+          2
+        ],
+        [
+          "enterprise customer",
+          2
+        ],
+        [
+          "customer success",
+          2
+        ],
+        [
+          "search quality",
+          2
+        ],
+        [
+          "search machine",
+          2
+        ],
+        [
+          "learning research",
+          2
+        ],
+        [
+          "product marketing",
+          2
+        ],
+        [
+          "engineering ai",
+          2
+        ],
+        [
+          "user operations",
+          2
+        ],
+        [
+          "operations generalist",
+          2
+        ],
+        [
+          "software monetization",
+          1
+        ],
+        [
+          "engineering site",
+          1
+        ],
+        [
+          "technical cloud",
+          1
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "technical software",
+          "before": 7,
+          "after": 8,
+          "delta": 1
+        },
+        {
+          "term": "technical ai",
+          "before": 10,
+          "after": 9,
+          "delta": -1
+        },
+        {
+          "term": "applied ai",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "member technical",
+          "before": 41,
+          "after": 41,
+          "delta": 0
+        },
+        {
+          "term": "software monetization",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "engineering site",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "technical ios",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "ios software",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "ai inference",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "technical cloud",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "cloud security",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ai infrastructure",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "technical forward",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "forward deployed",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "deployed applied",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "customer support",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "support success",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "success associate",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "associate apac",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ai security",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "technical backend",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "backend infrastructure",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "infrastructure search",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "technical machine",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "machine learning",
+          "before": 5,
+          "after": 5,
+          "delta": 0
+        },
+        {
+          "term": "learning search",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "technical search",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "search engine",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "engine developer",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "developer search",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

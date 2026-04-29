@@ -1,0 +1,691 @@
+{
+  "slug": "micron",
+  "computedAt": "2026-04-29T17:00:35.851Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 1000,
+      "topUnigrams": [
+        [
+          "design",
+          134
+        ],
+        [
+          "process",
+          105
+        ],
+        [
+          "product",
+          80
+        ],
+        [
+          "development",
+          64
+        ],
+        [
+          "shift",
+          58
+        ],
+        [
+          "hbm",
+          54
+        ],
+        [
+          "engineering",
+          53
+        ],
+        [
+          "facilities",
+          52
+        ],
+        [
+          "integration",
+          52
+        ],
+        [
+          "technician",
+          52
+        ],
+        [
+          "dram",
+          50
+        ],
+        [
+          "equipment",
+          46
+        ],
+        [
+          "layout",
+          41
+        ],
+        [
+          "mtb",
+          36
+        ],
+        [
+          "global",
+          33
+        ],
+        [
+          "memory",
+          33
+        ],
+        [
+          "rda",
+          30
+        ],
+        [
+          "verification",
+          29
+        ],
+        [
+          "data",
+          28
+        ],
+        [
+          "test",
+          28
+        ],
+        [
+          "fe",
+          27
+        ],
+        [
+          "operations",
+          25
+        ],
+        [
+          "ai",
+          25
+        ],
+        [
+          "etch",
+          25
+        ],
+        [
+          "pwf",
+          24
+        ],
+        [
+          "id1",
+          24
+        ],
+        [
+          "ssd",
+          22
+        ],
+        [
+          "omt",
+          22
+        ],
+        [
+          "architect",
+          22
+        ],
+        [
+          "advanced",
+          21
+        ]
+      ],
+      "topBigrams": [
+        [
+          "process integration",
+          21
+        ],
+        [
+          "process development",
+          21
+        ],
+        [
+          "mtb pwf",
+          21
+        ],
+        [
+          "design verification",
+          19
+        ],
+        [
+          "dry etch",
+          18
+        ],
+        [
+          "global facilities",
+          18
+        ],
+        [
+          "product engineering",
+          15
+        ],
+        [
+          "high bandwidth",
+          14
+        ],
+        [
+          "bandwidth memory",
+          14
+        ],
+        [
+          "new college",
+          13
+        ],
+        [
+          "dram product",
+          13
+        ],
+        [
+          "college grad",
+          12
+        ],
+        [
+          "shift mtb",
+          12
+        ],
+        [
+          "media health",
+          12
+        ],
+        [
+          "engineering media",
+          11
+        ],
+        [
+          "health reliability",
+          10
+        ],
+        [
+          "heteregenous integration",
+          10
+        ],
+        [
+          "fe cpie",
+          10
+        ],
+        [
+          "product integration",
+          10
+        ],
+        [
+          "data scientist",
+          9
+        ],
+        [
+          "failure analysis",
+          9
+        ],
+        [
+          "category supplier",
+          9
+        ],
+        [
+          "reliability heteregenous",
+          9
+        ],
+        [
+          "integration high",
+          9
+        ],
+        [
+          "member technical",
+          9
+        ],
+        [
+          "tw id1",
+          9
+        ],
+        [
+          "id1 ram",
+          9
+        ],
+        [
+          "equipment maintenance",
+          9
+        ],
+        [
+          "ny construction",
+          9
+        ],
+        [
+          "memory design",
+          8
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 1000,
+      "topUnigrams": [
+        [
+          "design",
+          121
+        ],
+        [
+          "process",
+          106
+        ],
+        [
+          "product",
+          80
+        ],
+        [
+          "development",
+          66
+        ],
+        [
+          "hbm",
+          58
+        ],
+        [
+          "shift",
+          57
+        ],
+        [
+          "integration",
+          56
+        ],
+        [
+          "layout",
+          53
+        ],
+        [
+          "engineering",
+          51
+        ],
+        [
+          "technician",
+          48
+        ],
+        [
+          "dram",
+          47
+        ],
+        [
+          "facilities",
+          47
+        ],
+        [
+          "equipment",
+          45
+        ],
+        [
+          "global",
+          37
+        ],
+        [
+          "memory",
+          36
+        ],
+        [
+          "mtb",
+          36
+        ],
+        [
+          "ai",
+          30
+        ],
+        [
+          "data",
+          30
+        ],
+        [
+          "rda",
+          27
+        ],
+        [
+          "manufacturing",
+          26
+        ],
+        [
+          "verification",
+          26
+        ],
+        [
+          "fe",
+          25
+        ],
+        [
+          "id1",
+          25
+        ],
+        [
+          "etch",
+          25
+        ],
+        [
+          "test",
+          25
+        ],
+        [
+          "pwf",
+          24
+        ],
+        [
+          "operations",
+          24
+        ],
+        [
+          "ssd",
+          23
+        ],
+        [
+          "nand",
+          22
+        ],
+        [
+          "construction",
+          22
+        ]
+      ],
+      "topBigrams": [
+        [
+          "process integration",
+          22
+        ],
+        [
+          "process development",
+          21
+        ],
+        [
+          "mtb pwf",
+          21
+        ],
+        [
+          "global facilities",
+          19
+        ],
+        [
+          "dry etch",
+          19
+        ],
+        [
+          "design verification",
+          17
+        ],
+        [
+          "product engineering",
+          16
+        ],
+        [
+          "high bandwidth",
+          16
+        ],
+        [
+          "bandwidth memory",
+          16
+        ],
+        [
+          "new college",
+          13
+        ],
+        [
+          "dram product",
+          13
+        ],
+        [
+          "college grad",
+          12
+        ],
+        [
+          "shift mtb",
+          12
+        ],
+        [
+          "failure analysis",
+          11
+        ],
+        [
+          "engineering media",
+          11
+        ],
+        [
+          "media health",
+          11
+        ],
+        [
+          "circuit design",
+          10
+        ],
+        [
+          "product integration",
+          10
+        ],
+        [
+          "equipment maintenance",
+          10
+        ],
+        [
+          "health reliability",
+          10
+        ],
+        [
+          "heteregenous integration",
+          10
+        ],
+        [
+          "fe cpie",
+          10
+        ],
+        [
+          "contamination control",
+          9
+        ],
+        [
+          "data scientist",
+          9
+        ],
+        [
+          "reliability heteregenous",
+          9
+        ],
+        [
+          "integration high",
+          9
+        ],
+        [
+          "tw id1",
+          9
+        ],
+        [
+          "id1 ram",
+          9
+        ],
+        [
+          "ny construction",
+          9
+        ],
+        [
+          "ssd validation",
+          8
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "hbm layout",
+          "before": 1,
+          "after": 5,
+          "delta": 4
+        },
+        {
+          "term": "physical design",
+          "before": 7,
+          "after": 4,
+          "delta": -3
+        },
+        {
+          "term": "technician gel",
+          "before": 4,
+          "after": 1,
+          "delta": -3
+        },
+        {
+          "term": "engineering technician",
+          "before": 4,
+          "after": 1,
+          "delta": -3
+        },
+        {
+          "term": "design methodology",
+          "before": 7,
+          "after": 4,
+          "delta": -3
+        },
+        {
+          "term": "equipment gel",
+          "before": 3,
+          "after": 0,
+          "delta": -3
+        },
+        {
+          "term": "layout dpg",
+          "before": 0,
+          "after": 3,
+          "delta": 3
+        },
+        {
+          "term": "ssd validation",
+          "before": 6,
+          "after": 8,
+          "delta": 2
+        },
+        {
+          "term": "high bandwidth",
+          "before": 14,
+          "after": 16,
+          "delta": 2
+        },
+        {
+          "term": "bandwidth memory",
+          "before": 14,
+          "after": 16,
+          "delta": 2
+        },
+        {
+          "term": "design verification",
+          "before": 19,
+          "after": 17,
+          "delta": -2
+        },
+        {
+          "term": "advanced technology",
+          "before": 3,
+          "after": 1,
+          "delta": -2
+        },
+        {
+          "term": "yield enhancement",
+          "before": 6,
+          "after": 4,
+          "delta": -2
+        },
+        {
+          "term": "process dev",
+          "before": 5,
+          "after": 3,
+          "delta": -2
+        },
+        {
+          "term": "physical failure",
+          "before": 4,
+          "after": 6,
+          "delta": 2
+        },
+        {
+          "term": "failure analysis",
+          "before": 9,
+          "after": 11,
+          "delta": 2
+        },
+        {
+          "term": "hig hbm",
+          "before": 6,
+          "after": 8,
+          "delta": 2
+        },
+        {
+          "term": "firmware test",
+          "before": 4,
+          "after": 2,
+          "delta": -2
+        },
+        {
+          "term": "test ssd",
+          "before": 4,
+          "after": 2,
+          "delta": -2
+        },
+        {
+          "term": "circuit design",
+          "before": 8,
+          "after": 10,
+          "delta": 2
+        },
+        {
+          "term": "hig high",
+          "before": 4,
+          "after": 6,
+          "delta": 2
+        },
+        {
+          "term": "memory hbm",
+          "before": 4,
+          "after": 6,
+          "delta": 2
+        },
+        {
+          "term": "member technical",
+          "before": 9,
+          "after": 7,
+          "delta": -2
+        },
+        {
+          "term": "rda process",
+          "before": 6,
+          "after": 4,
+          "delta": -2
+        },
+        {
+          "term": "memory circuit",
+          "before": 3,
+          "after": 5,
+          "delta": 2
+        },
+        {
+          "term": "layout engineer-dpg-lpddr",
+          "before": 2,
+          "after": 4,
+          "delta": 2
+        },
+        {
+          "term": "methodology dram",
+          "before": 3,
+          "after": 1,
+          "delta": -2
+        },
+        {
+          "term": "ie modeling",
+          "before": 1,
+          "after": 3,
+          "delta": 2
+        },
+        {
+          "term": "power integrity",
+          "before": 4,
+          "after": 2,
+          "delta": -2
+        },
+        {
+          "term": "hvm area",
+          "before": 3,
+          "after": 1,
+          "delta": -2
+        }
+      ]
+    }
+  ]
+}

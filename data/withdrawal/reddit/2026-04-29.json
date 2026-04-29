@@ -1,0 +1,1073 @@
+{
+  "slug": "reddit",
+  "computedAt": "2026-04-29T17:00:37.364Z",
+  "snapshotCount": 2,
+  "snapshotDates": [
+    "2026-04-28",
+    "2026-04-29"
+  ],
+  "framework": {
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "buckets": [
+      "0–14d (likely withdrawn)",
+      "15–60d",
+      "61–120d",
+      "120+d (backlog)"
+    ],
+    "readiness": "live"
+  },
+  "withdrawn": [
+    {
+      "id": "7666317",
+      "title": "Director of Design, Ads Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7762012",
+      "title": "Sales Manager, AUS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7456660",
+      "title": "Senior Client Partner, Large Customer Sales (Sydney)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7453346",
+      "title": "Senior Client Partner, Mid-Market (B2B Services) ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7767702",
+      "title": "Software Engineer III, Community Builders",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    }
+  ],
+  "stillOpen": [
+    {
+      "id": "7011741",
+      "title": "Acquisition Client Partner, Mid-Market (Southern Europe)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7792848",
+      "title": "Ads Conversion Modeling, Machine Learning Engineering Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7415013",
+      "title": "Android Software Engineer, Ad Formats",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7415003",
+      "title": "Android Software Engineer, Ad Formats",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7415052",
+      "title": "Android Software Engineer, Ad Formats",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7414993",
+      "title": "Android Software Engineer, Ad Formats",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7523456",
+      "title": "Channel Partnerships Lead, APAC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7413698",
+      "title": "Client Account Executive, Mid-Market (App Dev)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7702238",
+      "title": "Client Account Executive, Mid-Market Sales (B2B Services)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7649830",
+      "title": "Client Account Executive, Mid-Market Sales (Signature Goods)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7612008",
+      "title": "Client Account Manager, Global Strategic Accounts (Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7659580",
+      "title": "Client Account Manager, Mid-Market (B2B Services - Acquisitions)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7843754",
+      "title": "Client Account Manager, Mid-Market (B2C Services - Acquisitions)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7772878",
+      "title": "Client Account Manager, Mid-Market (Shopping Goods - Acquisitions)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7420175",
+      "title": "Client Partner, Acquisitions DACH",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7801838",
+      "title": "Client Partner, Mid-Market Sales (B2B Services - Acquisitions)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7782673",
+      "title": "Client Partner, Mid-Market (Services Acquisitions)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7746517",
+      "title": "Client Partner, Mid-Market (Shopping Goods Acquisitions)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7669372",
+      "title": "Community Manager - French speaker (contract)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7799480",
+      "title": "Corporate Paralegal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7839117",
+      "title": "Data Science Manager, Consumer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6580815",
+      "title": "Data Scientist, Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7607124",
+      "title": "Data Scientist, Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7519923",
+      "title": "Director, Mid-Market Sales (B2B Services)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7532202",
+      "title": "Director, Mid-Market Sales (B2B Services)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7644191",
+      "title": "Director of Design, Content Ecosystem",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7859086",
+      "title": "Engineering Manager, Search Storage",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7700153",
+      "title": "Experience Coordinator, San Francisco",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7686440",
+      "title": "Experience Partner, Real Estate Leasing and Operations ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7812004",
+      "title": "Global Employee Relations Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7648529",
+      "title": "Industry Manager, Global Strategic Accounts",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7520366",
+      "title": "International Strategic Finance, London",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7734973",
+      "title": "Lead, Advertising Measurement - UK",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7774908",
+      "title": "Lead, Compensation Partner",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7782477",
+      "title": "Lead Sales Enablement Program Manager, Sales Skills & Methodology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7782475",
+      "title": "Lead Sales Enablement Program Manager, Sales Skills & Methodology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7758576",
+      "title": "Lead Sales Enablement Program Manager, Sales Skills & Methodology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7782474",
+      "title": "Lead Sales Enablement Program Manager, Sales Skills & Methodology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7802495",
+      "title": "Machine Learning Manager, Feed Relevance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7846885",
+      "title": "Machine Learning Manager, Notifications Relevance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7731424",
+      "title": "Manager, Large Customer Sales - DACH",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7707147",
+      "title": "Manager, Mid-Market Sales (B2C Services - Acquisitions)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7746150",
+      "title": "Manager, Mid-Market Sales (Goods)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7330347",
+      "title": "Principal Data Scientist, Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7362539",
+      "title": "Product Adoption Manager, Lower Funnel",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7590156",
+      "title": "Product Adoption Manager, Shopping",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7682201",
+      "title": "Product Communications Lead, Global",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7842817",
+      "title": "Sales Strategy & Operations Business Partner, Agency & Partnerships",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7821738",
+      "title": "Senior Ads Measurement Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7559059",
+      "title": "Senior Ads Measurement Lead - App Dev",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7445224",
+      "title": "Senior Analytics Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7727696",
+      "title": "Senior Business Engineer - Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7672841",
+      "title": "Senior Client Account Executive, Mid-Market - UK",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7702201",
+      "title": "Senior Client Account Manager, App Dev Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7391478",
+      "title": "Senior Client Account Manager (Contract)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7739084",
+      "title": "Senior Client Account Manager, Global Strategic Accounts (Enterprise Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7630209",
+      "title": "Senior Client Account Manager, Global Strategic Accounts (Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7706962",
+      "title": "Senior Client Account Manager, Large Customer Sales, Canada (Financial Services)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7706958",
+      "title": "Senior Client Account Manager, Large Customer Sales, Canada (Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7731431",
+      "title": "Senior Client Account Manager, Large Customer Sales - DACH",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7767765",
+      "title": "Senior Client Account Manager, Large Customer Sales (Fashion & Apparel)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7739343",
+      "title": "Senior Client Account Manager, Mid-Market (App Dev)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7728154",
+      "title": "Senior Client Account Specialist, App Dev Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7702218",
+      "title": "Senior Client Account Specialist, App Dev Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7694751",
+      "title": "Senior Client Partner, App Dev Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7714098",
+      "title": "Senior Client Partner, Global Strategic Accounts (Telco)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7706955",
+      "title": "Senior Client Partner, Large Customer Sales (Canada)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7767759",
+      "title": "Senior Client Partner, Large Customer Sales (Fashion & Apparel)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7733445",
+      "title": "Senior Client Partner, Large Customer Sales (Media & Entertainment)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7746500",
+      "title": "Senior Client Partner, Large Customer Sales (Pharma)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7749330",
+      "title": "Senior Client Partner, Large Customer Sales (Pharma)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7561756",
+      "title": "Senior Client Partner, Large Customer Sales (Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7696013",
+      "title": "Senior Client Partner, Large Customer Sales (Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7728843",
+      "title": "Senior Client Partner, Large Customer Sales (Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7728844",
+      "title": "Senior Client Partner, Large Customer Sales (Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7743658",
+      "title": "Senior Client Partner, Large Customer Sales (Travel)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7762328",
+      "title": "Senior Client Partner, Large Customer Sales (Travel)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7721831",
+      "title": "Senior Client Partner, Large Customer Sales - UK",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7834671",
+      "title": "Senior Data Science Manager, Marketing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6042236",
+      "title": "Senior Data Scientist, Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7607121",
+      "title": "Senior Data Scientist, Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7275414",
+      "title": "Senior Data Scientist, Consumer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7746588",
+      "title": "Senior Director, Global Strategic Accounts",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7822910",
+      "title": "Senior Director, Global Strategic Accounts",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7746311",
+      "title": "Senior Director of Product, Ads Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7359367",
+      "title": "Senior Engineering Manager, Unified Embeddings Platform ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7751064",
+      "title": "Senior Frontend Software Engineer, Home Experience",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7391392",
+      "title": "Senior Machine Learning Engineer, Core Experience and Growth",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7074776",
+      "title": "Senior  Machine Learning Engineer, ML Training Platform ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7731772",
+      "title": "Senior Machine Learning Systems Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7540782",
+      "title": "Senior Manager, Large Customer Sales (Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7735760",
+      "title": "Senior Product Adoption Strategist, Lower Funnel, EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7772785",
+      "title": "Senior Product Designer, Ads Measurement",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7746014",
+      "title": "Senior Sales Manager, App Dev Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6909091",
+      "title": "Senior Software Engineer, Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7488992",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7488988",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7488991",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7488986",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7488862",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7753480",
+      "title": "Senior Software Engineer, GenAI Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7624311",
+      "title": "Senior Staff Engineer, Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7628291",
+      "title": "Senior Staff Engineer, Cloud Economics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7791994",
+      "title": "Senior Staff Machine Learning Engineer, Feed Relevance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7772274",
+      "title": "Senior Staff Machine Learning Engineer, GenAI Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7847148",
+      "title": "Senior Staff Machine Learning Engineer, ML Understanding",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7833622",
+      "title": "Senior Staff ML Engineer, Search & Recommendation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7844238",
+      "title": "Senior Staff Software Engineer, Indexing & Retrieval Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7756924",
+      "title": "Senior, Tech Risk and AI Automation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7758354",
+      "title": "Senior, Tech Risk and AI Automation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6909093",
+      "title": "Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7761320",
+      "title": "Software Engineer, Product Catalogs",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7749131",
+      "title": "Sr. Data Science Manager - Ads Marketplace ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7749073",
+      "title": "Sr. Data Science Manager - Ads Marketplace ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7624178",
+      "title": "Sr. Director of Design, Member Experiences",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7723688",
+      "title": "Sr. Payroll Manager ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7847270",
+      "title": "Staff Android Engineer, Brand Ad Formats",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7847266",
+      "title": "Staff Android Engineer, Brand Ad Formats",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7847274",
+      "title": "Staff Android Engineer, Brand Ad Formats",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7833380",
+      "title": "Staff Android Engineer (Clients Platform)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7825665",
+      "title": "Staff Android Engineer (Clients Platform)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7833378",
+      "title": "Staff Android Engineer (Clients Platform)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7833379",
+      "title": "Staff Android Engineer (Clients Platform)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7761394",
+      "title": "Staff Android Engineer, Home Experience",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7721787",
+      "title": "Staff Data Scientist, Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7721851",
+      "title": "Staff Data Scientist, Ads",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6745284",
+      "title": "Staff Data Scientist, Consumer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7687749",
+      "title": "Staff Engineer - Ads Trust, Fraud and Safety",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7852824",
+      "title": "Staff Engineer, Ads Trust, Fraud and Safety",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7181821",
+      "title": "Staff Machine Learning Engineer, Ads Auction (Ads Marketplace Quality)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7851761",
+      "title": "Staff Machine Learning Engineer, Ads Content Understanding",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7747244",
+      "title": "Staff Machine Learning Engineer, Consumer ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7848689",
+      "title": "Staff Machine Learning Engineer, Developer Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7772523",
+      "title": "Staff Machine Learning Engineer, GenAI Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7731788",
+      "title": "Staff Machine Learning Systems Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7803856",
+      "title": "Staff Product Manager, Finance Applications",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7696211",
+      "title": "Staff Revenue Accountant ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6666410",
+      "title": "Staff Software Engineer, ML Search ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7336592",
+      "title": "Staff Systems Engineer, AI Enablement and Productivity Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7572902",
+      "title": "Tax Planning Senior Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7659597",
+      "title": "Senior Client Partner, Mid-Market (B2B Services) ",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "6960833",
+      "title": "Senior Machine Learning Engineer",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "6960831",
+      "title": "Senior Machine Learning Engineer",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7746309",
+      "title": "Staff Product Manager, Ads API",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    }
+  ],
+  "summary": {
+    "withdrawnCount": 5,
+    "stillOpenCount": 144,
+    "bucketCounts": {
+      "0–14d (likely withdrawn)": 5
+    }
+  }
+}

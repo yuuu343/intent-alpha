@@ -1,0 +1,1038 @@
+{
+  "slug": "robinhood",
+  "computedAt": "2026-04-29T17:00:37.525Z",
+  "snapshotCount": 2,
+  "snapshotDates": [
+    "2026-04-28",
+    "2026-04-29"
+  ],
+  "framework": {
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "buckets": [
+      "0–14d (likely withdrawn)",
+      "15–60d",
+      "61–120d",
+      "120+d (backlog)"
+    ],
+    "readiness": "live"
+  },
+  "withdrawn": [
+    {
+      "id": "7513613",
+      "title": "Credit Business Analyst, Banking Fraud",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    }
+  ],
+  "stillOpen": [
+    {
+      "id": "7804768",
+      "title": "Account Operations Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7799902",
+      "title": "AML Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7555434",
+      "title": "Analytics Developer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5702135",
+      "title": "Android Developer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7350823",
+      "title": "Android Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7776330",
+      "title": "Android Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7600764",
+      "title": "Android Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7490049",
+      "title": "Android Full Stack Engineer, Credit Cards & Banking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7819113",
+      "title": "APAC Security GRC Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7816129",
+      "title": "Business Recruiter",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7816000",
+      "title": "Business Sourcer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7804765",
+      "title": "Capacity Planning & Forecasting Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7768865",
+      "title": "Cashiering Support Associate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7839260",
+      "title": "Chief Compliance Officer, Money",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7612146",
+      "title": "Communications Compliance Senior Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7732495",
+      "title": "Content Writer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7697781",
+      "title": "Contingent Workforce Planning Partner",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7652487",
+      "title": "Crypto AML Investigator",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7577409",
+      "title": "Customer Experience Associate, Pathway",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7689814",
+      "title": "Customer Experience Escalations Specialist - Social",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7804725",
+      "title": "Customer Experience Manager, Investment Accounts",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7659806",
+      "title": "Customer Experience Representative, Advanced Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7700505",
+      "title": "Customer Experience Representative, Core Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7707756",
+      "title": "Customer Experience Representative, Derivatives ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7804754",
+      "title": "Customer Experience Representative, Executive Office",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7587327",
+      "title": "Customer Experience Team Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7324983",
+      "title": "Data Scientist, Product",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7685092",
+      "title": "Deal Lead, Robinhood Ventures",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7592187",
+      "title": "Deputy MLRO / AML Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7539100",
+      "title": "Derivatives Risk Oversight Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7473824",
+      "title": "Derivatives Risk Oversight Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7539106",
+      "title": "Derivatives Risk Oversight Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7490045",
+      "title": "Director of Internal Audit",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7813069",
+      "title": "Engineering Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7542965",
+      "title": "Engineering Manager, Agent Experience",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7603848",
+      "title": "Engineering Manager, Capacity and Efficiency",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7542975",
+      "title": "Engineering Manager, Derivatives",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7512231",
+      "title": "Engineering Manager, Financial Crimes ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7539771",
+      "title": "Engineering Manager, International",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489328",
+      "title": "Engineering Manager, Legend",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7684757",
+      "title": "Engineering Manager, Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489246",
+      "title": "Engineering Manager, Strategies & Cortex",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7117648",
+      "title": "Engineering Manager, Toronto",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7604327",
+      "title": "Finance & Strategy Manager, Prediction Markets",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7759805",
+      "title": "Finance & Strategy Senior Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7729808",
+      "title": "Fraud Investigations Analyst ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7728963",
+      "title": "Fraud Investigations Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7697791",
+      "title": "Insider Threat Investigator",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6674980",
+      "title": "iOS Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7794027",
+      "title": "iOS Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7723234",
+      "title": "Manager of Corporate Accounting",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7799503",
+      "title": "Manager of Customer Operations, Money",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7783116",
+      "title": "Manager of Global Mobility & Immigration",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7736809",
+      "title": "Manager of Learning & Development",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7706906",
+      "title": "Market Risk Senior Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7551178",
+      "title": "People Systems Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6494244",
+      "title": "Product Designer, Growth",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7536920",
+      "title": "Product Manager, Crypto Trading",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7747728",
+      "title": "Product Manager, Money Movement",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7852014",
+      "title": "Real Estate Project Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7729315",
+      "title": "Salesforce Applications Developer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7697727",
+      "title": "Security Engineer, Detection & Response",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7697725",
+      "title": "Security Engineer, Detection & Response",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7346630",
+      "title": "Senior Analytics Engineer, Corporate Strategy",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7412393",
+      "title": "Senior Android Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7178427",
+      "title": "Senior Cloud Security Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7412037",
+      "title": "Senior Data Scientist, Fraud ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7482186",
+      "title": "Senior Data Scientist, ML (Brokerage)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7596426",
+      "title": "Senior Data Scientist, ML (Incentives)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7324981",
+      "title": "Senior Data Scientist, Product",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7599307",
+      "title": "Senior Director of Creative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7844218",
+      "title": "Senior Engineering Manager, AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7473367",
+      "title": "Senior Engineering Manager, Application and Product Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7804749",
+      "title": "Senior Fraud Operations Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7593325",
+      "title": "Senior Growth Marketing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6675127",
+      "title": "Senior iOS Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7121213",
+      "title": "Senior Machine Learning Engineer, Agentic",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7815430",
+      "title": "Senior Manager, Crypto Compliance (BVI)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489988",
+      "title": "Senior Manager Tax, Product and M&A",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7816451",
+      "title": "Senior Partnerships Manager, Crypto",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7782425",
+      "title": "Senior Partnerships Manager, Money",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7511787",
+      "title": "Senior Product Designer, Banking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7202302",
+      "title": "Senior Product Designer, Money Movement",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7490012",
+      "title": "Senior Product Designer, Prediction Markets",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7812048",
+      "title": "Senior Product Designer, Trading AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7707158",
+      "title": "Senior Product Manager, Security AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7736547",
+      "title": "Senior Product Marketing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7728174",
+      "title": "Senior Security Engineer, AI Vulnerability Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7728176",
+      "title": "Senior Security Engineer, AI Vulnerability Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7724385",
+      "title": "Senior Security GRC Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7676724",
+      "title": "Senior Security GRC Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5400711",
+      "title": "Senior Software Developer, Derivatives",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6889390",
+      "title": "Senior Software Developer, Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7848821",
+      "title": "Senior Software Developer, Ops Platform and Fraud Investigations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489731",
+      "title": "Senior Software Engineer, Agentic",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7782697",
+      "title": "Senior Software Engineer, AI Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489675",
+      "title": "Senior Software Engineer, Capacity & Efficiency ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7648454",
+      "title": "Senior Software Engineer, Cloud Integration",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7473701",
+      "title": "Senior Software Engineer, Core Exchange",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4738660",
+      "title": "Senior Software Engineer, Data Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7739375",
+      "title": "Senior Software Engineer, Derivatives Team",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7838644",
+      "title": "Senior Software Engineer - Robinhood Command Center",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7729019",
+      "title": "Senior Software Engineer, Storage Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7805145",
+      "title": "Senior Software Engineer, Streaming Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6913966",
+      "title": "Senior Staff Software Developer, Developer Productivity & AI Tooling ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7729014",
+      "title": "Senior Staff Software Engineer, Data Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7490029",
+      "title": "Senior Tax Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7773503",
+      "title": "Senior Technical Program Manager, Privacy",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7542970",
+      "title": "Senior Web Infrastructure Developer ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5432053",
+      "title": "Software Developer, Backend",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7622031",
+      "title": "Software Developer, Fraud Investigations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4829946",
+      "title": "Software Developer, Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7263592",
+      "title": "Software Engineer, Backend",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7589432",
+      "title": "Software Engineer, Cloud Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489695",
+      "title": "Software Engineering Manager, Growth",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7676714",
+      "title": "Staff Machine Learning Engineer, Agentic",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7460169",
+      "title": "Staff Offensive Security Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7460167",
+      "title": "Staff Offensive Security Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6545329",
+      "title": "Staff Product Designer, Crypto",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7587151",
+      "title": "Staff Product Manager, Banking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7821803",
+      "title": "Staff Product Manager, Cortex",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7812801",
+      "title": "Staff Product Manager, International",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489427",
+      "title": "Staff Product Manager, International Growth & Expansion",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7615747",
+      "title": "Staff Security Analyst, Threat Intelligence",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7615745",
+      "title": "Staff Security Analyst, Threat Intelligence",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7754299",
+      "title": "Staff Security Engineer, Application Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6843318",
+      "title": "Staff Software Developer, Backend Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7301788",
+      "title": "Staff Software Developer, Cloud Networking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7644973",
+      "title": "Staff Software Engineer, Compute",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7716679",
+      "title": "Staff Software Engineer, Core Exchange",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7470947",
+      "title": "Staff Software Engineer, Crypto Custody",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489755",
+      "title": "Staff Software Engineer, Streaming Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489950",
+      "title": "Staff Software Engineer, Web3",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489952",
+      "title": "Staff Software Engineer, Web3",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7739577",
+      "title": "Staff Technical Program Manager - Reliability Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7729684",
+      "title": "Staff Workday Developer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7729682",
+      "title": "Staff Workday Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7816070",
+      "title": "Technical Recruiter",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7816068",
+      "title": "Technical Recruiter",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7485770",
+      "title": "Vendor Trainer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7815583",
+      "title": "Workplace Operations Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7815625",
+      "title": "Workplace Operations Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7489553",
+      "title": "Software Engineering Manager",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    }
+  ],
+  "summary": {
+    "withdrawnCount": 1,
+    "stillOpenCount": 143,
+    "bucketCounts": {
+      "0–14d (likely withdrawn)": 1
+    }
+  }
+}

@@ -1,0 +1,1234 @@
+{
+  "slug": "scaleai",
+  "computedAt": "2026-04-29T17:00:37.682Z",
+  "snapshotCount": 2,
+  "snapshotDates": [
+    "2026-04-28",
+    "2026-04-29"
+  ],
+  "framework": {
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "buckets": [
+      "0–14d (likely withdrawn)",
+      "15–60d",
+      "61–120d",
+      "120+d (backlog)"
+    ],
+    "readiness": "live"
+  },
+  "withdrawn": [
+    {
+      "id": "4521238005",
+      "title": "Recruiting Coordinator, Contract",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "4302243005",
+      "title": "Software Engineer, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "4640096005",
+      "title": "Solutions Engineer, Robotics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    }
+  ],
+  "stillOpen": [
+    {
+      "id": "4686014005",
+      "title": "Account Executive, Saudi Arabia",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4654510005",
+      "title": "AI Applications Ops Lead, GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4677519005",
+      "title": "AI Deployment Strategist Intern",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4609736005",
+      "title": "AI Product Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4472223005",
+      "title": "AI Strategy Consultant, Frontier Tech",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4673090005",
+      "title": "Analytics & Data Science Manager, Finance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4655244005",
+      "title": "[Annotations] Operations Associate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4655240005",
+      "title": "[Annotations] Operations Program Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4536659005",
+      "title": "Applied AI Engineer, Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4514173005",
+      "title": "Applied AI Engineer, Enterprise GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4413992005",
+      "title": "Applied AI Engineer, Global Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4663242005",
+      "title": "Business Operations & Strategy Associate, GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4650516005",
+      "title": "Business Operations & Strategy Manager ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4682686005",
+      "title": "Channel Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4683058005",
+      "title": "Compensation Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4688489005",
+      "title": "Database Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4623590005",
+      "title": "Deep Research Agent Tech Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4678119005",
+      "title": "Deployment Strategist ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4613839005",
+      "title": "DevOps Engineer, GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4674863005",
+      "title": "DevOps Engineer, Infrastructure & Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4657910005",
+      "title": "Director, Business Systems",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4679727005",
+      "title": "Director, Enterprise Machine Learning & Research",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4654775005",
+      "title": "Director of Governance, Risk & Compliance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4632142005",
+      "title": "Distinguished Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4687052005",
+      "title": "Engagement Management Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4687050005",
+      "title": "Engagement Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4687384005",
+      "title": "Engagement Manager (Hawaii), Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4636248005",
+      "title": "Engagement Manager (Homeland Layered Defense), Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4667833005",
+      "title": "Engagement Manager, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4623525005",
+      "title": "Engagement Manager, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4625271005",
+      "title": "Engineering Manager, AgentOps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4595555005",
+      "title": "Engineering Manager, Global Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4646946005",
+      "title": "Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4629589005",
+      "title": "Evals Engineer, Applied AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4674529005",
+      "title": "Field Engineering Manager, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4676257005",
+      "title": "Field Marketing & Events Manager, GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4670010005",
+      "title": "Field Marketing & Events Manager, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4613327005",
+      "title": "Finance Fellow - Human Frontier Collective (UK)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4565836005",
+      "title": "Finance Fellow - Human Frontier Collective (US)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4602177005",
+      "title": "Forward Deployed AI Engineering Manager, Enterprise ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4589592005",
+      "title": "Forward Deployed AI Engineering Manager, GenAI Applications",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4593571005",
+      "title": "Forward Deployed Engineer, GenAI ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4673051005",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4676600005",
+      "title": "Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4648363005",
+      "title": "GenAI Strategic Projects Lead, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4662232005",
+      "title": "GTM Architect ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4683055005",
+      "title": "Head of Finance Systems & Automation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4673252005",
+      "title": "Head of Legal Operations & Chief of Staff",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4685068005",
+      "title": "HRBP, Operations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4678031005",
+      "title": "ICLR 2026 - General Interest",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4678035005",
+      "title": "ICLR 2026 - University Recruiting",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4665557005",
+      "title": "Infrastructure Software Engineer, Enterprise GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4651614005",
+      "title": "Lead Counsel, Product and Intellectual Property",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4674924005",
+      "title": "Lead Technical Program Manager, Trust & Safety",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4613333005",
+      "title": "Legal Fellow - Human Frontier Collective (UK)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4565834005",
+      "title": "Legal Fellow - Human Frontier Collective (US)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4413274005",
+      "title": "Machine Learning Engineer, Global Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4661650005",
+      "title": "Machine Learning Fellow - Human Frontier Collective (Canada)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4661647005",
+      "title": "Machine Learning Fellow - Human Frontier Collective (UK)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4660340005",
+      "title": "Machine Learning Fellow - Human Frontier Collective (US)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4625345005",
+      "title": " Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4625344005",
+      "title": "Machine Learning Research Engineer, Agents - Enterprise GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4490301005",
+      "title": "Machine Learning Research Engineer, GenAI Applied ML",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4528009005",
+      "title": "Machine Learning Research Scientist, Post-Training",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4605596005",
+      "title": "Machine Learning Research Scientist, Reasoning",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4625341005",
+      "title": "Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4631811005",
+      "title": "Manager, Machine Learning Research Scientist, GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4676261005",
+      "title": "Manager, Web Experience",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4612329005",
+      "title": "Medical Fellow - Human Frontier Collective (UK)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4591782005",
+      "title": "Medical Fellow - Human Frontier Collective (US)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4631039005",
+      "title": "Mission Software Engineering Manager, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4481921005",
+      "title": "Mission Software Engineer, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4534631005",
+      "title": "ML Research Engineer, ML Systems",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4663053005",
+      "title": "ML Systems Engineer, Robotics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4594237005",
+      "title": "Operations Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4671740005",
+      "title": "Principal AI Ops Architect, GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4599202005",
+      "title": "Principal Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4644742005",
+      "title": "Product Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4670064005",
+      "title": "Product Manager, Data Engine",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4589749005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4650514005",
+      "title": "Product Manager of AI Applications, Global Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4687591005",
+      "title": "Product Manager, Public Sector GenAI Test & Evaluation (T&E)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4675758005",
+      "title": "Product Marketing Lead, GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4651559005",
+      "title": "Product Security Engineer - Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4667857005",
+      "title": "Program Manager (Homeland Layered Defense), Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4667108005",
+      "title": "Quality Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4683041005",
+      "title": "Quality Lead II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4675684005",
+      "title": "Research Scientist, Agent Robustness",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4675694005",
+      "title": "Research Scientist, AI Controls and Monitoring",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4677657005",
+      "title": "Research Scientist, Frontier Risk Evaluations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4655744005",
+      "title": "Robotics Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4685061005",
+      "title": "Robotics Quality Lead Associate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4685059005",
+      "title": "Robotics Quality Lead I",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4635128005",
+      "title": "Robotics Technician",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4684073005",
+      "title": "Security Engineer, Detection & Response",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4646888005",
+      "title": "Security Engineer, Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4643029005",
+      "title": "Security Engineer, Product Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4663533005",
+      "title": "Senior Accountant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4520320005",
+      "title": "Senior AI Infrastructure Engineer, Model Serving Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4597399005",
+      "title": "Senior Forward Deployed AI Engineer, Enterprise ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4636227005",
+      "title": "Senior Forward Deployed Data Scientist/Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4673310005",
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4676606005",
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4631848005",
+      "title": "Senior Machine Learning Engineer - Model Evaluations, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4281519005",
+      "title": "Senior Machine Learning Engineer, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4669171005",
+      "title": "Senior Revenue Accounting Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4650973005",
+      "title": "Senior Motion Designer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4653827005",
+      "title": "Senior Software Engineer, Agentic Data Products",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4648525005",
+      "title": "Senior Software Engineer, Backend — Frontier Data",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4630325005",
+      "title": "Senior Software Engineer, Billing Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4654275005",
+      "title": "Senior Software Engineer, Connectivity",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4637484005",
+      "title": " Senior Software Engineer,  Full-Stack – Scale GP",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4591298005",
+      "title": "Senior Software Engineer, GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4654897005",
+      "title": "Senior Software Engineer - Internal Tools & Productivity",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4674911005",
+      "title": "Senior Software Engineer, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4658162005",
+      "title": "Senior/Staff Machine Learning Engineer, General Agents, Enterprise GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4654831005",
+      "title": "Site Reliability Engineer / DevOps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4673771005",
+      "title": "Software Engineer, ARC Team",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4630032005",
+      "title": "Software Engineer (Backend), Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4536653005",
+      "title": "Software Engineer, Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4513943005",
+      "title": "Software Engineer, Enterprise AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4363623005",
+      "title": "Software Engineer, Frontier AI Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4591300005",
+      "title": "Software Engineer, Gen AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4605996005",
+      "title": "Software Engineer - New Grad",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4594879005",
+      "title": "Software Engineer, Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4612282005",
+      "title": "Software Engineer, Robotics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4655050005",
+      "title": "Software Engineer, Robotics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4663481005",
+      "title": "Solutions Engineer (Clearance Required)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4642876005",
+      "title": "Solutions Engineer, Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4554440005",
+      "title": "Solutions Engineer, Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4683689005",
+      "title": "Staff Applied AI Engineer, Enterprise GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4676610005",
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4673314005",
+      "title": "Staff FullStack Software Engineer, (Forward Deployed), GPS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4599700005",
+      "title": "Staff Infrastructure Software Engineer, Enterprise AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4625337005",
+      "title": "Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4488520005",
+      "title": "Staff Machine Learning Research Scientist, Agents",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4628044005",
+      "title": "Staff Machine Learning Research Scientist, LLM Evals",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4612403005",
+      "title": "Staff Product Manager, Agentic Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4649903005",
+      "title": "Staff Software Engineer, Data Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4569678005",
+      "title": "Staff Software Engineer, Enterprise GenAI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4529529005",
+      "title": "Staff Software Engineer, Full-Stack - Enterprise Gen AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4649893005",
+      "title": "Staff Software Engineer, Platform ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4674913005",
+      "title": "Staff Software Engineer, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4683446005",
+      "title": "Staff Technical Product Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4620719005",
+      "title": "STEM Fellow - Human Frontier Collective (UK)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4574113005",
+      "title": "STEM Fellow - Human Frontier Collective (US)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4623533005",
+      "title": "Strategic Finance Manager, Gen AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4631613005",
+      "title": "Strategic Finance Manager, International Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4658316005",
+      "title": "Strategic Project Lead, Robotics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4664232005",
+      "title": "Strategic Projects Lead - Coding",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4666036005",
+      "title": "Strategic Projects Lead - Coding ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4282118005",
+      "title": "Strategic Projects Lead, Generative AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4650507005",
+      "title": "Strategist, Saudi Arabia",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4648176005",
+      "title": "Support Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4304790005",
+      "title": "Tech Lead/Manager, Machine Learning Research Scientist- LLM Evals",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4618046005",
+      "title": "Tech Lead Manager- MLRE, ML Systems",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4670805005",
+      "title": "Technical Accounting and Reporting Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4611533005",
+      "title": "Technical Advisor Specialist (Part-Time Internship) ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4633072005",
+      "title": "Technical Program Manager, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4667852005",
+      "title": "Technical Program Manager, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4663997005",
+      "title": "Technical Program Manager, Robotics Data",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4667964005",
+      "title": "Technical Sourcer, Contract",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4623913005",
+      "title": "Travel & Expense Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4623605005",
+      "title": "Visiting Faculty",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4689917005",
+      "title": "Enterprise Account Executive (Financial Services)",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "4689919005",
+      "title": "Enterprise Account Executive (Healthcare & Life Sciences)",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "4689909005",
+      "title": "Principal Solutions Engineer, Enterprise",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "4675842005",
+      "title": "Product Manager, Gen AI Platform",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "4689751005",
+      "title": "Senior AI Infrastructure Engineer - Training Platform",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    }
+  ],
+  "summary": {
+    "withdrawnCount": 3,
+    "stillOpenCount": 169,
+    "bucketCounts": {
+      "0–14d (likely withdrawn)": 3
+    }
+  }
+}

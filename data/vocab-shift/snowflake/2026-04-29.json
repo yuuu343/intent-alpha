@@ -1,0 +1,691 @@
+{
+  "slug": "snowflake",
+  "computedAt": "2026-04-29T17:00:37.949Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 422,
+      "topUnigrams": [
+        [
+          "solution",
+          69
+        ],
+        [
+          "account",
+          62
+        ],
+        [
+          "executive",
+          56
+        ],
+        [
+          "software",
+          55
+        ],
+        [
+          "engineering",
+          48
+        ],
+        [
+          "product",
+          41
+        ],
+        [
+          "enterprise",
+          40
+        ],
+        [
+          "data",
+          36
+        ],
+        [
+          "ai",
+          29
+        ],
+        [
+          "sales",
+          29
+        ],
+        [
+          "development",
+          25
+        ],
+        [
+          "architect",
+          22
+        ],
+        [
+          "marketing",
+          22
+        ],
+        [
+          "acquisition",
+          20
+        ],
+        [
+          "analyst",
+          18
+        ],
+        [
+          "commercial",
+          17
+        ],
+        [
+          "partner",
+          17
+        ],
+        [
+          "specialist",
+          16
+        ],
+        [
+          "representative",
+          15
+        ],
+        [
+          "platform",
+          14
+        ],
+        [
+          "solutions",
+          14
+        ],
+        [
+          "snowflake",
+          13
+        ],
+        [
+          "observe",
+          13
+        ],
+        [
+          "technical",
+          12
+        ],
+        [
+          "field",
+          12
+        ],
+        [
+          "observability",
+          12
+        ],
+        [
+          "security",
+          11
+        ],
+        [
+          "2026",
+          10
+        ],
+        [
+          "analytics",
+          10
+        ],
+        [
+          "applied",
+          10
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          50
+        ],
+        [
+          "enterprise account",
+          21
+        ],
+        [
+          "sales development",
+          17
+        ],
+        [
+          "development representative",
+          15
+        ],
+        [
+          "solutions architect",
+          8
+        ],
+        [
+          "solution engineering",
+          8
+        ],
+        [
+          "executive commercial",
+          7
+        ],
+        [
+          "applied field",
+          7
+        ],
+        [
+          "observe snowflake",
+          7
+        ],
+        [
+          "data engineering",
+          6
+        ],
+        [
+          "product marketing",
+          6
+        ],
+        [
+          "executive acquisition",
+          6
+        ],
+        [
+          "partner development",
+          6
+        ],
+        [
+          "field marketing",
+          5
+        ],
+        [
+          "product security",
+          5
+        ],
+        [
+          "commercial acquisition",
+          5
+        ],
+        [
+          "executive enterprise",
+          5
+        ],
+        [
+          "enterprise acquisition",
+          5
+        ],
+        [
+          "public sector",
+          5
+        ],
+        [
+          "architect applied",
+          5
+        ],
+        [
+          "field engineering",
+          5
+        ],
+        [
+          "associate solution",
+          5
+        ],
+        [
+          "account exective",
+          5
+        ],
+        [
+          "exective observability",
+          5
+        ],
+        [
+          "solution data",
+          4
+        ],
+        [
+          "software ii",
+          4
+        ],
+        [
+          "software ai",
+          4
+        ],
+        [
+          "ai ml",
+          4
+        ],
+        [
+          "data cloud",
+          4
+        ],
+        [
+          "partner marketing",
+          4
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 425,
+      "topUnigrams": [
+        [
+          "solution",
+          63
+        ],
+        [
+          "account",
+          60
+        ],
+        [
+          "executive",
+          60
+        ],
+        [
+          "software",
+          58
+        ],
+        [
+          "engineering",
+          51
+        ],
+        [
+          "product",
+          41
+        ],
+        [
+          "enterprise",
+          40
+        ],
+        [
+          "data",
+          37
+        ],
+        [
+          "ai",
+          30
+        ],
+        [
+          "sales",
+          29
+        ],
+        [
+          "architect",
+          25
+        ],
+        [
+          "development",
+          24
+        ],
+        [
+          "marketing",
+          23
+        ],
+        [
+          "acquisition",
+          20
+        ],
+        [
+          "analyst",
+          20
+        ],
+        [
+          "solutions",
+          17
+        ],
+        [
+          "specialist",
+          17
+        ],
+        [
+          "commercial",
+          17
+        ],
+        [
+          "partner",
+          17
+        ],
+        [
+          "observe",
+          16
+        ],
+        [
+          "snowflake",
+          15
+        ],
+        [
+          "representative",
+          14
+        ],
+        [
+          "platform",
+          13
+        ],
+        [
+          "technical",
+          13
+        ],
+        [
+          "field",
+          12
+        ],
+        [
+          "observability",
+          12
+        ],
+        [
+          "analytics",
+          11
+        ],
+        [
+          "security",
+          11
+        ],
+        [
+          "2026",
+          10
+        ],
+        [
+          "applied",
+          10
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          53
+        ],
+        [
+          "enterprise account",
+          20
+        ],
+        [
+          "sales development",
+          16
+        ],
+        [
+          "development representative",
+          14
+        ],
+        [
+          "solutions architect",
+          10
+        ],
+        [
+          "observe snowflake",
+          9
+        ],
+        [
+          "solution engineering",
+          8
+        ],
+        [
+          "executive commercial",
+          7
+        ],
+        [
+          "applied field",
+          7
+        ],
+        [
+          "data engineering",
+          6
+        ],
+        [
+          "executive enterprise",
+          6
+        ],
+        [
+          "product marketing",
+          6
+        ],
+        [
+          "executive acquisition",
+          6
+        ],
+        [
+          "partner development",
+          6
+        ],
+        [
+          "product security",
+          5
+        ],
+        [
+          "data cloud",
+          5
+        ],
+        [
+          "commercial acquisition",
+          5
+        ],
+        [
+          "enterprise acquisition",
+          5
+        ],
+        [
+          "public sector",
+          5
+        ],
+        [
+          "field marketing",
+          5
+        ],
+        [
+          "partner marketing",
+          5
+        ],
+        [
+          "architect applied",
+          5
+        ],
+        [
+          "executive observability",
+          5
+        ],
+        [
+          "field engineering",
+          5
+        ],
+        [
+          "solution data",
+          4
+        ],
+        [
+          "software ii",
+          4
+        ],
+        [
+          "software ai",
+          4
+        ],
+        [
+          "ai ml",
+          4
+        ],
+        [
+          "cloud architect",
+          4
+        ],
+        [
+          "technical support",
+          4
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "executive observability",
+          "before": 1,
+          "after": 5,
+          "delta": 4
+        },
+        {
+          "term": "account exective",
+          "before": 5,
+          "after": 1,
+          "delta": -4
+        },
+        {
+          "term": "exective observability",
+          "before": 5,
+          "after": 1,
+          "delta": -4
+        },
+        {
+          "term": "account executive",
+          "before": 50,
+          "after": 53,
+          "delta": 3
+        },
+        {
+          "term": "solutions architect",
+          "before": 8,
+          "after": 10,
+          "delta": 2
+        },
+        {
+          "term": "software engineering",
+          "before": 2,
+          "after": 4,
+          "delta": 2
+        },
+        {
+          "term": "observe snowflake",
+          "before": 7,
+          "after": 9,
+          "delta": 2
+        },
+        {
+          "term": "technical support",
+          "before": 2,
+          "after": 4,
+          "delta": 2
+        },
+        {
+          "term": "support observe",
+          "before": 1,
+          "after": 3,
+          "delta": 2
+        },
+        {
+          "term": "enterprise account",
+          "before": 21,
+          "after": 20,
+          "delta": -1
+        },
+        {
+          "term": "executive manufacturing",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "executive fsi",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "sales development",
+          "before": 17,
+          "after": 16,
+          "delta": -1
+        },
+        {
+          "term": "development representative",
+          "before": 15,
+          "after": 14,
+          "delta": -1
+        },
+        {
+          "term": "representative emea",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "data cloud",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "cloud architect",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "architect apps",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "partner solution",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "executive enterprise",
+          "before": 5,
+          "after": 6,
+          "delta": 1
+        },
+        {
+          "term": "partner marketing",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "enterprise growth",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "observe product",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "associate solution",
+          "before": 5,
+          "after": 4,
+          "delta": -1
+        },
+        {
+          "term": "software cortex",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "strategic events",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "executive assistant",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "analyst analyst",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "data science",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "analytics ai",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "slug": "robinhood",
+  "computedAt": "2026-04-29T17:00:37.473Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 143,
+      "topUnigrams": [
+        [
+          "software",
+          29
+        ],
+        [
+          "product",
+          18
+        ],
+        [
+          "security",
+          16
+        ],
+        [
+          "engineering",
+          16
+        ],
+        [
+          "developer",
+          15
+        ],
+        [
+          "analyst",
+          10
+        ],
+        [
+          "customer",
+          9
+        ],
+        [
+          "experience",
+          9
+        ],
+        [
+          "fraud",
+          7
+        ],
+        [
+          "derivatives",
+          7
+        ],
+        [
+          "data",
+          7
+        ],
+        [
+          "ai",
+          7
+        ],
+        [
+          "android",
+          6
+        ],
+        [
+          "crypto",
+          6
+        ],
+        [
+          "designer",
+          6
+        ],
+        [
+          "operations",
+          5
+        ],
+        [
+          "money",
+          5
+        ],
+        [
+          "specialist",
+          5
+        ],
+        [
+          "scientist",
+          5
+        ],
+        [
+          "infrastructure",
+          5
+        ],
+        [
+          "platform",
+          5
+        ],
+        [
+          "banking",
+          4
+        ],
+        [
+          "representative",
+          4
+        ],
+        [
+          "risk",
+          4
+        ],
+        [
+          "investigations",
+          4
+        ],
+        [
+          "growth",
+          4
+        ],
+        [
+          "cloud",
+          4
+        ],
+        [
+          "technical",
+          4
+        ],
+        [
+          "aml",
+          3
+        ],
+        [
+          "grc",
+          3
+        ]
+      ],
+      "topBigrams": [
+        [
+          "software developer",
+          9
+        ],
+        [
+          "customer experience",
+          8
+        ],
+        [
+          "product designer",
+          6
+        ],
+        [
+          "data scientist",
+          5
+        ],
+        [
+          "experience representative",
+          4
+        ],
+        [
+          "fraud investigations",
+          4
+        ],
+        [
+          "security grc",
+          3
+        ],
+        [
+          "derivatives risk",
+          3
+        ],
+        [
+          "risk oversight",
+          3
+        ],
+        [
+          "operations specialist",
+          3
+        ],
+        [
+          "security ai",
+          3
+        ],
+        [
+          "scientist product",
+          2
+        ],
+        [
+          "capacity efficiency",
+          2
+        ],
+        [
+          "finance strategy",
+          2
+        ],
+        [
+          "prediction markets",
+          2
+        ],
+        [
+          "money movement",
+          2
+        ],
+        [
+          "security detection",
+          2
+        ],
+        [
+          "detection response",
+          2
+        ],
+        [
+          "scientist ml",
+          2
+        ],
+        [
+          "product security",
+          2
+        ],
+        [
+          "machine learning",
+          2
+        ],
+        [
+          "learning agentic",
+          2
+        ],
+        [
+          "ai vulnerability",
+          2
+        ],
+        [
+          "vulnerability management",
+          2
+        ],
+        [
+          "grc analyst",
+          2
+        ],
+        [
+          "developer infrastructure",
+          2
+        ],
+        [
+          "software cloud",
+          2
+        ],
+        [
+          "software core",
+          2
+        ],
+        [
+          "core exchange",
+          2
+        ],
+        [
+          "software data",
+          2
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 143,
+      "topUnigrams": [
+        [
+          "software",
+          30
+        ],
+        [
+          "product",
+          18
+        ],
+        [
+          "engineering",
+          17
+        ],
+        [
+          "security",
+          16
+        ],
+        [
+          "developer",
+          15
+        ],
+        [
+          "analyst",
+          9
+        ],
+        [
+          "customer",
+          9
+        ],
+        [
+          "experience",
+          9
+        ],
+        [
+          "derivatives",
+          7
+        ],
+        [
+          "data",
+          7
+        ],
+        [
+          "ai",
+          7
+        ],
+        [
+          "android",
+          6
+        ],
+        [
+          "crypto",
+          6
+        ],
+        [
+          "fraud",
+          6
+        ],
+        [
+          "designer",
+          6
+        ],
+        [
+          "operations",
+          5
+        ],
+        [
+          "money",
+          5
+        ],
+        [
+          "specialist",
+          5
+        ],
+        [
+          "scientist",
+          5
+        ],
+        [
+          "infrastructure",
+          5
+        ],
+        [
+          "platform",
+          5
+        ],
+        [
+          "representative",
+          4
+        ],
+        [
+          "risk",
+          4
+        ],
+        [
+          "investigations",
+          4
+        ],
+        [
+          "growth",
+          4
+        ],
+        [
+          "cloud",
+          4
+        ],
+        [
+          "technical",
+          4
+        ],
+        [
+          "aml",
+          3
+        ],
+        [
+          "banking",
+          3
+        ],
+        [
+          "grc",
+          3
+        ]
+      ],
+      "topBigrams": [
+        [
+          "software developer",
+          9
+        ],
+        [
+          "customer experience",
+          8
+        ],
+        [
+          "product designer",
+          6
+        ],
+        [
+          "data scientist",
+          5
+        ],
+        [
+          "experience representative",
+          4
+        ],
+        [
+          "fraud investigations",
+          4
+        ],
+        [
+          "security grc",
+          3
+        ],
+        [
+          "derivatives risk",
+          3
+        ],
+        [
+          "risk oversight",
+          3
+        ],
+        [
+          "operations specialist",
+          3
+        ],
+        [
+          "security ai",
+          3
+        ],
+        [
+          "scientist product",
+          2
+        ],
+        [
+          "capacity efficiency",
+          2
+        ],
+        [
+          "finance strategy",
+          2
+        ],
+        [
+          "prediction markets",
+          2
+        ],
+        [
+          "money movement",
+          2
+        ],
+        [
+          "security detection",
+          2
+        ],
+        [
+          "detection response",
+          2
+        ],
+        [
+          "scientist ml",
+          2
+        ],
+        [
+          "product security",
+          2
+        ],
+        [
+          "machine learning",
+          2
+        ],
+        [
+          "learning agentic",
+          2
+        ],
+        [
+          "ai vulnerability",
+          2
+        ],
+        [
+          "vulnerability management",
+          2
+        ],
+        [
+          "grc analyst",
+          2
+        ],
+        [
+          "developer infrastructure",
+          2
+        ],
+        [
+          "software cloud",
+          2
+        ],
+        [
+          "software core",
+          2
+        ],
+        [
+          "core exchange",
+          2
+        ],
+        [
+          "software data",
+          2
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "software engineering",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "account operations",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "aml analyst",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "analytics developer",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "android developer",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "android stack",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "stack credit",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "credit cards",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "cards banking",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "apac security",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "security grc",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "business recruiter",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "business sourcer",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "capacity planning",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "planning forecasting",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "forecasting analyst",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "cashiering support",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "support associate",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "chief compliance",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "compliance officer",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "officer money",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "communications compliance",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "compliance specialist",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "content writer",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "contingent workforce",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "workforce planning",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "planning partner",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "crypto aml",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "aml investigator",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "customer experience",
+          "before": 8,
+          "after": 8,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "slug": "mistral",
+  "computedAt": "2026-04-29T17:00:36.009Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 170,
+      "topUnigrams": [
+        [
+          "ai",
+          53
+        ],
+        [
+          "applied",
+          24
+        ],
+        [
+          "deployment",
+          18
+        ],
+        [
+          "strategist",
+          17
+        ],
+        [
+          "paris",
+          17
+        ],
+        [
+          "emea",
+          17
+        ],
+        [
+          "software",
+          17
+        ],
+        [
+          "product",
+          14
+        ],
+        [
+          "forward",
+          13
+        ],
+        [
+          "deployed",
+          13
+        ],
+        [
+          "executive",
+          13
+        ],
+        [
+          "machine",
+          13
+        ],
+        [
+          "learning",
+          13
+        ],
+        [
+          "legal",
+          11
+        ],
+        [
+          "research",
+          11
+        ],
+        [
+          "scientist",
+          11
+        ],
+        [
+          "account",
+          10
+        ],
+        [
+          "counsel",
+          9
+        ],
+        [
+          "technical",
+          9
+        ],
+        [
+          "enterprise",
+          9
+        ],
+        [
+          "infrastructure",
+          7
+        ],
+        [
+          "data",
+          7
+        ],
+        [
+          "cloud",
+          7
+        ],
+        [
+          "singapore",
+          7
+        ],
+        [
+          "engineering",
+          7
+        ],
+        [
+          "specialist",
+          6
+        ],
+        [
+          "cybersecurity",
+          6
+        ],
+        [
+          "ops",
+          5
+        ],
+        [
+          "us",
+          5
+        ],
+        [
+          "partner",
+          5
+        ]
+      ],
+      "topBigrams": [
+        [
+          "applied ai",
+          19
+        ],
+        [
+          "ai deployment",
+          17
+        ],
+        [
+          "deployment strategist",
+          17
+        ],
+        [
+          "forward deployed",
+          13
+        ],
+        [
+          "machine learning",
+          13
+        ],
+        [
+          "ai forward",
+          10
+        ],
+        [
+          "deployed machine",
+          10
+        ],
+        [
+          "legal counsel",
+          9
+        ],
+        [
+          "account executive",
+          9
+        ],
+        [
+          "executive enterprise",
+          7
+        ],
+        [
+          "ai scientist",
+          6
+        ],
+        [
+          "mistral cloud",
+          5
+        ],
+        [
+          "talent acquisition",
+          5
+        ],
+        [
+          "applied scientist",
+          4
+        ],
+        [
+          "scientist research",
+          4
+        ],
+        [
+          "product designer",
+          4
+        ],
+        [
+          "software backend",
+          4
+        ],
+        [
+          "commercial legal",
+          3
+        ],
+        [
+          "solution architect",
+          3
+        ],
+        [
+          "ai technical",
+          3
+        ],
+        [
+          "technical forward",
+          3
+        ],
+        [
+          "deployed ai",
+          3
+        ],
+        [
+          "paris london",
+          3
+        ],
+        [
+          "palo alto",
+          3
+        ],
+        [
+          "cloud software",
+          3
+        ],
+        [
+          "ai developer",
+          3
+        ],
+        [
+          "developer advocate",
+          3
+        ],
+        [
+          "executive assistant",
+          3
+        ],
+        [
+          "technical program",
+          3
+        ],
+        [
+          "site reliability",
+          3
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 170,
+      "topUnigrams": [
+        [
+          "ai",
+          53
+        ],
+        [
+          "applied",
+          24
+        ],
+        [
+          "deployment",
+          18
+        ],
+        [
+          "strategist",
+          17
+        ],
+        [
+          "paris",
+          17
+        ],
+        [
+          "emea",
+          17
+        ],
+        [
+          "software",
+          17
+        ],
+        [
+          "product",
+          14
+        ],
+        [
+          "forward",
+          13
+        ],
+        [
+          "deployed",
+          13
+        ],
+        [
+          "executive",
+          13
+        ],
+        [
+          "machine",
+          13
+        ],
+        [
+          "learning",
+          13
+        ],
+        [
+          "legal",
+          11
+        ],
+        [
+          "research",
+          11
+        ],
+        [
+          "scientist",
+          11
+        ],
+        [
+          "account",
+          10
+        ],
+        [
+          "counsel",
+          9
+        ],
+        [
+          "technical",
+          9
+        ],
+        [
+          "enterprise",
+          9
+        ],
+        [
+          "infrastructure",
+          7
+        ],
+        [
+          "data",
+          7
+        ],
+        [
+          "cloud",
+          7
+        ],
+        [
+          "singapore",
+          7
+        ],
+        [
+          "engineering",
+          7
+        ],
+        [
+          "specialist",
+          6
+        ],
+        [
+          "cybersecurity",
+          6
+        ],
+        [
+          "ops",
+          5
+        ],
+        [
+          "us",
+          5
+        ],
+        [
+          "partner",
+          5
+        ]
+      ],
+      "topBigrams": [
+        [
+          "applied ai",
+          19
+        ],
+        [
+          "ai deployment",
+          17
+        ],
+        [
+          "deployment strategist",
+          17
+        ],
+        [
+          "forward deployed",
+          13
+        ],
+        [
+          "machine learning",
+          13
+        ],
+        [
+          "ai forward",
+          10
+        ],
+        [
+          "deployed machine",
+          10
+        ],
+        [
+          "legal counsel",
+          9
+        ],
+        [
+          "account executive",
+          9
+        ],
+        [
+          "executive enterprise",
+          7
+        ],
+        [
+          "ai scientist",
+          6
+        ],
+        [
+          "mistral cloud",
+          5
+        ],
+        [
+          "talent acquisition",
+          5
+        ],
+        [
+          "applied scientist",
+          4
+        ],
+        [
+          "scientist research",
+          4
+        ],
+        [
+          "product designer",
+          4
+        ],
+        [
+          "software backend",
+          4
+        ],
+        [
+          "commercial legal",
+          3
+        ],
+        [
+          "solution architect",
+          3
+        ],
+        [
+          "ai technical",
+          3
+        ],
+        [
+          "technical forward",
+          3
+        ],
+        [
+          "deployed ai",
+          3
+        ],
+        [
+          "paris london",
+          3
+        ],
+        [
+          "palo alto",
+          3
+        ],
+        [
+          "cloud software",
+          3
+        ],
+        [
+          "ai developer",
+          3
+        ],
+        [
+          "developer advocate",
+          3
+        ],
+        [
+          "executive assistant",
+          3
+        ],
+        [
+          "technical program",
+          3
+        ],
+        [
+          "site reliability",
+          3
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "ai deployment",
+          "before": 17,
+          "after": 17,
+          "delta": 0
+        },
+        {
+          "term": "deployment strategist",
+          "before": 17,
+          "after": 17,
+          "delta": 0
+        },
+        {
+          "term": "strategist paris",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "hr people",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "people ops",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "ops emea",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "commercial legal",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "legal counsel",
+          "before": 9,
+          "after": 9,
+          "delta": 0
+        },
+        {
+          "term": "counsel emea",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "infrastructure solution",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "solution architect",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "architect us",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "software qa",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "strategic partner",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "partner sap",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "applied ai",
+          "before": 19,
+          "after": 19,
+          "delta": 0
+        },
+        {
+          "term": "ai technical",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "technical forward",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "forward deployed",
+          "before": 13,
+          "after": 13,
+          "delta": 0
+        },
+        {
+          "term": "deployed ai",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "ai montreal",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "customer success",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "success emea",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "account executive",
+          "before": 9,
+          "after": 9,
+          "delta": 0
+        },
+        {
+          "term": "executive enterprise",
+          "before": 7,
+          "after": 7,
+          "delta": 0
+        },
+        {
+          "term": "enterprise netherlands",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ifrs specialist",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "research data",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "data infrastructure",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "research machine",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

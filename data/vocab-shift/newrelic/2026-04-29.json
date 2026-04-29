@@ -1,0 +1,691 @@
+{
+  "slug": "newrelic",
+  "computedAt": "2026-04-29T17:00:36.341Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 70,
+      "topUnigrams": [
+        [
+          "sales",
+          27
+        ],
+        [
+          "account",
+          26
+        ],
+        [
+          "executive",
+          26
+        ],
+        [
+          "enterprise",
+          23
+        ],
+        [
+          "consultant",
+          6
+        ],
+        [
+          "technical",
+          5
+        ],
+        [
+          "solutions",
+          5
+        ],
+        [
+          "expansion",
+          4
+        ],
+        [
+          "business",
+          4
+        ],
+        [
+          "analyst",
+          4
+        ],
+        [
+          "software",
+          4
+        ],
+        [
+          "japan",
+          4
+        ],
+        [
+          "greenfield",
+          3
+        ],
+        [
+          "success",
+          3
+        ],
+        [
+          "marketing",
+          3
+        ],
+        [
+          "partner",
+          3
+        ],
+        [
+          "strategic",
+          3
+        ],
+        [
+          "emea",
+          3
+        ],
+        [
+          "ii",
+          3
+        ],
+        [
+          "new",
+          2
+        ],
+        [
+          "west",
+          2
+        ],
+        [
+          "development",
+          2
+        ],
+        [
+          "commercial",
+          2
+        ],
+        [
+          "strategy",
+          2
+        ],
+        [
+          "engineering",
+          2
+        ],
+        [
+          "web",
+          2
+        ],
+        [
+          "gtm",
+          2
+        ],
+        [
+          "enablement",
+          2
+        ],
+        [
+          "data",
+          2
+        ],
+        [
+          "golang",
+          2
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          26
+        ],
+        [
+          "enterprise sales",
+          21
+        ],
+        [
+          "executive enterprise",
+          20
+        ],
+        [
+          "sales japan",
+          4
+        ],
+        [
+          "solutions consultant",
+          4
+        ],
+        [
+          "sales greenfield",
+          3
+        ],
+        [
+          "technical success",
+          3
+        ],
+        [
+          "consultant ii",
+          3
+        ],
+        [
+          "sales new",
+          2
+        ],
+        [
+          "new business",
+          2
+        ],
+        [
+          "executive expansion",
+          2
+        ],
+        [
+          "partner sales",
+          2
+        ],
+        [
+          "software golang",
+          2
+        ],
+        [
+          "sales gcc",
+          2
+        ],
+        [
+          "executive public",
+          2
+        ],
+        [
+          "public sector",
+          2
+        ],
+        [
+          "enterprise expansion",
+          1
+        ],
+        [
+          "sales west",
+          1
+        ],
+        [
+          "west central",
+          1
+        ],
+        [
+          "associate technical",
+          1
+        ],
+        [
+          "business development",
+          1
+        ],
+        [
+          "development representative",
+          1
+        ],
+        [
+          "commercial account",
+          1
+        ],
+        [
+          "deal strategy",
+          1
+        ],
+        [
+          "marketing engineering",
+          1
+        ],
+        [
+          "engineering ai",
+          1
+        ],
+        [
+          "strategic cloud",
+          1
+        ],
+        [
+          "cloud partnerships",
+          1
+        ],
+        [
+          "web strategy",
+          1
+        ],
+        [
+          "strategy engineering",
+          1
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 72,
+      "topUnigrams": [
+        [
+          "sales",
+          29
+        ],
+        [
+          "account",
+          27
+        ],
+        [
+          "executive",
+          27
+        ],
+        [
+          "enterprise",
+          25
+        ],
+        [
+          "consultant",
+          7
+        ],
+        [
+          "business",
+          6
+        ],
+        [
+          "partner",
+          5
+        ],
+        [
+          "solutions",
+          5
+        ],
+        [
+          "expansion",
+          4
+        ],
+        [
+          "technical",
+          4
+        ],
+        [
+          "analyst",
+          4
+        ],
+        [
+          "japan",
+          4
+        ],
+        [
+          "greenfield",
+          3
+        ],
+        [
+          "new",
+          3
+        ],
+        [
+          "success",
+          3
+        ],
+        [
+          "development",
+          3
+        ],
+        [
+          "billing",
+          3
+        ],
+        [
+          "marketing",
+          3
+        ],
+        [
+          "strategic",
+          3
+        ],
+        [
+          "emea",
+          3
+        ],
+        [
+          "software",
+          3
+        ],
+        [
+          "representative",
+          2
+        ],
+        [
+          "strategy",
+          2
+        ],
+        [
+          "engineering",
+          2
+        ],
+        [
+          "web",
+          2
+        ],
+        [
+          "gtm",
+          2
+        ],
+        [
+          "enablement",
+          2
+        ],
+        [
+          "data",
+          2
+        ],
+        [
+          "financial",
+          2
+        ],
+        [
+          "golang",
+          2
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          27
+        ],
+        [
+          "enterprise sales",
+          23
+        ],
+        [
+          "executive enterprise",
+          22
+        ],
+        [
+          "solutions consultant",
+          4
+        ],
+        [
+          "sales japan",
+          4
+        ],
+        [
+          "sales greenfield",
+          3
+        ],
+        [
+          "sales new",
+          3
+        ],
+        [
+          "new business",
+          3
+        ],
+        [
+          "technical success",
+          3
+        ],
+        [
+          "business development",
+          2
+        ],
+        [
+          "development representative",
+          2
+        ],
+        [
+          "partner sales",
+          2
+        ],
+        [
+          "software golang",
+          2
+        ],
+        [
+          "solution consultant",
+          2
+        ],
+        [
+          "sales expansion",
+          2
+        ],
+        [
+          "sales gcc",
+          2
+        ],
+        [
+          "executive public",
+          2
+        ],
+        [
+          "public sector",
+          2
+        ],
+        [
+          "consultant ii",
+          2
+        ],
+        [
+          "enterprise expansion",
+          1
+        ],
+        [
+          "sales west",
+          1
+        ],
+        [
+          "west central",
+          1
+        ],
+        [
+          "associate technical",
+          1
+        ],
+        [
+          "deal strategy",
+          1
+        ],
+        [
+          "marketing engineering",
+          1
+        ],
+        [
+          "engineering ai",
+          1
+        ],
+        [
+          "strategic cloud",
+          1
+        ],
+        [
+          "cloud partnerships",
+          1
+        ],
+        [
+          "web strategy",
+          1
+        ],
+        [
+          "strategy engineering",
+          1
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "executive enterprise",
+          "before": 20,
+          "after": 22,
+          "delta": 2
+        },
+        {
+          "term": "enterprise sales",
+          "before": 21,
+          "after": 23,
+          "delta": 2
+        },
+        {
+          "term": "account executive",
+          "before": 26,
+          "after": 27,
+          "delta": 1
+        },
+        {
+          "term": "sales new",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "new business",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "business development",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "development representative",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "executive expansion",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "sales expansion",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "solution consultant",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "consultant ii",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "enterprise expansion",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "sales greenfield",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "sales west",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "west central",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "associate technical",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "technical success",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "deal strategy",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "marketing engineering",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "engineering ai",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "partner sales",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "strategic cloud",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "cloud partnerships",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "web strategy",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "strategy engineering",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "emea regional",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "regional marketing",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "sales account",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "gtm enablement",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "enablement leader",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

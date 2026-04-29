@@ -1,0 +1,1217 @@
+{
+  "slug": "mistral",
+  "computedAt": "2026-04-29T17:00:36.059Z",
+  "snapshotCount": 2,
+  "snapshotDates": [
+    "2026-04-28",
+    "2026-04-29"
+  ],
+  "framework": {
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "buckets": [
+      "0–14d (likely withdrawn)",
+      "15–60d",
+      "61–120d",
+      "120+d (backlog)"
+    ],
+    "readiness": "live"
+  },
+  "withdrawn": [],
+  "stillOpen": [
+    {
+      "id": "2f45acac-3da3-4f16-ba05-4d34f5993c06",
+      "title": "Senior AI Deployment Strategist - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4083c3ea-4edf-48b5-ab1f-7842cbe2d1e5",
+      "title": "HR People Ops EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "eee97cf5-7718-4779-8372-eb3f9dda464d",
+      "title": "Commercial Legal Counsel, EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9331f93f-8912-46a6-9245-85d61662f378",
+      "title": "Infrastructure Solution Architect - US",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "50a72479-5288-409a-83af-7db93a513e67",
+      "title": "Software Engineer, QA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8cff0296-3d73-49e8-b24e-507e10f35853",
+      "title": "Strategic Partner Lead, SAP",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0b609a1a-cda9-4dc6-86fa-98c0a17d8273",
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "251a332b-556c-4cbd-b9bc-8234b6d68443",
+      "title": "Customer Success, EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c2374b3f-cc73-43f6-93ab-02c222fa734a",
+      "title": "Account Executive, Enterprise, Netherlands",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c32356b0-8a7f-4f17-8c1f-3fff7210addc",
+      "title": "IFRS Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8c71b069-0eda-40d1-8cb1-4094fd9c81de",
+      "title": "Research Engineer, Data Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c9dc32da-f5b1-4162-9506-4372aa347503",
+      "title": "Research Engineer, Machine Learning - Paris/London/Zurich/Warsaw",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9bf47c2a-73c1-49dd-a467-c819f027c4fe",
+      "title": "Legal Counsel, Patent Attorney",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8751ce7e-2b26-4498-9438-dacffffbc0ab",
+      "title": "Legal Counsel, Copyright Attorney",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4fbad709-16bd-488b-8762-10cd8cd39e2a",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b678fffa-1135-4aa4-8c98-ea358d40adb1",
+      "title": "AI Deployment Strategist - Marseille",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a4a6d168-b034-44b3-a3a4-1ccaa7553005",
+      "title": "Senior Compute Legal Counsel",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "74c23df7-28b0-4080-8e7a-8f3ba13c11c7",
+      "title": "AI Deployment Strategist - India",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "951ec5c9-37f9-4ce5-8aaa-00774c879500",
+      "title": "Product Manager, Forge",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7d3f6c65-c850-4b57-b00c-a21a0a395842",
+      "title": "Revenue Recognition Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5d444fcb-4101-44a7-9996-45819443d640",
+      "title": "Research Platform Engineer, DevOps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "813d73f4-593f-414a-a912-f08af0690666",
+      "title": "AI Deployment Strategist - Munich, Germany",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3d62efe0-f52f-410a-9012-a573d326fb33",
+      "title": "Data Annotation Quality Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ee13691d-6880-483b-85fe-17d9d939036a",
+      "title": "Infrastructure Solution Architect - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "de8cdd34-d350-409a-be4a-d59b59bb5ed8",
+      "title": "AI Deployment Strategist - Seoul",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "36a02f8f-6c0e-4ce9-a127-ef8ed11b57e1",
+      "title": "AI Deployment Strategist - Netherlands",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "36e6bc89-4a04-4c0f-b528-14fb3b193606",
+      "title": "HR Business Partner",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ec9cb4d8-2b00-4270-9e29-e40320ecd28d",
+      "title": "CyberSecurity, Offensive Security Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c753f3eb-1639-41dd-9670-99132635e9f3",
+      "title": "Account Executive, Enterprise - SF Bay Area",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "99b176dd-4f9e-46a5-a0e6-cc527c2f52ad",
+      "title": "Privacy Legal Counsel",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2905aa08-570c-4089-ba77-ca6ecff77f99",
+      "title": "Partner Manager SI - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "abd2970c-582b-4661-9710-3dfd43cd82c2",
+      "title": "Account Executive - Enterprise, (Consulting)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "29612daf-c8bc-48cc-8865-628a8b36991b",
+      "title": "AI Deployment Strategist - Spain",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "04b73ba8-ba28-4808-a4e4-cdac701b1054",
+      "title": "Mistral Cloud - Software Engineer, Fullstack/Frontend",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "32c6fa57-0934-4dac-a5ec-270f3035cc7a",
+      "title": "Strategic Partner Lead - OEM and Neoclouds",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f9b20995-4c6f-4bc2-a5de-99245ad8abde",
+      "title": "Software Engineer, Deployment Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1e184f4f-fefb-42fa-8696-4ca96a50606b",
+      "title": "Software Engineer,  Frontend",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "56591088-58f5-48cb-b914-d63a9da03a1e",
+      "title": "Research Engineer, Data Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2b2a2ad9-5832-4ec7-9198-5365f2a3dfb3",
+      "title": "Applied AI Engineer, Senior/Staff Devops/SRE - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1b998e80-5815-4f60-9255-a7df93093b73",
+      "title": "AI Developer Advocate - Singapore",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d63e106b-e669-4696-8e78-5601684491c7",
+      "title": "Software Engineer, Enterprise Agents",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c0968784-8292-425a-b0a6-ac144decdf21",
+      "title": "Talent Acquisition (Engineering/Product/GTM/ Science) - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d22fcb76-4256-48a0-85b8-181d781f991d",
+      "title": "Applied Scientist / Research Engineer (Internship)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "266b5dce-391d-45cd-bdd5-c8cccaf34d3e",
+      "title": "Model Behavior Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e992a515-5e19-423f-95a7-1307418d3ae3",
+      "title": "Executive Assistant to VP Legal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "67595755-2eaf-46e7-bf11-80f8d324a987",
+      "title": "Account Executive, Enterprise, France - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "661c2981-4a1b-4183-8e82-16d8a578721a",
+      "title": "Associate AI Deployment Strategist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "85cda646-84b7-4679-913c-da4afd0fdbb5",
+      "title": "Software Engineer, Cloud Deployments",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a4daed92-0ead-46a9-80e4-c64d53cf4175",
+      "title": "AI Scientist - Warsaw",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2e4b751b-b81b-48a9-b9bb-8b7f72604215",
+      "title": "Accounting Manager (R2R)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6a075ed1-3d62-4a79-a133-65f8038c44ca",
+      "title": "Account Executive, Enterprise, UK - London",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c2bd057d-592a-477f-be58-4710e9a7471f",
+      "title": "Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "590ce270-6151-427f-af71-cd1d31f5d2aa",
+      "title": "AI Deployment Strategist - Singapore",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f96ce512-4110-499c-a7e2-db7a354779ab",
+      "title": "Account Executive, Digital Native US",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "76db9c8b-9465-4342-b229-57dea7850049",
+      "title": "Social Media & Content Specialist - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f517c9b8-d54e-4085-ae73-b21974fdd41d",
+      "title": "Marketing Programs Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "79bbd12c-cb41-40bc-b34c-7f5a6755e098",
+      "title": "Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Singapore",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f18524f8-c047-42b5-8c38-b5f903b2e299",
+      "title": "GPU Programming Expert",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f8af3447-4c99-4823-a43e-ca161d29433c",
+      "title": "Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Morocco",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ac915ac2-b10e-4b0b-9de4-a35fdbe99f78",
+      "title": "Talent Acquisition, USA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e8c11635-0cdc-40f9-94f7-3ca43344f3c9",
+      "title": "Account Executive, Enterprise, DACH",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c737996c-9fc0-4b61-9f81-2f95e5ae6987",
+      "title": "AI Scientist - Robotics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c82efae5-7167-4651-8949-a68868b7a654",
+      "title": "Product Manager, AI Studio",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2da43b44-d46e-4385-a373-2a299f9931bf",
+      "title": "Product Designer - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "fda82f00-e1e1-4f7b-a765-193e6c77a417",
+      "title": "Product Regulatory Legal Counsel (EU)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "cdd3fc56-5266-48bb-bd09-7c6118c1a7c3",
+      "title": "Mistral Cloud - Software Engineer, Backend (Golang)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "58483ef2-e063-4b54-85d3-64cfc97d9df6",
+      "title": "AI Scientist - Paris/London - Onsite or Hybrid or Remote",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2ab2bd05-c796-4d4c-be96-920504c9980c",
+      "title": "Technical Program Manager, Science Operations - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f9c35beb-9c62-4b0c-a30f-e885bc6c4545",
+      "title": "Network Engineer, HPC - Paris Region",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3bb6e854-4c46-42c3-a77b-f6db4ebd0abd",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1ae0e715-71e0-441f-9e1b-ca6c95ad4ce9",
+      "title": "Product Manager, Document Intelligence",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "fa2edf64-1186-4ae1-83a7-f1ea785e94ce",
+      "title": "Account Executive – AI for Citizens",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "845b69c2-964a-49cb-a9da-3ab02751f301",
+      "title": "Site Reliability Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "903e9250-6d54-4bda-a7c8-d4a176be357d",
+      "title": "Data Analytics/Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3b3287ce-d244-4195-82c0-9a336b251d54",
+      "title": "Cybersecurity Engineer, SIEM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ac898b78-2f85-4002-b206-6f94745aa5f8",
+      "title": "Software Engineer, Knowledge and Search",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "45c16a3b-79a1-499a-b9af-0ae905b3784e",
+      "title": "Applied Science / Technical Program Manager - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b6400154-7b71-4bc3-8706-e1a380a7f796",
+      "title": "Software Engineer, Backend (London)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "700ab96a-5c9b-45f6-b980-6e45486d896c",
+      "title": "AI Scientist - Palo Alto",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c914c3f4-336b-4957-bf24-ef75ace5d475",
+      "title": "Product Designer - Mistral Cloud",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8f467aa3-7fbf-4fdc-bfa9-595d239bea87",
+      "title": "Applied Scientist / Research Engineer - Multimodal (Come to Singapore)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5bc5437b-5d0b-47e6-866f-345b8aebe274",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "08369c15-824e-4044-a700-31665c015ca1",
+      "title": "Senior Product Marketing Manager - Studio",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e4a730dc-19cb-4b5c-94b4-cfcce8698f2d",
+      "title": "AI Deployment Strategist - Morocco",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "68d348e6-130b-4e09-8ec5-e027041c0165",
+      "title": "AI Scientist - Audio",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4e42f6eb-03d4-402d-a23b-fd043756c5ec",
+      "title": "Technical Marketing Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "63e4b464-4a1e-4517-a863-4591e5c9a412",
+      "title": "CyberSecurity Engineer, DevSecOps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "646436c5-ba25-4db6-9baf-6794852cec39",
+      "title": "Social Media Specialist - Writing & Video (US)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "28e604cd-9d7d-42d0-8780-c9f8f967597d",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - NYC/Palo Alto",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "bafc504d-b464-468b-8ef9-9d1b97f94aa6",
+      "title": "AI Deployment Strategist - Australia",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c3f96f5a-248e-493f-b8ad-bf9ae49d62dc",
+      "title": "AI Deployment Strategist - Luxembourg",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7ac00414-e04e-4b0b-b293-54fadc5258ab",
+      "title": "Legal Tech & Ops Associate (IP & Licensing Business)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "93974202-1cc1-42d2-8022-1fbf66ba893d",
+      "title": "Code Data Quality Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1465fd84-84eb-4469-ba3e-21655256f020",
+      "title": "Talent Acquisition - US (Contractor)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0b3706a1-af6c-48d2-84bd-c11eb19a691e",
+      "title": "Workplace Ops - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "94e3f23a-4607-435b-9241-48884f14143f",
+      "title": "Executive Assistant to the VP Engineering - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "361bea86-e2bb-48a0-a7fe-16af969f50c1",
+      "title": "Technical Program Manager, Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "36c431e1-7d0c-4a14-8e4f-d5e3ac288454",
+      "title": "Technical Support Engineer - Use Cases",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "520f3b83-3db3-4176-ad1f-e71ca6e249f6",
+      "title": "Discovery Scientists - AI for Science - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "328d67b5-2a80-4487-b66f-6b0d2cfc2cb4",
+      "title": "Lead Accounting Operations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b2a581b9-d0c9-48f9-92e4-8f343b9a3dde",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - Montreal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c8070988-cb46-4552-8600-955dd9a8c98c",
+      "title": "Account Manager - Morocco",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ccc333c1-b96a-48d8-9951-0910356114dc",
+      "title": "Applied AI Engineer, Prototyping",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d1887bfd-8d44-46d6-b253-cadc1b1aeb11",
+      "title": "Applied AI Engineer, Fullstack Software Engineer - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ba20a01d-d2de-437d-9b79-d755754cb598",
+      "title": "Workplace Ops - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9bccbc7c-b062-47f3-a8ee-05d62055add5",
+      "title": "Engineering Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4db28c0f-e180-4566-b811-5774a521ac18",
+      "title": "M&A Tech Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "71600dbd-0732-4ee4-b838-278727de16e2",
+      "title": "Engineering Team Lead, DevEx",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8d258c99-5071-48cc-a9c5-3c7782b8f0ba",
+      "title": "Talent Acquisition - EMEA (Contractor)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "04eb311d-5c3b-4d71-b2e9-361c8c015bd0",
+      "title": "Product Designer - Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f9356f17-4a18-456f-a39f-d3448cc91829",
+      "title": "Site Reliability Engineer - NYC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "17659755-23b6-4b61-8ca1-d0ef4e100dba",
+      "title": "Business Development Manager - Tech Partners",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0c612f43-ecd3-4617-98eb-82c6bd9c8d4c",
+      "title": "AI Developer Advocate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e5076e8f-cea7-4efa-ad7f-89ad415fa79e",
+      "title": "Applied Scientist / Research Engineer - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "afa62552-f388-482c-9bf3-fe282846046d",
+      "title": "Licensing Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ca3b0c0b-1f28-4fe3-bd7f-e43d53ad16ab",
+      "title": "Research Engineer, Machine Learning",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "db15ed97-7ad8-4734-89a4-bc3728be3409",
+      "title": "Enterprise Sales Leader",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "bfd71ad7-f64a-4e05-9d91-cba12fb5b083",
+      "title": "Product Manager, Context & Search",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d891ff16-3e1c-47c0-8719-bbd91db4f807",
+      "title": "Systems Engineer, HPC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b13a26c4-cc9d-48f2-b6fc-5ce79949a9ef",
+      "title": "Applied Scientist / Research Engineer - Singapore",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2c11ec4c-7926-4d39-baa6-82ab22dcb687",
+      "title": "Solution Operations - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "acccc2fd-c0f9-41b8-85f2-e6eefc8f8b79",
+      "title": "AI Engineer, Product",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "47212a52-08d2-4439-adc4-8797037f5a5c",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9cabf384-7f00-44df-8ec1-c539d8df7a14",
+      "title": "Director of Internal Control",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f3e9ff45-22e1-476f-be92-449b16c39a62",
+      "title": "Web Crawling Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "06c90a4d-cd01-41b5-a3c4-a14f0228d52c",
+      "title": "CyberSecurity Team Lead, Infrastructure and Application",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b4d7f940-c4c4-4683-b8e1-ef99e17268ad",
+      "title": "Software Engineer, DevEx",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "32e9f689-9168-47bc-a7be-0aa6ff04fdae",
+      "title": "AI Deployment Strategist - MENA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1b554cbf-f14b-4094-affa-5e4cbe2ee125",
+      "title": "Product Manager, Cloud Partnerships",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "17f3d0b6-040f-45e2-8569-593d797daf15",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - Morocco",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "eb77e900-0cb6-4627-8da9-ee6de432336b",
+      "title": "Trusty - Great profiles not matching open roles",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7281ff55-d1a6-4d1d-bc01-6de046879b2a",
+      "title": "Mistral Cloud - Software Engineer, Compute Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4b3e0856-773f-4cda-b407-c1da47f909be",
+      "title": "Product Designer - Documentation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8969e0a5-3449-4c50-b060-3c594d7edd78",
+      "title": "HR People Ops APAC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "944853ee-298d-4385-86ab-e654684b1c55",
+      "title": "Senior Commercial Legal Counsel (MENA)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1467d30f-2e25-4e9e-baa6-01fd958b8cd8",
+      "title": "Partner Solution Architect - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3b9bff7b-40c9-4349-815c-e4e7193f1079",
+      "title": "AI Scientist - Zurich",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a0d7ebb7-bc40-4b1c-a9b7-322286c3e1db",
+      "title": "Data Scientist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e811bac8-ce98-4235-898e-c977af6dc31f",
+      "title": "Product Marketing Manager, Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d6a8457e-6a7b-4711-92be-8a3ee53bb1a1",
+      "title": "Developer Education Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1a0ebcde-7f2f-4d3a-99c2-15fdb741b74e",
+      "title": "AI Deployment Strategist, Cybersecurity - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "234d6712-ee44-4d42-bbba-d169bbc1ec5e",
+      "title": "Head of Communications, APAC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "84acfeb5-1ccf-4548-879c-5f1ddf728319",
+      "title": "Accounts Payable Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5d4153c4-f0cf-4e7e-ab7a-300b1c393df6",
+      "title": "Applied AI, Evaluation Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0dbee454-242d-4a87-a94d-798805a80ca3",
+      "title": "Software Engineer, Backend (Paris)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "005f2e7e-a4ed-408e-988f-8b3a14371bf4",
+      "title": "Future AI Global leaders - Applied AI & Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0011bc22-e116-45b1-a12f-0882e393560e",
+      "title": "Datacenter Hardware Engineer, HPC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0ab92b42-23e5-431a-ba08-50b870bcbea7",
+      "title": "Commercial Legal Counsel - Singapore",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0d1b677d-4238-46a6-8b85-edc514c692df",
+      "title": "Software Engineer, Backend (New-York)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e91d8785-a4a1-4fc5-b214-21d285005cd0",
+      "title": "Research Software Engineer - Paris/London",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "798f4dcc-b169-449b-b30a-c74ec396f200",
+      "title": "SAP Platform Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7531536f-cf74-4a10-b723-31632a283e8c",
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "27c1d352-ac0b-4329-a817-af6c41a176f0",
+      "title": "Field Hardware Engineer, HPC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "20c65be5-7f68-4263-9332-901bcbf53c07",
+      "title": "Executive Assistant to VP of Engineering (Contractor)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e9278fd6-0e3b-4e8e-8bd3-46dcfea4bbcc",
+      "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "97471159-f215-4ab2-bf9a-7a224e7e0994",
+      "title": "Account Executive, Enterprise - New York",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8b1b36f4-8c2e-4345-9eec-1e8fbae1bf7e",
+      "title": "AI Deployment Strategist - UK",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8fa09acd-9462-4fe5-8dc7-e9671e3bd58c",
+      "title": "General Accountant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b52dc2f5-3113-47cf-9960-340a79ad2487",
+      "title": "Open-Source Software, Machine Learning Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "afd00427-7a2f-4570-9a52-e9754f961b34",
+      "title": "Technical Support Engineer – On-Premise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a2a3f5fb-bddf-496c-8b12-8a7932ac1740",
+      "title": "Talent Acquisition Lead - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "10ceecf8-6e1f-46aa-ac3b-18d52a2cc27d",
+      "title": "Mistral Cloud - Site Reliability Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "dbd4595f-a2e6-423f-bc9e-3cb6e8e3903e",
+      "title": "Research Engineer - Robotics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9a69d18d-ec48-440c-81b8-678a6e57e227",
+      "title": "CyberSecurity Engineer, SOC Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b152b555-32ed-4c6c-a003-3af6498b2e73",
+      "title": "AI Developer Advocate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5cb002f2-31eb-454e-87a7-5058bef37924",
+      "title": "AI Deployment Strategist - Sweden",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b93ae553-d2f0-42ff-a642-04d696fc6ef7",
+      "title": "AI Deployment Strategist - Paris",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "546ce691-a57b-4a25-ad2b-16e3b55b9f9e",
+      "title": "Data Center Operations Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "31389e0c-4cf5-46c2-9d80-a93558da882d",
+      "title": "Legal Counsel - US",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1b70740f-d139-478d-b17a-7c3a9da1599e",
+      "title": "Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    }
+  ],
+  "summary": {
+    "withdrawnCount": 0,
+    "stillOpenCount": 170,
+    "bucketCounts": {}
+  }
+}

@@ -1,0 +1,3999 @@
+{
+  "slug": "servicenow",
+  "computedAt": "2026-04-29T17:00:37.841Z",
+  "snapshotCount": 2,
+  "snapshotDates": [
+    "2026-04-28",
+    "2026-04-29"
+  ],
+  "framework": {
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "buckets": [
+      "0–14d (likely withdrawn)",
+      "15–60d",
+      "61–120d",
+      "120+d (backlog)"
+    ],
+    "readiness": "live"
+  },
+  "withdrawn": [
+    {
+      "id": "744000123268654",
+      "title": "Senior Staff Machine Learning Engineer, GAI Search Platform - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123252060",
+      "title": "Senior Technical Program Manager - Veza",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000122493396",
+      "title": "People Operations Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000122326699",
+      "title": "Sr. Business Process Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000122325422",
+      "title": "Sr. Business Process Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000122190778",
+      "title": "Principal AI Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000122182904",
+      "title": "Sr Mid-Market Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000122063246",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000121931612",
+      "title": "Enterprise Account Executive -Higher Education ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000121747747",
+      "title": "Senior Solution Sales Executive (Risk/Security)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000121476276",
+      "title": "Implementation Manager - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000121298267",
+      "title": "Sr Technology Consultant - Veza",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000121297013",
+      "title": "Sr Technology Consultant - veza",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000121063127",
+      "title": "Sr. Manager, Global Sourcing Professional Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000120356792",
+      "title": "Senior Enterprise Account Executive, Bundesländer West",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000119654537",
+      "title": "Senior Customer Success Manager - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000119549165",
+      "title": "Director, Expert Services Management - CRM & Industry Workflows",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000119430212",
+      "title": "Dir, Software Engrg Mgmt",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000119280837",
+      "title": "Dir, Inbound Product Mgmt - ITOM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000118976072",
+      "title": "Customer Success Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000118628501",
+      "title": "Senior Technical Consultant, Platform - Federal TS/SCI/FSP Clearance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000118098447",
+      "title": "Executive Operations Associate - President's Office",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000117952354",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000117405938",
+      "title": "Transfer Pricing Tax Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000117406257",
+      "title": "Transfer Pricing Tax Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000117405737",
+      "title": "Transfer Pricing Tax Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000117310567",
+      "title": "Senior Manager, Web Experience",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000117308308",
+      "title": "Web Experience Manager, Conversion & Growth",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000116211739",
+      "title": "Transfer Pricing Tax Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000115751147",
+      "title": "Sr Solution Sales Executive - CRM & Industry - FINS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000112979514",
+      "title": "Software Licensing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000112786067",
+      "title": "Resource Deployment Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000112785835",
+      "title": "Resource Deployment Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000112785247",
+      "title": "Resource Deployment Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000111917046",
+      "title": "Senior Manager, Media (IT,Sec,Exp)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000110036385",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000108657852",
+      "title": "Strategy, Planning & Operations (SPO) Senior Manager – Analytics & Insights ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000106821555",
+      "title": "Resell Partner Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000100911675",
+      "title": "Senior Technical Consultant, Platform - Federal TS/SCI/FSP Clearance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    }
+  ],
+  "stillOpen": [
+    {
+      "id": "744000123321759",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123318860",
+      "title": "Sr Staff Site Reliability Engineer - Veza ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123317009",
+      "title": "Senior Principal Solution Architect, Platform Expert Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123312447",
+      "title": "Sr System Engineer - Access review- Veza",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123283770",
+      "title": "Senior Technical Consultant, Data & Integrations, Platform Products Expert Implementation ServicesSr",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123282135",
+      "title": "Manager, Strategic Customer Success - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123281859",
+      "title": "Software Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123272157",
+      "title": "Principal Inbound Product Manager, Agentic Platform - MoveWorks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123253785",
+      "title": "Director, Alliance & Partner Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123239268",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123237356",
+      "title": " Senior Manager, Expert Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123238379",
+      "title": " Senior Manager, Expert Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123212675",
+      "title": "Principal Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123199480",
+      "title": "Principal Customer Success Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123163069",
+      "title": "Sales Development Representative - Native/Fluent Dutch Speaking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123135949",
+      "title": "Inside Solution Consultant - German Speaking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123129483",
+      "title": "Advisory Solution Consultant - Data & Analytics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123121489",
+      "title": "Sr Dir, Global Partnerships and Channels, Asia",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122583603",
+      "title": "Sr Enterprise Account Executive, Philippines",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122551449",
+      "title": "Principal Engagement Manager ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122549329",
+      "title": "Dir, Management Consulting",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122521249",
+      "title": "Staff Inbound Product Manager- SAM (Software Asset Management)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122517499",
+      "title": "Senior CRM Account Executive - State of California",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122491422",
+      "title": "Commercial Account Executive - MN ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122477061",
+      "title": "Director, Global Business Acceleration",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122461739",
+      "title": "Principal Customer Success Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122454832",
+      "title": "Associate New Logo Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122455929",
+      "title": "Senior Solution Sales Executive - Public Sector - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122410777",
+      "title": "Senior Treasury Analyst – Treasury Transformation & AI Innovation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122407539",
+      "title": "Advisory Presales Solution Consultant - GRC & SecOps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122402900",
+      "title": "Business Development Manager  - Security & Risk | Partner Channels",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122381681",
+      "title": "Enterprise Account Executive - Utility & Retail ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122380869",
+      "title": "Senior Solution Sales Executive - CRM & Industry Workflows",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122380530",
+      "title": "Senior Solution Sales Executive - CRM & Industry Workflows",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122380729",
+      "title": "Partner Account Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122380159",
+      "title": "Field Marketing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122378817",
+      "title": "Field Marketing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122378409",
+      "title": "Staff Software Engineer - Microservices",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122373980",
+      "title": "Business Development Representative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122346079",
+      "title": "Senior Machine Learning Engineer, Search Platform - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122346009",
+      "title": "Senior AI Agent Engineer – Moveworks | Customer Deployment (Federal) ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122345597",
+      "title": "Staff AI Agent Engineer – Moveworks | Customer Deployment",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122345610",
+      "title": "Senior Machine Learning Engineer, GAI Search Relevance - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122345479",
+      "title": "Staff AI Agent Engineer – Moveworks | Customer Deployment",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122332164",
+      "title": "Principal Platform Architect - Financial Market and Insurance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122323549",
+      "title": "Product Success Technical Director-CRM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122323259",
+      "title": "Product Success Technical Director-CRM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122321590",
+      "title": "Product Success Technical Director-CRM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122310689",
+      "title": "Senior Data Scientist - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122308049",
+      "title": "Sr Staff Outbound Product Manager - AI Assistant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122306239",
+      "title": " Dir, Software Engineering Management, Platform - Veza ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122297039",
+      "title": "Mid-Market Account Executive - Fluent Spanish Speaker",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122296850",
+      "title": "Sr Enterprise Account Executive - HDFC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122288554",
+      "title": "Associate Solution Consultant - Talent Community",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122286883",
+      "title": "Solution Consultant - Talent Community",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122280092",
+      "title": "EMEA, Business Strategy Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122281190",
+      "title": "EMEA, Business Strategy Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122268938",
+      "title": "Business Development Manager- Security & Risk / Partner Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122266712",
+      "title": "Business Development Manager - Security & Risk | Partner Channels",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122269177",
+      "title": "Business Development Manager - Security & Risk | Partner Channels",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122264978",
+      "title": "Staff Devops Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122241448",
+      "title": "Senior Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122167367",
+      "title": "Senior Technical Support Engineer(Integration)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122167277",
+      "title": "Staff Technical Support Engineer(Platform)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122126027",
+      "title": "Area VP, Solution Consulting - Canada",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122110277",
+      "title": "Staff Machine Learning Engineer, Agentic AI Systems - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122107869",
+      "title": "Manager, Strategy & Operations — Moveworks ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122090573",
+      "title": "Senior Machine Learning Engineer, Agentic Systems - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122087338",
+      "title": "Sr. Staff Information Architect, IA & Taxonomy Solutions ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122088497",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122087628",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122088095",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122082883",
+      "title": "Manager, Customer Success Operations - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122080660",
+      "title": "Engineering Manager, Agentic Systems - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122076598",
+      "title": "Forward Deployed Solution Engineer- Applied AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122078187",
+      "title": "ServiceNow Technical Consultant/Developer for Finance & Supply Chain Solution Implementations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122078067",
+      "title": "Sr. Technical Consultant (Developer), ServiceNow Finance & Supply Chain (Source-to-Pay) and Contracting Operations Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122077468",
+      "title": "Sr. Technical Consultant (Developer), ServiceNow Finance & Supply Chain (Source-to-Pay) and Contracting Operations Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122077162",
+      "title": "Sr. Technical Consultant (Developer), ServiceNow Finance & Supply Chain (Source-to-Pay) and Contracting Operations Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122076747",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122076337",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122075750",
+      "title": " Solution Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122072010",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122070067",
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122068727",
+      "title": "Risk Manager ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122057117",
+      "title": "Sr. Technical Consultant (Developer), ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122054207",
+      "title": "Senior Advisory Solution Consultant - Moveworks ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000122043009",
+      "title": "People Operations Team Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121979977",
+      "title": "Senior AI Agent Engineer – Moveworks | Customer Deployment",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121979747",
+      "title": "Staff AI Agent Engineer – Moveworks | Customer Deployment",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121955327",
+      "title": "Senior Solution Sales Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121937147",
+      "title": "Advisory Solution Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121934868",
+      "title": "Senior Staff Software Engineer, UI Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121930687",
+      "title": "Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121892077",
+      "title": "Sr Executive Assistant ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121888297",
+      "title": "Sales Enablement Specialist, Onboarding & Ramping - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121884357",
+      "title": "Principal Product Designer, Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121856317",
+      "title": "Senior Solution Sales Executive (Risk/Security)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121844817",
+      "title": "Solution Consultant - Commercial",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121819280",
+      "title": "Sales Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121810284",
+      "title": " Sr. Delivery Acceleration AI Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121785828",
+      "title": "Product Excellence, AI Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121777704",
+      "title": "EMEA North Senior Partner Manger, Indian GSI's ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121772828",
+      "title": "Sr Enterprise Account Executive - Telecom",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121467690",
+      "title": " Senior Manager, Expert Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121468158",
+      "title": "Head of Event Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121454857",
+      "title": "Sales Compensation Business Partner - Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121450068",
+      "title": "Sales Compensation Business Partner - Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121453076",
+      "title": "Sales Compensation Business Partner - Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121407747",
+      "title": "Director of AMS People Enablement Center (PEC)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121355567",
+      "title": "Senior Industry Marketing Manager – TMT (Telecom, Media & Technology) ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121343818",
+      "title": "Sr Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121303007",
+      "title": "Sales Compensation Business Partner - Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121283305",
+      "title": "Principal Machine Learning Engineer - VoIP Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121284422",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121285417",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121284977",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121283323",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121282977",
+      "title": "Delivery Director, Strat Tech, TMT, SI Delivery",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121254988",
+      "title": "Customer Success Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121220256",
+      "title": "New Logo Account Executive ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121202177",
+      "title": "Partner Business Development Manager, CRM, EMEA North",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121186364",
+      "title": "Sales Director, Defence and National Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121157137",
+      "title": "Advisory Solution Consultant Automotive - German speaking (Munich or Frankfurt)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121032407",
+      "title": " Staff Data Platform Software Engineer, Graph — Veza",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121021627",
+      "title": "Senior Staff Software Engineer, Performance (Tech Lead) — Veza",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121020468",
+      "title": " Staff Data Platform Software Engineer, Graph — Veza",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121020137",
+      "title": "Senior Staff Software Engineer, Integrations (Tech Lead) — Veza",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121019617",
+      "title": "Sr Enterprise Account Executive - Aerospace and Defense ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000121007717",
+      "title": "Senior Staff Software Engineer, Automation (Tech Lead) — Veza",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120949638",
+      "title": "Executive Advisor - Global Business Services (GBS)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120948229",
+      "title": "Executive Advisor - Global Business Services (GBS) ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120949278",
+      "title": "Executive Advisor - Global Business Services (GBS) ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120907722",
+      "title": "Partner Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120908597",
+      "title": "Partner Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120891487",
+      "title": "Sr Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120865737",
+      "title": "Senior Staff Systems Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120859787",
+      "title": "Senior Director, Area Vertical Lead Customer Engagement Group",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120838867",
+      "title": "Principal Full-Stack Engineer, Experience Team",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120832637",
+      "title": "GSI Partner Manager - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120810167",
+      "title": "Sr Solution Consultant - CRM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120808967",
+      "title": "Senior Data and Analytics Solution Sales Executive - Commercial US West",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120805077",
+      "title": "Senior Solution Sales Executive - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120776287",
+      "title": "Senior AI Implementation Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120772027",
+      "title": "Senior Director, Experience Team Strategic Operations ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120761972",
+      "title": "Senior Director, Data & Analytics WF Strategic Operations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120761389",
+      "title": "Enterprise Account Executive - Manufacturing - IL",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120651047",
+      "title": "Program Manager - Professional Services - German Speaking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120647253",
+      "title": "Program Manager - Professional Services - German Speaking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120628337",
+      "title": "AVP, EMEA North, Customer Excellence Group ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120600868",
+      "title": "Director, Customer Outcomes GTM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120558817",
+      "title": "Technical Support Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120515947",
+      "title": "Principal  Product Success Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120511902",
+      "title": "Sr Enterprise Account Executive - Manufacturing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120511897",
+      "title": "Associate New Logo Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120500267",
+      "title": "Senior Solution Sales Executive (Risk/Security)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120452005",
+      "title": "Enterprise Account Exec - Healthcare ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120366214",
+      "title": "Sr Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120361937",
+      "title": "Partner Business Development Manager, CRM, EMEA North",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120356466",
+      "title": "Senior Enterprise Account Executive, Bundesländer Ost",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120355377",
+      "title": "Senior Enterprise Account Executive, Deutsche Rentenversicherung & DGUV",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120353495",
+      "title": "Senior Enterprise Account Executive, Transport & Mobility (KRITIS District)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120303177",
+      "title": "Director, Partner Solution Consulting - APAC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120271507",
+      "title": "Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120270187",
+      "title": "Global Account Director Automotive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120021257",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120008337",
+      "title": "Senior Staff Software Engineer, UI Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000120001367",
+      "title": "Partner Technology Strategist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119903837",
+      "title": "Senior Commercial Growth AE ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119704097",
+      "title": "Director, Commercial Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119692106",
+      "title": "Sr. Specialist, Privacy & Compliance- Martech",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119685357",
+      "title": "Principal Software Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119644447",
+      "title": "Staff Software Engineer, Agentic AI Product",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119615815",
+      "title": "Monetization Strategy Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119619329",
+      "title": "Monetization Strategy Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119615975",
+      "title": "Monetization Strategy Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119616112",
+      "title": "Monetization Strategy Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119615089",
+      "title": "Senior Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119570226",
+      "title": "Technical Consultant - CRM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119569219",
+      "title": "Technical Consultant - Risk & Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119486867",
+      "title": "Advisory Solution Consultant - App Engine",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119486418",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119486697",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119486617",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119453669",
+      "title": "Sales Operations Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119442172",
+      "title": "Monetization Strategy Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119434308",
+      "title": "Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119434305",
+      "title": "Senior Solution Sales Executive - Operational Technology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119337452",
+      "title": "AI Principle Technical Consultant ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119270557",
+      "title": "Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119269107",
+      "title": "Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119268697",
+      "title": "Partner Account Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119249977",
+      "title": "Staff Application Security Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119235306",
+      "title": "Sr. Specialist, Data Strategy and Services- Marketing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119171542",
+      "title": "Staff Security and Compliance Engineer, Federal - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119164988",
+      "title": "Senior Red Team Security Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119148278",
+      "title": "Director, APAC Partner Operations ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000119113347",
+      "title": "Executive Operations Associate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118983032",
+      "title": "Senior Security Engineer, Security Operations - Moveworks ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118963402",
+      "title": "Sr. CRM Account Executive - Manufacturing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118922753",
+      "title": "HRBP Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118846867",
+      "title": "Senior Software Engineer, Core Platform - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118846528",
+      "title": "Staff Software Engineer, Core Platform- Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118653667",
+      "title": "Monetization Strategy Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118648060",
+      "title": "Monetization Strategy Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118591092",
+      "title": "Mgr, Software Engrg Mgmt",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118491843",
+      "title": "Sr Enterprise Account Executive - State & Local Government",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118484487",
+      "title": "Sr. CRM Account Executive - Manufacturing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118390688",
+      "title": "Client Director Large Telco Customer ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118271653",
+      "title": "Senior AI Automation Engineer, CS Ops - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118256787",
+      "title": "Senior Manager, Digital Experience Strategy",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118255797",
+      "title": "Senior Manager, Digital Experience Strategy",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118210999",
+      "title": "Senior Solution Sales Executive (Risk/Sec)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118210048",
+      "title": "Senior Solution Sales Executive (Risk/Security)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118150347",
+      "title": "Senior Commercial Account Exec (Growth Accounts) Denmark",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118051652",
+      "title": "Solution Consultant Presales -Identity & Security ( IAM)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000118046647",
+      "title": "Ad & Media Ops Manager (APAC & Japan)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117952270",
+      "title": "VP, GTM Strategic Leader (CHRO/CFO/COO) ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117872247",
+      "title": "Senior Manager, Solution Consulting - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117812747",
+      "title": "Partner Business Development Manager (Asia + Korea)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117756797",
+      "title": "Enterprise Account Executive - Life Sciences - CA ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117753087",
+      "title": "Senior CRM Account Executive - Media",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117751798",
+      "title": "Senior Enterprise Account Executive - State & Local Government (Mountain West)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117751827",
+      "title": " AI Implementation Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117738417",
+      "title": "Staff AI Implementation Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117704237",
+      "title": "Forward Deployed Engineering Build Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117386195",
+      "title": "Sr Enterprise Account Executive - Banking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117382648",
+      "title": "Senior AI Implementation Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117352387",
+      "title": "Senior Customer Success Manager - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117341909",
+      "title": "Sr Enterprise Sales Associate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117247103",
+      "title": "Senior Inbound Product Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117246816",
+      "title": "Senior Inbound Product Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000117041967",
+      "title": "Senior Customer Success Manager - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116983627",
+      "title": "Staff Machine Learning Engineer - VoIP Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116968137",
+      "title": "Enterprise Account Executive, CPG",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116929197",
+      "title": "Sr Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116702082",
+      "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116695917",
+      "title": "Principal Machine Learning Engineer - VoIP Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116588127",
+      "title": "Senior Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116570707",
+      "title": "Senior Solution Sales Executive, Risk & Security Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116535559",
+      "title": "Enterprise Account Executive ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116491508",
+      "title": "Client Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116331567",
+      "title": "Staff Technical Support Engineer_Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116262257",
+      "title": "Developer Advocate — Agentic Platform - MoveWorks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116207563",
+      "title": "Senior Manager - US International Tax",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116121107",
+      "title": "Senior Enterprise Account Executive - Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000116099517",
+      "title": "Director, Customer Outcomes GTM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115827447",
+      "title": "Sr Manager, APAC Media - IT,  Sec, Exp",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115744537",
+      "title": "Digital Experience Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115742728",
+      "title": "Quality Assurance Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115716107",
+      "title": "Mgr, Solution Consulting",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115712902",
+      "title": "AI Advisory Solution Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115709972",
+      "title": "Advisory Solution Consultant - East",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115709496",
+      "title": "Sr. Solution Consultant, Integrated Risk Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115699557",
+      "title": "Sr Solution Architect- Marketing Technology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115688617",
+      "title": "VP, Public Sector GTM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115682857",
+      "title": "Senior Manager, IT Audience Planning ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115676882",
+      "title": "Director, Strategy & Operations - Moveworks  ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115676375",
+      "title": "Senior Manager, Strategy & Operations - Moveworks ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115672783",
+      "title": "Principal Strategist, Inspire Value",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115627827",
+      "title": "Moveworks Principal Strategist, Inspire Value",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115609581",
+      "title": "Senior CRM Account Executive - Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115484327",
+      "title": "Sr Advisory Solution Consultant - German Speaking / Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115158472",
+      "title": "Solution Sales Executive - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115071807",
+      "title": "Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000115045323",
+      "title": "Staff Product Designer, AI Transformation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000114674077",
+      "title": "Enterprise Account Exec - New Business ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000114544192",
+      "title": "APAC Director,  Performance Media",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000114433398",
+      "title": "Advisory Solution Consultant - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000114416164",
+      "title": "Federal Civilian Solution Sales Executive- Identity and Security ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000114347467",
+      "title": "Enterprise Account Executive - Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000114175738",
+      "title": "Senior CRM Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000114124607",
+      "title": "Forward Deployed Engineering Build Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000114078717",
+      "title": "Solution Sales Executive - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000114035827",
+      "title": "Sr Solution Consultant - Intelligent Automation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113826096",
+      "title": "Manager, Technical Support Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113662292",
+      "title": "Regional Director, Sales - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113660017",
+      "title": "Senior Solution Sales Executive - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113582227",
+      "title": "Senior Marketing Program Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113543813",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113537771",
+      "title": "Senior Research Engineer/Scientist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113539863",
+      "title": "Senior Research Engineer/Scientist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113406467",
+      "title": "Advisory Partner Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113248682",
+      "title": "Senior Software Engineer, Agentic AI Product - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113233479",
+      "title": "GTM Strategic Planning, Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113222998",
+      "title": "Senior Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113223515",
+      "title": "Senior Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113223797",
+      "title": "Senior Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113217942",
+      "title": "Staff Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113219109",
+      "title": "Staff Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113100560",
+      "title": "Sr Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113037707",
+      "title": "Sr. Solution Consultant - Financial Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113037457",
+      "title": "Advisory Solution Consultant - State and Local",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113035225",
+      "title": "Advisory Solution Consultant - EAM/ITAM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000113034051",
+      "title": "Staff Network Development Engineer - Cloud Network Automation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112911567",
+      "title": "Principal Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112853727",
+      "title": "Customer Success Guide",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112775285",
+      "title": "Sr Enterprise Account Executive, FSI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112559303",
+      "title": "Staff Network Operations Engineer - Load Balancers - F5 - Nginx - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112568393",
+      "title": "Staff Network Operations Engineer - Load Balancers - F5 - Nginx - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112568527",
+      "title": "Staff Network Operations Engineer - Load Balancers - F5 - Nginx - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112567038",
+      "title": "Staff Network Operations Engineer - Load Balancers - F5 - Nginx - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112500152",
+      "title": "Sr Solution Consultant - Intelligent Automation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112497027",
+      "title": "Staff Systems Engineer - Hyperscaler",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112496717",
+      "title": "Staff Systems Engineer - Hyperscaler",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112491798",
+      "title": "Senior Manager, Technical Support Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112430318",
+      "title": "Advisory Presales Solution Consultant - Security and Identity",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112348113",
+      "title": "CRM  Advisory Solution Consultant, MRD  - Delhi ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112335547",
+      "title": "カスタマーサクセスマネージャー",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112256777",
+      "title": "Senior Staff Outbound Product Manager - Telecom",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112248569",
+      "title": "Senior Staff Outbound Product Manager - Telecom",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112137747",
+      "title": "Director,  Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112081557",
+      "title": "Principal Enterprise Architect - Manufacturing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000112022067",
+      "title": "Advisory Solution Consultant - State and Local",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111921985",
+      "title": "Mid-Market Account Executive - Inside Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111732590",
+      "title": "Senior Manager, Systems Engineering - Vulnerability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111704965",
+      "title": "Advisory Solution Consultant - Healthcare",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111686666",
+      "title": "Technical Writer - Emerging Talent Intern (July 2026-December 2026)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111678256",
+      "title": "Senior Software Engineer, Core Platform - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111666080",
+      "title": "Advisory Solution Consultant - Central ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111637305",
+      "title": "Advisory Solution Consultant (ITOM) - US Federal DoD Community",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111529925",
+      "title": "Sr. Solution Consultant - SecOps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111437696",
+      "title": "Senior Staff Outbound Product Manager - Telecom",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111435175",
+      "title": "Senior Staff Outbound Product Manager - Enterprise Search Integrations ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111388018",
+      "title": "Senior Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111333066",
+      "title": "Principal Product Designer, Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111304925",
+      "title": "Sr New Logo Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111189885",
+      "title": "Senior Linux Automation Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111189186",
+      "title": "Senior Linux Automation Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111188396",
+      "title": "Senior Linux Automation Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111171600",
+      "title": "Senior Solution Sales Executive - Tech - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111146382",
+      "title": "CRM Sr Advisory  Solution Consultant - Enterprise (Asia)/ Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111077816",
+      "title": "App Engine Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000111002510",
+      "title": "Senior Solution Consultant -  Transportation & Real Estate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110887565",
+      "title": "Renewal Account Manager - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110886790",
+      "title": "Sr Customer Success Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110884525",
+      "title": "Senior Problem Manager - Cloud Infrastructure - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110853140",
+      "title": "Sr. Staff Product Designer, Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110830416",
+      "title": "Commercial Account Executive, CEE",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110675630",
+      "title": "Senior Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110562816",
+      "title": "Sr Enterprise Account Exec",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110474212",
+      "title": "Staff Software Engineer (Full Stack)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110422167",
+      "title": "Director, Sales - Public Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110414307",
+      "title": "Advisory Solution Consultant - Higher Education",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110415797",
+      "title": "Advisory Solution Consultant - Higher Education",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110416186",
+      "title": "Advisory Solution Consultant - Higher Education",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110257905",
+      "title": "Client Director - Life Sciences",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110245255",
+      "title": "Staff Software Engineer (Full Stack)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110042455",
+      "title": "Sr Enterprise Sales Associate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000110013534",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109997730",
+      "title": "New Logo Account Executive - Greek speaking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109998363",
+      "title": "New Logo Account Executive - Greek Speaking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109996527",
+      "title": "New Logo Account Executive - Greek speaking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109980995",
+      "title": "Senior Software Engineer - UI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109865075",
+      "title": "Director, Strategy & Operations, Solution Sales Japan",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109653825",
+      "title": "Advisory Solution Consultant - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109320186",
+      "title": "Senior Manager, Systems Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109286826",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109256995",
+      "title": "Staff Reliability Engineer - Performance (Escalations Engineering)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109204105",
+      "title": "Senior Principal/ Principal Strategist, Inspire Value",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109039655",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109037488",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109037185",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109034466",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109036305",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109005235",
+      "title": "Advisory Solution Consultant - West Coast",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108998857",
+      "title": "Copy of Sr Advisory Solution Consultant - Hyperscaler Accounts",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000109001791",
+      "title": "Sr Advisory Solution Consultant - Hyperscaler Accounts",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108992485",
+      "title": "Advisory Solution Consultant - Identity & Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108873105",
+      "title": "Principal Machine Learning Engineer, GAI Search Relevance - Ranking - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108871710",
+      "title": "Senior Software Engineer, Agentic AI Platform - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108870090",
+      "title": "Sr. Software Engineer, Fullstack - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108870055",
+      "title": "Machine Learning Engineering Manager, GAI Search Relevance - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108861595",
+      "title": "Senior Systems Engineer - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108853596",
+      "title": "Customer Success Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108851192",
+      "title": "Senior Systems Engineer - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108830186",
+      "title": "Advisory Solution Consultant - State and Local",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108695065",
+      "title": " Federal Government CTO ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108685591",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108684836",
+      "title": "Commercial Growth Senior Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108603416",
+      "title": "Mission Account Manager - US Air Force",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108406646",
+      "title": "Advisory Solution Consultant - Telecom Media and Technology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108296495",
+      "title": "Principal Inbound Product Manager - MoveWorks - Enterprise Search Platform ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108295478",
+      "title": "Principal Inbound Product Manager - MoveWorks - Enterprise Search Relevance and Ranking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108276973",
+      "title": "Sr Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000108252806",
+      "title": "Sr Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107855576",
+      "title": "Sr Mid-Market Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107836115",
+      "title": "Sr Federal Enterprise Account Executive - USDA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107827645",
+      "title": "Forward Deployed Engineering Build Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107801692",
+      "title": "Staff Machine Learning Engineer, Agentic Systems - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107770230",
+      "title": "Solution Sales Executive, Core Business Solutions (Hong Kong)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107759456",
+      "title": "Sr Advisory Enterprise Architect, Hong Kong",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107756699",
+      "title": "Advisory Presales Solution Consultant - Security and Identity",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107756715",
+      "title": "Advisory Presales Solution Consultant - Security and Identity",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107720194",
+      "title": "Solution Sales Executive, Security and Identity Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107719895",
+      "title": "Solution Sales Executive, Security and Identity Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107719775",
+      "title": "Solution Sales Executive, Security and Identity Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107719535",
+      "title": "Solution Sales Executive, Security and Identity Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107609408",
+      "title": "Senior Staff Machine Learning Engineer, Agentic Systems - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107606742",
+      "title": "Senior Software Engineer, Agentic AI Systems - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107523375",
+      "title": "Senior Advisory Presales Enterprise Architect - Telecoms",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107485655",
+      "title": "Advisory Solution Consultant - Retail",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107435185",
+      "title": "Principal Inbound Product Manager - AI Assistant (Agentic Workflows)- MoveWorks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107435010",
+      "title": "Principal Inbound Product Manager, AI Assistant (Assistant Store) - MoveWorks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107400781",
+      "title": "Senior Machine Learning Engineer, Agentic AI Systems - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107400460",
+      "title": "Senior Identity & Access Management Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107376345",
+      "title": "Advisory Solution Consultant - AI Foundry",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107369741",
+      "title": "Associate Software Engineer, Core Infrastructure - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107370955",
+      "title": "Associate Software Engineer, Core Infrastructure - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107370230",
+      "title": "Senior Software Engineer, Core Infrastructure - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107322911",
+      "title": "Senior Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107222686",
+      "title": "Senior Application Security Engineer - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107222155",
+      "title": "Tech Lead, Agentic AI Platform - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107221865",
+      "title": "Software Engineer, Agentic AI Product - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107221835",
+      "title": "Enterprise Account Executive - Media & Technology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107221016",
+      "title": "Senior Staff Software Engineer, Agentic AI Systems - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107218105",
+      "title": "Senior Manager, Core Platform - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107217257",
+      "title": "Staff Software Engineer, Core Platform - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107128971",
+      "title": "Senior Solution Sales Executive - Industrial Connected Workforce",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000107047177",
+      "title": "AI Foundry Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106981675",
+      "title": "Director, CRM & Industry Solution Consulting",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106950085",
+      "title": "Services Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106847864",
+      "title": "Account Director - CRM and Industry Solutions - Telecom",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106838185",
+      "title": "Senior Solution Sales Executive, Technology Workflows ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106374488",
+      "title": "Staff Software Engineer - AI/ML",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106186396",
+      "title": "Senior Solution Sales Executive - Industrial Connected Workforce",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106169343",
+      "title": "Sr Advisory Solution Consultant - App Engine",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106075605",
+      "title": "Senior Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106022015",
+      "title": "Senior Manager, GTM Finance - APAC Expert Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000106006310",
+      "title": "Advisory Solution Consultant - Manufacturing (Assembly) ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000105952079",
+      "title": "Staff ServiceNow Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000105907620",
+      "title": "Advisory Solution Consultant (ITOM) - US Federal DoD Community",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000105860860",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000105845475",
+      "title": "Territory Partner Seller, Commercial Territory - EMEA South - French Speaker",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000105702525",
+      "title": "Director Global Employment Tax and Compliance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000105701450",
+      "title": "Advisory Solution Consultant - CRM (Strat Tech)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000105207745",
+      "title": "Staff Product Manager - Cloud Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000105169858",
+      "title": "Staff Systems Engineer- Hyperscaler",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000104994635",
+      "title": "Principal Software Engineer - AI/ML",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000104858916",
+      "title": "Advisory Solution Consultant ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000104813840",
+      "title": "Sr Advisory Solution Consultant (Hong Kong)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000104792988",
+      "title": "GVP, Canada",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000104162745",
+      "title": "Sales Director - MY & ID",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103970705",
+      "title": "Sr Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103761548",
+      "title": "Staff Software Engineer - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103763545",
+      "title": "Senior Staff Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103655926",
+      "title": "Advisory Solution Consultant - Utility & Retail",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103563925",
+      "title": "Senior Enterprise Account Executive, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103441315",
+      "title": "Senior Principal Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103252590",
+      "title": "Senior Solution Sales Executive, Operational Technology - CH/AT/CEE region",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103221005",
+      "title": "Solution Sales Executive - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103219900",
+      "title": "Solution Sales Executive - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103152539",
+      "title": "Solution Sales Executive - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103147551",
+      "title": "Senior Solution Sales Executive - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103139662",
+      "title": "Principal Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103079100",
+      "title": "Presales Enterprise  Architect  - BFSI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103079147",
+      "title": "Resell Partner Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000103078796",
+      "title": "Resell Partner Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000102980085",
+      "title": "Solution Sales Executive - Moveworks",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000102843975",
+      "title": "Sr Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000102843885",
+      "title": "Sr Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000102399925",
+      "title": "Enterprise Account Executive - FSI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000102250136",
+      "title": "Senior Manager, Strategy & Operations, CRM Japan",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000102093486",
+      "title": "Principal Enterprise Architect - TMT",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000101908319",
+      "title": "Sr Enterprise Sales Associate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000101653916",
+      "title": "Staff Systems Engineer - Hyperscaler",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000101635435",
+      "title": "Partner Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000101530397",
+      "title": "Senior Solution Sales Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000101090925",
+      "title": "Sr Enterprise Sales Associate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000100178350",
+      "title": "Distinguished Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000099745826",
+      "title": "AI GTM Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000099644986",
+      "title": "Senior Solution Sales Executive - Operational Technology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000099644818",
+      "title": "Senior Solution Sales Executive - Operational Technology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000099150018",
+      "title": "Senior Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000096822585",
+      "title": "Advisory Solution Consultant - Source to pay",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000096547235",
+      "title": "Enterprise Account Executive - Media & Technology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000094867497",
+      "title": "Technology and Digital Officer EMEA North",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000094537711",
+      "title": "Sr Mid-Market Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000094537795",
+      "title": "Enterprise Account Executive - Manufacturing(Process)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000093910406",
+      "title": "Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000092143547",
+      "title": "Staff Research Engineer/Scientist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000089762575",
+      "title": "Director, Sales - Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000089108281",
+      "title": "Sr Advisory Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000086785115",
+      "title": "Enterprise Account Executive, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000079517885",
+      "title": "Principal /Senior Engagement Manager / Project Manager- German Speaking ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "744000123744528",
+      "title": "Principal Customer Success Executive - Energy , Media and Telco",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123741129",
+      "title": "Advisory Solution Consultant- Moveworks",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123741659",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123741124",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123741279",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123740215",
+      "title": "Solution Architect",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123740130",
+      "title": "Sr. Business Process Consultant-ServiceNow-CRM",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123740289",
+      "title": "Sr. Business Process Consultant-ServiceNow-CRM",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123740069",
+      "title": "Sr. Business Process Consultant-ServiceNow-CRM",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123740008",
+      "title": "Principal Customer Success Executive - Financial Services ",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123737310",
+      "title": "Senior Principal Technology Consultant",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123739050",
+      "title": "Sr Federal Enterprise Account Executive - AFLCMC",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123736535",
+      "title": "Associate Creative Director, Events",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123739460",
+      "title": "Principal Inbound Product Manager, Agentic Platform - Moveworks",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123737524",
+      "title": "Senior Principal Technology Consultant",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123737726",
+      "title": "Senior Principal Technology Consultant",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123739119",
+      "title": "Senior Principal Technology Consultant",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123735814",
+      "title": "Sr. Business Process Consultant-ServiceNow-CRM",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123731965",
+      "title": " Principal Customer Success Executive",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123734099",
+      "title": "Senior Software Engineer, Agentic AI Systems - Moveworks",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123723448",
+      "title": "Customer Success Executive - Public Sector",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123720909",
+      "title": "Senior Principal Technology Consultant",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123715954",
+      "title": "Senior Technical Consultant, Platform - Federal TS/SCI/FSP Clearance",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123714717",
+      "title": "Senior Technical Consultant, Platform - Federal TS/SCI/FSP Clearance",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123702561",
+      "title": "Sr. Manager, Global Sourcing Professional Services",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123642199",
+      "title": "Sr Enterprise Account Executive, Public Sector",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123606349",
+      "title": "Senior Technical Accelerator Consultant",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123550408",
+      "title": "Director, CRM Sales - Enterprise Tech",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123547539",
+      "title": "People Operations Specialist",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123546859",
+      "title": "Senior Staff Machine Learning Engineer, GAI Search Platform - Moveworks",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123546539",
+      "title": "Director, Canada Partnerships & Channels",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123531699",
+      "title": "Senior Software Engineer, DevOps - Moveworks",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123530949",
+      "title": "Software Engineer, DevOps - Moveworks",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123528060",
+      "title": "Associate Software Engineer, Search Infrastructure - Moveworks",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123524697",
+      "title": "Senior Software Engineer, Search Infrastructure - Moveworks",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123524804",
+      "title": "Transfer Pricing Tax Manager",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123515337",
+      "title": "Area VP, Defense",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123477489",
+      "title": "Senior Delivery Acceleration AI Engineer ",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123466846",
+      "title": "Program Director",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123469069",
+      "title": "Program Director",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123468334",
+      "title": "Program Director",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123416360",
+      "title": "Principal Platform Architect",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "744000123414552",
+      "title": "Director, Software Engineering Mgmt",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    }
+  ],
+  "summary": {
+    "withdrawnCount": 39,
+    "stillOpenCount": 528,
+    "bucketCounts": {
+      "0–14d (likely withdrawn)": 39
+    }
+  }
+}

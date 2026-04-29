@@ -1,0 +1,576 @@
+{
+  "slug": "newrelic",
+  "computedAt": "2026-04-29T17:00:36.396Z",
+  "snapshotCount": 2,
+  "snapshotDates": [
+    "2026-04-28",
+    "2026-04-29"
+  ],
+  "framework": {
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "buckets": [
+      "0–14d (likely withdrawn)",
+      "15–60d",
+      "61–120d",
+      "120+d (backlog)"
+    ],
+    "readiness": "live"
+  },
+  "withdrawn": [
+    {
+      "id": "5196281008",
+      "title": " Commercial Account Executive – Expansion",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "4920926008",
+      "title": "Renewals & Retention Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5172407008",
+      "title": "Software Engineer 1",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5200609008",
+      "title": "Solutions Consultant II (West)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5161938008",
+      "title": "Technical Success Manager I",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5197709008",
+      "title": "Technical Support Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    }
+  ],
+  "stillOpen": [
+    {
+      "id": "5166509008",
+      "title": "Account Executive - Enterprise Expansion",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5172371008",
+      "title": "Account Executive - Enterprise Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5121001008",
+      "title": "Account Executive - Enterprise Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5185381008",
+      "title": "Account Executive - Enterprise Sales -  Greenfield",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5168853008",
+      "title": "Account Executive - Enterprise Sales (Greenfield)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5199961008",
+      "title": "Account Executive, Enterprise Sales - New Business  ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5126679008",
+      "title": "Account Executive - Enterprise Sales (West/Central)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5148437008",
+      "title": "Associate Technical Success Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5169951008",
+      "title": "Business Development Representative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5194896008",
+      "title": "Director, Deal Strategy",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5178974008",
+      "title": "Director, Enterprise Sales - Greenfield",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5160027008",
+      "title": "Director, Marketing Engineering & AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5166387008",
+      "title": "Director, Partner Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5065498008",
+      "title": "Director, Strategic Cloud Partnerships ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5153291008",
+      "title": "Director, Web Strategy and Engineering ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5197720008",
+      "title": "EMEA Regional Marketing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4907356008",
+      "title": "Enterprise Sales - Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5157197008",
+      "title": "GTM Enablement Leader, EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5199001008",
+      "title": " Implementation Consultant - Solutions Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4992316008",
+      "title": "Lead Data Scientist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5181857008",
+      "title": "Lead Financial Compliance Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5068189008",
+      "title": "Lead Revenue Recognition Accountant ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4970683008",
+      "title": "Lead Software Engineer - GoLang",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5181860008",
+      "title": "Manager, Billing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5159828008",
+      "title": " Manager, Commercial Sales (APJ)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5187686008",
+      "title": "Manager, Renewals",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4647156008",
+      "title": "Manager - Talent Acquisition ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5159020008",
+      "title": "Partner Development Manager - French Speaking ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5188837008",
+      "title": "Partner Sales Manager - LATAM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5189793008",
+      "title": "Pricing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5082650008",
+      "title": "Principal Account Executive - Strategic Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4944097008",
+      "title": "Principal Software Engineer - Developer Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5200806008",
+      "title": "Program Manager -Observability Architecture and Migration",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5171253008",
+      "title": "Sales Enablement Manager ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5105111008",
+      "title": "Senior Account Executive - Enterprise Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5166385008",
+      "title": "Senior Account Executive - Enterprise Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5071893008",
+      "title": "Senior Account Executive - Enterprise Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5069727008",
+      "title": "Senior Account Executive - Enterprise Sales  (Acquisition)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5155778008",
+      "title": "Senior Account Executive, Enterprise Sales(Expansion)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5155772008",
+      "title": "Senior Account Executive - Enterprise Sales - GCC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5178514008",
+      "title": "Senior Account Executive - Enterprise Sales(GCC)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5183905008",
+      "title": "Senior Account Executive - Enterprise Sales (Japan)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5183917008",
+      "title": "Senior Account Executive - Enterprise Sales (Japan)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5183911008",
+      "title": "Senior Account Executive - Enterprise Sales (Japan)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5183908008",
+      "title": "Senior Account Executive - Enterprise Sales (Japan)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5159066008",
+      "title": "Senior Account Executive - Enterprise Sales - New Business ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5019243008",
+      "title": "Senior Account Executive, Expansion - Enterprise Sales - Germany ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5157203008",
+      "title": "Senior Account Executive (m/w/d) – Enterprise & Strategic Accounts",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5175103008",
+      "title": "Senior Account Executive - Public Sector (Federal)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5159326008",
+      "title": "Senior Account Executive - Public Sector (SLED East)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5181863008",
+      "title": "Senior Billing Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5168471008",
+      "title": "Senior Business Value Engineer - EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5153292008",
+      "title": "Senior Growth Web Engineer ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5178540008",
+      "title": "Senior GTM Recruiter ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5174353008",
+      "title": "Senior Manager, Equity",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4987225008",
+      "title": "Senior Product Analyst - Data Governance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4944794008",
+      "title": "Senior Product Manager - R115",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5116768008",
+      "title": "Senior Software Engineer - GoLang & Kubernetes Orchestration - (R0000335) Bangalore",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5172404008",
+      "title": "Senior Solution Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5148555008",
+      "title": "Senior Technical Success Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5195950008",
+      "title": "Solutions Consultant II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5126716008",
+      "title": "Solutions Consultant II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5149962008",
+      "title": "Solutions consultant - Pre sales ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5173271008",
+      "title": "Technical Marketing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4975648008",
+      "title": "Account Executive - Enterprise Sales - New Business",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5194119008",
+      "title": "Business Development Representative",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5187688008",
+      "title": "Director, Billing",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5204510008",
+      "title": "Partner Solution Consultant",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5200506008",
+      "title": "Partner Solutions Consultant ",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5186575008",
+      "title": "Senior Account Executive - Enterprise Sales - Expansion",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5168251008",
+      "title": "Senior Financial Analyst",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "5148558008",
+      "title": "Technical Success Manager I",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    }
+  ],
+  "summary": {
+    "withdrawnCount": 6,
+    "stillOpenCount": 72,
+    "bucketCounts": {
+      "0–14d (likely withdrawn)": 6
+    }
+  }
+}

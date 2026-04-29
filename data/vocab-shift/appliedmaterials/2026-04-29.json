@@ -1,0 +1,691 @@
+{
+  "slug": "appliedmaterials",
+  "computedAt": "2026-04-29T17:00:34.035Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 1000,
+      "topUnigrams": [
+        [
+          "iii",
+          135
+        ],
+        [
+          "process",
+          125
+        ],
+        [
+          "ii",
+          113
+        ],
+        [
+          "product",
+          100
+        ],
+        [
+          "support",
+          97
+        ],
+        [
+          "iv",
+          94
+        ],
+        [
+          "technician",
+          93
+        ],
+        [
+          "customer",
+          80
+        ],
+        [
+          "management",
+          80
+        ],
+        [
+          "manufacturing",
+          77
+        ],
+        [
+          "technical",
+          72
+        ],
+        [
+          "mechanical",
+          59
+        ],
+        [
+          "project",
+          51
+        ],
+        [
+          "engineering",
+          50
+        ],
+        [
+          "operations",
+          46
+        ],
+        [
+          "software",
+          37
+        ],
+        [
+          "program",
+          35
+        ],
+        [
+          "account",
+          35
+        ],
+        [
+          "e3",
+          34
+        ],
+        [
+          "new",
+          31
+        ],
+        [
+          "service",
+          29
+        ],
+        [
+          "quality",
+          28
+        ],
+        [
+          "etch",
+          27
+        ],
+        [
+          "field",
+          24
+        ],
+        [
+          "shift",
+          23
+        ],
+        [
+          "global",
+          22
+        ],
+        [
+          "early",
+          22
+        ],
+        [
+          "career",
+          22
+        ],
+        [
+          "tps",
+          21
+        ],
+        [
+          "technologist",
+          20
+        ]
+      ],
+      "topBigrams": [
+        [
+          "product support",
+          32
+        ],
+        [
+          "manufacturing technician",
+          31
+        ],
+        [
+          "process support",
+          31
+        ],
+        [
+          "iii e3",
+          30
+        ],
+        [
+          "engineering technician",
+          27
+        ],
+        [
+          "technical product",
+          26
+        ],
+        [
+          "technical project",
+          24
+        ],
+        [
+          "technician ii",
+          24
+        ],
+        [
+          "field service",
+          22
+        ],
+        [
+          "early career",
+          22
+        ],
+        [
+          "program management",
+          19
+        ],
+        [
+          "project program",
+          18
+        ],
+        [
+          "account technologist",
+          18
+        ],
+        [
+          "technician iii",
+          18
+        ],
+        [
+          "support technician",
+          18
+        ],
+        [
+          "cutomer ii",
+          18
+        ],
+        [
+          "process iv",
+          17
+        ],
+        [
+          "new product",
+          15
+        ],
+        [
+          "new college",
+          15
+        ],
+        [
+          "customer support",
+          15
+        ],
+        [
+          "manufacturing ii",
+          14
+        ],
+        [
+          "support tps",
+          14
+        ],
+        [
+          "mechanical iii",
+          13
+        ],
+        [
+          "ii e2",
+          13
+        ],
+        [
+          "global product",
+          13
+        ],
+        [
+          "operations management",
+          13
+        ],
+        [
+          "process iii",
+          12
+        ],
+        [
+          "2nd shift",
+          11
+        ],
+        [
+          "management iii",
+          11
+        ],
+        [
+          "santa clara",
+          11
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 1000,
+      "topUnigrams": [
+        [
+          "iii",
+          133
+        ],
+        [
+          "process",
+          122
+        ],
+        [
+          "ii",
+          109
+        ],
+        [
+          "product",
+          98
+        ],
+        [
+          "support",
+          98
+        ],
+        [
+          "iv",
+          94
+        ],
+        [
+          "technician",
+          91
+        ],
+        [
+          "management",
+          81
+        ],
+        [
+          "customer",
+          79
+        ],
+        [
+          "technical",
+          79
+        ],
+        [
+          "manufacturing",
+          75
+        ],
+        [
+          "mechanical",
+          62
+        ],
+        [
+          "project",
+          57
+        ],
+        [
+          "engineering",
+          50
+        ],
+        [
+          "operations",
+          46
+        ],
+        [
+          "program",
+          41
+        ],
+        [
+          "account",
+          36
+        ],
+        [
+          "software",
+          36
+        ],
+        [
+          "e3",
+          36
+        ],
+        [
+          "new",
+          32
+        ],
+        [
+          "service",
+          28
+        ],
+        [
+          "quality",
+          27
+        ],
+        [
+          "etch",
+          27
+        ],
+        [
+          "field",
+          23
+        ],
+        [
+          "global",
+          22
+        ],
+        [
+          "shift",
+          21
+        ],
+        [
+          "technologist",
+          21
+        ],
+        [
+          "ddp",
+          21
+        ],
+        [
+          "tps",
+          21
+        ],
+        [
+          "early",
+          20
+        ]
+      ],
+      "topBigrams": [
+        [
+          "iii e3",
+          31
+        ],
+        [
+          "process support",
+          31
+        ],
+        [
+          "product support",
+          31
+        ],
+        [
+          "manufacturing technician",
+          29
+        ],
+        [
+          "technical project",
+          27
+        ],
+        [
+          "engineering technician",
+          27
+        ],
+        [
+          "technician ii",
+          26
+        ],
+        [
+          "technical product",
+          26
+        ],
+        [
+          "project program",
+          22
+        ],
+        [
+          "program management",
+          22
+        ],
+        [
+          "field service",
+          21
+        ],
+        [
+          "early career",
+          20
+        ],
+        [
+          "account technologist",
+          19
+        ],
+        [
+          "technician iii",
+          18
+        ],
+        [
+          "support technician",
+          18
+        ],
+        [
+          "process iv",
+          17
+        ],
+        [
+          "cutomer ii",
+          17
+        ],
+        [
+          "new college",
+          16
+        ],
+        [
+          "mechanical iii",
+          15
+        ],
+        [
+          "new product",
+          15
+        ],
+        [
+          "customer support",
+          15
+        ],
+        [
+          "manufacturing ii",
+          14
+        ],
+        [
+          "support tps",
+          14
+        ],
+        [
+          "santa clara",
+          12
+        ],
+        [
+          "ii e2",
+          12
+        ],
+        [
+          "global product",
+          12
+        ],
+        [
+          "process iii",
+          12
+        ],
+        [
+          "2nd shift",
+          11
+        ],
+        [
+          "2026 summer",
+          11
+        ],
+        [
+          "clara ca",
+          11
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "project program",
+          "before": 18,
+          "after": 22,
+          "delta": 4
+        },
+        {
+          "term": "program management",
+          "before": 19,
+          "after": 22,
+          "delta": 3
+        },
+        {
+          "term": "technical project",
+          "before": 24,
+          "after": 27,
+          "delta": 3
+        },
+        {
+          "term": "manufacturing technician",
+          "before": 31,
+          "after": 29,
+          "delta": -2
+        },
+        {
+          "term": "mechanical iii",
+          "before": 13,
+          "after": 15,
+          "delta": 2
+        },
+        {
+          "term": "technician ii",
+          "before": 24,
+          "after": 26,
+          "delta": 2
+        },
+        {
+          "term": "gloucester ma",
+          "before": 9,
+          "after": 7,
+          "delta": -2
+        },
+        {
+          "term": "operations management",
+          "before": 13,
+          "after": 11,
+          "delta": -2
+        },
+        {
+          "term": "technical support",
+          "before": 4,
+          "after": 6,
+          "delta": 2
+        },
+        {
+          "term": "early career",
+          "before": 22,
+          "after": 20,
+          "delta": -2
+        },
+        {
+          "term": "semiconductor industry",
+          "before": 7,
+          "after": 9,
+          "delta": 2
+        },
+        {
+          "term": "ii t2",
+          "before": 6,
+          "after": 8,
+          "delta": 2
+        },
+        {
+          "term": "career gloucester",
+          "before": 3,
+          "after": 1,
+          "delta": -2
+        },
+        {
+          "term": "mfg eng",
+          "before": 5,
+          "after": 4,
+          "delta": -1
+        },
+        {
+          "term": "talent acquisition",
+          "before": 6,
+          "after": 7,
+          "delta": 1
+        },
+        {
+          "term": "service m3",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "management iv",
+          "before": 7,
+          "after": 8,
+          "delta": 1
+        },
+        {
+          "term": "account technologist",
+          "before": 18,
+          "after": 19,
+          "delta": 1
+        },
+        {
+          "term": "regional fulfillment",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "fulfillment specialist",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "iii e3",
+          "before": 30,
+          "after": 31,
+          "delta": 1
+        },
+        {
+          "term": "systems iii",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "manufacturing iii",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "ii b2",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "new college",
+          "before": 15,
+          "after": 16,
+          "delta": 1
+        },
+        {
+          "term": "santa clara",
+          "before": 11,
+          "after": 12,
+          "delta": 1
+        },
+        {
+          "term": "clara ca",
+          "before": 10,
+          "after": 11,
+          "delta": 1
+        },
+        {
+          "term": "product support",
+          "before": 32,
+          "after": 31,
+          "delta": -1
+        },
+        {
+          "term": "mechanical ii",
+          "before": 5,
+          "after": 4,
+          "delta": -1
+        },
+        {
+          "term": "ii e2",
+          "before": 13,
+          "after": 12,
+          "delta": -1
+        }
+      ]
+    }
+  ]
+}

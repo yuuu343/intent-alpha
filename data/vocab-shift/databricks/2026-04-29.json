@@ -1,0 +1,691 @@
+{
+  "slug": "databricks",
+  "computedAt": "2026-04-29T17:00:35.108Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 828,
+      "topUnigrams": [
+        [
+          "solutions",
+          211
+        ],
+        [
+          "architect",
+          178
+        ],
+        [
+          "software",
+          154
+        ],
+        [
+          "executive",
+          128
+        ],
+        [
+          "account",
+          127
+        ],
+        [
+          "engineering",
+          74
+        ],
+        [
+          "enterprise",
+          68
+        ],
+        [
+          "ai",
+          59
+        ],
+        [
+          "resident",
+          56
+        ],
+        [
+          "strategic",
+          54
+        ],
+        [
+          "data",
+          52
+        ],
+        [
+          "product",
+          49
+        ],
+        [
+          "services",
+          48
+        ],
+        [
+          "core",
+          41
+        ],
+        [
+          "sector",
+          40
+        ],
+        [
+          "platform",
+          40
+        ],
+        [
+          "public",
+          38
+        ],
+        [
+          "backend",
+          37
+        ],
+        [
+          "financial",
+          35
+        ],
+        [
+          "hunter",
+          32
+        ],
+        [
+          "field",
+          30
+        ],
+        [
+          "technical",
+          30
+        ],
+        [
+          "security",
+          21
+        ],
+        [
+          "media",
+          21
+        ],
+        [
+          "named",
+          21
+        ],
+        [
+          "delivery",
+          20
+        ],
+        [
+          "specialist",
+          19
+        ],
+        [
+          "manufacturing",
+          19
+        ],
+        [
+          "business",
+          19
+        ],
+        [
+          "communications",
+          19
+        ]
+      ],
+      "topBigrams": [
+        [
+          "solutions architect",
+          172
+        ],
+        [
+          "account executive",
+          124
+        ],
+        [
+          "resident solutions",
+          56
+        ],
+        [
+          "core account",
+          39
+        ],
+        [
+          "enterprise account",
+          39
+        ],
+        [
+          "public sector",
+          38
+        ],
+        [
+          "financial services",
+          31
+        ],
+        [
+          "software backend",
+          30
+        ],
+        [
+          "field engineering",
+          29
+        ],
+        [
+          "hunter account",
+          23
+        ],
+        [
+          "delivery solutions",
+          18
+        ],
+        [
+          "communications media",
+          18
+        ],
+        [
+          "media entertainment",
+          18
+        ],
+        [
+          "entertainment games",
+          18
+        ],
+        [
+          "architect public",
+          18
+        ],
+        [
+          "architect communications",
+          17
+        ],
+        [
+          "life sciences",
+          17
+        ],
+        [
+          "strategic core",
+          17
+        ],
+        [
+          "professional services",
+          16
+        ],
+        [
+          "healthcare life",
+          16
+        ],
+        [
+          "architect financial",
+          15
+        ],
+        [
+          "data ai",
+          13
+        ],
+        [
+          "technical solutions",
+          13
+        ],
+        [
+          "specialist solutions",
+          12
+        ],
+        [
+          "software engineer-",
+          12
+        ],
+        [
+          "digital native",
+          11
+        ],
+        [
+          "strategic enterprise",
+          11
+        ],
+        [
+          "ai platform",
+          10
+        ],
+        [
+          "emerging enterprise",
+          10
+        ],
+        [
+          "architect healthcare",
+          10
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 820,
+      "topUnigrams": [
+        [
+          "solutions",
+          206
+        ],
+        [
+          "architect",
+          175
+        ],
+        [
+          "software",
+          155
+        ],
+        [
+          "executive",
+          129
+        ],
+        [
+          "account",
+          128
+        ],
+        [
+          "engineering",
+          74
+        ],
+        [
+          "enterprise",
+          69
+        ],
+        [
+          "ai",
+          59
+        ],
+        [
+          "strategic",
+          57
+        ],
+        [
+          "resident",
+          55
+        ],
+        [
+          "data",
+          53
+        ],
+        [
+          "services",
+          49
+        ],
+        [
+          "product",
+          47
+        ],
+        [
+          "sector",
+          39
+        ],
+        [
+          "core",
+          39
+        ],
+        [
+          "platform",
+          39
+        ],
+        [
+          "public",
+          37
+        ],
+        [
+          "backend",
+          37
+        ],
+        [
+          "financial",
+          36
+        ],
+        [
+          "hunter",
+          32
+        ],
+        [
+          "field",
+          30
+        ],
+        [
+          "technical",
+          30
+        ],
+        [
+          "named",
+          22
+        ],
+        [
+          "media",
+          21
+        ],
+        [
+          "security",
+          20
+        ],
+        [
+          "delivery",
+          20
+        ],
+        [
+          "business",
+          19
+        ],
+        [
+          "communications",
+          19
+        ],
+        [
+          "games",
+          19
+        ],
+        [
+          "healthcare",
+          19
+        ]
+      ],
+      "topBigrams": [
+        [
+          "solutions architect",
+          169
+        ],
+        [
+          "account executive",
+          125
+        ],
+        [
+          "resident solutions",
+          55
+        ],
+        [
+          "enterprise account",
+          41
+        ],
+        [
+          "public sector",
+          37
+        ],
+        [
+          "core account",
+          37
+        ],
+        [
+          "financial services",
+          32
+        ],
+        [
+          "software backend",
+          30
+        ],
+        [
+          "field engineering",
+          29
+        ],
+        [
+          "hunter account",
+          23
+        ],
+        [
+          "delivery solutions",
+          18
+        ],
+        [
+          "communications media",
+          18
+        ],
+        [
+          "media entertainment",
+          18
+        ],
+        [
+          "entertainment games",
+          18
+        ],
+        [
+          "architect public",
+          18
+        ],
+        [
+          "strategic core",
+          18
+        ],
+        [
+          "architect communications",
+          17
+        ],
+        [
+          "life sciences",
+          17
+        ],
+        [
+          "professional services",
+          16
+        ],
+        [
+          "architect financial",
+          16
+        ],
+        [
+          "healthcare life",
+          16
+        ],
+        [
+          "data ai",
+          13
+        ],
+        [
+          "technical solutions",
+          13
+        ],
+        [
+          "software engineer-",
+          12
+        ],
+        [
+          "digital native",
+          11
+        ],
+        [
+          "specialist solutions",
+          11
+        ],
+        [
+          "strategic enterprise",
+          11
+        ],
+        [
+          "ai platform",
+          10
+        ],
+        [
+          "architect healthcare",
+          10
+        ],
+        [
+          "ai bi",
+          10
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "solutions architect",
+          "before": 172,
+          "after": 169,
+          "delta": -3
+        },
+        {
+          "term": "geo core",
+          "before": 8,
+          "after": 5,
+          "delta": -3
+        },
+        {
+          "term": "forward deployment",
+          "before": 0,
+          "after": 3,
+          "delta": 3
+        },
+        {
+          "term": "core account",
+          "before": 39,
+          "after": 37,
+          "delta": -2
+        },
+        {
+          "term": "enterprise account",
+          "before": 39,
+          "after": 41,
+          "delta": 2
+        },
+        {
+          "term": "new grad",
+          "before": 4,
+          "after": 2,
+          "delta": -2
+        },
+        {
+          "term": "grad 2026",
+          "before": 4,
+          "after": 2,
+          "delta": -2
+        },
+        {
+          "term": "account executive",
+          "before": 124,
+          "after": 125,
+          "delta": 1
+        },
+        {
+          "term": "public sector",
+          "before": 38,
+          "after": 37,
+          "delta": -1
+        },
+        {
+          "term": "gtm leader",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "financial services",
+          "before": 31,
+          "after": 32,
+          "delta": 1
+        },
+        {
+          "term": "digital natives",
+          "before": 6,
+          "after": 5,
+          "delta": -1
+        },
+        {
+          "term": "emerging enterprise",
+          "before": 10,
+          "after": 9,
+          "delta": -1
+        },
+        {
+          "term": "architect financial",
+          "before": 15,
+          "after": 16,
+          "delta": 1
+        },
+        {
+          "term": "go-to-market gtm",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "strategy execution",
+          "before": 5,
+          "after": 4,
+          "delta": -1
+        },
+        {
+          "term": "4th estate",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "executive energy",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "executive oil",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "oil gas",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "gas energy",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "specialist solutions",
+          "before": 12,
+          "after": 11,
+          "delta": -1
+        },
+        {
+          "term": "named enterprise",
+          "before": 6,
+          "after": 7,
+          "delta": 1
+        },
+        {
+          "term": "resident solutions",
+          "before": 56,
+          "after": 55,
+          "delta": -1
+        },
+        {
+          "term": "architect fsi",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "services strategic",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "solutions public",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "strategic account",
+          "before": 6,
+          "after": 7,
+          "delta": 1
+        },
+        {
+          "term": "strategic core",
+          "before": 17,
+          "after": 18,
+          "delta": 1
+        },
+        {
+          "term": "executive automotive",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

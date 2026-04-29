@@ -1,0 +1,691 @@
+{
+  "slug": "gitlab",
+  "computedAt": "2026-04-29T17:00:35.509Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 201,
+      "topUnigrams": [
+        [
+          "backend",
+          35
+        ],
+        [
+          "account",
+          29
+        ],
+        [
+          "executive",
+          29
+        ],
+        [
+          "architect",
+          18
+        ],
+        [
+          "security",
+          17
+        ],
+        [
+          "engineering",
+          16
+        ],
+        [
+          "solutions",
+          16
+        ],
+        [
+          "business",
+          15
+        ],
+        [
+          "ai",
+          15
+        ],
+        [
+          "commercial",
+          13
+        ],
+        [
+          "sales",
+          13
+        ],
+        [
+          "customer",
+          11
+        ],
+        [
+          "services",
+          11
+        ],
+        [
+          "product",
+          11
+        ],
+        [
+          "success",
+          10
+        ],
+        [
+          "sscs",
+          10
+        ],
+        [
+          "intermediate",
+          10
+        ],
+        [
+          "delivery",
+          9
+        ],
+        [
+          "supply",
+          9
+        ],
+        [
+          "chain",
+          9
+        ],
+        [
+          "emea",
+          8
+        ],
+        [
+          "infrastructure",
+          8
+        ],
+        [
+          "new",
+          8
+        ],
+        [
+          "analytics",
+          7
+        ],
+        [
+          "west",
+          7
+        ],
+        [
+          "regional",
+          7
+        ],
+        [
+          "professional",
+          7
+        ],
+        [
+          "golang",
+          6
+        ],
+        [
+          "program",
+          6
+        ],
+        [
+          "enterprise",
+          6
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          28
+        ],
+        [
+          "solutions architect",
+          14
+        ],
+        [
+          "customer success",
+          10
+        ],
+        [
+          "supply chain",
+          9
+        ],
+        [
+          "commercial account",
+          8
+        ],
+        [
+          "new business",
+          8
+        ],
+        [
+          "business account",
+          8
+        ],
+        [
+          "professional services",
+          7
+        ],
+        [
+          "ecosystem sales",
+          6
+        ],
+        [
+          "intermediate backend",
+          6
+        ],
+        [
+          "backend sscs",
+          6
+        ],
+        [
+          "strategic account",
+          6
+        ],
+        [
+          "development representative",
+          5
+        ],
+        [
+          "gitlab delivery",
+          5
+        ],
+        [
+          "software supply",
+          5
+        ],
+        [
+          "chain security",
+          5
+        ],
+        [
+          "public sector",
+          5
+        ],
+        [
+          "major account",
+          5
+        ],
+        [
+          "backend analytics",
+          4
+        ],
+        [
+          "analytics instrumentation",
+          4
+        ],
+        [
+          "instrumentation golang",
+          4
+        ],
+        [
+          "knowledge graph",
+          4
+        ],
+        [
+          "regional sales",
+          4
+        ],
+        [
+          "continuous delivery",
+          4
+        ],
+        [
+          "delivery upgrades",
+          4
+        ],
+        [
+          "sscs ai",
+          4
+        ],
+        [
+          "ai governance",
+          4
+        ],
+        [
+          "sscs supply",
+          4
+        ],
+        [
+          "backend gitlab",
+          4
+        ],
+        [
+          "site reliability",
+          4
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 202,
+      "topUnigrams": [
+        [
+          "backend",
+          35
+        ],
+        [
+          "account",
+          28
+        ],
+        [
+          "executive",
+          28
+        ],
+        [
+          "engineering",
+          17
+        ],
+        [
+          "security",
+          17
+        ],
+        [
+          "ai",
+          16
+        ],
+        [
+          "architect",
+          16
+        ],
+        [
+          "business",
+          14
+        ],
+        [
+          "sales",
+          14
+        ],
+        [
+          "solutions",
+          14
+        ],
+        [
+          "commercial",
+          13
+        ],
+        [
+          "services",
+          11
+        ],
+        [
+          "product",
+          11
+        ],
+        [
+          "customer",
+          10
+        ],
+        [
+          "sscs",
+          10
+        ],
+        [
+          "intermediate",
+          10
+        ],
+        [
+          "success",
+          9
+        ],
+        [
+          "delivery",
+          9
+        ],
+        [
+          "supply",
+          9
+        ],
+        [
+          "chain",
+          9
+        ],
+        [
+          "emea",
+          8
+        ],
+        [
+          "infrastructure",
+          8
+        ],
+        [
+          "analytics",
+          7
+        ],
+        [
+          "west",
+          7
+        ],
+        [
+          "program",
+          7
+        ],
+        [
+          "regional",
+          7
+        ],
+        [
+          "technical",
+          7
+        ],
+        [
+          "professional",
+          7
+        ],
+        [
+          "new",
+          7
+        ],
+        [
+          "golang",
+          6
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          27
+        ],
+        [
+          "solutions architect",
+          12
+        ],
+        [
+          "customer success",
+          9
+        ],
+        [
+          "supply chain",
+          9
+        ],
+        [
+          "commercial account",
+          8
+        ],
+        [
+          "professional services",
+          7
+        ],
+        [
+          "new business",
+          7
+        ],
+        [
+          "business account",
+          7
+        ],
+        [
+          "ecosystem sales",
+          6
+        ],
+        [
+          "intermediate backend",
+          6
+        ],
+        [
+          "backend sscs",
+          6
+        ],
+        [
+          "strategic account",
+          6
+        ],
+        [
+          "development representative",
+          5
+        ],
+        [
+          "gitlab delivery",
+          5
+        ],
+        [
+          "software supply",
+          5
+        ],
+        [
+          "chain security",
+          5
+        ],
+        [
+          "public sector",
+          5
+        ],
+        [
+          "major account",
+          5
+        ],
+        [
+          "backend analytics",
+          4
+        ],
+        [
+          "analytics instrumentation",
+          4
+        ],
+        [
+          "instrumentation golang",
+          4
+        ],
+        [
+          "knowledge graph",
+          4
+        ],
+        [
+          "regional sales",
+          4
+        ],
+        [
+          "continuous delivery",
+          4
+        ],
+        [
+          "delivery upgrades",
+          4
+        ],
+        [
+          "sscs ai",
+          4
+        ],
+        [
+          "ai governance",
+          4
+        ],
+        [
+          "sscs supply",
+          4
+        ],
+        [
+          "backend gitlab",
+          4
+        ],
+        [
+          "site reliability",
+          4
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "solutions architect",
+          "before": 14,
+          "after": 12,
+          "delta": -2
+        },
+        {
+          "term": "account executive",
+          "before": 28,
+          "after": 27,
+          "delta": -1
+        },
+        {
+          "term": "customer success",
+          "before": 10,
+          "after": 9,
+          "delta": -1
+        },
+        {
+          "term": "forward deployed",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "legal counsel",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "san francisco",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "new business",
+          "before": 8,
+          "after": 7,
+          "delta": -1
+        },
+        {
+          "term": "business account",
+          "before": 8,
+          "after": 7,
+          "delta": -1
+        },
+        {
+          "term": "technical program",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "executive italy",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "backend analytics",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "analytics instrumentation",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "instrumentation golang",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "backend knowledge",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "knowledge graph",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "graph rust",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "business development",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "development representative",
+          "before": 5,
+          "after": 5,
+          "delta": 0
+        },
+        {
+          "term": "representative east",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "representative german",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "german speaking",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "representative nordics",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "candidate experience",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "experience specialist",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "commercial account",
+          "before": 8,
+          "after": 8,
+          "delta": 0
+        },
+        {
+          "term": "executive dach",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "executive indonesia",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "executive key",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "key accounts",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "accounts nordics",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

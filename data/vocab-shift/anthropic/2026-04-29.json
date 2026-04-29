@@ -1,6 +1,6 @@
 {
   "slug": "anthropic",
-  "computedAt": "2026-04-29T10:27:56.084Z",
+  "computedAt": "2026-04-29T17:00:33.846Z",
   "snapshotCount": 2,
   "windows": [
     {
@@ -253,7 +253,7 @@
     },
     {
       "date": "2026-04-29",
-      "total": 454,
+      "total": 446,
       "topUnigrams": [
         [
           "research",
@@ -261,15 +261,15 @@
         ],
         [
           "account",
-          57
-        ],
-        [
-          "executive",
-          54
+          55
         ],
         [
           "ai",
           54
+        ],
+        [
+          "executive",
+          52
         ],
         [
           "software",
@@ -284,11 +284,11 @@
           36
         ],
         [
-          "operations",
-          27
+          "security",
+          26
         ],
         [
-          "security",
+          "operations",
           26
         ],
         [
@@ -296,15 +296,15 @@
           23
         ],
         [
+          "architect",
+          21
+        ],
+        [
           "technical",
-          22
+          21
         ],
         [
           "product",
-          22
-        ],
-        [
-          "architect",
           21
         ],
         [
@@ -320,19 +320,11 @@
           18
         ],
         [
-          "strategic",
-          17
-        ],
-        [
           "safeguards",
           17
         ],
         [
           "engineering",
-          17
-        ],
-        [
-          "finance",
           17
         ],
         [
@@ -348,11 +340,19 @@
           16
         ],
         [
+          "finance",
+          16
+        ],
+        [
           "scientist",
           15
         ],
         [
           "emea",
+          15
+        ],
+        [
+          "strategic",
           15
         ],
         [
@@ -379,7 +379,7 @@
       "topBigrams": [
         [
           "account executive",
-          53
+          51
         ],
         [
           "applied ai",
@@ -406,10 +406,6 @@
           10
         ],
         [
-          "strategic account",
-          10
-        ],
-        [
           "technical program",
           10
         ],
@@ -418,11 +414,11 @@
           9
         ],
         [
-          "federal civilian",
-          7
+          "strategic account",
+          9
         ],
         [
-          "forward deployed",
+          "federal civilian",
           7
         ],
         [
@@ -459,6 +455,10 @@
         ],
         [
           "strategy deal",
+          6
+        ],
+        [
+          "forward deployed",
           6
         ],
         [
@@ -508,8 +508,8 @@
         {
           "term": "account executive",
           "before": 54,
-          "after": 53,
-          "delta": -1
+          "after": 51,
+          "delta": -3
         },
         {
           "term": "anthropic institute",
@@ -536,6 +536,18 @@
           "delta": -1
         },
         {
+          "term": "education labs",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "accounting operations",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
           "term": "cloud inference",
           "before": 3,
           "after": 4,
@@ -545,6 +557,12 @@
           "term": "enterprise account",
           "before": 23,
           "after": 22,
+          "delta": -1
+        },
+        {
+          "term": "forward deployed",
+          "before": 7,
+          "after": 6,
           "delta": -1
         },
         {
@@ -608,28 +626,22 @@
           "delta": 1
         },
         {
+          "term": "strategic account",
+          "before": 10,
+          "after": 9,
+          "delta": -1
+        },
+        {
+          "term": "technical deployment",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
           "term": "technical program",
           "before": 9,
           "after": 10,
           "delta": 1
-        },
-        {
-          "term": "executive academic",
-          "before": 1,
-          "after": 1,
-          "delta": 0
-        },
-        {
-          "term": "academic medical",
-          "before": 1,
-          "after": 1,
-          "delta": 0
-        },
-        {
-          "term": "medical centers",
-          "before": 1,
-          "after": 1,
-          "delta": 0
         },
         {
           "term": "executive beneficial",
@@ -671,18 +683,6 @@
           "term": "deployments spanish",
           "before": 2,
           "after": 2,
-          "delta": 0
-        },
-        {
-          "term": "spanish speaking",
-          "before": 2,
-          "after": 2,
-          "delta": 0
-        },
-        {
-          "term": "executive mid",
-          "before": 1,
-          "after": 1,
           "delta": 0
         }
       ]

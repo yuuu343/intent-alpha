@@ -1,0 +1,405 @@
+{
+  "slug": "confluent",
+  "computedAt": "2026-04-29T17:00:34.960Z",
+  "snapshotCount": 2,
+  "snapshotDates": [
+    "2026-04-28",
+    "2026-04-29"
+  ],
+  "framework": {
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "buckets": [
+      "0–14d (likely withdrawn)",
+      "15–60d",
+      "61–120d",
+      "120+d (backlog)"
+    ],
+    "readiness": "live"
+  },
+  "withdrawn": [],
+  "stillOpen": [
+    {
+      "id": "8b41454a-1025-418b-b7eb-642dd8408219",
+      "title": "Senior Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5c5eb5ed-e880-447e-a76e-e056ce2acfb9",
+      "title": "Senior Manager, Engineering - KORA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3fc1adb4-594a-484b-8e76-9a45156c83fe",
+      "title": "Senior Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "94779f17-93f1-4890-8b11-178bd17cdde1",
+      "title": "Senior Software Engineer II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4ac58d2c-2003-4753-99e9-e35906297f28",
+      "title": "Staff Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c9746326-522d-4a3c-b098-3496effcaded",
+      "title": "Staff Software Developer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a37ae514-357a-481a-a4be-3d5999e80039",
+      "title": "Senior Software Engineer II - Kafka Client",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "79c5035c-4266-40f0-86e1-84d067ed77b1",
+      "title": "Staff Software Engineer - Flink SQL",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ca3f2007-6218-4d96-93a5-32230addfd31",
+      "title": "Senior Software Engineer II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2b7f816b-9f5b-4023-b38d-46fd3e117298",
+      "title": "Staff Software Engineer I - Stream Governance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "967ce671-b03f-4624-a45c-d20c9a352081",
+      "title": "Senior Software Engineer - Product Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "90949913-fc2b-47aa-8015-fcd264b352ae",
+      "title": "Staff Software Engineer - Apache Kafka",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d9698ddf-9a48-4c8b-8aa2-5b272f204f11",
+      "title": "Senior Security Engineer II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7a2da45b-4a80-4742-bbae-a249368b74f8",
+      "title": "Staff Software Engineer I - Internal Access Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2966b333-863b-4620-b0f5-220fafe76958",
+      "title": "Staff Product Manager, Confluent Cloud Kafka",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "95960e5a-c192-4691-ac3d-c7e292e28550",
+      "title": "AI Architect ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0b2a4106-7f01-4205-813d-81e4fa1abdb4",
+      "title": "Staff Software Engineer I - SRE",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ccc79d18-b4a7-4be8-9a93-6714d72c5147",
+      "title": "Senior Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "993cd972-d032-4892-bf4f-804f056604a4",
+      "title": "Staff Software Engineer I - Cloud Compute Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3b98b217-57a2-4fa7-b321-2034ccbd1661",
+      "title": "Staff Site Reliability Engineer - Incident Management & Reliability (Remote - Canada)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8606dc2b-3ad7-4423-9cbb-c7e6df0a1ae5",
+      "title": "Staff Software Engineer - Flink Control Plane",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e12d3084-a84e-4c1a-800e-5d5dbb9e27e8",
+      "title": "Principal Engineer I - Cloud Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a39d4a62-2d73-46af-bbdd-9b9a1314c275",
+      "title": "Senior Software Engineer - Cloud Traffic",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7ea0f7ad-2445-4fac-a33c-fbfc164d5181",
+      "title": "Staff Security Engineer II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f60bba87-9470-4238-bf6f-dce1b4da8006",
+      "title": "Senior Product Manager, Cluster Linking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6f9f7932-2647-4562-b10b-fe70eb27d007",
+      "title": "Manager II, Engineering – Secure Compute Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7a1908bf-ba09-48a7-92e9-f57fd4c9eb57",
+      "title": "Staff Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "21082b9f-440a-4ba6-a469-c70d339d1aa9",
+      "title": "Staff Product Manager, Kafka Connect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "bdb98661-c475-4914-9b17-b99d03a2d56e",
+      "title": "Senior Software Engineer - II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "476b9b8a-bd75-45ce-90d1-b4dc2923980f",
+      "title": "Senior Engineering Manager - Metrics Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1946b144-eaa5-482f-b235-63cc06104ecc",
+      "title": "Senior Product Manager, Cloud Networking ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9f49b470-2f9c-42c0-a7cb-2aabeb669da8",
+      "title": "Staff Product Manager, Flink Cloud Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7f758710-e3c4-4eed-b801-65e1fe9827e1",
+      "title": "Director II, Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "88579760-2f82-406f-8cc6-150c9164e659",
+      "title": "Software Engineer- Cloud Traffic",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ace9673e-c763-4b90-b3d8-616e55131f91",
+      "title": "Director, Engineering – Applied AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1c6ffcd7-ae43-465f-ab11-ca8e7a279cf9",
+      "title": "Senior Director, Business Systems",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3ffbcfdf-6650-4608-9479-e09c09a0d460",
+      "title": "Senior Finance BSA - NetSuite",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2dd084eb-207f-4e58-bc33-b5a4a9f89eec",
+      "title": "Software Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9f215e9a-5aeb-46b8-9cdf-05ee3eaf5229",
+      "title": "Engineering Manager - CC UI Apps (Kafka, Governance, and Tableflow)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "becdf53f-8988-4795-acf2-851a795c2f15",
+      "title": "Senior Technical Program Manager ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "856698ca-f3cc-4ccd-986a-c57e7ef9e574",
+      "title": "Senior Software Engineer II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0b65c19f-c804-4f79-b1e3-c3ea035c3d76",
+      "title": "Senior Software Engineer II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0605ed11-ec59-428f-9f69-b24b25c575ed",
+      "title": "Senior Software Engineer - Connect Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "fba82635-ed87-459c-b57a-00c00e001fdb",
+      "title": "Senior Product Manager - Hybrid Control Plane for Observability & Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e2308c50-04dc-40d5-a5f2-984769bdb5be",
+      "title": "Senior Software Engineer II",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "51486e89-f4f6-4961-ba7a-4e60a521959d",
+      "title": "Staff Software Engineer - I",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ff2464db-7d56-401c-97b0-eda62adb05ea",
+      "title": "Staff Software Developer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ded86e3c-8dbe-498b-861c-1fe5dfcd1ce3",
+      "title": "Head of Product Led Growth Marketing ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a081a7bf-9bee-4ffa-a7a6-f2a574203b79",
+      "title": "Senior Director, Business Technology Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b7e584df-6e2a-4e6b-93c6-661d507a25f8",
+      "title": "Sr. Manager, KORA Orchestration Global",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ddfaf293-332a-44e9-a543-49e5c898584b",
+      "title": "Engineering Manager, Connect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "09b5df3f-2e17-4b95-ab0b-5d7cdb038a0e",
+      "title": "Staff Software Engineer I – Control Plane Core Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "dc52dfa1-1649-442c-9344-609b8f01ed4b",
+      "title": "Senior Product Manager, Cloud Networking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0c8cd0e5-8a53-47bc-9699-2934fbdaa7be",
+      "title": "Senior Software Engineer",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    }
+  ],
+  "summary": {
+    "withdrawnCount": 0,
+    "stillOpenCount": 54,
+    "bucketCounts": {}
+  }
+}

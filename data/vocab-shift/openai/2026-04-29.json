@@ -1,0 +1,691 @@
+{
+  "slug": "openai",
+  "computedAt": "2026-04-29T17:00:36.992Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 651,
+      "topUnigrams": [
+        [
+          "software",
+          119
+        ],
+        [
+          "ai",
+          77
+        ],
+        [
+          "engineering",
+          51
+        ],
+        [
+          "data",
+          45
+        ],
+        [
+          "product",
+          44
+        ],
+        [
+          "infrastructure",
+          43
+        ],
+        [
+          "deployment",
+          43
+        ],
+        [
+          "forward",
+          40
+        ],
+        [
+          "deployed",
+          40
+        ],
+        [
+          "security",
+          37
+        ],
+        [
+          "research",
+          33
+        ],
+        [
+          "solutions",
+          30
+        ],
+        [
+          "scientist",
+          28
+        ],
+        [
+          "partner",
+          27
+        ],
+        [
+          "enterprise",
+          25
+        ],
+        [
+          "operations",
+          25
+        ],
+        [
+          "systems",
+          24
+        ],
+        [
+          "technical",
+          23
+        ],
+        [
+          "chatgpt",
+          22
+        ],
+        [
+          "platform",
+          21
+        ],
+        [
+          "safety",
+          21
+        ],
+        [
+          "strategic",
+          21
+        ],
+        [
+          "marketing",
+          21
+        ],
+        [
+          "program",
+          20
+        ],
+        [
+          "account",
+          20
+        ],
+        [
+          "success",
+          20
+        ],
+        [
+          "researcher",
+          19
+        ],
+        [
+          "support",
+          18
+        ],
+        [
+          "codex",
+          18
+        ],
+        [
+          "consumer",
+          17
+        ]
+      ],
+      "topBigrams": [
+        [
+          "forward deployed",
+          40
+        ],
+        [
+          "ai deployment",
+          35
+        ],
+        [
+          "data scientist",
+          20
+        ],
+        [
+          "deployed engineering",
+          15
+        ],
+        [
+          "consumer devices",
+          15
+        ],
+        [
+          "ai success",
+          15
+        ],
+        [
+          "deployed software",
+          9
+        ],
+        [
+          "ads solutions",
+          9
+        ],
+        [
+          "san francisco",
+          9
+        ],
+        [
+          "product marketing",
+          8
+        ],
+        [
+          "backend software",
+          8
+        ],
+        [
+          "life sciences",
+          8
+        ],
+        [
+          "large enterprise",
+          8
+        ],
+        [
+          "technical program",
+          7
+        ],
+        [
+          "research scientist",
+          7
+        ],
+        [
+          "deployment engineer-",
+          7
+        ],
+        [
+          "deployed fde",
+          7
+        ],
+        [
+          "data center",
+          7
+        ],
+        [
+          "strategic finance",
+          7
+        ],
+        [
+          "engineering fde",
+          7
+        ],
+        [
+          "product designer",
+          6
+        ],
+        [
+          "technical deployment",
+          6
+        ],
+        [
+          "ai support",
+          6
+        ],
+        [
+          "software codex",
+          6
+        ],
+        [
+          "software chatgpt",
+          6
+        ],
+        [
+          "software infrastructure",
+          6
+        ],
+        [
+          "stack software",
+          6
+        ],
+        [
+          "compute infrastructure",
+          5
+        ],
+        [
+          "detection response",
+          5
+        ],
+        [
+          "machine learning",
+          5
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 660,
+      "topUnigrams": [
+        [
+          "software",
+          120
+        ],
+        [
+          "ai",
+          79
+        ],
+        [
+          "engineering",
+          51
+        ],
+        [
+          "data",
+          47
+        ],
+        [
+          "deployment",
+          46
+        ],
+        [
+          "product",
+          44
+        ],
+        [
+          "infrastructure",
+          43
+        ],
+        [
+          "forward",
+          40
+        ],
+        [
+          "deployed",
+          40
+        ],
+        [
+          "security",
+          39
+        ],
+        [
+          "research",
+          32
+        ],
+        [
+          "solutions",
+          32
+        ],
+        [
+          "scientist",
+          28
+        ],
+        [
+          "partner",
+          28
+        ],
+        [
+          "operations",
+          25
+        ],
+        [
+          "enterprise",
+          24
+        ],
+        [
+          "systems",
+          24
+        ],
+        [
+          "technical",
+          23
+        ],
+        [
+          "program",
+          22
+        ],
+        [
+          "platform",
+          22
+        ],
+        [
+          "chatgpt",
+          22
+        ],
+        [
+          "safety",
+          21
+        ],
+        [
+          "account",
+          20
+        ],
+        [
+          "researcher",
+          20
+        ],
+        [
+          "success",
+          20
+        ],
+        [
+          "marketing",
+          20
+        ],
+        [
+          "codex",
+          20
+        ],
+        [
+          "support",
+          18
+        ],
+        [
+          "strategic",
+          18
+        ],
+        [
+          "consumer",
+          17
+        ]
+      ],
+      "topBigrams": [
+        [
+          "forward deployed",
+          40
+        ],
+        [
+          "ai deployment",
+          37
+        ],
+        [
+          "data scientist",
+          20
+        ],
+        [
+          "deployed engineering",
+          15
+        ],
+        [
+          "consumer devices",
+          15
+        ],
+        [
+          "ai success",
+          15
+        ],
+        [
+          "ads solutions",
+          12
+        ],
+        [
+          "deployed software",
+          9
+        ],
+        [
+          "san francisco",
+          9
+        ],
+        [
+          "technical program",
+          8
+        ],
+        [
+          "deployment engineer-",
+          8
+        ],
+        [
+          "product marketing",
+          8
+        ],
+        [
+          "backend software",
+          8
+        ],
+        [
+          "life sciences",
+          8
+        ],
+        [
+          "research scientist",
+          7
+        ],
+        [
+          "deployed fde",
+          7
+        ],
+        [
+          "data center",
+          7
+        ],
+        [
+          "strategic finance",
+          7
+        ],
+        [
+          "client partner",
+          7
+        ],
+        [
+          "partner ads",
+          7
+        ],
+        [
+          "large enterprise",
+          7
+        ],
+        [
+          "engineering fde",
+          7
+        ],
+        [
+          "product designer",
+          6
+        ],
+        [
+          "technical deployment",
+          6
+        ],
+        [
+          "ai support",
+          6
+        ],
+        [
+          "software codex",
+          6
+        ],
+        [
+          "software chatgpt",
+          6
+        ],
+        [
+          "software infrastructure",
+          6
+        ],
+        [
+          "stack software",
+          6
+        ],
+        [
+          "regional client",
+          6
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "ads solutions",
+          "before": 9,
+          "after": 12,
+          "delta": 3
+        },
+        {
+          "term": "ai deployment",
+          "before": 35,
+          "after": 37,
+          "delta": 2
+        },
+        {
+          "term": "human data",
+          "before": 1,
+          "after": 3,
+          "delta": 2
+        },
+        {
+          "term": "strategic sourcing",
+          "before": 4,
+          "after": 2,
+          "delta": -2
+        },
+        {
+          "term": "client partner",
+          "before": 5,
+          "after": 7,
+          "delta": 2
+        },
+        {
+          "term": "partner ads",
+          "before": 5,
+          "after": 7,
+          "delta": 2
+        },
+        {
+          "term": "gtm strategy",
+          "before": 1,
+          "after": 3,
+          "delta": 2
+        },
+        {
+          "term": "strategy planning",
+          "before": 1,
+          "after": 3,
+          "delta": 2
+        },
+        {
+          "term": "technical program",
+          "before": 7,
+          "after": 8,
+          "delta": 1
+        },
+        {
+          "term": "data acquisition",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "deployment engineer-",
+          "before": 7,
+          "after": 8,
+          "delta": 1
+        },
+        {
+          "term": "people innovation",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "safety systems",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "researcher alignment",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "partner global",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "customer success",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "success ads",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "regional client",
+          "before": 5,
+          "after": 6,
+          "delta": 1
+        },
+        {
+          "term": "site reliability",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "software productivity",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "product safety",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "engineer- codex",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "large enterprise",
+          "before": 8,
+          "after": 7,
+          "delta": -1
+        },
+        {
+          "term": "supply chain",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "solutions large",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "business partner",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "global affairs",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "deployment codex",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "product partnerships",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "strategic risk",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        }
+      ]
+    }
+  ]
+}

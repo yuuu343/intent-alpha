@@ -1,0 +1,691 @@
+{
+  "slug": "cohere",
+  "computedAt": "2026-04-29T17:00:34.566Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 115,
+      "topUnigrams": [
+        [
+          "technical",
+          28
+        ],
+        [
+          "member",
+          23
+        ],
+        [
+          "software",
+          12
+        ],
+        [
+          "infrastructure",
+          11
+        ],
+        [
+          "specialist",
+          10
+        ],
+        [
+          "research",
+          10
+        ],
+        [
+          "ai",
+          9
+        ],
+        [
+          "forward",
+          8
+        ],
+        [
+          "deployed",
+          8
+        ],
+        [
+          "mle",
+          7
+        ],
+        [
+          "data",
+          7
+        ],
+        [
+          "security",
+          7
+        ],
+        [
+          "public",
+          6
+        ],
+        [
+          "sector",
+          6
+        ],
+        [
+          "executive",
+          6
+        ],
+        [
+          "operations",
+          6
+        ],
+        [
+          "summer",
+          6
+        ],
+        [
+          "product",
+          6
+        ],
+        [
+          "north",
+          5
+        ],
+        [
+          "solutions",
+          5
+        ],
+        [
+          "account",
+          5
+        ],
+        [
+          "model",
+          5
+        ],
+        [
+          "agentic",
+          5
+        ],
+        [
+          "2026",
+          4
+        ],
+        [
+          "architect",
+          4
+        ],
+        [
+          "agents",
+          4
+        ],
+        [
+          "uk",
+          4
+        ],
+        [
+          "applied",
+          4
+        ],
+        [
+          "spring",
+          4
+        ],
+        [
+          "sovereign",
+          4
+        ]
+      ],
+      "topBigrams": [
+        [
+          "member technical",
+          23
+        ],
+        [
+          "forward deployed",
+          8
+        ],
+        [
+          "technical mle",
+          7
+        ],
+        [
+          "public sector",
+          6
+        ],
+        [
+          "account executive",
+          5
+        ],
+        [
+          "solutions architect",
+          4
+        ],
+        [
+          "deployed infrastructure",
+          4
+        ],
+        [
+          "infrastructure specialist",
+          4
+        ],
+        [
+          "spring summer",
+          4
+        ],
+        [
+          "summer 2026",
+          4
+        ],
+        [
+          "sovereign ai",
+          4
+        ],
+        [
+          "research internship",
+          3
+        ],
+        [
+          "model efficiency",
+          3
+        ],
+        [
+          "applied ai",
+          3
+        ],
+        [
+          "ai agentic",
+          3
+        ],
+        [
+          "agentic workflows",
+          3
+        ],
+        [
+          "security operations",
+          3
+        ],
+        [
+          "data annotation",
+          2
+        ],
+        [
+          "annotation specialist",
+          2
+        ],
+        [
+          "software security",
+          2
+        ],
+        [
+          "technical training",
+          2
+        ],
+        [
+          "architect public",
+          2
+        ],
+        [
+          "executive energy",
+          2
+        ],
+        [
+          "research model",
+          2
+        ],
+        [
+          "model evaluation",
+          2
+        ],
+        [
+          "technical program",
+          2
+        ],
+        [
+          "uk eu",
+          2
+        ],
+        [
+          "north america",
+          2
+        ],
+        [
+          "research scientist",
+          2
+        ],
+        [
+          "internship spring",
+          2
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 119,
+      "topUnigrams": [
+        [
+          "technical",
+          29
+        ],
+        [
+          "member",
+          24
+        ],
+        [
+          "infrastructure",
+          13
+        ],
+        [
+          "specialist",
+          12
+        ],
+        [
+          "software",
+          12
+        ],
+        [
+          "research",
+          10
+        ],
+        [
+          "ai",
+          9
+        ],
+        [
+          "forward",
+          9
+        ],
+        [
+          "deployed",
+          9
+        ],
+        [
+          "data",
+          8
+        ],
+        [
+          "mle",
+          7
+        ],
+        [
+          "security",
+          7
+        ],
+        [
+          "public",
+          7
+        ],
+        [
+          "sector",
+          7
+        ],
+        [
+          "executive",
+          6
+        ],
+        [
+          "operations",
+          6
+        ],
+        [
+          "summer",
+          6
+        ],
+        [
+          "product",
+          6
+        ],
+        [
+          "north",
+          5
+        ],
+        [
+          "solutions",
+          5
+        ],
+        [
+          "account",
+          5
+        ],
+        [
+          "model",
+          5
+        ],
+        [
+          "agentic",
+          5
+        ],
+        [
+          "inference",
+          5
+        ],
+        [
+          "partner",
+          5
+        ],
+        [
+          "2026",
+          4
+        ],
+        [
+          "architect",
+          4
+        ],
+        [
+          "agents",
+          4
+        ],
+        [
+          "uk",
+          4
+        ],
+        [
+          "applied",
+          4
+        ]
+      ],
+      "topBigrams": [
+        [
+          "member technical",
+          24
+        ],
+        [
+          "forward deployed",
+          9
+        ],
+        [
+          "technical mle",
+          7
+        ],
+        [
+          "public sector",
+          7
+        ],
+        [
+          "account executive",
+          5
+        ],
+        [
+          "deployed infrastructure",
+          5
+        ],
+        [
+          "infrastructure specialist",
+          5
+        ],
+        [
+          "solutions architect",
+          4
+        ],
+        [
+          "spring summer",
+          4
+        ],
+        [
+          "summer 2026",
+          4
+        ],
+        [
+          "sovereign ai",
+          4
+        ],
+        [
+          "data annotation",
+          3
+        ],
+        [
+          "annotation specialist",
+          3
+        ],
+        [
+          "research internship",
+          3
+        ],
+        [
+          "model efficiency",
+          3
+        ],
+        [
+          "applied ai",
+          3
+        ],
+        [
+          "ai agentic",
+          3
+        ],
+        [
+          "agentic workflows",
+          3
+        ],
+        [
+          "inference infrastructure",
+          3
+        ],
+        [
+          "security operations",
+          3
+        ],
+        [
+          "software security",
+          2
+        ],
+        [
+          "technical training",
+          2
+        ],
+        [
+          "architect public",
+          2
+        ],
+        [
+          "executive energy",
+          2
+        ],
+        [
+          "research model",
+          2
+        ],
+        [
+          "model evaluation",
+          2
+        ],
+        [
+          "technical program",
+          2
+        ],
+        [
+          "uk eu",
+          2
+        ],
+        [
+          "north america",
+          2
+        ],
+        [
+          "research scientist",
+          2
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "member technical",
+          "before": 23,
+          "after": 24,
+          "delta": 1
+        },
+        {
+          "term": "data annotation",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "annotation specialist",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "public sector",
+          "before": 6,
+          "after": 7,
+          "delta": 1
+        },
+        {
+          "term": "forward deployed",
+          "before": 8,
+          "after": 9,
+          "delta": 1
+        },
+        {
+          "term": "deployed infrastructure",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "infrastructure specialist",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "inference infrastructure",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "partner tech",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "talent acquisition",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "acquisition partner",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "technical mle",
+          "before": 7,
+          "after": 7,
+          "delta": 0
+        },
+        {
+          "term": "mle korea",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "mle middle",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "middle east",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "technical modeling",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "technical multimodal",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "multimodal ai",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "mle north",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "specialist german",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "german writer",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "writer translator",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "software security",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "technical training",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "training performance",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "training infra",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "solutions architect",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "architect public",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "technical search",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "technical post-training",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

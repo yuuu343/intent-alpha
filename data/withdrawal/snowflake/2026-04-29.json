@@ -1,0 +1,3152 @@
+{
+  "slug": "snowflake",
+  "computedAt": "2026-04-29T17:00:38.004Z",
+  "snapshotCount": 2,
+  "snapshotDates": [
+    "2026-04-28",
+    "2026-04-29"
+  ],
+  "framework": {
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "buckets": [
+      "0–14d (likely withdrawn)",
+      "15–60d",
+      "61–120d",
+      "120+d (backlog)"
+    ],
+    "readiness": "live"
+  },
+  "withdrawn": [
+    {
+      "id": "44ff3eec-3736-4606-8618-7f414b23baff",
+      "title": "Staff Software Engineer - Container Platform ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "dd0075c9-3fd8-4262-900e-82e9115e874a",
+      "title": "Manager, Finance Transformation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "f17e8a6d-8af5-40c9-b8d4-4a26f22f2503",
+      "title": "Field Marketing Coordinator (Hybrid)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "c8f9789e-2ef9-4741-9f27-418a0c2d341d",
+      "title": "Engineering Manager Data Pipelines",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "a233050a-a770-4e19-b06a-61a57243a7db",
+      "title": "Senior Solution Engineer - HCLS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "27580e39-c5a7-42ba-829d-4ae619f3e6b6",
+      "title": "Staff Product Manager - Compute Engine",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "cf2d1ef1-aa9a-4332-ae9f-e9504798a13e",
+      "title": "Employee Relations Business Partner, EMEA",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "cbdc139a-1c50-4b19-8fac-1d4a20e694f8",
+      "title": "Senior Partner Solution Engineer - ANZ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "f93ddfe4-f521-438c-be3d-cc7bd6836b56",
+      "title": "Solution Engineer, Expansion",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "ff95a387-2f3c-488d-b76b-d9b298e6b07d",
+      "title": "Account Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7869a36a-9878-4c7e-b807-6324084a4638",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "8a030e72-d9e0-4185-9005-b76b0fa96c24",
+      "title": "Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "df0d9127-5506-4135-8e64-fa972a50b133",
+      "title": "Senior Software Engineer - Cloud Provisioning Service",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "b15c3300-e0f2-4af8-8536-8a3f66e97878",
+      "title": "Technical Instructor - Shanghai",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "d75de8ed-ba24-4925-a507-14422fca1cec",
+      "title": "Sales Development Representative - EMEA ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "2c8674c3-7b3b-4a09-abe0-929fe9a5d22f",
+      "title": "Associate Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "ecff38e1-4dc7-403c-a5a3-29fd6cda3d3f",
+      "title": "Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "761bedb6-343c-4973-ab29-1529ac5b1438",
+      "title": "Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "920cc4a8-cb4a-46a1-92ad-08cc061afbc0",
+      "title": "Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "18b7198e-7af9-4136-bef0-a3bfe6be0e1e",
+      "title": "Account Executive - Manufacturing & Industry",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "b3f5c974-a9e1-4198-8d94-c6e5fd0fa81f",
+      "title": "Account Executive - Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "lifetimeDays": 0
+    }
+  ],
+  "stillOpen": [
+    {
+      "id": "6567bfde-b934-4ac0-a709-91ebb26e5773",
+      "title": " Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "853f7a17-2e85-4469-861f-6220e2daf00a",
+      "title": "Software Engineer - Platform Infrastructure Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5ac622d6-698c-4a01-8fc3-bf49f034806a",
+      "title": " Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "02b4dbeb-2fef-4838-9d79-922330f08d58",
+      "title": "Senior Data Scientist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "db1375f0-ea5d-404a-b640-259f94dbc995",
+      "title": "Software Engineer - Database Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b77b3b89-1fd1-474f-a642-af0c41b43a3b",
+      "title": "Senior Software Engineer- Open Source Analytics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3eb872af-0ab1-4986-8f72-e7321fcd1538",
+      "title": "Software Engineer - Backend",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "38f79cb1-c366-4bc5-9965-cc679ee730a4",
+      "title": "Software Engineer Intern (Backend) - Warsaw 2026",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e2739aab-b0a2-4583-92c1-13bbd4fd9672",
+      "title": "Principal Software Engineer I - Metadata",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5ee8f744-ff46-45c8-8d1c-b83514b24f61",
+      "title": "Staff AI Engineer - Snowflake Intelligence",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "97813cac-e55c-4631-94fe-5eda15c7eaed",
+      "title": "Senior Forward Deployed Engineer -Spark",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b9b85c1d-0760-4e28-9dfe-41724c8335a1",
+      "title": "Senior Data Scientist - Product",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "66c13b2c-4f8b-408e-b1c0-d40d7807592c",
+      "title": "Senior Software Application Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2189417c-3481-41a4-b33c-4c361ce8df60",
+      "title": "Solutions Architect - Migrations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "247840b3-4332-45ce-9ade-0424a0f27290",
+      "title": "Senior Engineering Manager - Query Execution Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "440ec976-a307-4575-abab-554aef8151a4",
+      "title": "Solutions Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2197e016-d38b-472a-8dab-72e614166f55",
+      "title": "Account Executive, Majors Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "304b99ee-5d3b-4c4f-be72-47d438123911",
+      "title": "Designated Support Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0f0e6358-f3a8-453f-98cb-3d44fcfcb1fd",
+      "title": "Solution Engineer - Data Engineering Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "da8298e6-c9e1-4d12-8af2-2405ba766602",
+      "title": "Solutions Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f5eb0614-25c2-4fbb-a4ef-be577f41a945",
+      "title": "Sr. District Manager, Commercial",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4d509673-07d6-471c-9b1a-1625863f9224",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "70fa522f-acbd-467e-aa1d-ddcf078bb256",
+      "title": "Account Executive, Commercial",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0fd8cb45-cc23-4632-ae02-32471f45bbc0",
+      "title": "Software Application Engineer - Migrations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2c855f7d-9228-4ee6-b6b7-dcb3c33c3796",
+      "title": "Postgres Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "34584833-b410-4c03-bf0c-0208bcf962c6",
+      "title": "Senior/Staff Software Engineer - Machine Learning Platform (Inference)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "74227e62-e43d-4e2d-9c4e-af1e9c78a5d1",
+      "title": "Enterprise Account Executive - Manufacturing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "92cabd7b-3aad-4e1c-a822-7757f2a13d95",
+      "title": "Senior Technical Account Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "89284026-17c8-463b-91a9-e5114942d291",
+      "title": "Enterprise Account Executive - FSI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9ec42613-3d43-45c1-8221-1ce32cb922a6",
+      "title": "Enterprise Account Executive - NHS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "acdbed12-827e-4553-bb6d-198ab8a04b46",
+      "title": "Enterprise Account Executive - Automotive ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5590a5a7-1bb8-4022-a2b7-fe18ac777972",
+      "title": "Enterprise Account Executive - Advertisement & Media",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "734ff4ee-f15c-4408-a421-aa5144b2ba33",
+      "title": "Industry Lead, Retail & Consumer Goods, Americas",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e47266d7-0e40-4c19-9007-730222ddc3ad",
+      "title": "Account Based Marketing Manager ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "41e65c6c-a01e-4f40-af14-ae75d3b95e27",
+      "title": "Software Engineer Intern - Berlin (2026)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d297d07c-eaa7-4896-946d-df2879c8cde3",
+      "title": "Principal Software Engineer II - Interoperable Foundations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0bd2f4bd-d46a-43cf-b923-74e56b17cb85",
+      "title": "Senior Engineering Manager - Developer Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "506f998b-4c1d-4dba-b146-b37c1bedc1b0",
+      "title": "Sales Development Representative (EMEA)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ad1b51cd-14f1-42a4-b9b9-830b93c1e1df",
+      "title": "Senior Manager Engineering - Snowhouse Foundation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6cb7f132-f93c-4872-8deb-f2f4f31a4df5",
+      "title": "Engineering Manager Performance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5cf06916-aef0-4fe5-9925-2410389be9d7",
+      "title": "Solutions Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c8502ac3-8866-4cfa-89c5-fb50044aea85",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "573478dd-de1f-4d6f-89f5-4d5fdc712ee3",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "bcb00e62-34db-41b4-a044-07f4438ea60a",
+      "title": "Senior Anti-Abuse Security Engineer, Product Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5f4ae8d3-bf84-430d-8f9f-325f14ddf947",
+      "title": "Software Engineer - APG",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f8ebbc32-0de0-4893-8c41-277131cd9806",
+      "title": "Senior Product Manager - Snowflake Intelligence",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "012a4fed-e2fb-454d-947d-630fe509a208",
+      "title": "Senior Compensation Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7572bf28-e135-4fd7-8cb6-a6c228952ec1",
+      "title": "Product Marketing - Competitive Intelligence Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2d5688ad-b4c9-4887-9009-dc6f84bd179a",
+      "title": "Services Delivery Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7657edf1-2646-4a37-b178-2807cd7dd5e5",
+      "title": "Principal Software Engineer I - Snowhouse Foundation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e01b5b38-d3d4-4a6f-9b59-cef359d561eb",
+      "title": "Regional Partner Director - North",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4586fd20-d86d-4c7e-8ab0-fc41a1ccaf9f",
+      "title": "Sr People Compliance Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "09adfe1d-f78c-4d58-9aad-04d84c6ef980",
+      "title": "Staff Software Engineer - Applied Performance Group",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e7c12d6b-efbe-4c6f-bb13-cc50dabc877d",
+      "title": "Principal Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d8d770f6-207b-4f75-bcd0-dc66358e613c",
+      "title": "Principal Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8ff9a052-a7d2-4b59-8468-40ddef31c580",
+      "title": "Technical Program Manager, Data & Reporting",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4ed363e0-cdb3-44ab-bdd9-6e91e00ce660",
+      "title": "Senior Principal Engineer - Front End",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "cac27b18-bd24-4722-8bb7-0b5ce7b18eaf",
+      "title": "Principal Software Engineer - AI Poland",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "65f598bd-f528-42da-b5e5-b3b0bdeed52c",
+      "title": "Senior (Staff) Penetration Tester",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9d0fd974-03be-402c-8052-4a879ac8c1b0",
+      "title": "SENIOR SECURITY ENGINEER - PRODUCT SECURITY",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e31c32b8-0707-4bfb-81a4-fe9764f20686",
+      "title": "Senior Director of Engineering, Traffic and Networking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "45fd2192-852d-4cf4-bffe-b0fcc46b7426",
+      "title": "Senior Technical Program Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a9b5d21f-3ed9-4158-9b05-76e65736a5da",
+      "title": "Sales Development Representative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "897e1850-c590-4462-b187-0516b65b2034",
+      "title": "Software Engineer Intern (AI/ML) - 2026",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
+      "title": "Research Intern (AI) - 2026",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b80ae1a9-7f32-499a-89de-fc227d65d089",
+      "title": "Principal Software Engineer II, Horizon Catalog",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "535ce4ac-9e1f-4068-97c3-eb43a92bfebf",
+      "title": "Senior Product Manager - Snowflake Organizations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7acd9c10-bdb7-4cae-8ba2-a3d2ceaf8397",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a9b4dab9-0b27-47b0-b0fb-2d83c5742717",
+      "title": "Principal Software Engineer - Snowflake Intelligence",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c9650a88-aeb8-4696-bc88-357d2bc7caaa",
+      "title": "Sales Development Representative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "117c0d64-ab16-4041-b82a-af7b6084305e",
+      "title": "Sales Development Representative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "53777cce-92ea-47dd-b9d3-7dc4c8db26ec",
+      "title": "Senior UX Designer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "15cde9bd-89cc-4555-9e1f-1de222ef66fe",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0c14674d-bca3-485d-9bbe-af4026ee7c92",
+      "title": "Senior Data Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "434adfa9-1a4a-41dd-a411-ff873f5ac328",
+      "title": "Enterprise Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "57096e3b-d046-455c-b289-438f77e82dbe",
+      "title": "Marketing Operations Manager – Campaign Automation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9dbb9d89-5c36-4380-b298-4aeb9ba6578a",
+      "title": "Solution Engineer - Data Cloud Architect  - Apps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d386f15a-9d4c-43ff-861c-122d22da66dd",
+      "title": "Principal Software Engineer - PostgreSQL",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "96f0e865-419d-42b9-b64c-27e22a3d9424",
+      "title": "AI Product Sales Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "058c268d-b7ab-4728-bc43-13e8dfb0b54f",
+      "title": "Account Executive (Acquisition)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "02aa1900-b08d-44e4-8724-9eba8b090fb1",
+      "title": "Senior Product Manager - Developer Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a81cd092-6af1-499a-b269-c417ecce7e1e",
+      "title": "Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c4a7f41e-c977-4d98-8a99-230dd9df8838",
+      "title": "Account Executive, Commercial Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "750d8cb9-0739-455d-844d-98da8f20ff43",
+      "title": "Senior Solution Engineer, Healthcare & Life Science",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3d760ccf-dac6-437c-aeec-f65f67582552",
+      "title": "Partner Development Manager - Data Cloud Products, Korea",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "afa654dd-0431-4030-9878-1e48c27465bd",
+      "title": "Senior Software Engineer - Openflow",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "bc7199f7-076e-4831-9eba-7e90f81d0c77",
+      "title": "Account Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2a928b93-a5d4-4285-a92c-032fb389faa2",
+      "title": "Software Engineer - SnowConvert AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7a23d023-ca10-48cf-882f-85916678816d",
+      "title": "Principal Architect, Global Manufacturing CTO",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6c2a6557-61d6-4c1b-b448-47334a70f5c7",
+      "title": "Engineering Manager - Freepool",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2e734c93-182e-4430-9393-e28ed5c1e71f",
+      "title": "Senior Product Marketing Manager - Apps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "de785884-dd32-4943-afd2-db5ec94b0c94",
+      "title": "Software Engineering Manager, Identity Access Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a1d41a01-d125-4410-bd42-d0c876e24bbe",
+      "title": "Engineering Manager - Openflow",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ee9bfed4-2161-4041-a92e-e244e2fbc39f",
+      "title": "Account Executive, Enterprise Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "23bcd112-d7d8-4060-8889-a7a045f65039",
+      "title": "Enterprise Account Executive - Sydney",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "24dcede1-0f2d-4d18-ac24-72b3a72de143",
+      "title": "Account Executive, Commercial Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1b4cc36a-1ceb-47df-a4ca-1509de6e52a5",
+      "title": "Sales Development Representative, Observe",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a6e3fdf0-c1ca-46cb-8123-052df4fc8d14",
+      "title": "Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "36aacacd-c077-4393-8a5c-d81182ad4672",
+      "title": "Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "94aa7fc4-72ee-4d8f-844a-4ef1aeb5681c",
+      "title": "Senior Cloud Support Engineer - US Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a2dd8bc9-436a-49fa-8b07-fb7a154d5c4e",
+      "title": "Senior Manager, Field Marketing Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "69d17996-c9a1-4309-a379-398013a7e410",
+      "title": "Principal Machine Learning Engineer- Search Quality",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "58656ea6-d1e7-4cdb-ae65-c8d4c5457d7d",
+      "title": "Head of Learning & Content Experience",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "32d441ea-d158-4a1e-9aba-7ed31e79f071",
+      "title": "Account Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "83d4cee5-ad51-4396-ad99-162098375ef3",
+      "title": "Business Development Manager - Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "fea0eedc-a3f7-4442-be27-af3c24c0068b",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b6a0273d-c158-4b20-a734-3be1ca24063d",
+      "title": "Senior Partner Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3c354724-0329-4810-923e-a6e0f6c1946c",
+      "title": "Enterprise Account Executive - Insurance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2bca874d-6c17-4bc9-ab05-ad230fde040a",
+      "title": "Sales Development Representative - Portuguese Speaker",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b2b52786-a41f-4200-b813-9a6b497d4f04",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7023e78f-a87b-46b2-a9c9-1ba6338ae293",
+      "title": "Senior Data Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8acbcabe-ed52-4fde-bb67-9bd641f916e2",
+      "title": "Senior People Partner, Marketing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2e759451-ea65-4731-a4ea-23c2a4cb2b88",
+      "title": "Senior Engineering Manager - Postgres ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d0102931-6ca7-4e53-ad5e-5f1e242b1e1d",
+      "title": "Senior Product Growth Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "251af11d-4cd3-4c51-9b12-3df73fd653b0",
+      "title": "Senior Analytics Architect, Applied Field Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "708992c7-67da-4f99-99f0-39ed70e360d4",
+      "title": "Backend Software Engineer - Native Apps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6dab6ed8-97c8-4413-b95f-31b84dafd5c3",
+      "title": "Senior Software Engineer - Database Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "950abc30-8bfb-4f15-9bb9-62713c93aa5f",
+      "title": "Software Engineer - Frontend",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "04271939-420b-45d6-8234-6c13663138a3",
+      "title": "Product Manager – Storage Platform & Pricing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3f8a210b-9003-489a-91c8-e3f0abeee1fc",
+      "title": "Product Manager – Metadata Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d08e3ff6-378e-4e3e-9787-39638817ae0f",
+      "title": "Senior Software Engineer - Product Security Assurance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c8152d6a-c115-4c49-97f9-6c231ceb029d",
+      "title": "Strategic Account Executive - Betting & Gaming",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f991db58-6bc1-40b2-a1b9-97d4d2b20a83",
+      "title": "Principal Software Engineer II - Next-Gen Data Transformations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e5e412cd-b5ec-4937-a25b-d01839a09007",
+      "title": "Snowflake Data Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0631cc64-5300-4294-8dc8-1a051b00565c",
+      "title": "Staff Enterprise Product Manager, Order to Cash",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9befd7fb-dd0d-445c-b349-21cf2265821c",
+      "title": "Director, Global Marketing Operations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2b9de303-7581-45dd-965d-9aa7f65e4b9d",
+      "title": "Strategic Event Technology Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0fc633bb-b3c5-4570-ae90-7cf5f28552b3",
+      "title": "Partner Development Manager - EMEA North",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b2b1709c-d907-496e-a831-a2d4d647c0a3",
+      "title": "Senior Customer Marketing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f6d40ad9-da07-477e-8f4f-e29e67e65f6b",
+      "title": "Senior Engineering Manager - SnowConvert AI ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0f4bf596-c081-444f-b0b7-3a731c3d08d0",
+      "title": "Account Executive, Enterprise Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "70d8b449-c4a1-478d-a542-7b4274227f44",
+      "title": "Staff Cloud Support Engineer - Data Integration & ETL, Clients & Connectivity",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "520ee3ea-d898-4db9-9ad9-8f12c91a96b0",
+      "title": "Senior Manager of Engineering - Capacity Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3861127d-444b-4352-a490-c1bd6aa74715",
+      "title": "Senior Production Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "323816e6-ca63-4159-8e15-4f02b4e5fcbd",
+      "title": "Principal Data Cloud Architect - SI Partners",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "de1599bf-9865-410e-aecb-8f4f8fed480b",
+      "title": "Senior Billing Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a1bfc0a2-3c97-4395-902b-bfc6e4869bf9",
+      "title": "Principal AL/ML Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ac6fae3a-8ace-4ef4-857d-b03cc1f870ac",
+      "title": "Senior Web Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "baf1cd01-ba69-4ae5-8465-a4e2f7034803",
+      "title": "Industry Lead, Retail Technology Services, and Data",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0745faaf-63aa-449d-8cbd-bee6e8a0632b",
+      "title": "Software Engineer - Production Engineering ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "39d92b40-4bdd-45ce-ad93-47a00d7830b3",
+      "title": "Staff Software Engineer - Production Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1a256781-b5b6-44e7-b138-253d16031605",
+      "title": "Senior Product Manager - Applied AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d9d2abfe-5b43-423b-8cfe-6f2edc889e94",
+      "title": "Enterprise Account Executive, Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "88348d29-0ec4-475f-a54e-c6b247cbc6a8",
+      "title": "Strategic Initiatives Associate",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a0428671-0cdc-47b0-8a5a-007fe52d49e4",
+      "title": "Account Executive, Commercial Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "195fba97-8d40-4281-a04a-bf64f37a32f2",
+      "title": "Senior Software Engineer - Production Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7d2dbbc7-488c-496c-a472-cd34122fab2a",
+      "title": "Sr. Product Marketing Manager - AI & Data Sharing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9670db54-bd0d-4dcc-a4af-61724dd82188",
+      "title": "Staff Software Engineer, Identity & Access Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0dbf6773-9560-417e-ab8a-dcdb800f3e56",
+      "title": "Video Operations Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f4a4fc50-0bda-418e-a8ca-203dea81e801",
+      "title": "Senior Software Engineer - Data Clean Room/ AI Data Hub ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a8b33525-0ee9-41c7-9d6a-7150079996b4",
+      "title": "Services Financial Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "35ca0435-7155-4797-8a45-f978f8bc2cff",
+      "title": "Senior Manager, Executive Communications",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e54a25b6-e16c-44a1-bc2d-2478c152028b",
+      "title": "Account Executive, Commercial",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2d44ebf9-0877-430e-b428-75e419b8f9fe",
+      "title": "Account Executive - Central Government ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "cf8f9538-e0fa-4c0e-be19-d2e7b218f6a0",
+      "title": "Campaign Program Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b7fba62e-95e8-4304-94fa-d278a20956f1",
+      "title": "Solutions Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b1faeb20-716c-4b93-9f2b-91d8751ed503",
+      "title": "Engineering Manager - Feature Store",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a486e499-fc99-4ce9-a994-ea7d61918eee",
+      "title": "R&D Finance Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c2e2cd47-ecf1-4eef-a9ea-06b6dc122f64",
+      "title": "Field Marketing Intern (12months) - China (2026)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "dcbd8798-31d0-4551-acf4-0d7a8f8d7757",
+      "title": "Senior Software Engineer - Snowpark Container Service",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f15d8680-5ade-433a-8c26-0a83cd9dd24a",
+      "title": "Cloud DevOps Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "46cd3e47-586e-439c-b5f9-87756be8a3f1",
+      "title": "Financial Analyst, Enterprise Technology",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "72386951-2027-4f4e-a45f-99cafc0eae33",
+      "title": "Data Architecture Lead",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "55e51edf-35a1-4a55-bc63-a49877ed4713",
+      "title": "Senior Solution Engineer - GCC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "da3b3b3d-d39b-49d1-993f-57dfeaa76d8f",
+      "title": "Director, Partners & Alliances - China",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6de9c390-d879-444d-b90b-9c6a33a1fb96",
+      "title": "Senior AI/ML Architect, Applied Field Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a904d6a7-f969-4e70-b547-1395b711201a",
+      "title": "Commercial Account Executive - General Business",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4900b9ea-1ad4-4b2c-9ec0-0ab408b7be07",
+      "title": "Developer Experience Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2bf68caf-e527-4b79-b064-0d0daff8cd55",
+      "title": "Commercial Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "30604dd0-8980-4e18-bc15-53e9ef14e50f",
+      "title": "Senior Product Manager - Streamlit",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8fb1e5de-17f8-4d9b-b399-49c70f0f70f2",
+      "title": "Senior Data Cloud Architect - SI Partners",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "58c7ce9a-6c1b-42b4-8c32-865be9dec337",
+      "title": "Account Executive - Wealth & Asset Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7bbe13cd-36d4-412d-89d3-dcf463cd4dfc",
+      "title": "Sales Development Representative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b0509b1d-3f6f-47aa-b1cb-2db2f0996278",
+      "title": "Senior Sales Financial Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "593fe4d5-b95a-49f4-bb66-0705f3102e83",
+      "title": "Senior Solution Engineer - GCC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c28d684b-c8e8-4a4c-b3e6-76c931728e21",
+      "title": "AI Solution Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0e1c4255-bcab-4b81-814e-d65972fe2c9c",
+      "title": "Technical SEO Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "56e3b511-616f-4796-8a0d-82bba851413f",
+      "title": "Sales Development Representative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "454a380f-cf60-4564-b999-41aee4f0172f",
+      "title": "Partner Development Manager - ASEAN",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f28bc52c-4faf-40f5-804a-266e34b44c04",
+      "title": "IT Audit Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1cc29aa4-60a0-4c0b-8937-54aea7d579c1",
+      "title": "Sales Development Representative - Sydney",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0ce406b4-f618-43c3-8806-0c14a354eff0",
+      "title": "Product Sales Specialist (Streamlit)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2c4b3726-7738-4f94-b81f-9a1dfb24143e",
+      "title": "Principal Product Manager, Enterprise Data & AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a4dea157-34aa-4830-8894-4696f1dd843f",
+      "title": "Sr. Manager, Global Fulfillment Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "91575c5a-4422-45ac-a339-2ebc9942dcfc",
+      "title": "Marketing Operations Automation Manager  - Marketo Platform Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8985f7de-0108-4e49-a228-de22efcb424f",
+      "title": "Senior Product Marketing Manager - Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a20eb88b-5307-406f-b2ed-e9d5c5001a82",
+      "title": "Principal Software Engineer II - Product Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2eb56e70-f2a0-4455-85e2-24ddae5cb78f",
+      "title": "Account Executive - FSI Enterprise Growth",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "390d675f-c985-42a9-ae56-bd0f5c6b3c7f",
+      "title": "Product Workload Finance Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6721e39d-42d7-4835-8066-2cd03870b88e",
+      "title": "AI Deployment Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "74a80856-fdc3-41e8-b3b1-19a1bb0930e4",
+      "title": "Solutions Consultant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0675599f-3475-4706-ab37-925bc34aebe0",
+      "title": "Developer Advocate - Cortex Code Enablement",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "de11f93c-3985-456a-bcea-08029eb18c18",
+      "title": "Enterprise Account Executive - GCC (FSI)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2056c3ca-007c-4f03-a27c-58ec50c4e7c2",
+      "title": "Enterprise Account Executive - GCC (FSI)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "13fe38e8-d130-4ab2-bea6-f586e30b7c5e",
+      "title": "Forward Deployment Senior Software Engineer ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "fdb17538-fc05-4465-9451-20aa612dcd0c",
+      "title": "Sr. Product Marketing Manager, Observe",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "59225e9a-42b8-4efc-b120-c083700cb061",
+      "title": "Pursuits Program Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4200495f-b180-4a5d-b529-e30b3251db0b",
+      "title": "Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e0624f1b-136d-4eac-a5e5-8991efa091e2",
+      "title": "Senior Director of Engineering and Product Recruiting",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "86570858-e425-4144-9aef-8838cefd18c3",
+      "title": "Sales Engineer, Observe",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "de956358-f960-4d1e-9aeb-f7ddc76d4370",
+      "title": "Senior Manager, Solution Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "cb7af19f-533e-4765-a5d3-e88990d72adc",
+      "title": "Senior Partner Marketing Manager, AWS",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ec5c65b2-b08c-49a0-8089-36001f4d9261",
+      "title": "Senior Solution Engineer - Telco's",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ac855d90-73c4-44e9-bfdf-43d34310c27e",
+      "title": "Commercial Account Executive - Acquisition ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e190c6a1-16f3-48a0-b3d3-f44301e4a47b",
+      "title": "Sr. Partner Sales Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9d1908cd-4a4f-4ecb-ab3a-f80d64aca909",
+      "title": "Commercial Account Executive - Acquisition ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b0283c67-3bd8-4be2-a861-d538b7504bb0",
+      "title": "Senior Infrastructure Engineer, Observe by Snowflake",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "143a2248-564b-4cfa-85f5-d47bac911d74",
+      "title": "Infrastructure Engineer, Observe by Snowflake",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "90d6434a-0753-4974-a651-e34908740568",
+      "title": "Staff Enterprise Product Manager (Payroll)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "fddd1178-43c9-46d0-941f-42a0fe2d363a",
+      "title": "Regional VP, Partner and Specialist Team, Solution Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "05b97235-2bca-4e2e-801f-c599af4d9d3f",
+      "title": "Technical Enablement Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "af0cfb7f-8a32-4b6a-bc12-cbce3cf944bf",
+      "title": "Enterprise Account Executive - HCLS / Manufacturing",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1c30127a-dae2-4ee1-b088-122f91c00af9",
+      "title": "Consulting Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "54c04244-8d07-4a36-a81c-4454215f6ae9",
+      "title": "Front End Engineer - Analytics & Compute Experience ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "931e0e6a-6c92-4b03-b5d8-1885bd44f902",
+      "title": "Account Executive - Saudi (Arabic speaker)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "843f6b41-e23b-4bab-90e3-77b098794026",
+      "title": "Principal Solution Engineer - FSI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4a5057a2-9cbd-4450-aa37-f230bdf89bfd",
+      "title": "Senior Product Manager - Cortex Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a6292a81-7cf7-4e29-bb77-f7d0935e7bdb",
+      "title": "Staff Software Engineer -  AI Developer Tooling ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "05666500-d64f-4c17-9230-8eb99b2e53ec",
+      "title": "Staff Business Systems Analyst, Order to Cash",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "47925964-c50e-409b-82af-feec996b408d",
+      "title": "Commercial Account Executive - Acquisition ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e2b03b7a-2c85-4599-8b04-8757c582d226",
+      "title": "Sales Development Representative ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e39a441a-07e4-4ea3-a687-b483007deb94",
+      "title": "Product Manager - Traffic & Networking",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8426afd8-9764-4ca1-8579-5f8fca5a8e2f",
+      "title": "Product Manager - Product Compliance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2d8294cf-2a37-4b88-b00e-4db5c7a247a9",
+      "title": "Senior Solution Engineer - Insurance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7f07e261-e83e-496c-b7fa-99bf1f1f317f",
+      "title": "Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "cbe88a47-235f-416d-b06c-b01fd6d9d8b6",
+      "title": "Global Alliance Director, AWS Partnership",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "015ed756-c4c1-4b3c-b43d-81f2826e8836",
+      "title": "Enterprise Account Executive - Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e125288d-530b-4e59-bd17-63d6392bc507",
+      "title": "Partner Solution Engineer - GCC",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "aff4210d-127f-45d3-844b-9313b4e86edd",
+      "title": "Account Engineer Intern - Summer 2026",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c9f1bb99-8c24-4dfe-958e-44df578f92c8",
+      "title": "Customer Marketing Intern - Summer 2026",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d0f829a0-1619-46fc-958e-85e7bebb5686",
+      "title": "Auditor/Senior Auditor - Business",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1e66256e-aa85-4eba-9312-fbcccffc1f52",
+      "title": "Senior Product Manager, Observe by Snowflake",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "eacac37f-9bba-4503-b329-72864edb822c",
+      "title": "Engineering Manager, Observe Product Backend",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "117c49a1-d672-4f60-ba0e-060a20e8e2d1",
+      "title": "Client Platform  Engineer Intern - Summer 2026 ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3dbe104f-8d7e-4694-918b-ad6ca5d24371",
+      "title": "Administrative Assistant",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e260a87a-0e50-4857-bac1-95c30bab92ce",
+      "title": "VP, Deputy General Counsel - Product & IP",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "70784d9e-fddb-4e3a-a4e2-2a4f4f197efe",
+      "title": "Account Executive - Retail, CPG,Telco, Media,Travel & Hospitality",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "933a763d-a99a-4f09-96b0-b413f7a439c4",
+      "title": "Account Executive (Expansion)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1d1bf5f2-f764-4a01-ada2-cfa853e30db0",
+      "title": "Account Executive",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f9a4d508-4b13-4173-8af0-9d5564ba2d6d",
+      "title": "Manager, Solution Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6c066236-f874-4853-ae94-30fb615ea8dc",
+      "title": "Senior Value Advisor",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "999e05ec-8e69-4c88-9c5d-2240606ff5e7",
+      "title": "Partner Development Director, Enterprise Technologies",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "217b1d27-815a-4ad1-b8b7-8fe52e57cd26",
+      "title": "AI Engineer - Cortex Code Quality",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ae43323e-8b10-4c01-b1af-987145191d01",
+      "title": "Staff Machine Learning Engineer - Cortex Code Quality",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "feeb61fb-3208-4f36-b645-a3cd6f8fa3c4",
+      "title": "Staff Software Engineer — Cortex Code Platform",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5948c8ef-5a0e-4219-8fd8-fea56305e931",
+      "title": "Senior Social Media Manager, Developer Community ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a56ccd6c-39ba-46bc-b4c7-86d77815b983",
+      "title": "Director, Strategic Events EMEA ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6e2509bf-babf-40fc-bb2f-957269ea0c29",
+      "title": "Senior Software Engineer, Customer Experience Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "db54960b-fe73-4cd9-9c2d-85221eca66b2",
+      "title": "Senior Software Engineer, Observe by Snowflake Frontend  ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e6640dc7-a1b3-46ce-b154-e7b5f3345e5c",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "777ecd11-58b7-495f-8ddf-452e07256599",
+      "title": "Account Executive, Enterprise Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a13407e7-5058-4a09-b093-5016cfd78ed7",
+      "title": "Manager, Sales Development",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7b9a94ee-5940-40d2-9cd5-67fc23a4ed1a",
+      "title": "Sales Development Representative - Financial Services ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f1eb6ba0-d4e0-4062-a2b7-be0ffcf4fd46",
+      "title": "Solutions Architect (EMEA North)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "21b87d7c-21b6-4381-979d-46dae9b7a71c",
+      "title": "Executive Assistant - Customer Experience, Solution Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5a5c3173-9a95-4e19-8394-e1b47fda2228",
+      "title": "Demand Generation Manager - Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "88bc9874-5ad3-4c7b-8f49-af909dd59265",
+      "title": "Sr. Demand Generation Manager, SEM - Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "66f89fd8-dd23-400f-b4b9-3a3a07575fdc",
+      "title": "Sr. Demand Generation Manager, ABM - Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0880f837-21a2-4bd0-944e-e40273f9f7ae",
+      "title": "Field Marketing Manager, Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "faa7e28a-f2a6-43cd-adc3-f551c537c953",
+      "title": "Enterprise Account Executive - Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a6267168-ad3b-4bf0-856d-3205ce34dd2c",
+      "title": "Senior Solution Engineer, Enterprise Acquisition - Sydney",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e2178b92-95c6-4b96-a2ee-a529a3a066fe",
+      "title": "Field Marketing Working Student - Munich",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "978218a1-12ee-4365-8b25-af93a8f2e5d7",
+      "title": "Senior Manager, Solution Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d1823395-6522-4b35-bfbf-365ad939529f",
+      "title": "Sales Development Representative - Spanish Speaker",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7089b6ae-71d9-4ce2-91f3-4c3f026160fa",
+      "title": "Senior Corporate Counsel 2, Global Partnerships & Alliances",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "52615673-a622-4b97-9448-251bddfcdba6",
+      "title": "Deal Desk Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6374db55-baaa-40ce-ae43-c6dd70824217",
+      "title": "Senior Solution Engineer, Healthcare & Life Sciences",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "37cadd7e-59f8-4582-a74f-26af598e4e4d",
+      "title": "Executive Assistant, GTM - Sales Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "900f42db-30cf-4537-81ff-586c3e9fc021",
+      "title": "Major Account Executive - Semiconductors",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "68b55d92-eb67-4ee3-976a-9623eafc3450",
+      "title": "Senior Security Architect, Applied Field Engineering (AFE)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7b5aa610-f583-44ad-b573-7f68a3f125ce",
+      "title": "Senior Security Architect, Applied Field Engineering (AFE)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "deaebf03-4681-417b-a870-648d0d6a2a94",
+      "title": "Staff Research Scientist, AI Agents & LLMs",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "59ae4be0-ec29-4994-a879-101e375483af",
+      "title": "Patent Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "940a3b83-8714-4ce0-9acc-75ac716cca9e",
+      "title": "Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "71fd0121-4ca5-4437-b1cc-896989d4c798",
+      "title": "Senior Director, Privacy, Security & Data Compliance",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "bd9d7653-f818-40ba-b98e-cbee8261581a",
+      "title": "Industry Architect – Advertising & Media",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9fc4661b-31df-42f0-a0c6-2bf1465d90be",
+      "title": "Director of Engineering, Snowflake Apps",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2cc61389-5d92-40a4-af4c-b8b33f7d89cc",
+      "title": "Contract Administator",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8fb70cca-f3fd-4b57-a5dd-4df51fd08b25",
+      "title": "Account Executive - Eastern Europe",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "fff1a1d7-acdd-4a05-ab3f-d3935aa64570",
+      "title": "People Systems Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "cc07b9e3-5048-4955-b7e6-2ee793026c38",
+      "title": "Sr People Compliance Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "fda9ea54-487a-4ea1-bbb9-f48b2789a29d",
+      "title": "Director, Sales Operations Go-to-Market Planning",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3907c5a7-f725-4a53-a547-a33f65c5d65d",
+      "title": "Data Platform Architect - Applied Field Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "baf72122-41d8-43d2-8b2e-e334b6563290",
+      "title": "Sr. Partner Development Manager, Financial Services DCP Partners",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "968848c0-6111-439e-9ace-be4e56ed37e2",
+      "title": "Account Executive, Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e1012c21-c4bc-4c98-9d03-0c8fe3c1727c",
+      "title": "Staff Product Manager - Pipelines & Orchestration",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1309d94f-1450-41a3-a1cd-17125cfcb6d9",
+      "title": "Senior Penetration Testing Engineer ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0f66da84-afac-469c-8cc5-3df06306be25",
+      "title": "District Manager, Commercial Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5f86cd12-f57d-49f4-8b31-8ee0d7d66bfc",
+      "title": "Senior Cloud Support Engineer - SQL",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "15390ce2-d71d-44c7-bf55-e9d7cfcf11a5",
+      "title": "Enterprise Account Executive - Expansion",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "4674b19c-2a2f-4315-8229-b23a2c1336b4",
+      "title": "Technical Director for AI Functions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e1087779-5136-4b9a-8a9f-37d3881d0f69",
+      "title": "Senior Learning & Development Program Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "fa33b692-0ce3-43e2-a2f7-1c3fb7ab82ab",
+      "title": "Engineering Manager - Transformation & Data Lake",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "893806bb-b3c2-47d2-9058-fb3889db33ff",
+      "title": "Account Executive, Commercial Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c73e0e90-9be1-4ca1-ac6b-d2ec6bcbb2d1",
+      "title": "Enterprise Account Executive - Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "aca4a63f-64aa-446e-b203-1cee63a6f91c",
+      "title": "Senior Solutions Engineer, Media & Entertainment",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7f3c1107-664e-4bab-8188-9f015580b818",
+      "title": "Account Executive, Enterprise Growth",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "6754de86-7485-4826-9aad-ef24cce405a9",
+      "title": "Anti-Abuse Senior Software Engineer, Product Security",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2b9a8107-5a1e-4145-974b-3116f5bb3560",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b6e0f4a7-7e69-4c92-b3cc-13d018bbabe9",
+      "title": "Principal Software Engineer - AI Poland",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "feafdbc7-5906-41c6-9dfe-764894aeb9f8",
+      "title": "Senior Talent Brand Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5f82009a-104d-49e6-ad0d-b3924a3a1a48",
+      "title": "Senior UX Manager, Observe by Snowflake",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e2aa3549-1da5-4dd4-b6d3-5cdf3eba6c1b",
+      "title": "Senior Director, Compensation",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "cc02c7aa-16b7-4003-93eb-db2f038b3e52",
+      "title": "Sr. Integrations Developer, Workday HCM",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "745f8b76-989e-46f9-b3fd-f5b83b4ba70c",
+      "title": "Solution Engineer - Data Engineering Specialist - Bilingual (Spanish)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1014482d-b232-4943-8b2d-7f28c8a14de1",
+      "title": "Senior Solution Engineer - SLED ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7923e603-3808-4f12-80e5-6bb1a06fc404",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "762981d1-17b7-4dcf-9754-531155004dab",
+      "title": "Senior Manager, Solution Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b394b40b-ebab-4e7b-a43b-27d2b3247a42",
+      "title": "Account Executive, Commercial",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "84a6d413-62f9-4e84-9bac-53e79e371778",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7fe10cf3-f04a-4f5e-8536-2d20e3eb5d91",
+      "title": "Executive Operations",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5172e8b1-d7c6-4500-b536-f18d064d17a0",
+      "title": "Sourcing Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "24083626-d2b0-4c90-94ad-62b535f76b47",
+      "title": "Partner Development Manager - ASEAN (GSI)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a040adc3-9592-49cb-84db-27fcc8ede438",
+      "title": "Senior Solution Engineer ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "13d86e27-42ca-4400-9316-d58806a05772",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d335b1a1-bc0a-4016-b02a-86299d55609c",
+      "title": "Vice President, Deputy General Counsel – Commercial",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "763010e8-7070-4f9d-aa57-0ae1f5a306e9",
+      "title": "Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ce89d7db-4c16-4569-98b5-f66f976e99aa",
+      "title": "Technical Delivery Director",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2e6f15d5-f108-46db-b92a-ca98c8da4a65",
+      "title": "Product Workload Finance Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2d362220-ee8d-412d-9fcd-6ccf17a169ec",
+      "title": "Regional Leader, EMEA Sales - Observability ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a968d2ae-637a-4ce0-afd1-7088ba4735f0",
+      "title": "Senior Manager, Technical Support",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "cb7a219e-d72b-49b5-aa43-edfff9ead81d",
+      "title": "Manager, Solution Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1e010659-1551-4c45-a9ed-09a1bba10f81",
+      "title": "Staff Analyst, GTM Analytics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "65758ff6-d500-4638-b1ec-95800978a16c",
+      "title": "Applied Scientist, Customer FinOps Intelligence",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5f935ec0-5842-4c35-bd13-b38143551723",
+      "title": "Analyst/ Senior Analyst, People Analytics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ff7fbdd3-98a7-4552-959f-bb4812b2dc8d",
+      "title": "Director, Data Science – GTM (Data, Analytics & AI)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c02bab9f-5d7f-4808-9dce-c118efc347ac",
+      "title": "Senior Data Analytics Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "159f0c00-6eed-4d93-a5cc-462a81fa651d",
+      "title": "Enterprise Account Executive - Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "106edc19-7c0a-4ae5-b7e1-cd55be78f4dd",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3f54063c-f72f-47e7-818f-b6ec0fa8d668",
+      "title": "Senior Product Designer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "41a3d739-6554-4d4f-adf4-2334eb449fd1",
+      "title": "Enterprise Account Executive - Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7e8aa8bd-df51-44bd-b5c3-4011b4810739",
+      "title": "Principal Solution Engineer, Financial Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "de2ed6ff-f08b-4f38-b51a-9debf15c1d5c",
+      "title": "Senior Solution Engineer, Financial Services",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2cec1f1a-a789-4e86-b71d-7aee75ec75b0",
+      "title": "Enterprise Account Executive - Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9e4d1992-48e6-4a78-9655-6657462c0452",
+      "title": "Enterprise Program Manager, Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "385b29d8-ef08-47a0-a2c3-fe1b53367e85",
+      "title": "Enterprise Account Exective - Observability",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "22228c5b-1683-49ef-9056-d2240ca92ce7",
+      "title": "Senior Data Analytics Engineer ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "5638aa0c-3b2e-42e7-8994-955d92844b76",
+      "title": "Senior District Manager, Enterprise Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7aeb58ca-b683-453a-916b-520a9d549d8e",
+      "title": "Partner Marketing Lead, AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "38b76c17-eb96-4413-966c-bf8fc5aad68e",
+      "title": "Sales Development Representative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e61f7d98-061f-491c-8f1b-5820bda69472",
+      "title": "Sales Development Representative",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2452ea0e-cdac-4c22-b5ec-6076518c0beb",
+      "title": "Senior District Manager - Acquisition",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ae508fb1-5dbf-43ee-8852-e7c88540de73",
+      "title": "Digital Marketing Specialist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d790c839-62cf-4378-8f80-eb98b1577016",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "dc878ba0-062a-496f-8b5a-d40b3210eafc",
+      "title": "Account Executive, Latin America ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
+      "title": "Staff Software Engineer - Parameters",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "0a80fba7-8406-4934-b76c-64153b98ab94",
+      "title": "Senior Solution Engineer - Federal",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3a14c8d2-73af-4479-8c87-dd748ee4531b",
+      "title": "Delivery Operations Systems & Process Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "896f250b-b553-458d-b0d4-80ea9ceee826",
+      "title": "Senior PS Sales Solutions Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "bcd7eea8-1f1e-437b-b7d1-52361493d55e",
+      "title": "Senior Software Engineer - Production Control Plane",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "246b9beb-f3f3-4279-a817-00cce883e3b8",
+      "title": "Senior International Tax Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7c53d7f5-1a7f-4fdb-a8c1-b59060d9551d",
+      "title": "Product Analyst",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b241904d-7d42-41f0-9674-82e53d964846",
+      "title": "Analyst, Finance Analytics & AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "dba101f7-c6f7-49e2-a1e6-06c3c2ddee5b",
+      "title": "Senior Software Engineer - Observe Data Management",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b87ac955-b0a3-443f-922e-74193d6f004d",
+      "title": "Senior Partner Marketing Manager, Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "83da282e-ff98-45a2-9849-667cce0766f0",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8d54cbf2-ca42-4297-b498-2f1620be66c5",
+      "title": "Senior Software Developer - Full Stack",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3272836f-807d-4306-af07-83a848803e01",
+      "title": "Software Engineer - Notebooks ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "364c14ff-e4c9-4f50-b5aa-b02b0aa98e7a",
+      "title": "Senior Frontend Software Engineer - Notebooks ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "bd6e11e3-ee22-49ca-b92b-394cbcaa32d3",
+      "title": "Senior Forward Deployed Engineer - SnowConvert AI",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "07e50e24-84ac-4002-ad26-9de1d991362c",
+      "title": "Software Engineer - Observe",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c4a9dac4-d58e-4875-80ac-ecf7c9102d62",
+      "title": "Product Marketing Lead - AI Solutions",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8904ed85-75d6-48cf-b01b-7941677fde4a",
+      "title": "Data Engineer Intern - Pune (2026)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "06c9bcde-02fb-4445-b965-6d812d3ba98e",
+      "title": "Associate Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "37acf8bc-ab5a-43e0-b72d-6464ca1f47b5",
+      "title": "Associate Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ddfb5ead-b8be-4d81-91fe-97055fc8af00",
+      "title": "Software Engineer - Customer Experience Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3b15e969-42d4-48c0-8e01-a95985aec533",
+      "title": "Senior Software Engineer - Customer Experience Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "55375b6c-d675-452a-ad11-5acf462702a7",
+      "title": "Sr. District Manager, Enterprise Sales",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "8aaca557-05dc-4412-8d3b-28ed686df200",
+      "title": "Software Engineer, Engineering Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ba48d3df-08c5-4f52-9f63-9b492614be34",
+      "title": "Senior Applied Field Engineering, Analytics",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c66c9e35-4a5a-43af-a8e0-69c5208ef890",
+      "title": "Senior PS Sales Solutions Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "509681a0-08cd-484f-aaa6-ffdb8ea5a5ce",
+      "title": "Solution Engineer - Data Engineering Specialist (FSI)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d442fe64-f165-4132-85fc-7401fad88724",
+      "title": "Product Growth Specialist (PGS) - Data Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c1e5337a-deb8-4139-ad55-f42ad24e1882",
+      "title": "Workplace Coordinator",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7347bb03-93a2-4c96-99ad-ac7861f3ecfe",
+      "title": "Applied Field Engineer AI/ML Intern (3 months) - London 2026",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3065ea81-b2d2-4d29-800d-7c69c1c256aa",
+      "title": "Associate Solution Engineer (Acquisition)",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c95ced3f-4bdd-4c44-8ca5-1a2d2710c9e4",
+      "title": "Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "9ac203c7-76aa-493e-a629-0785cea5ed83",
+      "title": "Product Growth Specialist - Data Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d35519be-6fb1-4f6f-98d8-fe3a12095f2c",
+      "title": "Commercial Solution Engineer",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2207f15a-c1fb-40fb-80ea-90658035ddb9",
+      "title": "Executive Communications Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "c73bd1cd-7c40-4375-8eed-3ebb0d33cc0d",
+      "title": "Enterprise Security Trust Program Manager, Customer Trust",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "85ad455a-ecbc-45b3-bab3-76685251e136",
+      "title": "Data Engineering Solutions Specialist ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "76278625-d0e3-4dcb-aa98-a675268100bc",
+      "title": "Associate Solution Engineer, Commercial ",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b6aa9896-a7c5-4443-8656-60087f7aa07c",
+      "title": "Solution Engineering Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e1dd1cce-d39a-4a8a-9abc-4d783049ca78",
+      "title": "Enterprise Technology, Support Engineer Intern",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3c018564-63c0-4179-ba91-f42ce75a40fa",
+      "title": "Software Engineer - Streamlit",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "2f09ebe4-ba37-409e-8d0c-a2eccb91bfac",
+      "title": "Consulting Manager, AI/ML",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a9ac05e3-cfe7-474c-a8e6-41baff859964",
+      "title": "Senior SWE, AI Backend: Observe by Snowflake",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "b143b0bb-5c74-4353-9189-c87217b380c8",
+      "title": "Manager, Sales Development",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f288375d-5d6b-4686-94bf-8018583ff03b",
+      "title": "Senior Technical Support Engineer, Observe by Snowflake",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "d734e82f-59e4-4bf2-bcb8-d80ae0ce0c11",
+      "title": "Auditor - Business",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f528f20a-aaa4-4ec9-a2c2-48d9e5a38695",
+      "title": "Senior Technical Account Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3eea87fa-73c8-46dc-b69b-7beb438b48d8",
+      "title": "Software Engineer, Enterprise",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "7d67f48c-21d1-47fa-ad41-c69920532393",
+      "title": "Director, Technical Accounting",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "3a15dda6-cf90-4552-86d0-8fabde86b5ac",
+      "title": "Account Executive Public Sector",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "ae2d6f1c-70ec-4a4c-bca6-e091dafe81ab",
+      "title": "Sr. Enterprise Data & AI Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "e03f342c-7c03-44e5-962e-f2c52af6998c",
+      "title": "Executive Assistant - Engineering",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "38d45cbd-11fa-49c3-aea2-be77f896e3e1",
+      "title": "Senior PS Sales Solutions Architect",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "a1f1779b-464c-48f6-a664-56314825c8ac",
+      "title": "Staff Software Engineer, Cortex AI Infrastructure",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "16bf5348-3e01-4518-bf9c-17362b67ecea",
+      "title": "Senior Data Scientist",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "f08b7b19-11cb-4cb7-8b1e-10c239fe40e9",
+      "title": "Practice Manager",
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 1
+    },
+    {
+      "id": "83b49e31-a018-40f2-ba7a-4e1fee776950",
+      "title": "Account Executive, Enterprise Growth (French Speaking)",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "9da775b9-2bdf-4ef2-a59a-ffc49381459d",
+      "title": "Senior Technical Support Engineer, Observe by Snowflake",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "87d039b6-167e-4d8b-bf91-ea914738d23c",
+      "title": "Partner Operations Manager",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "03ca61bb-e8f3-4fb4-8b2a-1295841fdf14",
+      "title": "Engineering Manager – Snowtrail",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "8a7d0e22-8e67-4d0f-9366-b5dd527ef37f",
+      "title": "Account Executive, Public Sector, Federal Civilian",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "c579777e-cad1-48d3-bee9-5181e2674f8b",
+      "title": "Senior PS Sales Solutions Architect",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "fe119dd1-a243-4d43-ba0d-643876eb3ebf",
+      "title": "Analyst/ Senior Analyst - Legal Analytics & AI ",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "263fd71e-76fb-4e8b-aaca-a155de086d8e",
+      "title": "Director, Strategic Events",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "93e9ef0b-2bda-43a2-aa0a-55644fec11b4",
+      "title": "Migrations Solutions Architect",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "a104fbc0-d07c-4974-aeeb-49aa56948fe7",
+      "title": "Software Engineer, Engineering Infrastructure - Entry Level",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "9c4afa7a-6328-4592-9895-ba936e5a43a3",
+      "title": "Director, DCP and Partner Marketing Programs",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "8df9d21c-63a7-463e-831d-ada934f1d758",
+      "title": "Principal Solutions Engineer Enablement Manager",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7f5eac56-c65b-4495-b8b4-bcacc7b2372d",
+      "title": "Senior Technical Support Engineer, Observe by Snowflake",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "1291aaad-97fb-46f1-aaf7-62ed2332a00d",
+      "title": "Senior Solution Engineer",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "b8c95597-b452-49bf-994c-04027b7bd6dd",
+      "title": "Software Engineer – Engineering Systems Continuous Integration Team",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "9b8b50db-6a12-4674-932a-1fa9a787e0b1",
+      "title": "Account Executive - FSI",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "2e55b0ca-b57f-4b91-90cb-f89dc42f5a2f",
+      "title": "Senior Field Marketing Manager ",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "227b8c06-b6de-4f3a-ae37-7e0c015e5b7a",
+      "title": "Senior Software Engineer",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "21137a73-0d22-43cc-b72c-b7ef30037bc0",
+      "title": "Software Engineer ",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "9e7c59c8-99c8-4d41-a528-8b5e6c7d61e3",
+      "title": "Auditor - IT and Data Science",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "44fc68d6-b690-4367-a039-c479902b477e",
+      "title": "HR Generalist, EMEA",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "ce981ec2-4d1d-4840-aca4-21dfd6ba85bf",
+      "title": "Executive Assistant, Observe, Product & Engineering",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "1e4fa537-4a08-4af2-acf1-7d51c85d7c53",
+      "title": "Employee Communications Specialist",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "77f48be6-d5f5-494b-83db-e80fc94d1caa",
+      "title": "Principal Data Cloud Architect - Apps",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    }
+  ],
+  "summary": {
+    "withdrawnCount": 21,
+    "stillOpenCount": 425,
+    "bucketCounts": {
+      "0–14d (likely withdrawn)": 21
+    }
+  }
+}

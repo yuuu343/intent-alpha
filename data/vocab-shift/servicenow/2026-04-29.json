@@ -1,0 +1,691 @@
+{
+  "slug": "servicenow",
+  "computedAt": "2026-04-29T17:00:37.788Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 524,
+      "topUnigrams": [
+        [
+          "solution",
+          136
+        ],
+        [
+          "executive",
+          102
+        ],
+        [
+          "consultant",
+          101
+        ],
+        [
+          "moveworks",
+          84
+        ],
+        [
+          "advisory",
+          68
+        ],
+        [
+          "account",
+          68
+        ],
+        [
+          "sales",
+          58
+        ],
+        [
+          "enterprise",
+          53
+        ],
+        [
+          "software",
+          43
+        ],
+        [
+          "ai",
+          36
+        ],
+        [
+          "platform",
+          30
+        ],
+        [
+          "architect",
+          29
+        ],
+        [
+          "security",
+          28
+        ],
+        [
+          "product",
+          27
+        ],
+        [
+          "partner",
+          27
+        ],
+        [
+          "business",
+          27
+        ],
+        [
+          "operations",
+          23
+        ],
+        [
+          "technical",
+          22
+        ],
+        [
+          "customer",
+          22
+        ],
+        [
+          "crm",
+          20
+        ],
+        [
+          "federal",
+          18
+        ],
+        [
+          "strategy",
+          18
+        ],
+        [
+          "machine",
+          17
+        ],
+        [
+          "learning",
+          17
+        ],
+        [
+          "solutions",
+          17
+        ],
+        [
+          "systems",
+          17
+        ],
+        [
+          "success",
+          16
+        ],
+        [
+          "agentic",
+          16
+        ],
+        [
+          "services",
+          15
+        ],
+        [
+          "technology",
+          14
+        ]
+      ],
+      "topBigrams": [
+        [
+          "solution consultant",
+          80
+        ],
+        [
+          "advisory solution",
+          61
+        ],
+        [
+          "account executive",
+          58
+        ],
+        [
+          "enterprise account",
+          40
+        ],
+        [
+          "solution sales",
+          37
+        ],
+        [
+          "sales executive",
+          35
+        ],
+        [
+          "machine learning",
+          17
+        ],
+        [
+          "customer success",
+          12
+        ],
+        [
+          "technical consultant",
+          11
+        ],
+        [
+          "platform architect",
+          11
+        ],
+        [
+          "solution architect",
+          10
+        ],
+        [
+          "platform moveworks",
+          10
+        ],
+        [
+          "inbound product",
+          9
+        ],
+        [
+          "servicenow finance",
+          9
+        ],
+        [
+          "public sector",
+          9
+        ],
+        [
+          "agentic ai",
+          9
+        ],
+        [
+          "executive moveworks",
+          9
+        ],
+        [
+          "business development",
+          8
+        ],
+        [
+          "systems moveworks",
+          8
+        ],
+        [
+          "app engine",
+          8
+        ],
+        [
+          "business process",
+          7
+        ],
+        [
+          "process consultant",
+          7
+        ],
+        [
+          "new logo",
+          7
+        ],
+        [
+          "logo account",
+          7
+        ],
+        [
+          "learning voip",
+          7
+        ],
+        [
+          "voip infrastructure",
+          7
+        ],
+        [
+          "monetization strategy",
+          7
+        ],
+        [
+          "consultant app",
+          7
+        ],
+        [
+          "software core",
+          7
+        ],
+        [
+          "security identity",
+          7
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 528,
+      "topUnigrams": [
+        [
+          "solution",
+          136
+        ],
+        [
+          "executive",
+          102
+        ],
+        [
+          "consultant",
+          102
+        ],
+        [
+          "moveworks",
+          89
+        ],
+        [
+          "advisory",
+          68
+        ],
+        [
+          "account",
+          67
+        ],
+        [
+          "sales",
+          57
+        ],
+        [
+          "enterprise",
+          54
+        ],
+        [
+          "software",
+          47
+        ],
+        [
+          "ai",
+          37
+        ],
+        [
+          "platform",
+          32
+        ],
+        [
+          "architect",
+          31
+        ],
+        [
+          "business",
+          29
+        ],
+        [
+          "product",
+          27
+        ],
+        [
+          "security",
+          27
+        ],
+        [
+          "partner",
+          26
+        ],
+        [
+          "customer",
+          24
+        ],
+        [
+          "technical",
+          22
+        ],
+        [
+          "operations",
+          21
+        ],
+        [
+          "federal",
+          19
+        ],
+        [
+          "crm",
+          19
+        ],
+        [
+          "success",
+          18
+        ],
+        [
+          "agentic",
+          18
+        ],
+        [
+          "systems",
+          18
+        ],
+        [
+          "technology",
+          17
+        ],
+        [
+          "machine",
+          17
+        ],
+        [
+          "learning",
+          17
+        ],
+        [
+          "solutions",
+          17
+        ],
+        [
+          "strategy",
+          17
+        ],
+        [
+          "services",
+          15
+        ]
+      ],
+      "topBigrams": [
+        [
+          "solution consultant",
+          79
+        ],
+        [
+          "advisory solution",
+          61
+        ],
+        [
+          "account executive",
+          57
+        ],
+        [
+          "enterprise account",
+          40
+        ],
+        [
+          "solution sales",
+          35
+        ],
+        [
+          "sales executive",
+          33
+        ],
+        [
+          "machine learning",
+          17
+        ],
+        [
+          "customer success",
+          14
+        ],
+        [
+          "solution architect",
+          12
+        ],
+        [
+          "platform architect",
+          12
+        ],
+        [
+          "platform moveworks",
+          11
+        ],
+        [
+          "public sector",
+          11
+        ],
+        [
+          "technical consultant",
+          11
+        ],
+        [
+          "agentic ai",
+          10
+        ],
+        [
+          "business process",
+          9
+        ],
+        [
+          "inbound product",
+          9
+        ],
+        [
+          "systems moveworks",
+          9
+        ],
+        [
+          "servicenow finance",
+          9
+        ],
+        [
+          "executive moveworks",
+          9
+        ],
+        [
+          "executive public",
+          8
+        ],
+        [
+          "business development",
+          8
+        ],
+        [
+          "app engine",
+          8
+        ],
+        [
+          "success executive",
+          7
+        ],
+        [
+          "software agentic",
+          7
+        ],
+        [
+          "new logo",
+          7
+        ],
+        [
+          "logo account",
+          7
+        ],
+        [
+          "learning voip",
+          7
+        ],
+        [
+          "voip infrastructure",
+          7
+        ],
+        [
+          "monetization strategy",
+          7
+        ],
+        [
+          "consultant app",
+          7
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "success executive",
+          "before": 3,
+          "after": 7,
+          "delta": 4
+        },
+        {
+          "term": "process consultant-servicenow-crm",
+          "before": 0,
+          "after": 4,
+          "delta": 4
+        },
+        {
+          "term": "technology consultant",
+          "before": 2,
+          "after": 5,
+          "delta": 3
+        },
+        {
+          "term": "transfer pricing",
+          "before": 4,
+          "after": 1,
+          "delta": -3
+        },
+        {
+          "term": "pricing tax",
+          "before": 4,
+          "after": 1,
+          "delta": -3
+        },
+        {
+          "term": "resource deployment",
+          "before": 3,
+          "after": 0,
+          "delta": -3
+        },
+        {
+          "term": "solution architect",
+          "before": 10,
+          "after": 12,
+          "delta": 2
+        },
+        {
+          "term": "customer success",
+          "before": 12,
+          "after": 14,
+          "delta": 2
+        },
+        {
+          "term": "business process",
+          "before": 7,
+          "after": 9,
+          "delta": 2
+        },
+        {
+          "term": "process consultant",
+          "before": 7,
+          "after": 5,
+          "delta": -2
+        },
+        {
+          "term": "solution sales",
+          "before": 37,
+          "after": 35,
+          "delta": -2
+        },
+        {
+          "term": "sales executive",
+          "before": 35,
+          "after": 33,
+          "delta": -2
+        },
+        {
+          "term": "executive public",
+          "before": 6,
+          "after": 8,
+          "delta": 2
+        },
+        {
+          "term": "public sector",
+          "before": 9,
+          "after": 11,
+          "delta": 2
+        },
+        {
+          "term": "crm industry",
+          "before": 6,
+          "after": 4,
+          "delta": -2
+        },
+        {
+          "term": "devops moveworks",
+          "before": 1,
+          "after": 3,
+          "delta": 2
+        },
+        {
+          "term": "infrastructure moveworks",
+          "before": 3,
+          "after": 5,
+          "delta": 2
+        },
+        {
+          "term": "expert services",
+          "before": 6,
+          "after": 5,
+          "delta": -1
+        },
+        {
+          "term": "success moveworks",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "product agentic",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "agentic platform",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "platform moveworks",
+          "before": 10,
+          "after": 11,
+          "delta": 1
+        },
+        {
+          "term": "platform architect",
+          "before": 11,
+          "after": 12,
+          "delta": 1
+        },
+        {
+          "term": "solution consultant",
+          "before": 80,
+          "after": 79,
+          "delta": -1
+        },
+        {
+          "term": "partnerships channels",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "account executive",
+          "before": 58,
+          "after": 57,
+          "delta": -1
+        },
+        {
+          "term": "executive crm",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "industry workflows",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "dir software",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "software engineering",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        }
+      ]
+    }
+  ]
+}

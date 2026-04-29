@@ -1,0 +1,691 @@
+{
+  "slug": "nvidia",
+  "computedAt": "2026-04-29T17:00:36.514Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 1000,
+      "topUnigrams": [
+        [
+          "software",
+          305
+        ],
+        [
+          "architect",
+          129
+        ],
+        [
+          "ai",
+          126
+        ],
+        [
+          "design",
+          95
+        ],
+        [
+          "system",
+          94
+        ],
+        [
+          "solutions",
+          85
+        ],
+        [
+          "verification",
+          83
+        ],
+        [
+          "autonomous",
+          58
+        ],
+        [
+          "development",
+          53
+        ],
+        [
+          "vehicles",
+          52
+        ],
+        [
+          "product",
+          46
+        ],
+        [
+          "networking",
+          46
+        ],
+        [
+          "gpu",
+          45
+        ],
+        [
+          "asic",
+          44
+        ],
+        [
+          "program",
+          43
+        ],
+        [
+          "learning",
+          43
+        ],
+        [
+          "infrastructure",
+          42
+        ],
+        [
+          "developer",
+          42
+        ],
+        [
+          "engineering",
+          40
+        ],
+        [
+          "systems",
+          39
+        ],
+        [
+          "data",
+          38
+        ],
+        [
+          "technical",
+          38
+        ],
+        [
+          "2026",
+          37
+        ],
+        [
+          "firmware",
+          36
+        ],
+        [
+          "platform",
+          34
+        ],
+        [
+          "test",
+          32
+        ],
+        [
+          "performance",
+          31
+        ],
+        [
+          "new",
+          30
+        ],
+        [
+          "college",
+          30
+        ],
+        [
+          "hardware",
+          29
+        ]
+      ],
+      "topBigrams": [
+        [
+          "solutions architect",
+          73
+        ],
+        [
+          "system software",
+          54
+        ],
+        [
+          "autonomous vehicles",
+          52
+        ],
+        [
+          "new college",
+          30
+        ],
+        [
+          "college grad",
+          28
+        ],
+        [
+          "deep learning",
+          28
+        ],
+        [
+          "grad 2026",
+          27
+        ],
+        [
+          "technical program",
+          24
+        ],
+        [
+          "physical design",
+          21
+        ],
+        [
+          "data center",
+          19
+        ],
+        [
+          "systems software",
+          16
+        ],
+        [
+          "chip design",
+          16
+        ],
+        [
+          "developer relations",
+          15
+        ],
+        [
+          "asic design",
+          14
+        ],
+        [
+          "developer technology",
+          14
+        ],
+        [
+          "formal verification",
+          14
+        ],
+        [
+          "software verification",
+          13
+        ],
+        [
+          "machine learning",
+          12
+        ],
+        [
+          "generative ai",
+          12
+        ],
+        [
+          "software engineering",
+          12
+        ],
+        [
+          "asic verification",
+          12
+        ],
+        [
+          "software gpu",
+          11
+        ],
+        [
+          "product development",
+          11
+        ],
+        [
+          "test development",
+          11
+        ],
+        [
+          "architect ai",
+          11
+        ],
+        [
+          "software cuda",
+          11
+        ],
+        [
+          "software architect",
+          9
+        ],
+        [
+          "architect generative",
+          9
+        ],
+        [
+          "design verification",
+          8
+        ],
+        [
+          "software development",
+          8
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 1000,
+      "topUnigrams": [
+        [
+          "software",
+          306
+        ],
+        [
+          "architect",
+          130
+        ],
+        [
+          "ai",
+          124
+        ],
+        [
+          "system",
+          99
+        ],
+        [
+          "design",
+          88
+        ],
+        [
+          "solutions",
+          83
+        ],
+        [
+          "verification",
+          82
+        ],
+        [
+          "autonomous",
+          56
+        ],
+        [
+          "development",
+          54
+        ],
+        [
+          "vehicles",
+          52
+        ],
+        [
+          "networking",
+          46
+        ],
+        [
+          "gpu",
+          44
+        ],
+        [
+          "learning",
+          44
+        ],
+        [
+          "developer",
+          44
+        ],
+        [
+          "firmware",
+          43
+        ],
+        [
+          "asic",
+          43
+        ],
+        [
+          "infrastructure",
+          42
+        ],
+        [
+          "product",
+          42
+        ],
+        [
+          "program",
+          42
+        ],
+        [
+          "technical",
+          39
+        ],
+        [
+          "engineering",
+          37
+        ],
+        [
+          "systems",
+          34
+        ],
+        [
+          "performance",
+          34
+        ],
+        [
+          "2026",
+          33
+        ],
+        [
+          "test",
+          32
+        ],
+        [
+          "hardware",
+          31
+        ],
+        [
+          "data",
+          31
+        ],
+        [
+          "platform",
+          30
+        ],
+        [
+          "deep",
+          30
+        ],
+        [
+          "new",
+          27
+        ]
+      ],
+      "topBigrams": [
+        [
+          "solutions architect",
+          72
+        ],
+        [
+          "system software",
+          57
+        ],
+        [
+          "autonomous vehicles",
+          51
+        ],
+        [
+          "deep learning",
+          30
+        ],
+        [
+          "new college",
+          27
+        ],
+        [
+          "college grad",
+          25
+        ],
+        [
+          "technical program",
+          25
+        ],
+        [
+          "grad 2026",
+          24
+        ],
+        [
+          "data center",
+          18
+        ],
+        [
+          "physical design",
+          17
+        ],
+        [
+          "developer relations",
+          16
+        ],
+        [
+          "formal verification",
+          16
+        ],
+        [
+          "systems software",
+          15
+        ],
+        [
+          "asic design",
+          15
+        ],
+        [
+          "developer technology",
+          15
+        ],
+        [
+          "architect ai",
+          14
+        ],
+        [
+          "chip design",
+          13
+        ],
+        [
+          "machine learning",
+          12
+        ],
+        [
+          "test development",
+          12
+        ],
+        [
+          "generative ai",
+          12
+        ],
+        [
+          "software verification",
+          12
+        ],
+        [
+          "software gpu",
+          11
+        ],
+        [
+          "product development",
+          11
+        ],
+        [
+          "asic verification",
+          11
+        ],
+        [
+          "software cuda",
+          11
+        ],
+        [
+          "software engineering",
+          10
+        ],
+        [
+          "architect generative",
+          9
+        ],
+        [
+          "software architect",
+          9
+        ],
+        [
+          "design verification",
+          8
+        ],
+        [
+          "software test",
+          8
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "physical design",
+          "before": 21,
+          "after": 17,
+          "delta": -4
+        },
+        {
+          "term": "system software",
+          "before": 54,
+          "after": 57,
+          "delta": 3
+        },
+        {
+          "term": "new college",
+          "before": 30,
+          "after": 27,
+          "delta": -3
+        },
+        {
+          "term": "college grad",
+          "before": 28,
+          "after": 25,
+          "delta": -3
+        },
+        {
+          "term": "grad 2026",
+          "before": 27,
+          "after": 24,
+          "delta": -3
+        },
+        {
+          "term": "chip design",
+          "before": 16,
+          "after": 13,
+          "delta": -3
+        },
+        {
+          "term": "ai chip",
+          "before": 4,
+          "after": 1,
+          "delta": -3
+        },
+        {
+          "term": "architect ai",
+          "before": 11,
+          "after": 14,
+          "delta": 3
+        },
+        {
+          "term": "product marketing",
+          "before": 5,
+          "after": 2,
+          "delta": -3
+        },
+        {
+          "term": "financial services",
+          "before": 7,
+          "after": 4,
+          "delta": -3
+        },
+        {
+          "term": "architect financial",
+          "before": 5,
+          "after": 2,
+          "delta": -3
+        },
+        {
+          "term": "vlsi physical",
+          "before": 3,
+          "after": 0,
+          "delta": -3
+        },
+        {
+          "term": "software neural",
+          "before": 0,
+          "after": 3,
+          "delta": 3
+        },
+        {
+          "term": "neural graphics",
+          "before": 0,
+          "after": 3,
+          "delta": 3
+        },
+        {
+          "term": "design new",
+          "before": 7,
+          "after": 5,
+          "delta": -2
+        },
+        {
+          "term": "deep learning",
+          "before": 28,
+          "after": 30,
+          "delta": 2
+        },
+        {
+          "term": "software engineering",
+          "before": 12,
+          "after": 10,
+          "delta": -2
+        },
+        {
+          "term": "formal verification",
+          "before": 14,
+          "after": 16,
+          "delta": 2
+        },
+        {
+          "term": "life sciences",
+          "before": 4,
+          "after": 2,
+          "delta": -2
+        },
+        {
+          "term": "systems software",
+          "before": 16,
+          "after": 15,
+          "delta": -1
+        },
+        {
+          "term": "data center",
+          "before": 19,
+          "after": 18,
+          "delta": -1
+        },
+        {
+          "term": "technical program",
+          "before": 24,
+          "after": 25,
+          "delta": 1
+        },
+        {
+          "term": "vlsi design",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "architect networking",
+          "before": 6,
+          "after": 5,
+          "delta": -1
+        },
+        {
+          "term": "solutions architecture",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "solutions architect",
+          "before": 73,
+          "after": 72,
+          "delta": -1
+        },
+        {
+          "term": "center infrastructure",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "asic design",
+          "before": 14,
+          "after": 15,
+          "delta": 1
+        },
+        {
+          "term": "software test",
+          "before": 7,
+          "after": 8,
+          "delta": 1
+        },
+        {
+          "term": "autonomous driving",
+          "before": 5,
+          "after": 4,
+          "delta": -1
+        }
+      ]
+    }
+  ]
+}

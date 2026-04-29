@@ -1,0 +1,691 @@
+{
+  "slug": "reddit",
+  "computedAt": "2026-04-29T17:00:37.313Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 145,
+      "topUnigrams": [
+        [
+          "client",
+          40
+        ],
+        [
+          "sales",
+          37
+        ],
+        [
+          "partner",
+          24
+        ],
+        [
+          "ads",
+          23
+        ],
+        [
+          "account",
+          19
+        ],
+        [
+          "large",
+          19
+        ],
+        [
+          "customer",
+          19
+        ],
+        [
+          "mid-market",
+          17
+        ],
+        [
+          "android",
+          17
+        ],
+        [
+          "software",
+          17
+        ],
+        [
+          "machine",
+          15
+        ],
+        [
+          "learning",
+          15
+        ],
+        [
+          "data",
+          13
+        ],
+        [
+          "platform",
+          13
+        ],
+        [
+          "tech",
+          11
+        ],
+        [
+          "services",
+          10
+        ],
+        [
+          "engineering",
+          9
+        ],
+        [
+          "global",
+          9
+        ],
+        [
+          "scientist",
+          9
+        ],
+        [
+          "app",
+          8
+        ],
+        [
+          "dev",
+          8
+        ],
+        [
+          "strategic",
+          8
+        ],
+        [
+          "acquisitions",
+          8
+        ],
+        [
+          "product",
+          8
+        ],
+        [
+          "ad",
+          7
+        ],
+        [
+          "formats",
+          7
+        ],
+        [
+          "accounts",
+          7
+        ],
+        [
+          "b2b",
+          6
+        ],
+        [
+          "enterprise",
+          6
+        ],
+        [
+          "experience",
+          5
+        ]
+      ],
+      "topBigrams": [
+        [
+          "client partner",
+          21
+        ],
+        [
+          "client account",
+          19
+        ],
+        [
+          "large customer",
+          19
+        ],
+        [
+          "customer sales",
+          19
+        ],
+        [
+          "machine learning",
+          15
+        ],
+        [
+          "partner large",
+          13
+        ],
+        [
+          "data scientist",
+          9
+        ],
+        [
+          "app dev",
+          8
+        ],
+        [
+          "ad formats",
+          7
+        ],
+        [
+          "mid-market sales",
+          7
+        ],
+        [
+          "global strategic",
+          7
+        ],
+        [
+          "strategic accounts",
+          7
+        ],
+        [
+          "scientist ads",
+          7
+        ],
+        [
+          "b2b services",
+          6
+        ],
+        [
+          "partner mid-market",
+          5
+        ],
+        [
+          "services acquisitions",
+          5
+        ],
+        [
+          "dev enterprise",
+          5
+        ],
+        [
+          "sales tech",
+          5
+        ],
+        [
+          "software android",
+          5
+        ],
+        [
+          "android test",
+          5
+        ],
+        [
+          "test engineering",
+          5
+        ],
+        [
+          "android software",
+          4
+        ],
+        [
+          "software ad",
+          4
+        ],
+        [
+          "account executive",
+          4
+        ],
+        [
+          "executive mid-market",
+          4
+        ],
+        [
+          "sales b2b",
+          4
+        ],
+        [
+          "account mid-market",
+          4
+        ],
+        [
+          "data science",
+          4
+        ],
+        [
+          "sales enablement",
+          4
+        ],
+        [
+          "enablement program",
+          4
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 144,
+      "topUnigrams": [
+        [
+          "client",
+          39
+        ],
+        [
+          "sales",
+          35
+        ],
+        [
+          "partner",
+          23
+        ],
+        [
+          "ads",
+          23
+        ],
+        [
+          "account",
+          19
+        ],
+        [
+          "large",
+          18
+        ],
+        [
+          "customer",
+          18
+        ],
+        [
+          "mid-market",
+          17
+        ],
+        [
+          "machine",
+          17
+        ],
+        [
+          "learning",
+          17
+        ],
+        [
+          "android",
+          17
+        ],
+        [
+          "software",
+          16
+        ],
+        [
+          "data",
+          13
+        ],
+        [
+          "platform",
+          12
+        ],
+        [
+          "tech",
+          11
+        ],
+        [
+          "services",
+          10
+        ],
+        [
+          "engineering",
+          9
+        ],
+        [
+          "global",
+          9
+        ],
+        [
+          "scientist",
+          9
+        ],
+        [
+          "product",
+          9
+        ],
+        [
+          "app",
+          8
+        ],
+        [
+          "dev",
+          8
+        ],
+        [
+          "strategic",
+          8
+        ],
+        [
+          "acquisitions",
+          8
+        ],
+        [
+          "ad",
+          7
+        ],
+        [
+          "formats",
+          7
+        ],
+        [
+          "accounts",
+          7
+        ],
+        [
+          "b2b",
+          6
+        ],
+        [
+          "enterprise",
+          6
+        ],
+        [
+          "experience",
+          5
+        ]
+      ],
+      "topBigrams": [
+        [
+          "client partner",
+          20
+        ],
+        [
+          "client account",
+          19
+        ],
+        [
+          "large customer",
+          18
+        ],
+        [
+          "customer sales",
+          18
+        ],
+        [
+          "machine learning",
+          17
+        ],
+        [
+          "partner large",
+          12
+        ],
+        [
+          "data scientist",
+          9
+        ],
+        [
+          "app dev",
+          8
+        ],
+        [
+          "ad formats",
+          7
+        ],
+        [
+          "mid-market sales",
+          7
+        ],
+        [
+          "global strategic",
+          7
+        ],
+        [
+          "strategic accounts",
+          7
+        ],
+        [
+          "scientist ads",
+          7
+        ],
+        [
+          "b2b services",
+          6
+        ],
+        [
+          "partner mid-market",
+          5
+        ],
+        [
+          "services acquisitions",
+          5
+        ],
+        [
+          "dev enterprise",
+          5
+        ],
+        [
+          "sales tech",
+          5
+        ],
+        [
+          "software android",
+          5
+        ],
+        [
+          "android test",
+          5
+        ],
+        [
+          "test engineering",
+          5
+        ],
+        [
+          "android software",
+          4
+        ],
+        [
+          "software ad",
+          4
+        ],
+        [
+          "account executive",
+          4
+        ],
+        [
+          "executive mid-market",
+          4
+        ],
+        [
+          "sales b2b",
+          4
+        ],
+        [
+          "account mid-market",
+          4
+        ],
+        [
+          "data science",
+          4
+        ],
+        [
+          "sales enablement",
+          4
+        ],
+        [
+          "enablement program",
+          4
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "machine learning",
+          "before": 15,
+          "after": 17,
+          "delta": 2
+        },
+        {
+          "term": "client partner",
+          "before": 21,
+          "after": 20,
+          "delta": -1
+        },
+        {
+          "term": "ads platform",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "large customer",
+          "before": 19,
+          "after": 18,
+          "delta": -1
+        },
+        {
+          "term": "customer sales",
+          "before": 19,
+          "after": 18,
+          "delta": -1
+        },
+        {
+          "term": "partner large",
+          "before": 13,
+          "after": 12,
+          "delta": -1
+        },
+        {
+          "term": "product ads",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "acquisition client",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "partner mid-market",
+          "before": 5,
+          "after": 5,
+          "delta": 0
+        },
+        {
+          "term": "mid-market southern",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "southern europe",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ads conversion",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "conversion modeling",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "modeling machine",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "learning engineering",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "android software",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "software ad",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "ad formats",
+          "before": 7,
+          "after": 7,
+          "delta": 0
+        },
+        {
+          "term": "channel partnerships",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "partnerships apac",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "client account",
+          "before": 19,
+          "after": 19,
+          "delta": 0
+        },
+        {
+          "term": "account executive",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "executive mid-market",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "mid-market app",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "app dev",
+          "before": 8,
+          "after": 8,
+          "delta": 0
+        },
+        {
+          "term": "mid-market sales",
+          "before": 7,
+          "after": 7,
+          "delta": 0
+        },
+        {
+          "term": "sales b2b",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "b2b services",
+          "before": 6,
+          "after": 6,
+          "delta": 0
+        },
+        {
+          "term": "sales signature",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "signature goods",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

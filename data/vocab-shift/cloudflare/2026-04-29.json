@@ -1,0 +1,691 @@
+{
+  "slug": "cloudflare",
+  "computedAt": "2026-04-29T17:00:34.389Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 456,
+      "topUnigrams": [
+        [
+          "account",
+          91
+        ],
+        [
+          "executive",
+          83
+        ],
+        [
+          "solutions",
+          81
+        ],
+        [
+          "2026",
+          60
+        ],
+        [
+          "summer",
+          58
+        ],
+        [
+          "software",
+          41
+        ],
+        [
+          "named",
+          35
+        ],
+        [
+          "territory",
+          28
+        ],
+        [
+          "systems",
+          27
+        ],
+        [
+          "security",
+          24
+        ],
+        [
+          "ai",
+          24
+        ],
+        [
+          "majors",
+          24
+        ],
+        [
+          "customer",
+          23
+        ],
+        [
+          "sales",
+          23
+        ],
+        [
+          "marketing",
+          22
+        ],
+        [
+          "business",
+          21
+        ],
+        [
+          "product",
+          20
+        ],
+        [
+          "engineering",
+          19
+        ],
+        [
+          "platform",
+          18
+        ],
+        [
+          "development",
+          17
+        ],
+        [
+          "representative",
+          17
+        ],
+        [
+          "operations",
+          16
+        ],
+        [
+          "speaking",
+          15
+        ],
+        [
+          "data",
+          15
+        ],
+        [
+          "specialist",
+          15
+        ],
+        [
+          "digital",
+          15
+        ],
+        [
+          "enterprise",
+          12
+        ],
+        [
+          "partner",
+          12
+        ],
+        [
+          "developer",
+          11
+        ],
+        [
+          "native",
+          11
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          81
+        ],
+        [
+          "summer 2026",
+          52
+        ],
+        [
+          "named account",
+          29
+        ],
+        [
+          "territory account",
+          27
+        ],
+        [
+          "development representative",
+          17
+        ],
+        [
+          "business development",
+          16
+        ],
+        [
+          "majors account",
+          15
+        ],
+        [
+          "customer solutions",
+          13
+        ],
+        [
+          "digital native",
+          11
+        ],
+        [
+          "ai innovation",
+          8
+        ],
+        [
+          "innovation summer",
+          8
+        ],
+        [
+          "customer success",
+          8
+        ],
+        [
+          "solutions engineering",
+          8
+        ],
+        [
+          "systems data",
+          8
+        ],
+        [
+          "distributed systems",
+          7
+        ],
+        [
+          "data platform",
+          7
+        ],
+        [
+          "forward deployed",
+          7
+        ],
+        [
+          "technical support",
+          7
+        ],
+        [
+          "fall 2026",
+          6
+        ],
+        [
+          "public sector",
+          6
+        ],
+        [
+          "cloudflare one",
+          6
+        ],
+        [
+          "solutions majors",
+          6
+        ],
+        [
+          "developer platform",
+          5
+        ],
+        [
+          "partner account",
+          5
+        ],
+        [
+          "professional services",
+          5
+        ],
+        [
+          "executive new",
+          5
+        ],
+        [
+          "san francisco",
+          5
+        ],
+        [
+          "application performance",
+          4
+        ],
+        [
+          "operations ai",
+          4
+        ],
+        [
+          "sales digital",
+          4
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 452,
+      "topUnigrams": [
+        [
+          "account",
+          91
+        ],
+        [
+          "executive",
+          83
+        ],
+        [
+          "solutions",
+          82
+        ],
+        [
+          "2026",
+          60
+        ],
+        [
+          "summer",
+          58
+        ],
+        [
+          "software",
+          40
+        ],
+        [
+          "named",
+          35
+        ],
+        [
+          "territory",
+          28
+        ],
+        [
+          "systems",
+          25
+        ],
+        [
+          "sales",
+          25
+        ],
+        [
+          "ai",
+          24
+        ],
+        [
+          "majors",
+          24
+        ],
+        [
+          "customer",
+          23
+        ],
+        [
+          "marketing",
+          22
+        ],
+        [
+          "security",
+          21
+        ],
+        [
+          "business",
+          21
+        ],
+        [
+          "product",
+          19
+        ],
+        [
+          "engineering",
+          19
+        ],
+        [
+          "platform",
+          18
+        ],
+        [
+          "operations",
+          17
+        ],
+        [
+          "development",
+          17
+        ],
+        [
+          "representative",
+          17
+        ],
+        [
+          "speaking",
+          15
+        ],
+        [
+          "digital",
+          15
+        ],
+        [
+          "data",
+          14
+        ],
+        [
+          "specialist",
+          14
+        ],
+        [
+          "enterprise",
+          12
+        ],
+        [
+          "partner",
+          12
+        ],
+        [
+          "based",
+          11
+        ],
+        [
+          "management",
+          11
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          81
+        ],
+        [
+          "summer 2026",
+          52
+        ],
+        [
+          "named account",
+          29
+        ],
+        [
+          "territory account",
+          27
+        ],
+        [
+          "development representative",
+          17
+        ],
+        [
+          "business development",
+          16
+        ],
+        [
+          "majors account",
+          15
+        ],
+        [
+          "customer solutions",
+          13
+        ],
+        [
+          "digital native",
+          11
+        ],
+        [
+          "ai innovation",
+          8
+        ],
+        [
+          "innovation summer",
+          8
+        ],
+        [
+          "customer success",
+          8
+        ],
+        [
+          "solutions engineering",
+          8
+        ],
+        [
+          "systems data",
+          8
+        ],
+        [
+          "distributed systems",
+          7
+        ],
+        [
+          "data platform",
+          7
+        ],
+        [
+          "technical support",
+          7
+        ],
+        [
+          "fall 2026",
+          6
+        ],
+        [
+          "cloudflare one",
+          6
+        ],
+        [
+          "forward deployed",
+          6
+        ],
+        [
+          "solutions majors",
+          6
+        ],
+        [
+          "public sector",
+          5
+        ],
+        [
+          "developer platform",
+          5
+        ],
+        [
+          "partner account",
+          5
+        ],
+        [
+          "professional services",
+          5
+        ],
+        [
+          "executive new",
+          5
+        ],
+        [
+          "san francisco",
+          5
+        ],
+        [
+          "application performance",
+          4
+        ],
+        [
+          "operations ai",
+          4
+        ],
+        [
+          "sales digital",
+          4
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "security systems",
+          "before": 3,
+          "after": 1,
+          "delta": -2
+        },
+        {
+          "term": "systems reliability",
+          "before": 3,
+          "after": 1,
+          "delta": -2
+        },
+        {
+          "term": "public sector",
+          "before": 6,
+          "after": 5,
+          "delta": -1
+        },
+        {
+          "term": "forward deployed",
+          "before": 7,
+          "after": 6,
+          "delta": -1
+        },
+        {
+          "term": "infrastructure deployment",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "people operations",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "sales summer",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "based sydney",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "based melbourne",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "solutions summer",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "account based",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "based marketing",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "marketing abm",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "abm months",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "months fall",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "fall 2026",
+          "before": 6,
+          "after": 6,
+          "delta": 0
+        },
+        {
+          "term": "account executive",
+          "before": 81,
+          "after": 81,
+          "delta": 0
+        },
+        {
+          "term": "executive public",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "sector uki",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "uki ministry",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ministry defence",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "defence mod",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "executive sled",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "sled great",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "great lakes-",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "lakes- ky",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ky oh",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "oh mi",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "application performance",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "performance security",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

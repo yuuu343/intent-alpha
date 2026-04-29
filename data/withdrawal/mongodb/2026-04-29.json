@@ -1,6 +1,6 @@
 {
-  "slug": "anthropic",
-  "computedAt": "2026-04-29T17:00:33.908Z",
+  "slug": "mongodb",
+  "computedAt": "2026-04-29T17:00:36.240Z",
   "snapshotCount": 2,
   "snapshotDates": [
     "2026-04-28",
@@ -18,106 +18,71 @@
   },
   "withdrawn": [
     {
-      "id": "5101832008",
-      "title": "Account Executive, Academic Medical Centers",
+      "id": "7678384",
+      "title": "Associate TSE I",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
     },
     {
-      "id": "5127289008",
-      "title": "Business Systems Analyst, Data Enrichment",
+      "id": "7647255",
+      "title": "Cloud Operations Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
     },
     {
-      "id": "5155269008",
-      "title": "Communications Lead, The Anthropic Institute ",
+      "id": "7434197",
+      "title": "Regional Director, Enterprise, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
     },
     {
-      "id": "5116758008",
-      "title": "Copy & Content Lead, Launches",
+      "id": "7411098",
+      "title": "Senior Pre-Sales Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
     },
     {
-      "id": "5163925008",
-      "title": "Enterprise Account Executive, CPG",
+      "id": "7411100",
+      "title": "Senior Pre-Sales Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
     },
     {
-      "id": "5121561008",
-      "title": "Forward Deployed Engineer",
+      "id": "7287364",
+      "title": "Senior Product Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
     },
     {
-      "id": "5193066008",
-      "title": "GTM Strategy & Operations, Activations Business Partner",
+      "id": "7593676",
+      "title": "Senior Software Engineer, AMP",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
     },
     {
-      "id": "5125425008",
-      "title": "Manager, Enterprise Sales - DACH & CEE",
+      "id": "7578651",
+      "title": "Senior Software Engineer, Private Cloud Backup",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
     },
     {
-      "id": "4934225008",
-      "title": "Marketing Events Lead - EMEA",
+      "id": "7593785",
+      "title": "Software Engineer 3, AMP",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
     },
     {
-      "id": "5159669008",
-      "title": "Prompt Engineer, Claude Code",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28",
-      "lifetimeDays": 0
-    },
-    {
-      "id": "5175538008",
-      "title": "Senior Manager, Corporate Accounting Operations",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28",
-      "lifetimeDays": 0
-    },
-    {
-      "id": "5196100008",
-      "title": "Senior Manager, Finance Strategic Projects",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28",
-      "lifetimeDays": 0
-    },
-    {
-      "id": "5183006008",
-      "title": "Senior Product Manager, Education Labs",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28",
-      "lifetimeDays": 0
-    },
-    {
-      "id": "5058191008",
-      "title": "Strategic Account Executive, Asset & Wealth Management",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28",
-      "lifetimeDays": 0
-    },
-    {
-      "id": "5153754008",
-      "title": "Technical Deployment Lead",
+      "id": "7593738",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28",
       "lifetimeDays": 0
@@ -125,3133 +90,3035 @@
   ],
   "stillOpen": [
     {
-      "id": "5165641008",
-      "title": "Account Executive, Beneficial Deployments (French Speaking)",
+      "id": "7574659",
+      "title": "2026 - Women in Tech Summit, EMEA",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5161980008",
-      "title": "Account Executive, Beneficial Deployments (French Speaking)",
+      "id": "7815603",
+      "title": "Account-Based Marketing Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5161988008",
-      "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
+      "id": "7310506",
+      "title": "Account Development Representative",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5165651008",
-      "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
+      "id": "7311204",
+      "title": "Account Development Representative",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5161986008",
-      "title": "Account Executive, Beneficial Deployments (Spanish Speaking)",
+      "id": "7311234",
+      "title": "Account Development Representative",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5165670008",
-      "title": "Account Executive, Beneficial Deployments (Spanish Speaking)",
+      "id": "7318049",
+      "title": "Account Development Representative",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4948535008",
-      "title": "Account Executive, Mid Market - UKI",
+      "id": "7335567",
+      "title": "Account Development Representative, French Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5101378008",
-      "title": "Account Executive, Public Sector",
+      "id": "7337287",
+      "title": "Account Development Representative, German Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5112090008",
-      "title": "Account Executive, Public Sector - India",
+      "id": "7334938",
+      "title": "Account Development Representative, Hebrew Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4461450008",
-      "title": "Account Executive, Startups",
+      "id": "7335205",
+      "title": "Account Development Representative, Spanish Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5193428008",
-      "title": "Accounts Receivable Specialist",
+      "id": "7298536",
+      "title": "Account Development Representative, Turkish Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5123742008",
-      "title": "Analyst, The Anthropic Institute",
+      "id": "7334895",
+      "title": "Account Development Representative, UK&I",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5023394008",
-      "title": "Anthropic Fellows Program",
+      "id": "7154017",
+      "title": "Account Executive, Acquisition",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5183044008",
-      "title": "Anthropic Fellows Program — AI Safety",
+      "id": "7211619",
+      "title": "Account Executive ( Bahasa, Thai or Vietnamese Speaker)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5030244008",
-      "title": "Anthropic Fellows Program — AI Security",
+      "id": "5573926",
+      "title": "Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5183051008",
-      "title": "Anthropic Fellows Program — ML Systems & Performance",
+      "id": "7839823",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5183052008",
-      "title": "Anthropic Fellows Program — Reinforcement Learning",
+      "id": "7027409",
+      "title": "Advisory Pre-Sales Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5183053008",
-      "title": "Anthropic Fellows Program — The Anthropic Institute Fellows (Economics & Policy)",
+      "id": "7673691",
+      "title": "AI Staff Developer Advocate",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5189848008",
-      "title": "Anthropic STEM Fellow",
+      "id": "7836059",
+      "title": "Application Delivery Consultant",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5199978008",
-      "title": "ANZ Communications Lead",
+      "id": "7761021",
+      "title": "Application Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4502508008",
-      "title": "Application Security Engineer",
+      "id": "7617760",
+      "title": "Associate Commercial Growth Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5117581008",
-      "title": "Applied AI Architect",
+      "id": "7592487",
+      "title": "Associate Commercial Growth Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5076109008",
-      "title": "Applied AI Architect",
+      "id": "7769513",
+      "title": "Associate Early Talent Recruiter, Contract",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5192805008",
-      "title": "Applied AI Architect, Commercial",
+      "id": "7721092",
+      "title": "Associate Technical Services Engineer II",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5065835008",
-      "title": "Applied AI Architect, Enterprise Tech",
+      "id": "7760225",
+      "title": "Business Operations & Strategy Associate",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5079540008",
-      "title": "Applied AI Architect, Federal Civilian",
+      "id": "7760222",
+      "title": "Business Operations & Strategy Associate",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5140405008",
-      "title": "Applied AI Architect, Government Technology",
+      "id": "7722465",
+      "title": "Candidate Experience Coordinator",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5031670008",
-      "title": "Applied AI Architect, Industries",
+      "id": "7742585",
+      "title": "Candidate Experience Coordinator, Contract",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4461444008",
-      "title": "Applied AI Architect, Industries",
+      "id": "7453323",
+      "title": "Cloud Operations Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4977626008",
-      "title": "Applied AI Architect, Industries",
+      "id": "7172630",
+      "title": "Commercial Growth Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4977624008",
-      "title": "Applied AI Architect, Industries",
+      "id": "7841395",
+      "title": "Commercial Growth Account Executive (Italian Speaker)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5079511008",
-      "title": "Applied AI Architect, National Security",
+      "id": "7771690",
+      "title": "Commercial Growth Account Executive (Spanish Speaker)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5112486008",
-      "title": "Applied AI Architect, Partnerships",
+      "id": "6826191",
+      "title": "Commercial Growth, Account Executive - UKI Market",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5112493008",
-      "title": "Applied AI Architect, Partnerships",
+      "id": "7746692",
+      "title": "Consulting Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194007008",
-      "title": "Applied AI Architect, Public Sector",
+      "id": "7818210",
+      "title": "Contract Associate Recruiter",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5101433008",
-      "title": "Applied AI Architect, Security",
+      "id": "7738964",
+      "title": "Contract Sourcer, Talent Discovery",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5057258008",
-      "title": "Applied AI Architect, Startups",
+      "id": "7707200",
+      "title": "Customer & Partner Advocate, Office of the CCO",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5193973008",
-      "title": "Applied AI Architect, Startups",
+      "id": "7738880",
+      "title": "Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4968059008",
-      "title": "Applied AI Architect, Startups",
+      "id": "7571625",
+      "title": "Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5140403008",
-      "title": "Applied AI Architect, State and Local Government",
+      "id": "7604011",
+      "title": "Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5116927008",
-      "title": "Applied AI Claude Evangelist, Startups",
+      "id": "7736115",
+      "title": "Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5014500008",
-      "title": "Applied AI Engineer",
+      "id": "7738871",
+      "title": "Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5055488008",
-      "title": "Applied AI Engineer",
+      "id": "7738873",
+      "title": "Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5116274008",
-      "title": "Applied AI Engineer ",
+      "id": "7738877",
+      "title": "Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5068226008",
-      "title": "Applied AI Engineer, Beneficial Deployments",
+      "id": "7738878",
+      "title": "Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5146028008",
-      "title": "Applied AI Engineer, Beneficial Deployments",
+      "id": "7738881",
+      "title": "Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5057647008",
-      "title": "Applied AI Engineer, Enterprise Tech",
+      "id": "7761063",
+      "title": "Customer Success Manager - French Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5111942008",
-      "title": "Applied AI Engineer, Life Sciences (Beneficial Deployments)",
+      "id": "7757113",
+      "title": "Customer Success Manager - French Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5073277008",
-      "title": "Applied AI Engineer, Startups",
+      "id": "7657504",
+      "title": "Customer Success Manager, German Speaker",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5188428008",
-      "title": "Art Director, Enterprise",
+      "id": "7657498",
+      "title": "Customer Success Manager, German Speaker",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5066977008",
-      "title": "Biological Safety Research Scientist",
+      "id": "7619241",
+      "title": "Customer Success Manager, German Speaker",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5166519008",
-      "title": "Business Development Representative",
+      "id": "7696235",
+      "title": "Customer Success Manager - Turkish Speaker",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5186199008",
-      "title": "Business Development Representative",
+      "id": "7409019",
+      "title": "Director, CEO Communications",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4939815008",
-      "title": "Business Development Representative",
+      "id": "7822078",
+      "title": "Director, Corporate Development & Ventures",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4969427008",
-      "title": "Business Development Representative - EMEA",
+      "id": "7819441",
+      "title": "Director, Employee Communications",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5099202008",
-      "title": "Campus Security Manager",
+      "id": "7711879",
+      "title": "Director, Engineering",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5191638008",
-      "title": "Cluster Deployment Engineer",
+      "id": "7662222",
+      "title": "Director, Global Quote-to-Cash Operations (India COE)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5045003008",
-      "title": "Commercial Counsel, Colocation & Networks",
+      "id": "7566138",
+      "title": "Director, Identity & Security Product Management",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5186518008",
-      "title": "Commercial Counsel, Compute & Infrastructure",
+      "id": "7566136",
+      "title": "Director, Identity & Security Product Management",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5044994008",
-      "title": "Commercial Counsel, Datacenters & Construction",
+      "id": "7811458",
+      "title": "Director, International Financial Compliance",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5142971008",
-      "title": "Commercial Counsel, EMEA",
+      "id": "7592810",
+      "title": "Director of Engineering, Query Optimization",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5142966008",
-      "title": "Commercial Counsel, EMEA",
+      "id": "7658187",
+      "title": "Director of Product Management, Developer Experience, Tools and Client Libraries",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5074052008",
-      "title": "Commercial Counsel, GTM",
+      "id": "7434504",
+      "title": "Director, Product Marketing",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153586008",
-      "title": "Communications Lead, Claude Code",
+      "id": "7585369",
+      "title": "Director, Regional Employee Experience",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153680008",
-      "title": "Communications Manager, Research",
+      "id": "7825494",
+      "title": "Director, Strategic Sourcing",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5151551008",
-      "title": "Community Marketing Lead",
+      "id": "7843814",
+      "title": "Director, Tax",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5179769008",
-      "title": "Community Operations & Executive Escalations Manager",
+      "id": "7599693",
+      "title": "Engagement Manager (Services Sales)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5128198008",
-      "title": "Compute Accountant",
+      "id": "7523899",
+      "title": "Engineering Manager, Search Query Platform & Availability",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4987662008",
-      "title": "Contracts Manager",
+      "id": "7256839",
+      "title": "Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5171710008",
-      "title": "Contracts Manager, Public Sector",
+      "id": "6586315",
+      "title": "Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5198995008",
-      "title": "Convening Operations Lead, The Anthropic Institute",
+      "id": "7026136",
+      "title": "Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5188431008",
-      "title": "Copy Lead, Enterprise",
+      "id": "7160353",
+      "title": "Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194899008",
-      "title": "Corporate Legal Specialist",
+      "id": "7257330",
+      "title": "Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5135028008",
-      "title": "Crisis Management Specialist",
+      "id": "7721659",
+      "title": "Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5162846008",
-      "title": "Customer Marketing, Strategic Programs ",
+      "id": "7607210",
+      "title": "Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5189047008",
-      "title": "Customer Programs Manager, Customer Advisory Boards ",
+      "id": "7362582",
+      "title": "Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153511008",
-      "title": "Customer Success Manager, Beneficial Deployments, EMEA",
+      "id": "7578590",
+      "title": "Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5172499008",
-      "title": "Customer Success Manager, DACH",
+      "id": "7219459",
+      "title": "Enterprise Account Executive\t",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5062733008",
-      "title": "Customer Success Manager, Digital Native Business",
+      "id": "6587328",
+      "title": "Enterprise Account Executive\t",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5175932008",
-      "title": "Customer Success Manager, Higher Education",
+      "id": "5607962",
+      "title": "Enterprise Account Executive, Acquisition",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5068570008",
-      "title": "Customer Success Manager, Industries",
+      "id": "7555250",
+      "title": "Enterprise Account Executive, Acquisition ( Indonesia - Bahasa Speaker Required)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5174700008",
-      "title": "Customer Success Manager, Scaled",
+      "id": "7211805",
+      "title": "Enterprise Account Executive (Bahasa, Vietnamese and Thai speaker)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5172501008",
-      "title": "Customer Success Manager, Southern Europe",
+      "id": "7628750",
+      "title": "Enterprise Account Executive (Cyber)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5082455008",
-      "title": "Customer Success Manager, Strategics",
+      "id": "7028355",
+      "title": "Enterprise Account Executive, Federal",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5157023008",
-      "title": "Data Center Design Execution Lead",
+      "id": "6688075",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5187486008",
-      "title": "Data Center Electrical Engineer",
+      "id": "7776028",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5159642008",
-      "title": "Data Center Engineer, Resource Efficiency – Compute Supply ",
+      "id": "7257122",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5188939008",
-      "title": "Data Center Portfolio Planning & Execution Lead",
+      "id": "7256796",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5156057008",
-      "title": "Data Engineer, Safeguards",
+      "id": "7191603",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5097186008",
-      "title": "Design Engineer, AI Capability Development (Education Labs)",
+      "id": "7362626",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5116525008",
-      "title": "Design Engineer, Web",
+      "id": "7217805",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5113368008",
-      "title": "Developer Community Lead - EMEA",
+      "id": "7141759",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5126762008",
-      "title": "Developer Education Lead",
+      "id": "7830989",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4965218008",
-      "title": "Director, Accounting Operations",
+      "id": "7032023",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5161973008",
-      "title": "Director, Global Accounts Payable",
+      "id": "7027846",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5196221008",
-      "title": "Director, Infrastructure Capex Accounting",
+      "id": "6987968",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5196219008",
-      "title": "Director, Infrastructure & Energy Accounting ",
+      "id": "6848268",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5197432008",
-      "title": "Director, Revenue Accounting Operations - Program Management",
+      "id": "6740470",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5175891008",
-      "title": "Director, Technical Accounting – M&A and Investments",
+      "id": "7362411",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5072140008",
-      "title": "EMEA AE Lead, Beneficial Deployments",
+      "id": "6275509",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5165673008",
-      "title": "EMEA AE Lead, Beneficial Deployments",
+      "id": "7840210",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5079916008",
-      "title": "Emerging Account Executive, Startups",
+      "id": "7429695",
+      "title": "Enterprise Account Executive, Growth (Arabic speaker)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5138099008",
-      "title": "Engineering Editorial Lead",
+      "id": "7552596",
+      "title": "Enterprise Account Executive, Growth ( Bahasa Speaker)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5159608008",
-      "title": "Engineering Manager, Agent Prompts & Evals",
+      "id": "7363143",
+      "title": "Enterprise Account Executive, Growth (Defence & MHA)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5141377008",
-      "title": "Engineering Manager, Cloud Inference AWS",
+      "id": "6640101",
+      "title": "Enterprise Account Executive, Growth (Digital Native)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5068296008",
-      "title": "Engineering Manager, Detection and Response",
+      "id": "6601414",
+      "title": "Enterprise Account Executive, Growth (FSI)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4741104008",
-      "title": "Engineering Manager, GPU (ML Accelerator)",
+      "id": "6829771",
+      "title": "Enterprise Account Manager - OEM",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4741102008",
-      "title": "Engineering Manager, Inference",
+      "id": "7629642",
+      "title": "Executive Business Partner",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5155391008",
-      "title": "Engineering Manager, Inference Routing and Performance",
+      "id": "7850243",
+      "title": "Executive Partner Specialist",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5146363008",
-      "title": "Engineering Manager, Product Monetization (Billing Platform)",
+      "id": "6381035",
+      "title": "Field CTO",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5103078008",
-      "title": "Engineering Manager, Safeguards Data Infrastructure",
+      "id": "7696222",
+      "title": "Field Marketing Specialist",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5140492008",
-      "title": "Engineering Manager, Vertical AI Products (Multiple Roles) ",
+      "id": "7678934",
+      "title": "Financial Planning & Analysis Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5118189008",
-      "title": "Enterprise Account Executive, DOD/IC",
+      "id": "7534893",
+      "title": "Growth Marketing Senior Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194670008",
-      "title": "Enterprise Account Executive, Federal Civilian Sales",
+      "id": "7826031",
+      "title": "Head of AI Platform, GM ",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5196023008",
-      "title": "Enterprise Account Executive, Federal Civilian Sales - Commerce & Interior",
+      "id": "7706094",
+      "title": "Head of Post Sales Technology",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5196029008",
-      "title": "Enterprise Account Executive, Federal Civilian Sales - Education & Workforce",
+      "id": "7782910",
+      "title": "Head of Talent Discovery",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5196015008",
-      "title": "Enterprise Account Executive, Federal Civilian Sales - State & International",
+      "id": "7773093",
+      "title": "Head of Talent Discovery",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5196014008",
-      "title": "Enterprise Account Executive, Federal Civilian Sales - Transport & Land",
+      "id": "7782909",
+      "title": "Head of Talent Discovery",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5160180008",
-      "title": "Enterprise Account Executive, Federal Partners Sales",
+      "id": "7656724",
+      "title": "IAM Security Engineer 3",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5104753008",
-      "title": "Enterprise Account Executive, Financial Services & Insurance",
+      "id": "7818435",
+      "title": "IBM Principal Specialist",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4947500008",
-      "title": "Enterprise Account Executive, Industries",
+      "id": "7767185",
+      "title": "Industry Consultant",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4493035008",
-      "title": "Enterprise Account Executive, Industries",
+      "id": "7695258",
+      "title": "Inside Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5104760008",
-      "title": "Enterprise Account Executive, Manufacturing & Automotive",
+      "id": "7702003",
+      "title": "International Tax Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5104754008",
-      "title": "Enterprise Account Executive, Retail",
+      "id": "7778984",
+      "title": "Lead, Bus Sys Engineering - CPQ",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5102665008",
-      "title": "Enterprise Account Executive, State & Local Sales ",
+      "id": "7711872",
+      "title": "Lead Engineer, Atlas Clusters Fleet Signal Management",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5181219008",
-      "title": "Enterprise Account Executive, State & Local Sales - North East",
+      "id": "7404533",
+      "title": "Lead Engineer, C2C",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5108347008",
-      "title": "Enterprise Account Executive, State & Local Sales - State of California",
+      "id": "7590547",
+      "title": "Lead, Engineering",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5104756008",
-      "title": "Enterprise Account Executive, System Integrators",
+      "id": "7612606",
+      "title": "Lead, Engineering",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4983646008",
-      "title": "Enterprise Account Executive, Tech",
+      "id": "7541875",
+      "title": "Lead Engineer, Internal Engineering",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5096041008",
-      "title": "Enterprise Account Executive, Telecommunications",
+      "id": "7613568",
+      "title": "Manager, Engineering  Observability",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5104755008",
-      "title": "Enterprise Account Executive, Transportation & Utilities",
+      "id": "7844159",
+      "title": "Leadership Development Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194529008",
-      "title": "Events Lead, Brand",
+      "id": "7736169",
+      "title": "Lead, Revenue",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4980436008",
-      "title": " [Expression of Interest] Research Manager, Interpretability",
+      "id": "7597269",
+      "title": "Lead Software Engineer, Atlas Clusters Modernization ",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4532887008",
-      "title": "[Expression of Interest] Research Scientist / Engineer, Honesty",
+      "id": "7698054",
+      "title": "Engineering Manager, Server Networking Security (Rust)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5149112008",
-      "title": "External Affairs, Australia",
+      "id": "7779540",
+      "title": "Lead, Startup & Ventures Marketing",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5026187008",
-      "title": "Field Marketing Lead, Industries - EMEA",
+      "id": "7609367",
+      "title": "Manager, Customer Success",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5169167008",
-      "title": "Field Marketing Manager",
+      "id": "7375469",
+      "title": "Manager, Customer Success",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5191833008",
-      "title": "Field Marketing Manager, Startups",
+      "id": "7736176",
+      "title": "Manager, Revenue",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194827008",
-      "title": "Field Services Engineer",
+      "id": "7768655",
+      "title": "Manager, Sales Development",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194835008",
-      "title": "Finance & Strategy, Compute ",
+      "id": "7763001",
+      "title": "Manager, Sales Development",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194829008",
-      "title": "Finance & Strategy, Datacenter / Infrastructure Finance",
+      "id": "7732991",
+      "title": "Manager, Sales Development (Kuala Lumpur Based)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5123819008",
-      "title": "Finance & Strategy, Deal Desk - Americas",
+      "id": "7728309",
+      "title": "Manager, Solutions Architecture",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5123832008",
-      "title": "Finance & Strategy, Deal Desk - APAC",
+      "id": "7597734",
+      "title": "Manager, Solutions Architecture",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5123821008",
-      "title": "Finance & Strategy, Deal Desk - EMEA",
+      "id": "7702002",
+      "title": "Manager, Tax",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5142005008",
-      "title": "Finance & Strategy, Deal Operations - Americas",
+      "id": "7837225",
+      "title": "Manager, Travel",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153390008",
-      "title": "Finance & Strategy, Deal Operations - APAC",
+      "id": "7695346",
+      "title": "Marketing Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153392008",
-      "title": "Finance & Strategy, Deal Operations - EMEA",
+      "id": "7829707",
+      "title": "Partner Programs Lead",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5135964008",
-      "title": "Finance & Strategy, GTM - India",
+      "id": "7365564",
+      "title": "Partner Specialist",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5079133008",
-      "title": "Finance & Strategy, GTM - Korea",
+      "id": "7719083",
+      "title": "Pre-Sales Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5186669008",
-      "title": "Finance Systems Engineer, Revenue",
+      "id": "7458644",
+      "title": "Pre-Sales Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5155195008",
-      "title": "Finance Systems Integration Engineer",
+      "id": "7572007",
+      "title": "Pre-Sales Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5133449008",
-      "title": "Finance Systems, Program Manager - Quote-to-cash",
+      "id": "7711189",
+      "title": "Pre-Sales Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5012991008",
-      "title": "Forward Deployed Engineer",
+      "id": "7837073",
+      "title": "Principal Partner Specialist",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5121563008",
-      "title": "Forward Deployed Engineer",
+      "id": "7625229",
+      "title": "Principal Partner Specialist",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4985877008",
-      "title": "Forward Deployed Engineer, Applied AI",
+      "id": "7818327",
+      "title": "Principal Partner Specialist, Google Cloud",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5079562008",
-      "title": "Forward Deployed Engineer, Federal Civilian",
+      "id": "6819978",
+      "title": "Principal Research Scientist, Database Systems",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5115145008",
-      "title": "Frontier Counsel",
+      "id": "7725834",
+      "title": "Principal Sales Operations Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5186067008",
-      "title": "Full-Stack Software Engineer, Reinforcement Learning",
+      "id": "7657688",
+      "title": "Principal Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5192104008",
-      "title": "Global Applied AI Architecture Lead, Beneficial Deployments",
+      "id": "7657684",
+      "title": "Principal Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5159740008",
-      "title": "Global Indirect, Sales Tax & VAT",
+      "id": "7564234",
+      "title": "Principal Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5082402008",
-      "title": "Global Partner Account Manager, Systems Integrators",
+      "id": "7774143",
+      "title": "Principal, Strategic AI Partnerships",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4980335008",
-      "title": "GRC Engineering Manager",
+      "id": "7476104",
+      "title": "Principal Technologist",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4423394008",
-      "title": "Growth Account Executive, Startups",
+      "id": "7793281",
+      "title": "Product Manager, Developer Experience",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5121572008",
-      "title": "GTM Strategy & Operations (Enterprise), DACH",
+      "id": "7523751",
+      "title": "Product Pricing & Monetization Strategy Senior Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5184077008",
-      "title": "Head of ANZ, Applied AI",
+      "id": "7128879",
+      "title": "Product Pricing & Monetization Strategy Senior Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5189045008",
-      "title": "Head of Customer Programs",
+      "id": "7769760",
+      "title": "Program Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5191911008",
-      "title": "Head of EMEA Partner Success",
+      "id": "7769758",
+      "title": "Program Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5169101008",
-      "title": "Head of Enterprise Marketing Strategy & Analytics",
+      "id": "7768249",
+      "title": "Program Manager, Commercial Compliance",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5106935008",
-      "title": "Head of Enterprise Sales - India",
+      "id": "7743718",
+      "title": "Program Manager, Public Sector Compliance",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5171187008",
-      "title": "Head of Federal Partners Sales",
+      "id": "6633264",
+      "title": "Public Sector Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5183021008",
-      "title": "Head of Finance AI & Innovation",
+      "id": "7835566",
+      "title": "Recruiter",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5188745008",
-      "title": "Head of Insurance & Business Risk",
+      "id": "7839844",
+      "title": "Recruiter",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5171624008",
-      "title": "Head of Integrated Marketing, Claude",
+      "id": "7672168",
+      "title": "Regional Marketing Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5146999008",
-      "title": "Head of International Applied AI Architecture, Partnerships",
+      "id": "7742406",
+      "title": "Regional Marketing Specialist",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5061691008",
-      "title": "Head of IT SOX",
+      "id": "7766076",
+      "title": "Regional Vice President, Sales Development, Americas",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5182866008",
-      "title": "Head of Partner Success",
+      "id": "6838251",
+      "title": "Relationship Account Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194769008",
-      "title": "Head of Portfolio Marketing ",
+      "id": "6934210",
+      "title": "Relationship Account Manager - German Speaker ",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153588008",
-      "title": "Head of Programmatic Outcomes, Partners",
+      "id": "7785551",
+      "title": "Revenue Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153580008",
-      "title": "Head of Programmatic Outcomes, Product",
+      "id": "7380221",
+      "title": "Sales Development Representative",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5200670008",
-      "title": "Head of Resilience Operations, Global Safety, Intelligence & Security",
+      "id": "7566671",
+      "title": "Sales Development Representative",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5064817008",
-      "title": "Head of Solutions Architects, Applied AI (Korea)",
+      "id": "7746436",
+      "title": "Sales Development Representative - Thai Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5138232008",
-      "title": "Head of Travel & Expense",
+      "id": "7779016",
+      "title": "Salesforce CPQ engineer 3",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5097305008",
-      "title": "Immigration Coordinator",
+      "id": "7110155",
+      "title": "Sales Support Associate",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5176481008",
-      "title": "Incident Manager - Detection & Response",
+      "id": "7727896",
+      "title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5176570008",
-      "title": "Incident Manager - Detection & Response",
+      "id": "7727899",
+      "title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5133070008",
-      "title": "Industry Principal, Insurance",
+      "id": "7557741",
+      "title": "Senior Accountant, Technical Revenue",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5030680008",
-      "title": "Infrastructure Engineer, Sandboxing",
+      "id": "7778975",
+      "title": "Senior Administrator - Business Systems",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5123851008",
-      "title": "Infrastructure Tax Lead",
+      "id": "7743704",
+      "title": "Senior Analyst, GTM Operations",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5182430008",
-      "title": "Insider Risk Investigator - Technical & Human Intelligence",
+      "id": "7523797",
+      "title": "Senior Associate, Payroll",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5147350008",
-      "title": "Internal Communications Manager, Policy ",
+      "id": "6841436",
+      "title": "Senior Business Analyst, Technical Services",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5151922008",
-      "title": "International Expansions Lead",
+      "id": "7772609",
+      "title": "Senior Business Value Consultant",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5151939008",
-      "title": "International Readiness Lead",
+      "id": "7771677",
+      "title": "Senior Business Value Consultant",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4802076008",
-      "title": "IT Support Engineer",
+      "id": "7822906",
+      "title": "Senior Business Value Consultant",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4887952008",
-      "title": "IT Systems Engineer, Corporate Systems & Infrastructure",
+      "id": "7772602",
+      "title": "Senior Business Value Consultant",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5161882008",
-      "title": "IT Systems Engineer, Enterprise SaaS",
+      "id": "7656727",
+      "title": "Senior Cloud Security Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5193986008",
-      "title": "Lead, Data Center Physical Security Operations (North America)",
+      "id": "7841358",
+      "title": "Senior Commercial Growth Account Executive, Acquisition",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5142374008",
-      "title": "Legal Operations Specialist, Tooling & Enablement",
+      "id": "7599427",
+      "title": "Senior Commercial Growth Account Executive, Acquisition",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4952079008",
-      "title": "Machine Learning Systems Engineer, Research Tools",
+      "id": "7573532",
+      "title": "Senior Consulting Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4952051008",
-      "title": "Machine Learning Systems Engineer, RL Engineering",
+      "id": "7358843",
+      "title": "(Senior) Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5175782008",
-      "title": "Manager, Account Executive - Enterprise Sales",
+      "id": "7551285",
+      "title": "Senior Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5042447008",
-      "title": "Manager, Account Executive (Growth Startup Sales)",
+      "id": "7836453",
+      "title": "Senior Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5097046008",
-      "title": "Manager, Enterprise Account Executive, Tech",
+      "id": "7530648",
+      "title": "Senior Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5099753008",
-      "title": "Manager, Forward Deployed Engineering",
+      "id": "7623498",
+      "title": "Senior Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4976328008",
-      "title": "Manager, Growth Account Executive (Startups)",
+      "id": "7641491",
+      "title": "Senior Customer Success Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5138289008",
-      "title": "Manager, Healthcare Enterprise Sales",
+      "id": "7582813",
+      "title": "Senior Customer Success Manager ",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5188606008",
-      "title": "Manager, Mid-Market Industries Sales, West",
+      "id": "7661621",
+      "title": "Senior Customer Success Manager - German Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5197538008",
-      "title": "Manager of Applied AI Architecture, Enterprise Tech (Cyber)",
+      "id": "7661633",
+      "title": "Senior Customer Success Manager - German Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5117652008",
-      "title": "Manager of Applied AI Architecture, Industries",
+      "id": "7661608",
+      "title": "Senior Customer Success Manager - German Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5115884008",
-      "title": "Manager of Applied AI Architecture, Industries",
+      "id": "7661622",
+      "title": "Senior Customer Success Manager - German Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5173031008",
-      "title": "Manager of Applied AI Architecture, Partnerships",
+      "id": "7661623",
+      "title": "Senior Customer Success Manager - German Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5183983008",
-      "title": "Manager of Forward Deployed Engineering",
+      "id": "7661624",
+      "title": "Senior Customer Success Manager - German Speaking",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4964610008",
-      "title": "Manager of Solutions Architecture, Applied AI (Industries)",
+      "id": "7616983",
+      "title": "Senior Data Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5190234008",
-      "title": "Manager, Partner Account Managers",
+      "id": "7696633",
+      "title": "Senior Data Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5121912008",
-      "title": "Manager, Sales Development - EMEA",
+      "id": "7846877",
+      "title": "Senior Data Analyst II, Product",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5095484008",
-      "title": "Manager, Sales Development (Enterprise)",
+      "id": "7187739",
+      "title": "Senior Data Product Manager, Internal GTM Data",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5099163008",
-      "title": "Manager, Sales Development (Startups & Commercial)",
+      "id": "7428476",
+      "title": "Senior Data Product Manager, Product Telemetry",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5181763008",
-      "title": "Manager, Value Transformation",
+      "id": "7495485",
+      "title": "Senior Developer Advocate",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5100613008",
-      "title": "Marketing Events Content Manager",
+      "id": "7571308",
+      "title": "Senior Developer Advocate",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5100274008",
-      "title": "Marketing Events Lead, Enterprise",
+      "id": "7241758",
+      "title": "Senior Developer Advocate",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4931772008",
-      "title": "Mid-Market Account Executive, Industries",
+      "id": "7775125",
+      "title": "Senior Director, Cloud Partner Specialists, AWS NAMER & LATAM",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5077996008",
-      "title": "Mid-Market Account Executive, Tech",
+      "id": "7782814",
+      "title": "Senior Director, Cloud Partner Specialists, Microsoft Global",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4778843008",
-      "title": "ML Infrastructure Engineer, Safeguards",
+      "id": "7705477",
+      "title": "Senior Director, Data Product Management",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4949336008",
-      "title": "ML/Research Engineer, Safeguards",
+      "id": "7721981",
+      "title": "Senior Director, Engineering",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5098025008",
-      "title": "Model Quality Software Engineer, Claude Code",
+      "id": "7746488",
+      "title": "Senior Director, Engineering",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5163273008",
-      "title": "[Munich] Enterprise Account Executive, Industries",
+      "id": "7768265",
+      "title": "Senior Employee Listening Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5123011008",
-      "title": "Offensive Security Research Engineer, Safeguards",
+      "id": "7766266",
+      "title": "Senior Employee Listening Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5168144008",
-      "title": "Order Management ",
+      "id": "7760047",
+      "title": "Senior Engagement Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5191437008",
-      "title": "Partner Business Systems & AI Operations Lead",
+      "id": "7778978",
+      "title": "Senior Engineer - Business Systems (Integrations)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5171200008",
-      "title": "Partner Commercial Programs Lead",
+      "id": "7779013",
+      "title": "Senior Engineer - GTM Tech",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5188391008",
-      "title": "Partner Enablement Lead, System Integrators",
+      "id": "7557673",
+      "title": "Senior Engineer, Internal Engineering",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5164616008",
-      "title": "Partner Manager DACH/CEE (AI Boutiques)",
+      "id": "7484841",
+      "title": "Senior Engineer, Netsuite",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5118191008",
-      "title": "Partner Marketing Lead - EMEA",
+      "id": "7228531",
+      "title": "Senior Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5164597008",
-      "title": "Partner Operations Manager, Recruitment & Activation",
+      "id": "7227836",
+      "title": "Senior Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5171950008",
-      "title": "Partner Sales Manager, Systems Integrators",
+      "id": "6582052",
+      "title": "Senior Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4950664008",
-      "title": "Partner Solutions Architect, Applied AI",
+      "id": "7687359",
+      "title": "Senior Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5169103008",
-      "title": "People Legal Specialist",
+      "id": "7698317",
+      "title": "Senior Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5170235008",
-      "title": "People Operations Lead",
+      "id": "7490900",
+      "title": "Senior/ Enterprise Account Executive - Strategic Account",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4020350008",
-      "title": "Performance Engineer",
+      "id": "7550357",
+      "title": "Senior Financial Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4926227008",
-      "title": "Performance Engineer, GPU",
+      "id": "7767289",
+      "title": "Senior Financial Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4929689008",
-      "title": "Platform Hardware Security",
+      "id": "7711453",
+      "title": "Senior IRM Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5185574008",
-      "title": "Policy Analyst, LATAM",
+      "id": "7769177",
+      "title": "Senior IRM Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5156326008",
-      "title": "Policy Design Manager, Age-Appropriate Design",
+      "id": "7194687",
+      "title": "Senior Java Software Engineer, Client Libraries",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5140226008",
-      "title": "Policy Manager, Chemical Weapons and High Yield Explosives",
+      "id": "7616248",
+      "title": "Senior Lead Engineer, Code Generation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4949108008",
-      "title": "Privacy Research Engineer, Safeguards",
+      "id": "7616246",
+      "title": "Senior Lead Engineer, Code Generation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5198262008",
-      "title": "Procurement Business Partner, EMEA Operations",
+      "id": "7613565",
+      "title": "Senior Lead Engineer, Observability",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5191775008",
-      "title": "Product Counsel, Claude Platform ",
+      "id": "7723638",
+      "title": "Senior Engineering Manager, Storage Execution (RSS)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5104689008",
-      "title": "Product Designer, Claude Code",
+      "id": "7760217",
+      "title": "Senior Manager, Business Operations",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5123082008",
-      "title": "Product Management, Research",
+      "id": "7484821",
+      "title": "Senior Manager, Finance Technology",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5181852008",
-      "title": "Product Manager, API Growth",
+      "id": "7835609",
+      "title": "Senior Manager, HR Compliance - Americas",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4985920008",
-      "title": "Product Manager, Claude Code",
+      "id": "7673696",
+      "title": "Senior Manager, Marketing",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5127559008",
-      "title": "Product Manager, Consumer",
+      "id": "7527949",
+      "title": "Senior Manager, Martech Transformation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153773008",
-      "title": "Product Manager, Monetization",
+      "id": "7736164",
+      "title": "Senior Manager, Revenue",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153924008",
-      "title": "Product Manager, Multi-Cloud Growth - Google",
+      "id": "7760228",
+      "title": "Senior Manager, Strategic Finance",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5198991008",
-      "title": "Product Marketing Lead, Claude Platform - Cloud",
+      "id": "7590145",
+      "title": "Senior Manager, Strategy & Planning",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5186811008",
-      "title": "Product Support Manager",
+      "id": "7683484",
+      "title": "Senior Partner Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5189011008",
-      "title": "Product Support Manager (Dublin)",
+      "id": "7700740",
+      "title": "Senior Partner Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4979585008",
-      "title": "Product Support Specialist",
+      "id": "6697542",
+      "title": "Senior Partner Specialist - Global System Integrators",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5138042008",
-      "title": "Product Support Specialist",
+      "id": "7409331",
+      "title": "Senior Pre-Sales Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5186852008",
-      "title": "Product Support Specialist (Singapore)",
+      "id": "7113803",
+      "title": "Senior Product Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5186965008",
-      "title": "Product Support Specialist (Singapore - Weekend Coverage)",
+      "id": "7523959",
+      "title": "Senior Product Manager, Account Protection",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5102171008",
-      "title": "Program Manager, Student Outreach",
+      "id": "7705474",
+      "title": "Senior Product Manager - IT Go-to-Market AI",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5197601008",
-      "title": "Programme Manager, Partner Delivery",
+      "id": "7388900",
+      "title": "Senior Product Manager, Python Developer Experience",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194302008",
-      "title": "Program Operations Manager, Human Data",
+      "id": "7378931",
+      "title": "Senior Product Manager, Python Developer Experience",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5107121008",
-      "title": "Prompt Engineer, Agent Prompts & Evals",
+      "id": "7851168",
+      "title": "Senior Product Manager, Replication & Storage Engines",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5161113008",
-      "title": "Real Estate Occupancy Planner",
+      "id": "7851166",
+      "title": "Senior Product Manager, Replication & Storage Engines",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5106199008",
-      "title": "Real Estate Portfolio Manager",
+      "id": "7651513",
+      "title": "Senior Product Manager, Security",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5041174008",
-      "title": "Recruiting Coordinator [contract]",
+      "id": "7554555",
+      "title": "Senior Product Manager, Security",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5018472008",
-      "title": "Research Economist, Economic Research",
+      "id": "7793612",
+      "title": "Senior Product Security Engineer, Cloud",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5125083008",
-      "title": "Research Engineer, AI Observability",
+      "id": "7484912",
+      "title": "Senior Product Security Engineer, Server",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5025624008",
-      "title": "Research Engineer, Cybersecurity Reinforcement Learning",
+      "id": "7740208",
+      "title": "Senior Program Manager, Public Sector Compliance",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4669581008",
-      "title": "Research Engineer, Discovery",
+      "id": "7742875",
+      "title": "Senior Python Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5071132008",
-      "title": "Research Engineer, Economic Research",
+      "id": "7742877",
+      "title": "Senior Python Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4951064008",
-      "title": "Research Engineer, Environment Scaling",
+      "id": "7736201",
+      "title": "Senior Recruiter",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5067100008",
-      "title": "Research Engineer,  Frontier Red Team (Autonomy)",
+      "id": "7832984",
+      "title": "Senior Recruiter, Contract",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4980430008",
-      "title": "Research Engineer, Interpretability",
+      "id": "7604302",
+      "title": "Senior Research Scientist",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5115935008",
-      "title": "Research Engineer, Machine Learning (Reinforcement Learning)",
+      "id": "7365646",
+      "title": "Senior Research Scientist, Voyage AI",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4613568008",
-      "title": "Research Engineer, Machine Learning (Reinforcement Learning) ",
+      "id": "7779026",
+      "title": "Senior Salesforce Administrator",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5198074008",
-      "title": "Research Engineer, Machine Learning (RL Velocity)",
+      "id": "7716912",
+      "title": "Senior Sales Operations Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5198108008",
-      "title": "Research Engineer, Machine Learning (RL Velocity)",
+      "id": "7727873",
+      "title": "Senior Site Reliability Engineer,  Fleet Management",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5160330008",
-      "title": "Research Engineer, Performance RL",
+      "id": "7581876",
+      "title": "Software Engineer 3",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5119713008",
-      "title": "Research Engineer, Pretraining",
+      "id": "7648922",
+      "title": "Senior Software Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4938432008",
-      "title": "Research Engineer, Pretraining Scaling",
+      "id": "7816572",
+      "title": "Senior Software Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4938436008",
-      "title": "Research Engineer, Pretraining Scaling - London",
+      "id": "7590644",
+      "title": "Senior Software Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5112018008",
-      "title": "Research Engineer, Production Model Post-Training",
+      "id": "7736191",
+      "title": "Senior Software Engineer, Atlas Clusters",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4613592008",
-      "title": "Research Engineer, Production Model Post-Training",
+      "id": "7588895",
+      "title": "Senior Software Engineer, Atlas Clusters",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5074815008",
-      "title": "Research Engineer/Research Scientist, Audio",
+      "id": "7644270",
+      "title": "Senior Software Engineer, Atlas Clusters Security",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5135168008",
-      "title": "Research Engineer / Research Scientist, Pre-training",
+      "id": "7744398",
+      "title": "Senior Software Engineer, Atlas Stream Processing",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4616971008",
-      "title": "Research Engineer/Research Scientist, Pre-training",
+      "id": "7378959",
+      "title": "Senior Software Engineer, C2C Services",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4951814008",
-      "title": " Research Engineer / Research Scientist, Tokens",
+      "id": "7695616",
+      "title": "Senior Software Engineer, Customer Observability",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5074217008",
-      "title": "Research Engineer / Research Scientist, Vision",
+      "id": "7449831",
+      "title": "Senior Software Engineer, Data Migration & Code Generation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5024831008",
-      "title": "Research Engineer, Reward Models Platform",
+      "id": "7449128",
+      "title": "Senior Software Engineer, Data Migration & Code Generation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5197337008",
-      "title": "Research Engineer, RL Infrastructure and Reliability (Knowledge Work)",
+      "id": "7765523",
+      "title": "Senior Software Engineer, DevTools",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5191785008",
-      "title": "Research Engineer, Safeguards Labs",
+      "id": "7392902",
+      "title": "Senior Software Engineer, Forward Deployed AI Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5126127008",
-      "title": "Research Engineer, Science of Scaling",
+      "id": "7590735",
+      "title": "Senior Software Engineer, Forward Deployed AI Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4631822008",
-      "title": "Research Engineer / Scientist, Alignment Science",
+      "id": "7650472",
+      "title": "Senior Software Engineer - Frontend",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4610158008",
-      "title": "Research Engineer / Scientist, Alignment Science - London",
+      "id": "7467701",
+      "title": "Senior Software Engineer, Inference Platform",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5076477008",
-      "title": "Research Engineer / Scientist, Frontier Red Team (Cyber)",
+      "id": "7714036",
+      "title": "Senior Software Engineer, PHP",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5076606008",
-      "title": "Research Engineer / Scientist, Societal Impacts",
+      "id": "7484657",
+      "title": "Senior Software Engineer, Query Execution",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5061517008",
-      "title": "Research Engineer, Universes",
+      "id": "7833626",
+      "title": "Senior Software Engineer - Query Integration",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4946308008",
-      "title": "Research Engineer, Virtual Collaborator (Cowork)",
+      "id": "7833628",
+      "title": "Senior Software Engineer - Query Integration",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5139654008",
-      "title": "Research Lead, Training Insights",
+      "id": "7653008",
+      "title": "Senior Software Engineer, Server Networking Security (Rust)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5188237008",
-      "title": "Research Operations, Discovery",
+      "id": "7815679",
+      "title": "Senior Software Engineer, Server Security",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5154112008",
-      "title": "Research Operations, Economic Research",
+      "id": "7815677",
+      "title": "Senior Software Engineer, Server Security",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5097067008",
-      "title": "Research Product Manager, Model Behaviors",
+      "id": "7806547",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5103788008",
-      "title": "Research Scientist, Frontier Red Team (Emerging Risks)",
+      "id": "7593532",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4980427008",
-      "title": "Research Scientist, Interpretability",
+      "id": "7372171",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5076616008",
-      "title": "Research Scientist, Societal Impacts",
+      "id": "7759201",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5199633008",
-      "title": "Revenue Strategy & Operations",
+      "id": "7581417",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5189196008",
-      "title": "Revenue Strategy & Operations Lead",
+      "id": "7748767",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5016171008",
-      "title": "Revenue Strategy & Operations Lead, Japan",
+      "id": "7595025",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5108841008",
-      "title": "Safeguards Analyst, Account Abuse",
+      "id": "7721906",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5156333008",
-      "title": "Safeguards Analyst, Human Exploitation & Abuse",
+      "id": "7560436",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5137183008",
-      "title": "Safeguards Enforcement Analyst, Safety Evaluations",
+      "id": "7157100",
+      "title": "Senior Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5174857008",
-      "title": "Safeguards Policy Analyst, Fraud & Scams",
+      "id": "7759585",
+      "title": "Senior Solutions Architect (Pre-Sales)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5079188008",
-      "title": "Sales Director, Enterprise ",
+      "id": "7368165",
+      "title": "Senior Solutions Architect (Pre-Sales)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5075070008",
-      "title": "Salesforce Administrator",
+      "id": "7656545",
+      "title": "Senior Specialist 2, Accounting",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5191332008",
-      "title": "Sales Strategy & Operational Excellence Lead",
+      "id": "7736184",
+      "title": "Senior Specialist 2, Revenue",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5182887008",
-      "title": "Scaled Enterprise Account Executive, Industries",
+      "id": "7704173",
+      "title": "Senior Staff Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4982193008",
-      "title": "Security Engineer, Detection & Response",
+      "id": "7613559",
+      "title": "Senior Staff Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5135098008",
-      "title": "Security Engineer Lead, Corporate Security",
+      "id": "7588555",
+      "title": "Senior Staff Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5105509008",
-      "title": "Security Engineer, Offensive Security",
+      "id": "7678147",
+      "title": "Senior Staff Engineer, AMP",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5195705008",
-      "title": "Security Engineer - Threat Intel",
+      "id": "7617019",
+      "title": "Senior Staff Engineer, AMP",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153564008",
-      "title": "Security Labs Engineer",
+      "id": "7672820",
+      "title": "Senior Staff Engineer, MongoDB Developer Productivity",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4595463008",
-      "title": "Security Software Engineer, Detection & Response Platform",
+      "id": "7672822",
+      "title": "Senior Staff Engineer, MongoDB Developer Productivity",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5123587008",
-      "title": "Security Technology Deployment Specialist ",
+      "id": "7778985",
+      "title": "Senior Staff Engineer, Quote-to-Cash",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5102259008",
-      "title": "Segment Marketing Manager, Financial Services & Insurance",
+      "id": "7644002",
+      "title": "Senior Staff Enterprise Architect, Data",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5055794008",
-      "title": "Segment Marketing Manager, Strategic Accounts",
+      "id": "7643999",
+      "title": "Senior Staff Enterprise Architect, Q2C & Monetization",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5082312008",
-      "title": "Senior Accounts Receivable Specialist",
+      "id": "7340968",
+      "title": "Senior Staff Technical Program Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4991194008",
-      "title": "Senior Business Systems Analyst, Finance Systems",
+      "id": "7441440",
+      "title": "Senior Strategy & Operations Lead, ITPMO",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5128936008",
-      "title": "Senior Data Center Capacity Delivery Manager",
+      "id": "7588631",
+      "title": "Senior Technical Program Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5131038008",
-      "title": "Staff Engineer, Datacenter Server Lifecycle",
+      "id": "7523888",
+      "title": "Senior Technical Program Manager, App Modernization",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5098565008",
-      "title": "Senior Full Stack Engineer, Education",
+      "id": "7683696",
+      "title": "Senior Technical Program Manager, App Modernization",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5076929008",
-      "title": "Senior International Payroll Specialist",
+      "id": "7672303",
+      "title": "Senior Technical Program Manager Atlas Clusters",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5197549008",
-      "title": "Senior Manager, Accounts Receivable, Credit & Collections",
+      "id": "7640020",
+      "title": "Senior Vice President, Solutions Architecture",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5196230008",
-      "title": "Senior Manager, Infrastructure Capex Accounting",
+      "id": "7821316",
+      "title": "Site Reliability Engineer 3",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5194021008",
-      "title": "Senior Manager, Infrastructure Lease Accounting",
+      "id": "7821318",
+      "title": "Site Reliability Engineer 3",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5076754008",
-      "title": "Senior Manager, Revenue Accounting",
+      "id": "7727964",
+      "title": "Site Reliability Engineer (Senior or Staff), Atlas",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5171946008",
-      "title": "Senior Manager, Revenue Accounting (New Product Introduction)",
+      "id": "7758610",
+      "title": "Site Reliability Engineer (Senior or Staff), Infrastructure Security",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5125290008",
-      "title": "Senior Manager, Revenue Accounting – Order Management & Billing",
+      "id": "7793634",
+      "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5077106008",
-      "title": "Senior Manager, Technical Revenue Accounting",
+      "id": "7743366",
+      "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5100626008",
-      "title": "Senior Marketing Events Manager, Partners",
+      "id": "6984814",
+      "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS) ",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5024835008",
-      "title": "Senior Research Scientist, Reward Models",
+      "id": "7613695",
+      "title": "Software Engineer 2",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5197714008",
-      "title": "Senior Security Software Engineer, Linux Kernel Security - Nodes & Sensors",
+      "id": "7381061",
+      "title": "Software Engineer 2",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5174743008",
-      "title": "Senior Software Engineer, Full-stack",
+      "id": "7744404",
+      "title": "Software Engineer 3",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4641822008",
-      "title": "Senior Software Engineer, Inference",
+      "id": "7779598",
+      "title": "Software Engineer 3",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5157844008",
-      "title": "Senior Software Engineer, Platform",
+      "id": "7597723",
+      "title": "Software Engineer 3",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4981828008",
-      "title": "Senior+ Software Engineer, Research Tools",
+      "id": "7719763",
+      "title": "Software Engineer 3",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5022845008",
-      "title": "Senior Software Security Engineer",
+      "id": "7579042",
+      "title": "Software Engineer 3, Atlas Clusters",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4887959008",
-      "title": "Senior Software Security Engineer",
+      "id": "7551186",
+      "title": " Software Engineer 3, Atlas Data Federation Customer Experience",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5134895008",
-      "title": "Senior Staff Software Engineer, API",
+      "id": "7523920",
+      "title": "Software Engineer 3, Atlas Search Systems",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5172245008",
-      "title": "Senior / Staff+ Software Engineer, Voice Platform",
+      "id": "7662950",
+      "title": "Software Engineer 3, Atlas Search Systems",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5178467008",
-      "title": "Senior Treasury Analyst",
+      "id": "7523911",
+      "title": "Software Engineer 3, Atlas Vector Search",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4931782008",
-      "title": "SMB Account Executive, Industries",
+      "id": "7736144",
+      "title": "Software Engineer 3, Cloud Alerts Platform",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5123039008",
-      "title": "Software Engineer, Account Abuse",
+      "id": "7717350",
+      "title": "Software Engineer 3, Customer Observability",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4899511008",
-      "title": "Software Engineer, Android",
+      "id": "7745890",
+      "title": "Software Engineer 3, DevTools",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5168829008",
-      "title": "Software Engineer, Cloud Inference Safeguards",
+      "id": "7766302",
+      "title": "Software Engineer 3, DevTools",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5108982008",
-      "title": "Software Engineer, Compute Efficiency",
+      "id": "7581867",
+      "title": "Software Engineer 3, Private Cloud Backup",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5063007008",
-      "title": "Software Engineer, Cybersecurity Products",
+      "id": "7699932",
+      "title": "software engineer 3, query execution",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4980420008",
-      "title": "Software Engineer, Desktop",
+      "id": "7816135",
+      "title": "Software Engineer 3 - Query Optimization",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5109273008",
-      "title": "Software Engineer, Human Data Interface",
+      "id": "7235322",
+      "title": "Software Engineer 3, Search Systems Replication & Routing",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5111745008",
-      "title": "Software Engineer, Inference Deployment",
+      "id": "7411027",
+      "title": "Software Engineer, Atlas Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4572744008",
-      "title": "Software Engineer, iOS",
+      "id": "7311708",
+      "title": "Software Engineer, Code Generation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5191226008",
-      "title": "Software Engineer, Research Data Platform",
+      "id": "7311666",
+      "title": "Software Engineer, Code Generation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4951844008",
-      "title": "Software Engineer, Safeguards",
+      "id": "7571255",
+      "title": "Software Engineer (Internal Query Engine Testing Tools), Query",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5191433008",
-      "title": "Software Engineer, Safeguards Foundations (Internal Tooling)",
+      "id": "7672662",
+      "title": "Software Engineer, Networking & Observability",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5074908008",
-      "title": "Software Engineer, Safeguards Infrastructure ",
+      "id": "7621674",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5083039008",
-      "title": "Software Engineer, Sandboxing",
+      "id": "7795864",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5025591008",
-      "title": "Software Engineer, Sandboxing (Systems)",
+      "id": "7820448",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4673416008",
-      "title": "Software Engineer, UI Platform",
+      "id": "7721912",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5126080008",
-      "title": "Solutions Architect, National Security",
+      "id": "7815441",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5166178008",
-      "title": "Sr. Payroll Manager",
+      "id": "7815442",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5152348008",
-      "title": "Sr. Software Engineer, Inference",
+      "id": "7815443",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4593216008",
-      "title": "Staff Research Engineer, Discovery Team",
+      "id": "7815444",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5113224008",
-      "title": "Staff / Senior Software Engineer, AI Reliability",
+      "id": "7815447",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5107466008",
-      "title": "Staff / Senior Software Engineer, Cloud Inference",
+      "id": "7610086",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5126702008",
-      "title": "Staff / Senior Software Engineer, Compute Capacity",
+      "id": "7773483",
+      "title": "Solutions Architect",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4951696008",
-      "title": "Staff / Senior Software Engineer, Inference",
+      "id": "7448861",
+      "title": "Solutions Architect, German or French Speaker",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5101173008",
-      "title": "Staff Software Engineer, AI Reliability Engineering",
+      "id": "7557618",
+      "title": "Solutions Architect, German speaker",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5101169008",
-      "title": "Staff Software Engineer, AI Reliability Engineering",
+      "id": "7558720",
+      "title": "Specialist, Sales Compensation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5174755008",
-      "title": "Staff+ Software Engineer, Backend",
+      "id": "7779543",
+      "title": "Sr. Manager, Startup & Ventures Marketing",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5146298008",
-      "title": "Staff Software Engineer, Billing Platform",
+      "id": "7659981",
+      "title": "Sr. Startup Program Operations Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5073998008",
-      "title": " Staff Software Engineer, Continuous Integration",
+      "id": "7831638",
+      "title": "Staff Developer Advocate",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5151069008",
-      "title": "Staff+ Software Engineer, Databases",
+      "id": "7590587",
+      "title": "Staff Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5174747008",
-      "title": "Staff+ Software Engineer, Full-stack",
+      "id": "7583617",
+      "title": "Staff Engineer, AMP",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5150472008",
-      "title": "Staff Software Engineer, Inference",
+      "id": "7773411",
+      "title": "Staff Engineer, AMP",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5097742008",
-      "title": "Staff Software Engineer, Inference",
+      "id": "7210817",
+      "title": "Staff Engineer, Code Generation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5102440008",
-      "title": "Staff+ Software Engineer, Observability",
+      "id": "7210819",
+      "title": "Staff Engineer, Code Generation",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5139910008",
-      "title": "Staff+ Software Engineer, Observability",
+      "id": "7523867",
+      "title": "Staff Engineer, Data Migration",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5157847008",
-      "title": "Staff+ Software Engineer, Platform",
+      "id": "7523869",
+      "title": "Staff Engineer, Data Migration",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4915842008",
-      "title": "Staff Software Engineer, Systems",
+      "id": "6929125",
+      "title": "Staff Engineer, Distributed Systems",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5108817008",
-      "title": "Staff+ Software Engineer, Systems",
+      "id": "7613587",
+      "title": "Staff Engineer, Observability",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5120512008",
-      "title": "Staff+ Software Security Engineer",
+      "id": "7094786",
+      "title": "Staff Engineer, Search Systems",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4978280008",
-      "title": "Startup Account Executive - UKI",
+      "id": "7781724",
+      "title": "Staff Product Manager - Internal AI",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5168482008",
-      "title": "Strategic Account Executive, Canada Financial Services - FSI",
+      "id": "7526003",
+      "title": "Staff Product Marketing Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5075093008",
-      "title": "Strategic Account Executive, Digital Native Business & Cybersecurity",
+      "id": "7280132",
+      "title": "Staff Research Scientist, Voyage AI",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5176036008",
-      "title": "Strategic Account Executive, GSI ",
+      "id": "7727920",
+      "title": "Staff Site Reliability Engineer, Fabric",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5074997008",
-      "title": "Strategic Account Executive, Healthcare",
+      "id": "7727923",
+      "title": "Staff Site Reliability Engineer, Fabric",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4986288008",
-      "title": "Strategic Account Executive, Insurance",
+      "id": "7411430",
+      "title": "Staff Software Engineer, Atlas Growth",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5041290008",
-      "title": "Strategic Account Executive, Investment Banking & Capital Markets",
+      "id": "7264736",
+      "title": "Staff Software Engineer, Networking & Observability",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5074995008",
-      "title": "Strategic Account Executive, Life Sciences",
+      "id": "7264738",
+      "title": "Staff Software Engineer, Networking & Observability",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5041299008",
-      "title": "Strategic Account Executive, Retail & Commercial Banking",
+      "id": "7696228",
+      "title": "Staff Software Engineer, Server Networking Security (Rust)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5109135008",
-      "title": "Strategic Account Executive, Tech",
+      "id": "7739531",
+      "title": "Staff Technical Program Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5171124008",
-      "title": "Strategic Customer Success Manager",
+      "id": "7465124",
+      "title": "Staff Technical Program Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5169670008",
-      "title": "Strategic Deals Lead, Compute & Infrastructure",
+      "id": "7493634",
+      "title": "Staff Technical Program Manager, GTM Tech",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "4979834008",
-      "title": "Strategic Growth Account Executive, Startups",
+      "id": "7695474",
+      "title": "Strategic Finance Analyst",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5175013008",
-      "title": "Strategic Operations Manager, Claude Marketplace",
+      "id": "7650671",
+      "title": "Tax Provision Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5080931008",
-      "title": "Support Operations Analyst",
+      "id": "7650199",
+      "title": "Team Lead, Site Reliability Engineering - Fleet Management",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5122119008",
-      "title": "Support Operations Specialist, AI Agent Management",
+      "id": "7743304",
+      "title": "Team Lead, Site Reliability Engineering - Storage Layer Service",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5066997008",
-      "title": "Technical CBRN-E  Threat Investigator ",
+      "id": "7818635",
+      "title": "Team Lead, Site Reliability Engineering - Storage Layer Service",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5066995008",
-      "title": "Technical Cyber Threat Investigator ",
+      "id": "7555631",
+      "title": "Technical Program Manager, Site Reliability Engineering (Senior or Staff)",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5153761008",
-      "title": "Technical Deployment Lead",
+      "id": "7746718",
+      "title": "Technical Services Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5017903008",
-      "title": "Technical Deployment Lead",
+      "id": "7566221",
+      "title": "Technical Services Engineer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5185501008",
-      "title": "Technical Enablement Lead, Claude Code",
+      "id": "7460019",
+      "title": "Technical Services Engineer, Infrastructure - Weekend",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5066981008",
-      "title": "Technical Policy Manager, Cyber Harms ",
+      "id": "7746616",
+      "title": "Technical Services Engineer, Named Accounts",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5187208008",
-      "title": "Technical Program Management, Alignment ",
+      "id": "7368213",
+      "title": "Technical Services Engineer- Weekends",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5138044008",
-      "title": "Technical Program Manager, Compute ",
+      "id": "7743754",
+      "title": "Technical Writer",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5062968008",
-      "title": "Technical Program Manager, Consumer Engineering",
+      "id": "7775023",
+      "title": "Treasury Manager - Operations",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5107763008",
-      "title": "Technical Program Manager, Inference Performance",
+      "id": "7113254",
+      "title": "Turkish Speaking Enterprise Account Executive",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5111783008",
-      "title": "Technical Program Manager, Infrastructure",
+      "id": "7782383",
+      "title": "Workforce Operations Manager",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 1
     },
     {
-      "id": "5108854008",
-      "title": "Technical Program Manager, Marketing Technology",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5108695008",
-      "title": "Technical Program Manager, Safeguards (Infrastructure & Evals)",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "4989788008",
-      "title": "Technical Program Manager, Security",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5123769008",
-      "title": "Technical Program Manager, Security (Coordinated Vulnerability Disclosure)",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "4935314008",
-      "title": "Technical Recruiter, Specialized",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5197597008",
-      "title": "Technical Specialist, Claude Code",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5074937008",
-      "title": "Threat Collections Engineer",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "4720576008",
-      "title": "TPU Kernel Engineer",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5110558008",
-      "title": "Trade Compliance Counsel",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5099080008",
-      "title": "Transaction Manager",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5154345008",
-      "title": "Transaction Principal",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5170084008",
-      "title": "Transaction Principal",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5149802008",
-      "title": "Transformative AI Research Economist, Economic Research ",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5026097008",
-      "title": "UI Software Engineer, Claude.ai Consumer Product ",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5156596008",
-      "title": "Vendor and Contract Manager, Safeguards",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5114845008",
-      "title": "Video Director, Product Launches",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5194810008",
-      "title": "Workday Business Systems Analyst, HCM ",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-29",
-      "lifetimeDays": 1
-    },
-    {
-      "id": "5196153008",
-      "title": "Partner Success Manager",
+      "id": "7853760",
+      "title": "Enterprise Account Executive, Growth",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     },
     {
-      "id": "5198842008",
-      "title": "Productivity Engineer",
+      "id": "7860066",
+      "title": " Manager, Technology Recruiting ",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     },
     {
-      "id": "5201506008",
-      "title": "Regulatory Counsel, Content & Frontier AI Regulation",
+      "id": "7858450",
+      "title": "Principal Solutions Architect (Application modernisation)",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     },
     {
-      "id": "5198255008",
-      "title": "Research Engineer, Model Evaluations",
+      "id": "7759971",
+      "title": "Senior Commercial Growth Account Executive, Acquisition ( Bahasa Speaker)",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     },
     {
-      "id": "5199629008",
-      "title": "Revenue Strategy & Operations Lead",
+      "id": "7858876",
+      "title": "Senior Director, HR Business Partnering",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     },
     {
-      "id": "5160128008",
-      "title": "Sales Strategy and Ops, EMEA",
+      "id": "7826955",
+      "title": "Senior Investor Relations Analyst",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     },
     {
-      "id": "5139038008",
-      "title": "Staff Engineer, Datacenter Server Lifecycle",
+      "id": "7827555",
+      "title": "Senior Manager, Global Deal Strategy",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     },
     {
-      "id": "5203868008",
-      "title": "Staff Software Engineer, Node Infra",
+      "id": "7766197",
+      "title": "Senior Manager, Marketplace Operations",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     },
     {
-      "id": "5201264008",
-      "title": "Technical Program Manager, Cloud Inference",
+      "id": "7784006",
+      "title": "Senior Partner Specialist",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     },
     {
-      "id": "5200856008",
-      "title": "Workplace Experience, Operations Manager",
+      "id": "7851080",
+      "title": "Senior Product Manager",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7851083",
+      "title": "Senior Product Manager",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7807748",
+      "title": "Senior Specialist, Revenue",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "lifetimeDays": 0
+    },
+    {
+      "id": "7838860",
+      "title": "Staff Developer Advocate",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29",
       "lifetimeDays": 0
     }
   ],
   "summary": {
-    "withdrawnCount": 15,
-    "stillOpenCount": 446,
+    "withdrawnCount": 10,
+    "stillOpenCount": 432,
     "bucketCounts": {
-      "0–14d (likely withdrawn)": 15
+      "0–14d (likely withdrawn)": 10
     }
   }
 }

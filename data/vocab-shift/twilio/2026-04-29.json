@@ -1,0 +1,691 @@
+{
+  "slug": "twilio",
+  "computedAt": "2026-04-29T17:00:38.263Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 145,
+      "topUnigrams": [
+        [
+          "software",
+          22
+        ],
+        [
+          "account",
+          21
+        ],
+        [
+          "executive",
+          20
+        ],
+        [
+          "strategic",
+          14
+        ],
+        [
+          "product",
+          13
+        ],
+        [
+          "sales",
+          11
+        ],
+        [
+          "business",
+          9
+        ],
+        [
+          "analyst",
+          9
+        ],
+        [
+          "technical",
+          9
+        ],
+        [
+          "security",
+          8
+        ],
+        [
+          "specialist",
+          8
+        ],
+        [
+          "operations",
+          7
+        ],
+        [
+          "machine",
+          6
+        ],
+        [
+          "learning",
+          6
+        ],
+        [
+          "support",
+          6
+        ],
+        [
+          "representative",
+          5
+        ],
+        [
+          "partner",
+          5
+        ],
+        [
+          "development",
+          5
+        ],
+        [
+          "data",
+          5
+        ],
+        [
+          "systems",
+          4
+        ],
+        [
+          "platform",
+          4
+        ],
+        [
+          "management",
+          4
+        ],
+        [
+          "solutions",
+          4
+        ],
+        [
+          "administrator",
+          4
+        ],
+        [
+          "l4",
+          4
+        ],
+        [
+          "new",
+          3
+        ],
+        [
+          "developer",
+          3
+        ],
+        [
+          "digital",
+          3
+        ],
+        [
+          "marketing",
+          3
+        ],
+        [
+          "global",
+          3
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          20
+        ],
+        [
+          "strategic account",
+          13
+        ],
+        [
+          "machine learning",
+          6
+        ],
+        [
+          "operations specialist",
+          4
+        ],
+        [
+          "new business",
+          3
+        ],
+        [
+          "business systems",
+          3
+        ],
+        [
+          "systems analyst",
+          3
+        ],
+        [
+          "digital sales",
+          3
+        ],
+        [
+          "sales representative",
+          3
+        ],
+        [
+          "sales development",
+          3
+        ],
+        [
+          "technical program",
+          3
+        ],
+        [
+          "software l4",
+          3
+        ],
+        [
+          "executive german",
+          2
+        ],
+        [
+          "german speaking",
+          2
+        ],
+        [
+          "cloud software",
+          2
+        ],
+        [
+          "counsel commercial",
+          2
+        ],
+        [
+          "product management",
+          2
+        ],
+        [
+          "enterprise account",
+          2
+        ],
+        [
+          "june 22nd",
+          2
+        ],
+        [
+          "22nd start",
+          2
+        ],
+        [
+          "start 12",
+          2
+        ],
+        [
+          "12 weeks",
+          2
+        ],
+        [
+          "personalized support",
+          2
+        ],
+        [
+          "sales support",
+          2
+        ],
+        [
+          "business account",
+          2
+        ],
+        [
+          "onboarding operations",
+          2
+        ],
+        [
+          "partner alliance",
+          2
+        ],
+        [
+          "partner solutions",
+          2
+        ],
+        [
+          "solutions architect",
+          2
+        ],
+        [
+          "program management",
+          2
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 146,
+      "topUnigrams": [
+        [
+          "software",
+          23
+        ],
+        [
+          "account",
+          22
+        ],
+        [
+          "executive",
+          21
+        ],
+        [
+          "strategic",
+          15
+        ],
+        [
+          "product",
+          12
+        ],
+        [
+          "sales",
+          11
+        ],
+        [
+          "specialist",
+          9
+        ],
+        [
+          "technical",
+          9
+        ],
+        [
+          "business",
+          8
+        ],
+        [
+          "analyst",
+          8
+        ],
+        [
+          "security",
+          8
+        ],
+        [
+          "operations",
+          8
+        ],
+        [
+          "machine",
+          6
+        ],
+        [
+          "learning",
+          6
+        ],
+        [
+          "support",
+          6
+        ],
+        [
+          "representative",
+          5
+        ],
+        [
+          "partner",
+          5
+        ],
+        [
+          "development",
+          5
+        ],
+        [
+          "data",
+          5
+        ],
+        [
+          "platform",
+          4
+        ],
+        [
+          "management",
+          4
+        ],
+        [
+          "solutions",
+          4
+        ],
+        [
+          "administrator",
+          4
+        ],
+        [
+          "video",
+          4
+        ],
+        [
+          "l4",
+          4
+        ],
+        [
+          "german",
+          3
+        ],
+        [
+          "speaking",
+          3
+        ],
+        [
+          "new",
+          3
+        ],
+        [
+          "developer",
+          3
+        ],
+        [
+          "digital",
+          3
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          21
+        ],
+        [
+          "strategic account",
+          14
+        ],
+        [
+          "machine learning",
+          6
+        ],
+        [
+          "operations specialist",
+          5
+        ],
+        [
+          "executive german",
+          3
+        ],
+        [
+          "german speaking",
+          3
+        ],
+        [
+          "new business",
+          3
+        ],
+        [
+          "digital sales",
+          3
+        ],
+        [
+          "sales representative",
+          3
+        ],
+        [
+          "sales development",
+          3
+        ],
+        [
+          "technical program",
+          3
+        ],
+        [
+          "software l4",
+          3
+        ],
+        [
+          "cloud software",
+          2
+        ],
+        [
+          "counsel commercial",
+          2
+        ],
+        [
+          "product management",
+          2
+        ],
+        [
+          "enterprise account",
+          2
+        ],
+        [
+          "june 22nd",
+          2
+        ],
+        [
+          "22nd start",
+          2
+        ],
+        [
+          "start 12",
+          2
+        ],
+        [
+          "12 weeks",
+          2
+        ],
+        [
+          "personalized support",
+          2
+        ],
+        [
+          "sales support",
+          2
+        ],
+        [
+          "business account",
+          2
+        ],
+        [
+          "onboarding operations",
+          2
+        ],
+        [
+          "partner alliance",
+          2
+        ],
+        [
+          "partner solutions",
+          2
+        ],
+        [
+          "solutions architect",
+          2
+        ],
+        [
+          "program management",
+          2
+        ],
+        [
+          "management research",
+          2
+        ],
+        [
+          "research development",
+          2
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "account executive",
+          "before": 20,
+          "after": 21,
+          "delta": 1
+        },
+        {
+          "term": "executive german",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "german speaking",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "business systems",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "systems analyst",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "operations specialist",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "strategic account",
+          "before": 13,
+          "after": 14,
+          "delta": 1
+        },
+        {
+          "term": "executive new",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "new business",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "analyst relations",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "android p3",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "p3 security",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "security identity",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "cloud software",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "compliance operations",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "counsel commercial",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "delivery project",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "developer advocacy",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "digital sales",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "sales representative",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "representative expansion",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "gtm business",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "business architecture",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "north america",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "america pre-sales",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "pre-sales platform",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "platform specialists",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "product management",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "enablement business",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "business partner",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

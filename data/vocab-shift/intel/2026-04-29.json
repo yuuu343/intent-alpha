@@ -1,0 +1,691 @@
+{
+  "slug": "intel",
+  "computedAt": "2026-04-29T17:00:35.676Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 758,
+      "topUnigrams": [
+        [
+          "design",
+          156
+        ],
+        [
+          "development",
+          82
+        ],
+        [
+          "verification",
+          73
+        ],
+        [
+          "cpu",
+          57
+        ],
+        [
+          "ai",
+          53
+        ],
+        [
+          "software",
+          45
+        ],
+        [
+          "validation",
+          45
+        ],
+        [
+          "soc",
+          44
+        ],
+        [
+          "graduate",
+          39
+        ],
+        [
+          "talent",
+          34
+        ],
+        [
+          "engineering",
+          33
+        ],
+        [
+          "physical",
+          33
+        ],
+        [
+          "integration",
+          29
+        ],
+        [
+          "architect",
+          26
+        ],
+        [
+          "module",
+          26
+        ],
+        [
+          "packaging",
+          25
+        ],
+        [
+          "gpu",
+          24
+        ],
+        [
+          "ip",
+          22
+        ],
+        [
+          "foundry",
+          21
+        ],
+        [
+          "student",
+          21
+        ],
+        [
+          "technician",
+          21
+        ],
+        [
+          "contract",
+          21
+        ],
+        [
+          "systems",
+          20
+        ],
+        [
+          "equipment",
+          20
+        ],
+        [
+          "manufacturing",
+          19
+        ],
+        [
+          "accountant",
+          19
+        ],
+        [
+          "analyst",
+          18
+        ],
+        [
+          "automation",
+          18
+        ],
+        [
+          "power",
+          17
+        ],
+        [
+          "intel",
+          17
+        ]
+      ],
+      "topBigrams": [
+        [
+          "design verification",
+          38
+        ],
+        [
+          "graduate talent",
+          34
+        ],
+        [
+          "physical design",
+          31
+        ],
+        [
+          "software development",
+          14
+        ],
+        [
+          "ip design",
+          12
+        ],
+        [
+          "advanced packaging",
+          11
+        ],
+        [
+          "module equipment",
+          11
+        ],
+        [
+          "pre-silicon verification",
+          10
+        ],
+        [
+          "logic design",
+          10
+        ],
+        [
+          "equipment technician",
+          10
+        ],
+        [
+          "circuit design",
+          9
+        ],
+        [
+          "soc design",
+          9
+        ],
+        [
+          "module development",
+          9
+        ],
+        [
+          "ai frameworks",
+          8
+        ],
+        [
+          "formal verification",
+          8
+        ],
+        [
+          "intel foundry",
+          8
+        ],
+        [
+          "cpu design",
+          8
+        ],
+        [
+          "electrical validation",
+          8
+        ],
+        [
+          "temporary position",
+          8
+        ],
+        [
+          "technician contract",
+          8
+        ],
+        [
+          "ai software",
+          8
+        ],
+        [
+          "process integration",
+          8
+        ],
+        [
+          "rtl design",
+          7
+        ],
+        [
+          "quality reliability",
+          7
+        ],
+        [
+          "systems solutions",
+          7
+        ],
+        [
+          "gpu software",
+          7
+        ],
+        [
+          "student worker",
+          7
+        ],
+        [
+          "functional validation",
+          7
+        ],
+        [
+          "ai soc",
+          7
+        ],
+        [
+          "cpu verification",
+          7
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 761,
+      "topUnigrams": [
+        [
+          "design",
+          167
+        ],
+        [
+          "development",
+          79
+        ],
+        [
+          "verification",
+          74
+        ],
+        [
+          "cpu",
+          59
+        ],
+        [
+          "ai",
+          58
+        ],
+        [
+          "software",
+          50
+        ],
+        [
+          "soc",
+          46
+        ],
+        [
+          "validation",
+          43
+        ],
+        [
+          "graduate",
+          37
+        ],
+        [
+          "talent",
+          33
+        ],
+        [
+          "engineering",
+          32
+        ],
+        [
+          "physical",
+          32
+        ],
+        [
+          "architect",
+          26
+        ],
+        [
+          "integration",
+          26
+        ],
+        [
+          "packaging",
+          25
+        ],
+        [
+          "student",
+          24
+        ],
+        [
+          "ip",
+          23
+        ],
+        [
+          "gpu",
+          22
+        ],
+        [
+          "manufacturing",
+          22
+        ],
+        [
+          "module",
+          20
+        ],
+        [
+          "contract",
+          20
+        ],
+        [
+          "foundry",
+          20
+        ],
+        [
+          "systems",
+          19
+        ],
+        [
+          "accountant",
+          19
+        ],
+        [
+          "technician",
+          18
+        ],
+        [
+          "firmware",
+          18
+        ],
+        [
+          "circuit",
+          17
+        ],
+        [
+          "analog",
+          17
+        ],
+        [
+          "automation",
+          17
+        ],
+        [
+          "power",
+          17
+        ]
+      ],
+      "topBigrams": [
+        [
+          "design verification",
+          39
+        ],
+        [
+          "graduate talent",
+          33
+        ],
+        [
+          "physical design",
+          30
+        ],
+        [
+          "circuit design",
+          17
+        ],
+        [
+          "software development",
+          16
+        ],
+        [
+          "ai software",
+          13
+        ],
+        [
+          "ip design",
+          13
+        ],
+        [
+          "advanced packaging",
+          11
+        ],
+        [
+          "soc design",
+          11
+        ],
+        [
+          "analog circuit",
+          10
+        ],
+        [
+          "pre-silicon verification",
+          9
+        ],
+        [
+          "logic design",
+          9
+        ],
+        [
+          "student worker",
+          9
+        ],
+        [
+          "cpu design",
+          9
+        ],
+        [
+          "formal verification",
+          8
+        ],
+        [
+          "module development",
+          8
+        ],
+        [
+          "functional validation",
+          8
+        ],
+        [
+          "rtl design",
+          7
+        ],
+        [
+          "supply chain",
+          7
+        ],
+        [
+          "layout design",
+          7
+        ],
+        [
+          "quality reliability",
+          7
+        ],
+        [
+          "systems solutions",
+          7
+        ],
+        [
+          "intel foundry",
+          7
+        ],
+        [
+          "ai frameworks",
+          7
+        ],
+        [
+          "electrical validation",
+          7
+        ],
+        [
+          "temporary position",
+          7
+        ],
+        [
+          "process integration",
+          7
+        ],
+        [
+          "ai soc",
+          7
+        ],
+        [
+          "cpu verification",
+          7
+        ],
+        [
+          "mixed signal",
+          6
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "circuit design",
+          "before": 9,
+          "after": 17,
+          "delta": 8
+        },
+        {
+          "term": "analog circuit",
+          "before": 2,
+          "after": 10,
+          "delta": 8
+        },
+        {
+          "term": "module equipment",
+          "before": 11,
+          "after": 6,
+          "delta": -5
+        },
+        {
+          "term": "equipment technician",
+          "before": 10,
+          "after": 5,
+          "delta": -5
+        },
+        {
+          "term": "ai software",
+          "before": 8,
+          "after": 13,
+          "delta": 5
+        },
+        {
+          "term": "engineering fpna",
+          "before": 3,
+          "after": 0,
+          "delta": -3
+        },
+        {
+          "term": "fpna analyst",
+          "before": 3,
+          "after": 0,
+          "delta": -3
+        },
+        {
+          "term": "production line",
+          "before": 0,
+          "after": 3,
+          "delta": 3
+        },
+        {
+          "term": "line coordinator",
+          "before": 0,
+          "after": 3,
+          "delta": 3
+        },
+        {
+          "term": "coordinator technician",
+          "before": 0,
+          "after": 3,
+          "delta": 3
+        },
+        {
+          "term": "software development",
+          "before": 14,
+          "after": 16,
+          "delta": 2
+        },
+        {
+          "term": "supply chain",
+          "before": 5,
+          "after": 7,
+          "delta": 2
+        },
+        {
+          "term": "post-silicon validation",
+          "before": 4,
+          "after": 2,
+          "delta": -2
+        },
+        {
+          "term": "application development",
+          "before": 5,
+          "after": 3,
+          "delta": -2
+        },
+        {
+          "term": "student worker",
+          "before": 7,
+          "after": 9,
+          "delta": 2
+        },
+        {
+          "term": "verification student",
+          "before": 3,
+          "after": 5,
+          "delta": 2
+        },
+        {
+          "term": "soc design",
+          "before": 9,
+          "after": 11,
+          "delta": 2
+        },
+        {
+          "term": "technician contract",
+          "before": 8,
+          "after": 6,
+          "delta": -2
+        },
+        {
+          "term": "cost inventory",
+          "before": 3,
+          "after": 1,
+          "delta": -2
+        },
+        {
+          "term": "layout design",
+          "before": 5,
+          "after": 7,
+          "delta": 2
+        },
+        {
+          "term": "pre-silicon verification",
+          "before": 10,
+          "after": 9,
+          "delta": -1
+        },
+        {
+          "term": "ai frameworks",
+          "before": 8,
+          "after": 7,
+          "delta": -1
+        },
+        {
+          "term": "logic design",
+          "before": 10,
+          "after": 9,
+          "delta": -1
+        },
+        {
+          "term": "dry etch",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "physical design",
+          "before": 31,
+          "after": 30,
+          "delta": -1
+        },
+        {
+          "term": "memory design",
+          "before": 6,
+          "after": 5,
+          "delta": -1
+        },
+        {
+          "term": "packaging flagship",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "flagship curriculum",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "curriculum internship",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "internship program",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        }
+      ]
+    }
+  ]
+}

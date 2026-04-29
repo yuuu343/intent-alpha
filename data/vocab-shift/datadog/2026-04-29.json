@@ -1,0 +1,691 @@
+{
+  "slug": "datadog",
+  "computedAt": "2026-04-29T17:00:35.302Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 429,
+      "topUnigrams": [
+        [
+          "sales",
+          105
+        ],
+        [
+          "executive",
+          101
+        ],
+        [
+          "account",
+          90
+        ],
+        [
+          "enterprise",
+          59
+        ],
+        [
+          "strategic",
+          42
+        ],
+        [
+          "commercial",
+          41
+        ],
+        [
+          "ai",
+          39
+        ],
+        [
+          "product",
+          38
+        ],
+        [
+          "engineering",
+          35
+        ],
+        [
+          "technical",
+          30
+        ],
+        [
+          "customer",
+          25
+        ],
+        [
+          "market",
+          24
+        ],
+        [
+          "partner",
+          24
+        ],
+        [
+          "success",
+          23
+        ],
+        [
+          "security",
+          21
+        ],
+        [
+          "software",
+          21
+        ],
+        [
+          "development",
+          20
+        ],
+        [
+          "ii",
+          17
+        ],
+        [
+          "associate",
+          16
+        ],
+        [
+          "mid",
+          14
+        ],
+        [
+          "support",
+          14
+        ],
+        [
+          "marketing",
+          13
+        ],
+        [
+          "representative",
+          13
+        ],
+        [
+          "accounts",
+          12
+        ],
+        [
+          "solutions",
+          12
+        ],
+        [
+          "emea",
+          11
+        ],
+        [
+          "channels",
+          11
+        ],
+        [
+          "architect",
+          11
+        ],
+        [
+          "business",
+          10
+        ],
+        [
+          "cloud",
+          10
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          77
+        ],
+        [
+          "enterprise sales",
+          46
+        ],
+        [
+          "strategic account",
+          41
+        ],
+        [
+          "customer success",
+          23
+        ],
+        [
+          "commercial account",
+          21
+        ],
+        [
+          "sales executive",
+          21
+        ],
+        [
+          "sales development",
+          17
+        ],
+        [
+          "mid market",
+          14
+        ],
+        [
+          "development representative",
+          13
+        ],
+        [
+          "commercial sales",
+          12
+        ],
+        [
+          "technical support",
+          10
+        ],
+        [
+          "technical account",
+          10
+        ],
+        [
+          "public sector",
+          9
+        ],
+        [
+          "partner channels",
+          9
+        ],
+        [
+          "ai research",
+          8
+        ],
+        [
+          "key accounts",
+          8
+        ],
+        [
+          "market account",
+          8
+        ],
+        [
+          "solutions architect",
+          8
+        ],
+        [
+          "product ii",
+          8
+        ],
+        [
+          "success associate",
+          7
+        ],
+        [
+          "ai platform",
+          7
+        ],
+        [
+          "product marketing",
+          7
+        ],
+        [
+          "sales engineering",
+          6
+        ],
+        [
+          "mid-market sales",
+          6
+        ],
+        [
+          "enterprise customer",
+          6
+        ],
+        [
+          "gtm strategy",
+          6
+        ],
+        [
+          "strategy operations",
+          6
+        ],
+        [
+          "software ai",
+          6
+        ],
+        [
+          "sao paulo",
+          5
+        ],
+        [
+          "executive uki",
+          5
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 431,
+      "topUnigrams": [
+        [
+          "sales",
+          106
+        ],
+        [
+          "executive",
+          100
+        ],
+        [
+          "account",
+          89
+        ],
+        [
+          "enterprise",
+          59
+        ],
+        [
+          "strategic",
+          42
+        ],
+        [
+          "commercial",
+          41
+        ],
+        [
+          "ai",
+          39
+        ],
+        [
+          "product",
+          37
+        ],
+        [
+          "engineering",
+          34
+        ],
+        [
+          "technical",
+          33
+        ],
+        [
+          "partner",
+          25
+        ],
+        [
+          "customer",
+          24
+        ],
+        [
+          "market",
+          23
+        ],
+        [
+          "security",
+          22
+        ],
+        [
+          "success",
+          22
+        ],
+        [
+          "development",
+          21
+        ],
+        [
+          "software",
+          21
+        ],
+        [
+          "support",
+          18
+        ],
+        [
+          "ii",
+          18
+        ],
+        [
+          "associate",
+          16
+        ],
+        [
+          "marketing",
+          15
+        ],
+        [
+          "representative",
+          14
+        ],
+        [
+          "mid",
+          13
+        ],
+        [
+          "solutions",
+          13
+        ],
+        [
+          "accounts",
+          12
+        ],
+        [
+          "emea",
+          11
+        ],
+        [
+          "channels",
+          11
+        ],
+        [
+          "architect",
+          11
+        ],
+        [
+          "business",
+          10
+        ],
+        [
+          "boston",
+          10
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          76
+        ],
+        [
+          "enterprise sales",
+          46
+        ],
+        [
+          "strategic account",
+          41
+        ],
+        [
+          "customer success",
+          22
+        ],
+        [
+          "commercial account",
+          21
+        ],
+        [
+          "sales executive",
+          21
+        ],
+        [
+          "sales development",
+          18
+        ],
+        [
+          "development representative",
+          14
+        ],
+        [
+          "mid market",
+          13
+        ],
+        [
+          "technical support",
+          13
+        ],
+        [
+          "commercial sales",
+          12
+        ],
+        [
+          "technical account",
+          10
+        ],
+        [
+          "public sector",
+          9
+        ],
+        [
+          "partner channels",
+          9
+        ],
+        [
+          "ai research",
+          8
+        ],
+        [
+          "key accounts",
+          8
+        ],
+        [
+          "solutions architect",
+          8
+        ],
+        [
+          "product ii",
+          8
+        ],
+        [
+          "ai platform",
+          7
+        ],
+        [
+          "market account",
+          7
+        ],
+        [
+          "product marketing",
+          7
+        ],
+        [
+          "sales engineering",
+          6
+        ],
+        [
+          "mid-market sales",
+          6
+        ],
+        [
+          "success associate",
+          6
+        ],
+        [
+          "enterprise customer",
+          6
+        ],
+        [
+          "gtm strategy",
+          6
+        ],
+        [
+          "strategy operations",
+          6
+        ],
+        [
+          "software ai",
+          6
+        ],
+        [
+          "sao paulo",
+          5
+        ],
+        [
+          "executive uki",
+          5
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "technical support",
+          "before": 10,
+          "after": 13,
+          "delta": 3
+        },
+        {
+          "term": "account executive",
+          "before": 77,
+          "after": 76,
+          "delta": -1
+        },
+        {
+          "term": "mid market",
+          "before": 14,
+          "after": 13,
+          "delta": -1
+        },
+        {
+          "term": "customer success",
+          "before": 23,
+          "after": 22,
+          "delta": -1
+        },
+        {
+          "term": "success associate",
+          "before": 7,
+          "after": 6,
+          "delta": -1
+        },
+        {
+          "term": "associate dublin",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "support engineering",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "engineering core",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "sales development",
+          "before": 17,
+          "after": 18,
+          "delta": 1
+        },
+        {
+          "term": "market account",
+          "before": 8,
+          "after": 7,
+          "delta": -1
+        },
+        {
+          "term": "san francisco",
+          "before": 5,
+          "after": 4,
+          "delta": -1
+        },
+        {
+          "term": "development representative",
+          "before": 13,
+          "after": 14,
+          "delta": 1
+        },
+        {
+          "term": "analyst nyc",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "application performance",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "performance monitoring",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "monitoring apm",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "technical curriculum",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "curriculum developer",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "technical solutions",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "ai governance",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "governance analyst",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ai research",
+          "before": 8,
+          "after": 8,
+          "delta": 0
+        },
+        {
+          "term": "research datadog",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "datadog ai",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "research dair",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "research scientist",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "scientist datadog",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "area vice",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "vice president",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "president enterprise",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

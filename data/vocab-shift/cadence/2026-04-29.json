@@ -1,0 +1,691 @@
+{
+  "slug": "cadence",
+  "computedAt": "2026-04-29T17:00:34.202Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 647,
+      "topUnigrams": [
+        [
+          "software",
+          152
+        ],
+        [
+          "design",
+          117
+        ],
+        [
+          "application",
+          95
+        ],
+        [
+          "product",
+          90
+        ],
+        [
+          "verification",
+          59
+        ],
+        [
+          "ii",
+          56
+        ],
+        [
+          "architect",
+          29
+        ],
+        [
+          "systems",
+          27
+        ],
+        [
+          "engineering",
+          24
+        ],
+        [
+          "ae",
+          22
+        ],
+        [
+          "validation",
+          22
+        ],
+        [
+          "digital",
+          20
+        ],
+        [
+          "ip",
+          18
+        ],
+        [
+          "ai",
+          18
+        ],
+        [
+          "solutions",
+          15
+        ],
+        [
+          "executive",
+          15
+        ],
+        [
+          "ic",
+          13
+        ],
+        [
+          "implementation",
+          13
+        ],
+        [
+          "customer",
+          11
+        ],
+        [
+          "analog",
+          11
+        ],
+        [
+          "account",
+          11
+        ],
+        [
+          "physical",
+          11
+        ],
+        [
+          "analyst",
+          11
+        ],
+        [
+          "technical",
+          10
+        ],
+        [
+          "sales",
+          10
+        ],
+        [
+          "ml",
+          10
+        ],
+        [
+          "operations",
+          9
+        ],
+        [
+          "emulation",
+          9
+        ],
+        [
+          "business",
+          9
+        ],
+        [
+          "analysis",
+          8
+        ]
+      ],
+      "topBigrams": [
+        [
+          "software ii",
+          25
+        ],
+        [
+          "product validation",
+          20
+        ],
+        [
+          "product ii",
+          11
+        ],
+        [
+          "engineering architect",
+          9
+        ],
+        [
+          "design engineering",
+          9
+        ],
+        [
+          "digital implementation",
+          8
+        ],
+        [
+          "functional verification",
+          8
+        ],
+        [
+          "applied ml",
+          8
+        ],
+        [
+          "design verification",
+          7
+        ],
+        [
+          "customer service",
+          7
+        ],
+        [
+          "physical design",
+          7
+        ],
+        [
+          "product verification",
+          7
+        ],
+        [
+          "software engineering",
+          6
+        ],
+        [
+          "design ii",
+          6
+        ],
+        [
+          "account executive",
+          6
+        ],
+        [
+          "ic design",
+          5
+        ],
+        [
+          "system verification",
+          5
+        ],
+        [
+          "digital verification",
+          4
+        ],
+        [
+          "memory ip",
+          4
+        ],
+        [
+          "data center",
+          4
+        ],
+        [
+          "it- systems",
+          4
+        ],
+        [
+          "software architect",
+          4
+        ],
+        [
+          "customer engagement",
+          4
+        ],
+        [
+          "implementation ae",
+          4
+        ],
+        [
+          "analog design",
+          4
+        ],
+        [
+          "software synthesis",
+          4
+        ],
+        [
+          "business development",
+          4
+        ],
+        [
+          "power integrity",
+          4
+        ],
+        [
+          "ai systems",
+          4
+        ],
+        [
+          "sales executive",
+          4
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 649,
+      "topUnigrams": [
+        [
+          "software",
+          156
+        ],
+        [
+          "design",
+          116
+        ],
+        [
+          "product",
+          93
+        ],
+        [
+          "application",
+          92
+        ],
+        [
+          "ii",
+          60
+        ],
+        [
+          "verification",
+          58
+        ],
+        [
+          "systems",
+          28
+        ],
+        [
+          "architect",
+          28
+        ],
+        [
+          "engineering",
+          24
+        ],
+        [
+          "ae",
+          22
+        ],
+        [
+          "validation",
+          21
+        ],
+        [
+          "digital",
+          19
+        ],
+        [
+          "ai",
+          18
+        ],
+        [
+          "ip",
+          18
+        ],
+        [
+          "customer",
+          15
+        ],
+        [
+          "executive",
+          15
+        ],
+        [
+          "solutions",
+          14
+        ],
+        [
+          "ic",
+          13
+        ],
+        [
+          "implementation",
+          12
+        ],
+        [
+          "technical",
+          11
+        ],
+        [
+          "analog",
+          11
+        ],
+        [
+          "account",
+          11
+        ],
+        [
+          "emulation",
+          10
+        ],
+        [
+          "physical",
+          10
+        ],
+        [
+          "ml",
+          10
+        ],
+        [
+          "system",
+          9
+        ],
+        [
+          "operations",
+          9
+        ],
+        [
+          "business",
+          9
+        ],
+        [
+          "analyst",
+          9
+        ],
+        [
+          "sales",
+          9
+        ]
+      ],
+      "topBigrams": [
+        [
+          "software ii",
+          27
+        ],
+        [
+          "product validation",
+          19
+        ],
+        [
+          "product ii",
+          13
+        ],
+        [
+          "engineering architect",
+          9
+        ],
+        [
+          "design engineering",
+          9
+        ],
+        [
+          "customer engagement",
+          8
+        ],
+        [
+          "digital implementation",
+          8
+        ],
+        [
+          "functional verification",
+          8
+        ],
+        [
+          "applied ml",
+          8
+        ],
+        [
+          "design verification",
+          7
+        ],
+        [
+          "customer service",
+          7
+        ],
+        [
+          "physical design",
+          7
+        ],
+        [
+          "product verification",
+          7
+        ],
+        [
+          "system verification",
+          6
+        ],
+        [
+          "software engineering",
+          6
+        ],
+        [
+          "design ii",
+          6
+        ],
+        [
+          "account executive",
+          6
+        ],
+        [
+          "ic design",
+          5
+        ],
+        [
+          "implementation ae",
+          4
+        ],
+        [
+          "digital verification",
+          4
+        ],
+        [
+          "memory ip",
+          4
+        ],
+        [
+          "data center",
+          4
+        ],
+        [
+          "it- systems",
+          4
+        ],
+        [
+          "software architect",
+          4
+        ],
+        [
+          "analog design",
+          4
+        ],
+        [
+          "software synthesis",
+          4
+        ],
+        [
+          "business development",
+          4
+        ],
+        [
+          "power integrity",
+          4
+        ],
+        [
+          "ai systems",
+          4
+        ],
+        [
+          "sales executive",
+          4
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "customer engagement",
+          "before": 4,
+          "after": 8,
+          "delta": 4
+        },
+        {
+          "term": "software ii",
+          "before": 25,
+          "after": 27,
+          "delta": 2
+        },
+        {
+          "term": "product ii",
+          "before": 11,
+          "after": 13,
+          "delta": 2
+        },
+        {
+          "term": "verification application",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "product validation",
+          "before": 20,
+          "after": 19,
+          "delta": -1
+        },
+        {
+          "term": "jasper formal",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "formal verification",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "scientific software",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "software developer",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "developer ii",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "ii modeler",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "finance transformation",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "system verification",
+          "before": 5,
+          "after": 6,
+          "delta": 1
+        },
+        {
+          "term": "design layout",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "sales operations",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "operations analyst",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "mixed signal",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "desktop systems",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "systems specialist",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "product system",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "verification emulation",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "credit collections",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "product innovus",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "ate test",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "test engineering",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "engineering architect",
+          "before": 9,
+          "after": 9,
+          "delta": 0
+        },
+        {
+          "term": "application engineering",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "engineering ic",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ic design",
+          "before": 5,
+          "after": 5,
+          "delta": 0
+        },
+        {
+          "term": "design verification",
+          "before": 7,
+          "after": 7,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

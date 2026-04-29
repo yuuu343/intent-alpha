@@ -1,0 +1,691 @@
+{
+  "slug": "nxp",
+  "computedAt": "2026-04-29T17:00:36.672Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 559,
+      "topUnigrams": [
+        [
+          "design",
+          58
+        ],
+        [
+          "software",
+          52
+        ],
+        [
+          "technician",
+          34
+        ],
+        [
+          "2026",
+          33
+        ],
+        [
+          "soc",
+          27
+        ],
+        [
+          "automotive",
+          26
+        ],
+        [
+          "ai",
+          25
+        ],
+        [
+          "test",
+          25
+        ],
+        [
+          "business",
+          25
+        ],
+        [
+          "application",
+          25
+        ],
+        [
+          "developer",
+          23
+        ],
+        [
+          "semiconductor",
+          23
+        ],
+        [
+          "maintenance",
+          22
+        ],
+        [
+          "engineering",
+          22
+        ],
+        [
+          "system",
+          21
+        ],
+        [
+          "sw",
+          21
+        ],
+        [
+          "analog",
+          21
+        ],
+        [
+          "systems",
+          21
+        ],
+        [
+          "internship",
+          20
+        ],
+        [
+          "equipment",
+          20
+        ],
+        [
+          "verification",
+          17
+        ],
+        [
+          "student",
+          17
+        ],
+        [
+          "development",
+          17
+        ],
+        [
+          "validation",
+          17
+        ],
+        [
+          "product",
+          17
+        ],
+        [
+          "security",
+          16
+        ],
+        [
+          "embedded",
+          16
+        ],
+        [
+          "mcu",
+          16
+        ],
+        [
+          "architect",
+          16
+        ],
+        [
+          "analyst",
+          16
+        ]
+      ],
+      "topBigrams": [
+        [
+          "maintenance technician",
+          19
+        ],
+        [
+          "semiconductor maintenance",
+          16
+        ],
+        [
+          "2026 campus",
+          14
+        ],
+        [
+          "soc design",
+          11
+        ],
+        [
+          "design verification",
+          11
+        ],
+        [
+          "analog design",
+          9
+        ],
+        [
+          "physical design",
+          9
+        ],
+        [
+          "edge ai",
+          8
+        ],
+        [
+          "business development",
+          8
+        ],
+        [
+          "equipment technician",
+          8
+        ],
+        [
+          "sw developer",
+          7
+        ],
+        [
+          "ai model",
+          6
+        ],
+        [
+          "digital design",
+          6
+        ],
+        [
+          "distribution business",
+          6
+        ],
+        [
+          "semiconductor assembler",
+          6
+        ],
+        [
+          "technician etch",
+          6
+        ],
+        [
+          "customer application",
+          6
+        ],
+        [
+          "business analyst",
+          6
+        ],
+        [
+          "failure analysis",
+          6
+        ],
+        [
+          "model optimization",
+          5
+        ],
+        [
+          "web application",
+          5
+        ],
+        [
+          "application developer",
+          5
+        ],
+        [
+          "embedded software",
+          5
+        ],
+        [
+          "embedded sw",
+          5
+        ],
+        [
+          "application support",
+          5
+        ],
+        [
+          "field application",
+          5
+        ],
+        [
+          "trade compliance",
+          5
+        ],
+        [
+          "new graduate",
+          5
+        ],
+        [
+          "graduate hiring",
+          5
+        ],
+        [
+          "ai software",
+          5
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 566,
+      "topUnigrams": [
+        [
+          "design",
+          59
+        ],
+        [
+          "software",
+          53
+        ],
+        [
+          "technician",
+          36
+        ],
+        [
+          "2026",
+          35
+        ],
+        [
+          "automotive",
+          28
+        ],
+        [
+          "soc",
+          28
+        ],
+        [
+          "ai",
+          26
+        ],
+        [
+          "test",
+          25
+        ],
+        [
+          "application",
+          25
+        ],
+        [
+          "business",
+          24
+        ],
+        [
+          "maintenance",
+          23
+        ],
+        [
+          "analog",
+          22
+        ],
+        [
+          "systems",
+          22
+        ],
+        [
+          "developer",
+          22
+        ],
+        [
+          "system",
+          21
+        ],
+        [
+          "engineering",
+          21
+        ],
+        [
+          "semiconductor",
+          20
+        ],
+        [
+          "sw",
+          20
+        ],
+        [
+          "equipment",
+          20
+        ],
+        [
+          "verification",
+          19
+        ],
+        [
+          "internship",
+          19
+        ],
+        [
+          "validation",
+          19
+        ],
+        [
+          "product",
+          18
+        ],
+        [
+          "architect",
+          17
+        ],
+        [
+          "security",
+          17
+        ],
+        [
+          "embedded",
+          17
+        ],
+        [
+          "mcu",
+          16
+        ],
+        [
+          "data",
+          16
+        ],
+        [
+          "digital",
+          15
+        ],
+        [
+          "support",
+          15
+        ]
+      ],
+      "topBigrams": [
+        [
+          "maintenance technician",
+          20
+        ],
+        [
+          "semiconductor maintenance",
+          17
+        ],
+        [
+          "2026 campus",
+          14
+        ],
+        [
+          "design verification",
+          11
+        ],
+        [
+          "soc design",
+          11
+        ],
+        [
+          "analog design",
+          10
+        ],
+        [
+          "physical design",
+          9
+        ],
+        [
+          "edge ai",
+          8
+        ],
+        [
+          "business development",
+          8
+        ],
+        [
+          "equipment technician",
+          8
+        ],
+        [
+          "digital design",
+          7
+        ],
+        [
+          "sw developer",
+          7
+        ],
+        [
+          "failure analysis",
+          6
+        ],
+        [
+          "ai model",
+          6
+        ],
+        [
+          "technician etch",
+          6
+        ],
+        [
+          "customer application",
+          6
+        ],
+        [
+          "business analyst",
+          6
+        ],
+        [
+          "pm machinist",
+          5
+        ],
+        [
+          "embedded sw",
+          5
+        ],
+        [
+          "model optimization",
+          5
+        ],
+        [
+          "distribution business",
+          5
+        ],
+        [
+          "embedded software",
+          5
+        ],
+        [
+          "application support",
+          5
+        ],
+        [
+          "field application",
+          5
+        ],
+        [
+          "trade compliance",
+          5
+        ],
+        [
+          "new graduate",
+          5
+        ],
+        [
+          "graduate hiring",
+          5
+        ],
+        [
+          "ai software",
+          5
+        ],
+        [
+          "sales account",
+          5
+        ],
+        [
+          "system application",
+          4
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "semiconductor assembler",
+          "before": 6,
+          "after": 2,
+          "delta": -4
+        },
+        {
+          "term": "maintenance technician",
+          "before": 19,
+          "after": 20,
+          "delta": 1
+        },
+        {
+          "term": "digital design",
+          "before": 6,
+          "after": 7,
+          "delta": 1
+        },
+        {
+          "term": "distribution business",
+          "before": 6,
+          "after": 5,
+          "delta": -1
+        },
+        {
+          "term": "web application",
+          "before": 5,
+          "after": 4,
+          "delta": -1
+        },
+        {
+          "term": "application developer",
+          "before": 5,
+          "after": 4,
+          "delta": -1
+        },
+        {
+          "term": "analog design",
+          "before": 9,
+          "after": 10,
+          "delta": 1
+        },
+        {
+          "term": "system application",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "digital verification",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "ing nieur",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "semiconductor maintenance",
+          "before": 16,
+          "after": 17,
+          "delta": 1
+        },
+        {
+          "term": "technician photo",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "systems validation",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "crypto security",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "security competence",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "pm machinist",
+          "before": 4,
+          "after": 5,
+          "delta": 1
+        },
+        {
+          "term": "human resources",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "alternance apprenti",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "apprenti ing",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "sales operations",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "summer internship",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "npi program",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "working student",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "summer 2026",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "technician cleans",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "edge ai",
+          "before": 8,
+          "after": 8,
+          "delta": 0
+        },
+        {
+          "term": "ai model",
+          "before": 6,
+          "after": 6,
+          "delta": 0
+        },
+        {
+          "term": "model optimization",
+          "before": 5,
+          "after": 5,
+          "delta": 0
+        },
+        {
+          "term": "optimization software",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "facilities electrical",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "slug": "coinbase",
+  "computedAt": "2026-04-29T17:00:34.738Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 114,
+      "topUnigrams": [
+        [
+          "software",
+          32
+        ],
+        [
+          "platform",
+          22
+        ],
+        [
+          "engineering",
+          13
+        ],
+        [
+          "backend",
+          13
+        ],
+        [
+          "compliance",
+          8
+        ],
+        [
+          "consumer",
+          8
+        ],
+        [
+          "ai",
+          8
+        ],
+        [
+          "analyst",
+          7
+        ],
+        [
+          "data",
+          7
+        ],
+        [
+          "product",
+          6
+        ],
+        [
+          "security",
+          6
+        ],
+        [
+          "financial",
+          6
+        ],
+        [
+          "operations",
+          5
+        ],
+        [
+          "analytics",
+          5
+        ],
+        [
+          "associate",
+          5
+        ],
+        [
+          "institutional",
+          5
+        ],
+        [
+          "internal",
+          5
+        ],
+        [
+          "core",
+          5
+        ],
+        [
+          "accounting",
+          4
+        ],
+        [
+          "base",
+          4
+        ],
+        [
+          "growth",
+          4
+        ],
+        [
+          "customer",
+          4
+        ],
+        [
+          "identity",
+          4
+        ],
+        [
+          "automation",
+          4
+        ],
+        [
+          "infrastructure",
+          4
+        ],
+        [
+          "gl",
+          3
+        ],
+        [
+          "assistant",
+          3
+        ],
+        [
+          "controller",
+          3
+        ],
+        [
+          "global",
+          3
+        ],
+        [
+          "country",
+          3
+        ]
+      ],
+      "topBigrams": [
+        [
+          "software backend",
+          13
+        ],
+        [
+          "backend platform",
+          8
+        ],
+        [
+          "core ai",
+          4
+        ],
+        [
+          "backend consumer",
+          4
+        ],
+        [
+          "gl operations",
+          3
+        ],
+        [
+          "assistant controller",
+          3
+        ],
+        [
+          "data protection",
+          3
+        ],
+        [
+          "internal audit",
+          3
+        ],
+        [
+          "ai automation",
+          3
+        ],
+        [
+          "platform financial",
+          3
+        ],
+        [
+          "consumer growth",
+          3
+        ],
+        [
+          "growth app",
+          3
+        ],
+        [
+          "app infra",
+          3
+        ],
+        [
+          "platform core",
+          3
+        ],
+        [
+          "software data",
+          3
+        ],
+        [
+          "data platform",
+          3
+        ],
+        [
+          "software platform",
+          3
+        ],
+        [
+          "controller global",
+          2
+        ],
+        [
+          "global gl",
+          2
+        ],
+        [
+          "base product",
+          2
+        ],
+        [
+          "blockchain security",
+          2
+        ],
+        [
+          "compliance associate",
+          2
+        ],
+        [
+          "counsel commercial",
+          2
+        ],
+        [
+          "customer success",
+          2
+        ],
+        [
+          "compliance analyst",
+          2
+        ],
+        [
+          "engineering platform",
+          2
+        ],
+        [
+          "platform finhub",
+          2
+        ],
+        [
+          "platform identity",
+          2
+        ],
+        [
+          "engineering simple",
+          2
+        ],
+        [
+          "simple trade",
+          2
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 111,
+      "topUnigrams": [
+        [
+          "software",
+          32
+        ],
+        [
+          "platform",
+          21
+        ],
+        [
+          "backend",
+          13
+        ],
+        [
+          "engineering",
+          12
+        ],
+        [
+          "consumer",
+          8
+        ],
+        [
+          "data",
+          8
+        ],
+        [
+          "ai",
+          8
+        ],
+        [
+          "compliance",
+          7
+        ],
+        [
+          "product",
+          6
+        ],
+        [
+          "security",
+          6
+        ],
+        [
+          "analyst",
+          6
+        ],
+        [
+          "financial",
+          6
+        ],
+        [
+          "operations",
+          5
+        ],
+        [
+          "analytics",
+          5
+        ],
+        [
+          "associate",
+          5
+        ],
+        [
+          "institutional",
+          5
+        ],
+        [
+          "internal",
+          5
+        ],
+        [
+          "core",
+          5
+        ],
+        [
+          "accounting",
+          4
+        ],
+        [
+          "base",
+          4
+        ],
+        [
+          "growth",
+          4
+        ],
+        [
+          "customer",
+          4
+        ],
+        [
+          "identity",
+          4
+        ],
+        [
+          "automation",
+          4
+        ],
+        [
+          "accountant",
+          3
+        ],
+        [
+          "gl",
+          3
+        ],
+        [
+          "assistant",
+          3
+        ],
+        [
+          "controller",
+          3
+        ],
+        [
+          "country",
+          3
+        ],
+        [
+          "ii",
+          3
+        ]
+      ],
+      "topBigrams": [
+        [
+          "software backend",
+          13
+        ],
+        [
+          "backend platform",
+          8
+        ],
+        [
+          "core ai",
+          4
+        ],
+        [
+          "backend consumer",
+          4
+        ],
+        [
+          "software data",
+          4
+        ],
+        [
+          "data platform",
+          4
+        ],
+        [
+          "gl operations",
+          3
+        ],
+        [
+          "assistant controller",
+          3
+        ],
+        [
+          "data protection",
+          3
+        ],
+        [
+          "internal audit",
+          3
+        ],
+        [
+          "ai automation",
+          3
+        ],
+        [
+          "platform financial",
+          3
+        ],
+        [
+          "consumer growth",
+          3
+        ],
+        [
+          "growth app",
+          3
+        ],
+        [
+          "app infra",
+          3
+        ],
+        [
+          "platform core",
+          3
+        ],
+        [
+          "software platform",
+          3
+        ],
+        [
+          "accountant capital",
+          2
+        ],
+        [
+          "capital markets",
+          2
+        ],
+        [
+          "controller global",
+          2
+        ],
+        [
+          "global gl",
+          2
+        ],
+        [
+          "base product",
+          2
+        ],
+        [
+          "blockchain security",
+          2
+        ],
+        [
+          "compliance associate",
+          2
+        ],
+        [
+          "counsel commercial",
+          2
+        ],
+        [
+          "customer success",
+          2
+        ],
+        [
+          "platform identity",
+          2
+        ],
+        [
+          "engineering simple",
+          2
+        ],
+        [
+          "simple trade",
+          2
+        ],
+        [
+          "financial engineering",
+          2
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "compliance analyst",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "engineering platform",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "platform finhub",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "software data",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "data platform",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "accounting regulatory",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "regulatory reporting",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "reporting canada",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "accounting crypto",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "crypto assets",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "accounting gl",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "gl operations",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "operations intercompany",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "accounting prime",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "prime financing",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "assistant controller",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "controller global",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "global gl",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "controller revenue",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "associate cx",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "cx aml",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "aml compliance",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "base product",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "product growth",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "product privacy",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "base social",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "blockchain security",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "cco mlro",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "mlro bermuda",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "communications policy",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

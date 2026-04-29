@@ -1,0 +1,691 @@
+{
+  "slug": "confluent",
+  "computedAt": "2026-04-29T17:00:34.905Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 53,
+      "topUnigrams": [
+        [
+          "software",
+          28
+        ],
+        [
+          "ii",
+          11
+        ],
+        [
+          "product",
+          9
+        ],
+        [
+          "engineering",
+          8
+        ],
+        [
+          "cloud",
+          8
+        ],
+        [
+          "kafka",
+          5
+        ],
+        [
+          "platform",
+          5
+        ],
+        [
+          "flink",
+          3
+        ],
+        [
+          "security",
+          3
+        ],
+        [
+          "management",
+          3
+        ],
+        [
+          "control",
+          3
+        ],
+        [
+          "plane",
+          3
+        ],
+        [
+          "connect",
+          3
+        ],
+        [
+          "kora",
+          2
+        ],
+        [
+          "developer",
+          2
+        ],
+        [
+          "governance",
+          2
+        ],
+        [
+          "ai",
+          2
+        ],
+        [
+          "compute",
+          2
+        ],
+        [
+          "reliability",
+          2
+        ],
+        [
+          "observability",
+          2
+        ],
+        [
+          "traffic",
+          2
+        ],
+        [
+          "networking",
+          2
+        ],
+        [
+          "business",
+          2
+        ],
+        [
+          "client",
+          1
+        ],
+        [
+          "sql",
+          1
+        ],
+        [
+          "stream",
+          1
+        ],
+        [
+          "apache",
+          1
+        ],
+        [
+          "internal",
+          1
+        ],
+        [
+          "access",
+          1
+        ],
+        [
+          "confluent",
+          1
+        ]
+      ],
+      "topBigrams": [
+        [
+          "software ii",
+          7
+        ],
+        [
+          "control plane",
+          3
+        ],
+        [
+          "software developer",
+          2
+        ],
+        [
+          "software flink",
+          2
+        ],
+        [
+          "security ii",
+          2
+        ],
+        [
+          "software cloud",
+          2
+        ],
+        [
+          "compute platform",
+          2
+        ],
+        [
+          "cloud traffic",
+          2
+        ],
+        [
+          "ii engineering",
+          2
+        ],
+        [
+          "product cloud",
+          2
+        ],
+        [
+          "cloud networking",
+          2
+        ],
+        [
+          "engineering kora",
+          1
+        ],
+        [
+          "ii kafka",
+          1
+        ],
+        [
+          "kafka client",
+          1
+        ],
+        [
+          "flink sql",
+          1
+        ],
+        [
+          "software stream",
+          1
+        ],
+        [
+          "stream governance",
+          1
+        ],
+        [
+          "software product",
+          1
+        ],
+        [
+          "product security",
+          1
+        ],
+        [
+          "software apache",
+          1
+        ],
+        [
+          "apache kafka",
+          1
+        ],
+        [
+          "software internal",
+          1
+        ],
+        [
+          "internal access",
+          1
+        ],
+        [
+          "access management",
+          1
+        ],
+        [
+          "product confluent",
+          1
+        ],
+        [
+          "confluent cloud",
+          1
+        ],
+        [
+          "cloud kafka",
+          1
+        ],
+        [
+          "ai architect",
+          1
+        ],
+        [
+          "software sre",
+          1
+        ],
+        [
+          "cloud compute",
+          1
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 54,
+      "topUnigrams": [
+        [
+          "software",
+          29
+        ],
+        [
+          "ii",
+          11
+        ],
+        [
+          "product",
+          9
+        ],
+        [
+          "engineering",
+          8
+        ],
+        [
+          "cloud",
+          8
+        ],
+        [
+          "kafka",
+          5
+        ],
+        [
+          "platform",
+          5
+        ],
+        [
+          "flink",
+          3
+        ],
+        [
+          "security",
+          3
+        ],
+        [
+          "management",
+          3
+        ],
+        [
+          "control",
+          3
+        ],
+        [
+          "plane",
+          3
+        ],
+        [
+          "connect",
+          3
+        ],
+        [
+          "kora",
+          2
+        ],
+        [
+          "developer",
+          2
+        ],
+        [
+          "governance",
+          2
+        ],
+        [
+          "ai",
+          2
+        ],
+        [
+          "compute",
+          2
+        ],
+        [
+          "reliability",
+          2
+        ],
+        [
+          "observability",
+          2
+        ],
+        [
+          "traffic",
+          2
+        ],
+        [
+          "networking",
+          2
+        ],
+        [
+          "business",
+          2
+        ],
+        [
+          "client",
+          1
+        ],
+        [
+          "sql",
+          1
+        ],
+        [
+          "stream",
+          1
+        ],
+        [
+          "apache",
+          1
+        ],
+        [
+          "internal",
+          1
+        ],
+        [
+          "access",
+          1
+        ],
+        [
+          "confluent",
+          1
+        ]
+      ],
+      "topBigrams": [
+        [
+          "software ii",
+          7
+        ],
+        [
+          "control plane",
+          3
+        ],
+        [
+          "software developer",
+          2
+        ],
+        [
+          "software flink",
+          2
+        ],
+        [
+          "security ii",
+          2
+        ],
+        [
+          "software cloud",
+          2
+        ],
+        [
+          "compute platform",
+          2
+        ],
+        [
+          "cloud traffic",
+          2
+        ],
+        [
+          "ii engineering",
+          2
+        ],
+        [
+          "product cloud",
+          2
+        ],
+        [
+          "cloud networking",
+          2
+        ],
+        [
+          "engineering kora",
+          1
+        ],
+        [
+          "ii kafka",
+          1
+        ],
+        [
+          "kafka client",
+          1
+        ],
+        [
+          "flink sql",
+          1
+        ],
+        [
+          "software stream",
+          1
+        ],
+        [
+          "stream governance",
+          1
+        ],
+        [
+          "software product",
+          1
+        ],
+        [
+          "product security",
+          1
+        ],
+        [
+          "software apache",
+          1
+        ],
+        [
+          "apache kafka",
+          1
+        ],
+        [
+          "software internal",
+          1
+        ],
+        [
+          "internal access",
+          1
+        ],
+        [
+          "access management",
+          1
+        ],
+        [
+          "product confluent",
+          1
+        ],
+        [
+          "confluent cloud",
+          1
+        ],
+        [
+          "cloud kafka",
+          1
+        ],
+        [
+          "ai architect",
+          1
+        ],
+        [
+          "software sre",
+          1
+        ],
+        [
+          "cloud compute",
+          1
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "engineering kora",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "software ii",
+          "before": 7,
+          "after": 7,
+          "delta": 0
+        },
+        {
+          "term": "software developer",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "ii kafka",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "kafka client",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "software flink",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "flink sql",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "software stream",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "stream governance",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "software product",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "product security",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "software apache",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "apache kafka",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "security ii",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "software internal",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "internal access",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "access management",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "product confluent",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "confluent cloud",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "cloud kafka",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ai architect",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "software sre",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "software cloud",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "cloud compute",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "compute platform",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "site reliability",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "reliability incident",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "incident management",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "management reliability",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "reliability canada",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

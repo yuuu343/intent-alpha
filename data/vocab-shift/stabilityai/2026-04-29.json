@@ -1,0 +1,521 @@
+{
+  "slug": "stabilityai",
+  "computedAt": "2026-04-29T17:00:38.111Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 13,
+      "topUnigrams": [
+        [
+          "enterprise",
+          2
+        ],
+        [
+          "account",
+          2
+        ],
+        [
+          "executive",
+          2
+        ],
+        [
+          "generative",
+          2
+        ],
+        [
+          "ai",
+          2
+        ],
+        [
+          "global",
+          2
+        ],
+        [
+          "sales",
+          2
+        ],
+        [
+          "data",
+          1
+        ],
+        [
+          "strategy",
+          1
+        ],
+        [
+          "operations",
+          1
+        ],
+        [
+          "apac",
+          1
+        ],
+        [
+          "inference",
+          1
+        ],
+        [
+          "partnerships",
+          1
+        ],
+        [
+          "creative",
+          1
+        ],
+        [
+          "technology",
+          1
+        ],
+        [
+          "multimodal",
+          1
+        ],
+        [
+          "researcher",
+          1
+        ],
+        [
+          "research",
+          1
+        ],
+        [
+          "scientist",
+          1
+        ],
+        [
+          "controlled",
+          1
+        ],
+        [
+          "3d",
+          1
+        ],
+        [
+          "generation",
+          1
+        ],
+        [
+          "development",
+          1
+        ],
+        [
+          "representative",
+          1
+        ],
+        [
+          "backend",
+          1
+        ],
+        [
+          "site",
+          1
+        ],
+        [
+          "reliability",
+          1
+        ],
+        [
+          "solutions",
+          1
+        ]
+      ],
+      "topBigrams": [
+        [
+          "enterprise account",
+          2
+        ],
+        [
+          "account executive",
+          2
+        ],
+        [
+          "generative ai",
+          2
+        ],
+        [
+          "data strategy",
+          1
+        ],
+        [
+          "strategy operations",
+          1
+        ],
+        [
+          "executive apac",
+          1
+        ],
+        [
+          "ai inference",
+          1
+        ],
+        [
+          "global partnerships",
+          1
+        ],
+        [
+          "global sales",
+          1
+        ],
+        [
+          "creative technology",
+          1
+        ],
+        [
+          "multimodal generative",
+          1
+        ],
+        [
+          "ai researcher",
+          1
+        ],
+        [
+          "research scientist",
+          1
+        ],
+        [
+          "scientist controlled",
+          1
+        ],
+        [
+          "controlled 3d",
+          1
+        ],
+        [
+          "3d generation",
+          1
+        ],
+        [
+          "sales development",
+          1
+        ],
+        [
+          "development representative",
+          1
+        ],
+        [
+          "site reliability",
+          1
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 13,
+      "topUnigrams": [
+        [
+          "enterprise",
+          2
+        ],
+        [
+          "account",
+          2
+        ],
+        [
+          "executive",
+          2
+        ],
+        [
+          "generative",
+          2
+        ],
+        [
+          "ai",
+          2
+        ],
+        [
+          "global",
+          2
+        ],
+        [
+          "sales",
+          2
+        ],
+        [
+          "data",
+          1
+        ],
+        [
+          "strategy",
+          1
+        ],
+        [
+          "operations",
+          1
+        ],
+        [
+          "apac",
+          1
+        ],
+        [
+          "inference",
+          1
+        ],
+        [
+          "partnerships",
+          1
+        ],
+        [
+          "creative",
+          1
+        ],
+        [
+          "technology",
+          1
+        ],
+        [
+          "multimodal",
+          1
+        ],
+        [
+          "researcher",
+          1
+        ],
+        [
+          "research",
+          1
+        ],
+        [
+          "scientist",
+          1
+        ],
+        [
+          "controlled",
+          1
+        ],
+        [
+          "3d",
+          1
+        ],
+        [
+          "generation",
+          1
+        ],
+        [
+          "development",
+          1
+        ],
+        [
+          "representative",
+          1
+        ],
+        [
+          "backend",
+          1
+        ],
+        [
+          "site",
+          1
+        ],
+        [
+          "reliability",
+          1
+        ],
+        [
+          "solutions",
+          1
+        ]
+      ],
+      "topBigrams": [
+        [
+          "enterprise account",
+          2
+        ],
+        [
+          "account executive",
+          2
+        ],
+        [
+          "generative ai",
+          2
+        ],
+        [
+          "data strategy",
+          1
+        ],
+        [
+          "strategy operations",
+          1
+        ],
+        [
+          "executive apac",
+          1
+        ],
+        [
+          "ai inference",
+          1
+        ],
+        [
+          "global partnerships",
+          1
+        ],
+        [
+          "global sales",
+          1
+        ],
+        [
+          "creative technology",
+          1
+        ],
+        [
+          "multimodal generative",
+          1
+        ],
+        [
+          "ai researcher",
+          1
+        ],
+        [
+          "research scientist",
+          1
+        ],
+        [
+          "scientist controlled",
+          1
+        ],
+        [
+          "controlled 3d",
+          1
+        ],
+        [
+          "3d generation",
+          1
+        ],
+        [
+          "sales development",
+          1
+        ],
+        [
+          "development representative",
+          1
+        ],
+        [
+          "site reliability",
+          1
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "data strategy",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "strategy operations",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "enterprise account",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "account executive",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "executive apac",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "generative ai",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "ai inference",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "global partnerships",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "global sales",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "creative technology",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "multimodal generative",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ai researcher",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "research scientist",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "scientist controlled",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "controlled 3d",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "3d generation",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "sales development",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "development representative",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "site reliability",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

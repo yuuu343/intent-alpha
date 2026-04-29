@@ -1,0 +1,691 @@
+{
+  "slug": "xai",
+  "computedAt": "2026-04-29T17:00:38.427Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 230,
+      "topUnigrams": [
+        [
+          "tutor",
+          61
+        ],
+        [
+          "ai",
+          35
+        ],
+        [
+          "expert",
+          34
+        ],
+        [
+          "technical",
+          32
+        ],
+        [
+          "member",
+          30
+        ],
+        [
+          "operations",
+          18
+        ],
+        [
+          "finance",
+          16
+        ],
+        [
+          "business",
+          12
+        ],
+        [
+          "data",
+          11
+        ],
+        [
+          "technician",
+          10
+        ],
+        [
+          "client",
+          9
+        ],
+        [
+          "analyst",
+          9
+        ],
+        [
+          "safety",
+          9
+        ],
+        [
+          "engineering",
+          8
+        ],
+        [
+          "model",
+          8
+        ],
+        [
+          "specialist",
+          7
+        ],
+        [
+          "security",
+          7
+        ],
+        [
+          "facilities",
+          7
+        ],
+        [
+          "partner",
+          7
+        ],
+        [
+          "accounting",
+          6
+        ],
+        [
+          "infrastructure",
+          5
+        ],
+        [
+          "systems",
+          5
+        ],
+        [
+          "legal",
+          5
+        ],
+        [
+          "network",
+          5
+        ],
+        [
+          "math",
+          4
+        ],
+        [
+          "backend",
+          4
+        ],
+        [
+          "account",
+          4
+        ],
+        [
+          "center",
+          4
+        ],
+        [
+          "science",
+          4
+        ],
+        [
+          "payments",
+          4
+        ]
+      ],
+      "topBigrams": [
+        [
+          "ai tutor",
+          33
+        ],
+        [
+          "member technical",
+          30
+        ],
+        [
+          "finance expert",
+          14
+        ],
+        [
+          "business expert",
+          10
+        ],
+        [
+          "engineering tutor",
+          5
+        ],
+        [
+          "client partner",
+          5
+        ],
+        [
+          "operations technician",
+          5
+        ],
+        [
+          "safety operations",
+          5
+        ],
+        [
+          "accounting expert",
+          4
+        ],
+        [
+          "data center",
+          4
+        ],
+        [
+          "center operations",
+          4
+        ],
+        [
+          "science tutor",
+          4
+        ],
+        [
+          "facilities operations",
+          4
+        ],
+        [
+          "technical money",
+          4
+        ],
+        [
+          "model behavior",
+          4
+        ],
+        [
+          "behavior tutor",
+          4
+        ],
+        [
+          "math tutor",
+          3
+        ],
+        [
+          "client account",
+          3
+        ],
+        [
+          "power generation",
+          3
+        ],
+        [
+          "investment banking",
+          3
+        ],
+        [
+          "banking expert",
+          3
+        ],
+        [
+          "services technician",
+          3
+        ],
+        [
+          "analyst safety",
+          3
+        ],
+        [
+          "backend api",
+          2
+        ],
+        [
+          "real estate",
+          2
+        ],
+        [
+          "account contract",
+          2
+        ],
+        [
+          "data centers",
+          2
+        ],
+        [
+          "night shift",
+          2
+        ],
+        [
+          "detection response",
+          2
+        ],
+        [
+          "exceptional software",
+          2
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 240,
+      "topUnigrams": [
+        [
+          "tutor",
+          65
+        ],
+        [
+          "ai",
+          39
+        ],
+        [
+          "expert",
+          34
+        ],
+        [
+          "technical",
+          33
+        ],
+        [
+          "member",
+          31
+        ],
+        [
+          "operations",
+          19
+        ],
+        [
+          "finance",
+          16
+        ],
+        [
+          "data",
+          13
+        ],
+        [
+          "business",
+          12
+        ],
+        [
+          "technician",
+          10
+        ],
+        [
+          "client",
+          9
+        ],
+        [
+          "analyst",
+          9
+        ],
+        [
+          "safety",
+          9
+        ],
+        [
+          "engineering",
+          8
+        ],
+        [
+          "specialist",
+          8
+        ],
+        [
+          "model",
+          8
+        ],
+        [
+          "security",
+          7
+        ],
+        [
+          "partner",
+          7
+        ],
+        [
+          "accounting",
+          6
+        ],
+        [
+          "facilities",
+          6
+        ],
+        [
+          "center",
+          6
+        ],
+        [
+          "construction",
+          5
+        ],
+        [
+          "infrastructure",
+          5
+        ],
+        [
+          "systems",
+          5
+        ],
+        [
+          "legal",
+          5
+        ],
+        [
+          "network",
+          5
+        ],
+        [
+          "math",
+          4
+        ],
+        [
+          "backend",
+          4
+        ],
+        [
+          "logistics",
+          4
+        ],
+        [
+          "account",
+          4
+        ]
+      ],
+      "topBigrams": [
+        [
+          "ai tutor",
+          37
+        ],
+        [
+          "member technical",
+          31
+        ],
+        [
+          "finance expert",
+          14
+        ],
+        [
+          "business expert",
+          10
+        ],
+        [
+          "data center",
+          6
+        ],
+        [
+          "center operations",
+          6
+        ],
+        [
+          "engineering tutor",
+          5
+        ],
+        [
+          "client partner",
+          5
+        ],
+        [
+          "operations technician",
+          5
+        ],
+        [
+          "safety operations",
+          5
+        ],
+        [
+          "accounting expert",
+          4
+        ],
+        [
+          "science tutor",
+          4
+        ],
+        [
+          "technical money",
+          4
+        ],
+        [
+          "model behavior",
+          4
+        ],
+        [
+          "behavior tutor",
+          4
+        ],
+        [
+          "math tutor",
+          3
+        ],
+        [
+          "client account",
+          3
+        ],
+        [
+          "power generation",
+          3
+        ],
+        [
+          "facilities operations",
+          3
+        ],
+        [
+          "investment banking",
+          3
+        ],
+        [
+          "banking expert",
+          3
+        ],
+        [
+          "services technician",
+          3
+        ],
+        [
+          "analyst safety",
+          3
+        ],
+        [
+          "backend api",
+          2
+        ],
+        [
+          "real estate",
+          2
+        ],
+        [
+          "account contract",
+          2
+        ],
+        [
+          "data centers",
+          2
+        ],
+        [
+          "night shift",
+          2
+        ],
+        [
+          "detection response",
+          2
+        ],
+        [
+          "exceptional software",
+          2
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "ai tutor",
+          "before": 33,
+          "after": 37,
+          "delta": 4
+        },
+        {
+          "term": "data center",
+          "before": 4,
+          "after": 6,
+          "delta": 2
+        },
+        {
+          "term": "center operations",
+          "before": 4,
+          "after": 6,
+          "delta": 2
+        },
+        {
+          "term": "facilities operations",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "member technical",
+          "before": 30,
+          "after": 31,
+          "delta": 1
+        },
+        {
+          "term": "logistics data",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "3d tutor",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "accounting expert",
+          "before": 4,
+          "after": 4,
+          "delta": 0
+        },
+        {
+          "term": "expert faculty",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "faculty professor",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "professor accounting",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "expert tax",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "expert technical",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "technical accounting",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "ai healthcare",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "healthcare administration",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "administration tutor",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor arabic",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor audio",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "audio editing",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor bengali",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor chinese",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor crypto",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor danish",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor dutch",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor english",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor finnish",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor french",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor german",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tutor gujarati",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}

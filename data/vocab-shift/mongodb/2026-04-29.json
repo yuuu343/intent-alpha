@@ -1,0 +1,691 @@
+{
+  "slug": "mongodb",
+  "computedAt": "2026-04-29T17:00:36.184Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 429,
+      "topUnigrams": [
+        [
+          "account",
+          74
+        ],
+        [
+          "executive",
+          61
+        ],
+        [
+          "software",
+          60
+        ],
+        [
+          "enterprise",
+          50
+        ],
+        [
+          "solutions",
+          42
+        ],
+        [
+          "architect",
+          41
+        ],
+        [
+          "growth",
+          40
+        ],
+        [
+          "customer",
+          34
+        ],
+        [
+          "success",
+          30
+        ],
+        [
+          "product",
+          26
+        ],
+        [
+          "development",
+          19
+        ],
+        [
+          "security",
+          19
+        ],
+        [
+          "technical",
+          18
+        ],
+        [
+          "speaking",
+          15
+        ],
+        [
+          "atlas",
+          15
+        ],
+        [
+          "program",
+          15
+        ],
+        [
+          "speaker",
+          14
+        ],
+        [
+          "engineering",
+          14
+        ],
+        [
+          "analyst",
+          14
+        ],
+        [
+          "site",
+          14
+        ],
+        [
+          "reliability",
+          14
+        ],
+        [
+          "representative",
+          13
+        ],
+        [
+          "german",
+          13
+        ],
+        [
+          "operations",
+          13
+        ],
+        [
+          "partner",
+          13
+        ],
+        [
+          "sales",
+          13
+        ],
+        [
+          "data",
+          13
+        ],
+        [
+          "services",
+          12
+        ],
+        [
+          "specialist",
+          12
+        ],
+        [
+          "marketing",
+          11
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          59
+        ],
+        [
+          "enterprise account",
+          47
+        ],
+        [
+          "solutions architect",
+          39
+        ],
+        [
+          "customer success",
+          30
+        ],
+        [
+          "executive growth",
+          28
+        ],
+        [
+          "site reliability",
+          14
+        ],
+        [
+          "development representative",
+          13
+        ],
+        [
+          "software atlas",
+          12
+        ],
+        [
+          "account development",
+          10
+        ],
+        [
+          "success german",
+          9
+        ],
+        [
+          "technical program",
+          9
+        ],
+        [
+          "pre-sales solutions",
+          8
+        ],
+        [
+          "commercial growth",
+          8
+        ],
+        [
+          "growth account",
+          8
+        ],
+        [
+          "code generation",
+          8
+        ],
+        [
+          "german speaking",
+          7
+        ],
+        [
+          "technical services",
+          7
+        ],
+        [
+          "atlas clusters",
+          7
+        ],
+        [
+          "sales development",
+          7
+        ],
+        [
+          "partner specialist",
+          6
+        ],
+        [
+          "executive acquisition",
+          5
+        ],
+        [
+          "developer advocate",
+          5
+        ],
+        [
+          "german speaker",
+          5
+        ],
+        [
+          "software server",
+          5
+        ],
+        [
+          "software query",
+          5
+        ],
+        [
+          "storage layer",
+          5
+        ],
+        [
+          "talent discovery",
+          4
+        ],
+        [
+          "product management",
+          4
+        ],
+        [
+          "developer experience",
+          4
+        ],
+        [
+          "research scientist",
+          4
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 432,
+      "topUnigrams": [
+        [
+          "account",
+          76
+        ],
+        [
+          "executive",
+          63
+        ],
+        [
+          "software",
+          56
+        ],
+        [
+          "enterprise",
+          51
+        ],
+        [
+          "growth",
+          41
+        ],
+        [
+          "solutions",
+          40
+        ],
+        [
+          "architect",
+          39
+        ],
+        [
+          "customer",
+          34
+        ],
+        [
+          "success",
+          30
+        ],
+        [
+          "product",
+          27
+        ],
+        [
+          "development",
+          19
+        ],
+        [
+          "security",
+          19
+        ],
+        [
+          "technical",
+          18
+        ],
+        [
+          "engineering",
+          17
+        ],
+        [
+          "speaking",
+          15
+        ],
+        [
+          "speaker",
+          15
+        ],
+        [
+          "atlas",
+          15
+        ],
+        [
+          "analyst",
+          15
+        ],
+        [
+          "program",
+          15
+        ],
+        [
+          "partner",
+          14
+        ],
+        [
+          "specialist",
+          14
+        ],
+        [
+          "site",
+          14
+        ],
+        [
+          "reliability",
+          14
+        ],
+        [
+          "representative",
+          13
+        ],
+        [
+          "german",
+          13
+        ],
+        [
+          "operations",
+          13
+        ],
+        [
+          "sales",
+          13
+        ],
+        [
+          "data",
+          13
+        ],
+        [
+          "developer",
+          12
+        ],
+        [
+          "services",
+          12
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          61
+        ],
+        [
+          "enterprise account",
+          49
+        ],
+        [
+          "solutions architect",
+          37
+        ],
+        [
+          "customer success",
+          30
+        ],
+        [
+          "executive growth",
+          29
+        ],
+        [
+          "site reliability",
+          14
+        ],
+        [
+          "development representative",
+          13
+        ],
+        [
+          "software atlas",
+          12
+        ],
+        [
+          "account development",
+          10
+        ],
+        [
+          "commercial growth",
+          9
+        ],
+        [
+          "growth account",
+          9
+        ],
+        [
+          "success german",
+          9
+        ],
+        [
+          "technical program",
+          9
+        ],
+        [
+          "code generation",
+          8
+        ],
+        [
+          "german speaking",
+          7
+        ],
+        [
+          "technical services",
+          7
+        ],
+        [
+          "partner specialist",
+          7
+        ],
+        [
+          "atlas clusters",
+          7
+        ],
+        [
+          "sales development",
+          7
+        ],
+        [
+          "executive acquisition",
+          6
+        ],
+        [
+          "pre-sales solutions",
+          6
+        ],
+        [
+          "developer advocate",
+          6
+        ],
+        [
+          "german speaker",
+          5
+        ],
+        [
+          "software query",
+          5
+        ],
+        [
+          "storage layer",
+          5
+        ],
+        [
+          "talent discovery",
+          4
+        ],
+        [
+          "product management",
+          4
+        ],
+        [
+          "developer experience",
+          4
+        ],
+        [
+          "research scientist",
+          4
+        ],
+        [
+          "business value",
+          4
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "account executive",
+          "before": 59,
+          "after": 61,
+          "delta": 2
+        },
+        {
+          "term": "pre-sales solutions",
+          "before": 8,
+          "after": 6,
+          "delta": -2
+        },
+        {
+          "term": "solutions architect",
+          "before": 39,
+          "after": 37,
+          "delta": -2
+        },
+        {
+          "term": "enterprise account",
+          "before": 47,
+          "after": 49,
+          "delta": 2
+        },
+        {
+          "term": "executive acquisition",
+          "before": 5,
+          "after": 6,
+          "delta": 1
+        },
+        {
+          "term": "executive growth",
+          "before": 28,
+          "after": 29,
+          "delta": 1
+        },
+        {
+          "term": "developer advocate",
+          "before": 5,
+          "after": 6,
+          "delta": 1
+        },
+        {
+          "term": "commercial growth",
+          "before": 8,
+          "after": 9,
+          "delta": 1
+        },
+        {
+          "term": "growth account",
+          "before": 8,
+          "after": 9,
+          "delta": 1
+        },
+        {
+          "term": "cloud operations",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "bahasa speaker",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "partner specialist",
+          "before": 6,
+          "after": 7,
+          "delta": 1
+        },
+        {
+          "term": "software server",
+          "before": 5,
+          "after": 4,
+          "delta": -1
+        },
+        {
+          "term": "software private",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "private cloud",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "cloud backup",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "specialist revenue",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "engineering storage",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "2026 women",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "women tech",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "tech summit",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "summit emea",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "account-based marketing",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "account development",
+          "before": 10,
+          "after": 10,
+          "delta": 0
+        },
+        {
+          "term": "development representative",
+          "before": 13,
+          "after": 13,
+          "delta": 0
+        },
+        {
+          "term": "representative french",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "french speaking",
+          "before": 3,
+          "after": 3,
+          "delta": 0
+        },
+        {
+          "term": "representative german",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "german speaking",
+          "before": 7,
+          "after": 7,
+          "delta": 0
+        },
+        {
+          "term": "representative hebrew",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}
