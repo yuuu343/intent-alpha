@@ -1,0 +1,208 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+// Workday tenant URLs that haven't been validated against live data.
+// HTTP 422 / 404 from the guessed site name means correct tenant + wrong site.
+// Resolving each requires per-company browser inspection of the careers page.
+const WORKDAY_PENDING = new Set<string>([
+  'amd', 'analogdevices', 'arm', 'asml', 'broadcom', 'coherent',
+  'lamresearch', 'lattice', 'marvell', 'microchip', 'onsemi',
+  'qualcomm', 'salesforce', 'seagate', 'synopsys', 'texasinstruments',
+  'westerndigital',
+]);
+
+const all = (await getCollection('companies'))
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const aiRelevant = all.filter((c) => c.data.aiRelevance !== 'non_ai');
+
+const fetched = aiRelevant.filter((c) =>
+  c.data.ats !== 'custom' && !WORKDAY_PENDING.has(c.data.slug)
+);
+const pending = aiRelevant.filter((c) => WORKDAY_PENDING.has(c.data.slug));
+const botProtected = aiRelevant.filter((c) => c.data.ats === 'custom');
+const offThesis = all.filter((c) => c.data.aiRelevance === 'non_ai');
+
+const totals = {
+  tracked: aiRelevant.length,
+  fetched: fetched.length,
+  pending: pending.length,
+  botProtected: botProtected.length,
+  offThesis: offThesis.length,
+};
+
+type Adapter = 'greenhouse' | 'lever' | 'workday' | 'ashby' | 'smartrecruiters';
+const adapters: Record<Adapter, typeof fetched> = {
+  greenhouse: [], lever: [], workday: [], ashby: [], smartrecruiters: [],
+};
+for (const c of fetched) {
+  const k = c.data.ats;
+  if (k !== 'custom') adapters[k as Adapter].push(c);
+}
+const adapterOrder: Adapter[] = ['greenhouse', 'lever', 'workday', 'ashby', 'smartrecruiters'];
+const adapterLabel: Record<Adapter, string> = {
+  greenhouse: 'Greenhouse',
+  lever: 'Lever',
+  workday: 'Workday',
+  ashby: 'Ashby',
+  smartrecruiters: 'SmartRecruiters',
+};
+---
+<Layout
+  title="Coverage"
+  description="What Intent Alpha tracks and what it doesn't. The sampling map for our hiring-signal analysis."
+  spineGlyph="⊆"
+  bgEquation="T = ⋃ A_i ⊊ Ω"
+>
+  <section class="hero" style="border-bottom: 0; padding-bottom: 1.5rem;">
+    <span class="meta meta--accent">Sampling map</span>
+    <h1>What we see. What we miss.</h1>
+    <p class="lede">
+      Intent Alpha's findings describe a subset of the AI labor market — the companies whose
+      public hiring data we can reach. This page is the map of what is in the set, what is
+      not, and what those gaps mean for any conclusion drawn here.
+    </p>
+  </section>
+
+  <div class="stats stats--small">
+    <div class="item">
+      <span class="num">{totals.tracked}</span>
+      <span class="lbl">AI-relevant tracked</span>
+    </div>
+    <div class="item">
+      <span class="num"><em>{totals.fetched}</em></span>
+      <span class="lbl">Active fetch</span>
+    </div>
+    <div class="item">
+      <span class="num">{totals.pending}</span>
+      <span class="lbl">Workday tenant unresolved</span>
+    </div>
+    <div class="item">
+      <span class="num">{totals.botProtected}</span>
+      <span class="lbl">Bot-protected (opaque)</span>
+    </div>
+    <div class="item">
+      <span class="num">{totals.offThesis}</span>
+      <span class="lbl">Off-thesis (kept reachable)</span>
+    </div>
+  </div>
+
+  <article class="prose" style="margin-top: 1.5rem;">
+    <h2>What we read from</h2>
+    <p>
+      We pull job postings from public ATS endpoints. Five adapters are in production:
+      Greenhouse, Lever, Workday, Ashby, SmartRecruiters. The Workday adapter caps at
+      1,000 jobs per company. <code>robots.txt</code> and stated terms of service are
+      respected; snapshots are version-controlled.
+    </p>
+  </article>
+
+  {adapterOrder.map((k) => {
+    const list = adapters[k];
+    if (list.length === 0) return null;
+    return (
+      <>
+        <div class="section-head">
+          <h2>{adapterLabel[k]}</h2>
+          <span class="count">{list.length} {list.length === 1 ? 'company' : 'companies'}</span>
+        </div>
+        <div class="list-rows">
+          {list.map((c, i) => (
+            <a class="list-row" href={`/companies/${c.id}/`}>
+              <span class="name">{c.data.name}</span>
+              <span class="desc">{c.data.sector ?? ''}</span>
+              <span class="num">№ {String(i + 1).padStart(2, '0')}</span>
+            </a>
+          ))}
+        </div>
+      </>
+    );
+  })}
+
+  <div class="section-head" style="margin-top: 4rem;">
+    <h2>Workday tenant unresolved</h2>
+    <span class="count">{pending.length} companies</span>
+  </div>
+  <p class="meta" style="margin-bottom: 1rem; color: var(--fg-muted); text-transform: none; letter-spacing: 0;">
+    Tenant URL is guessed. The adapter receives HTTP 422 / 404 — the tenant exists, the site
+    name is wrong. Resolving each requires inspecting the company's live careers page.
+    No data flows for these until that work lands.
+  </p>
+  <div class="list-rows">
+    {pending.map((c, i) => (
+      <a class="list-row" href={`/companies/${c.id}/`} style="opacity: 0.7;">
+        <span class="name">{c.data.name}</span>
+        <span class="desc">{c.data.sector ?? ''}</span>
+        <span class="num">№ {String(i + 1).padStart(2, '0')}</span>
+      </a>
+    ))}
+  </div>
+
+  <div class="section-head" style="margin-top: 4rem;">
+    <h2>Bot-protected — opaque</h2>
+    <span class="count">{botProtected.length} companies</span>
+  </div>
+  <p class="meta" style="margin-bottom: 1rem; color: var(--fg-muted); text-transform: none; letter-spacing: 0;">
+    These companies route hiring through proprietary career sites with anti-scraping
+    protection (Akamai, Cloudflare bot management, custom captchas). A headless browser
+    could fetch them; we don't run one. The gap is structural, not editorial.
+  </p>
+  <p style="margin-bottom: 1.5rem; color: var(--fg-soft); max-width: 44rem;">
+    Together these five companies — Apple, Alphabet, Amazon, Microsoft, Meta — represent the
+    majority of private AI capital expenditure and likely the majority of AI engineering
+    headcount in the United States. <strong>Our dispatches describe the labor market we can
+    read; we do not see them.</strong> Treat any "AI hiring is up by X%" claim from this
+    site as an undercount accordingly.
+  </p>
+  <div class="list-rows">
+    {botProtected.map((c, i) => (
+      <a class="list-row" href={`/companies/${c.id}/`} style="opacity: 0.7;">
+        <span class="name">{c.data.name}</span>
+        <span class="desc">{c.data.customNote ?? c.data.sector ?? ''}</span>
+        <span class="num">№ {String(i + 1).padStart(2, '0')}</span>
+      </a>
+    ))}
+  </div>
+
+  <article class="prose" style="margin-top: 4rem;">
+    <h2>What is not in the roster at all</h2>
+    <p>
+      Setting aside adapters that fail, several categories of company are absent from the
+      tracked set entirely. We disclose them so that conclusions framed as "the AI field"
+      are read instead as "the AI field as visible from public US-frontier hiring."
+    </p>
+    <ul>
+      <li><strong>Chinese frontier labs</strong> — DeepSeek, Qwen (Alibaba), Kimi (Moonshot), GLM (Zhipu), Baichuan, MiniMax. They ship frontier weights and hire actively, but career data does not flow through US ATS providers.</li>
+      <li><strong>Open-source AI infrastructure</strong> — SSI, Together, Fireworks, Nous Research, EleutherAI. Several are reachable; the roster has not been extended yet.</li>
+      <li><strong>Robotics &amp; embodied AI</strong> — Figure, 1X, Physical Intelligence, Skild, Boston Dynamics, Tesla Optimus. The field's most-cited frontier and a structural blind spot here.</li>
+      <li><strong>Generative video &amp; world models</strong> — Runway, Pika, Luma, the Genie / Sora-class evaluators.</li>
+      <li><strong>Regulatory &amp; policy bodies</strong> — EU AISI, US AISI, UK AISI, AISI Japan. They shape the constraints that frontier labs design against; we do not see their hiring.</li>
+      <li><strong>Energy and physical-layer infrastructure</strong> — Crusoe, gigawatt-class data center developers, advanced packaging foundries downstream of TSMC / Samsung / Intel. Compute is now bottlenecked here, and we read none of it.</li>
+      <li><strong>Major academic labs</strong> — Stanford HAI, MILA, CMU, Tsinghua, Peking. Talent flows between academia and industry; one half is invisible in our data.</li>
+    </ul>
+
+    <h2>What this means for any finding here</h2>
+    <p>
+      A dispatch on this site is a claim about <code>T</code> — the tracked set — not about
+      <code>Ω</code>, the field as a whole. When we write "Anthropic is shifting toward X,"
+      that claim is well-grounded; when we write "the AI industry is moving toward Y," it
+      is grounded only over the visible subset, which omits Big Tech AI groups, all Chinese
+      labs, robotics frontiers, regulators, and the physical layer.
+    </p>
+    <p>
+      Confidence stamps on each dispatch reflect the strength of the inference within
+      <code>T</code>. Coverage limits are a separate, structural caveat that applies to
+      every finding. Both should be read together.
+    </p>
+
+    <h2>How this evolves</h2>
+    <ul>
+      <li>Resolve the {pending.length} Workday tenant URLs, in priority order by AI exposure.</li>
+      <li>Extend the roster to Chinese frontier labs wherever any public endpoint is reachable.</li>
+      <li>Add a robotics specialty group (Figure, 1X, Physical Intelligence) as a separate AI-relevance band.</li>
+      <li>Treat GAFAM AI hiring as opaque, not absent — annotate it explicitly in headline numbers rather than letting it dilute silently.</li>
+      <li>Publish snapshot deltas so readers can see when coverage changes (a company joins, a tenant resolves) without buried updates.</li>
+    </ul>
+  </article>
+</Layout>

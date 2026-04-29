@@ -15,6 +15,16 @@ const { Content } = await render(article);
 
 const company = (await getCollection('companies')).find((c) => c.id === article.data.company);
 
+const ATS_LABEL: Record<string, string> = {
+  greenhouse: 'Greenhouse',
+  lever: 'Lever',
+  workday: 'Workday',
+  ashby: 'Ashby',
+  smartrecruiters: 'SmartRecruiters',
+  custom: 'a custom',
+};
+const adapterName = company ? ATS_LABEL[company.data.ats] : null;
+
 const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 
 // ---- A: tokenize title.
@@ -106,6 +116,36 @@ const jsonLd = {
   </article>
 
   <section class="sources">
+    <div class="label">Method</div>
+    <div>
+      <p>
+        Postings were pulled from {company ? company.data.name : article.data.company}'s
+        public{adapterName ? ` ${adapterName}` : ''} job board on {fmtDate(article.data.publishedAt)},
+        snapshotted to a version-controlled JSON file.
+      </p>
+      {article.data.signalCount !== undefined && article.data.totalPostings !== undefined && (
+        <p>
+          {article.data.signalCount} of {article.data.totalPostings} postings clustered as
+          signal under this dispatch's regex; the cluster definition and the full posting
+          set are captured in the snapshot file linked below.
+        </p>
+      )}
+      <p>
+        The confidence stamp ({article.data.confidence}, horizon {article.data.horizon})
+        reflects the strength of inference within the tracked set. Structural coverage
+        limits — bot-protected adapters, unresolved Workday tenants, categories absent
+        from the roster — are listed at <a href="/coverage/">/coverage</a>. Both should
+        be read together.
+      </p>
+      <p>
+        Aggregation code and raw snapshots will be released as an open GitHub repository
+        alongside the next deep dispatch. Until then, the snapshot files in this tree
+        are the canonical record.
+      </p>
+    </div>
+  </section>
+
+  <section class="sources" style="margin-top: 2rem;">
     <div class="label">Sources</div>
     <div>
       <ul>

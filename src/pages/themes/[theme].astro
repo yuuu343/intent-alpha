@@ -153,6 +153,10 @@ const description = `${t.name} hiring across the AI-relevant roster: ${totalMatc
         <li>Theme regex in src/data/themes.ts; defined to match diagnostic role names, not bare keywords.</li>
         <li>Aggregated across {rows.length} of the {(await getCollection('companies')).filter((c) => c.data.aiRelevance !== 'non_ai').length} AI-relevant companies (others have no fetchable snapshot yet).</li>
       </ul>
+      <p style="margin-top: 1.25rem;">
+        <span style="font-family: var(--font-display); font-style: italic; font-variation-settings: 'opsz' 144, 'SOFT' 100, 'WONK' 1; font-size: 1.55em; color: var(--accent); margin-right: 0.45em; vertical-align: -0.05em;">{t.glyph}</span>
+        {t.glyphRationale}
+      </p>
     </div>
   </section>
 </Layout>
