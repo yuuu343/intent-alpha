@@ -1,0 +1,5668 @@
+{
+  "org": "anthropics",
+  "fetchedAt": "2026-04-28T15:31:20.952Z",
+  "commitsSince": "2026-01-28T15:31:11.491Z",
+  "reposCount": 25,
+  "repos": [
+    {
+      "name": "anthropic-sdk-typescript",
+      "description": "Access to Anthropic's safety-first language model APIs in TypeScript",
+      "stars": 1893,
+      "language": "TypeScript",
+      "pushedAt": "2026-04-28T15:05:58Z",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript",
+      "contributors": [
+        {
+          "login": "stainless-app[bot]",
+          "contributions": 386
+        },
+        {
+          "login": "stainless-bot",
+          "contributions": 345
+        },
+        {
+          "login": "RobertCraigie",
+          "contributions": 109
+        },
+        {
+          "login": "jspahrsummers",
+          "contributions": 64
+        },
+        {
+          "login": "dtmeadows",
+          "contributions": 62
+        },
+        {
+          "login": "stainless-ci-bot",
+          "contributions": 23
+        },
+        {
+          "login": "rattrayalex",
+          "contributions": 7
+        },
+        {
+          "login": "stainless-em",
+          "contributions": 4
+        },
+        {
+          "login": "michael-cohen-io",
+          "contributions": 3
+        },
+        {
+          "login": "nsmccandlish",
+          "contributions": 3
+        },
+        {
+          "login": "TomerAberbach",
+          "contributions": 3
+        },
+        {
+          "login": "jenan-anthropic",
+          "contributions": 3
+        },
+        {
+          "login": "yjp20",
+          "contributions": 3
+        },
+        {
+          "login": "gcemaj",
+          "contributions": 2
+        },
+        {
+          "login": "ant-kurt",
+          "contributions": 2
+        },
+        {
+          "login": "x5a",
+          "contributions": 2
+        },
+        {
+          "login": "packyg",
+          "contributions": 2
+        },
+        {
+          "login": "kevinc13",
+          "contributions": 2
+        },
+        {
+          "login": "dandv",
+          "contributions": 2
+        },
+        {
+          "login": "noahp-anthropic",
+          "contributions": 1
+        },
+        {
+          "login": "meorphis",
+          "contributions": 1
+        },
+        {
+          "login": "karpetrosyan",
+          "contributions": 1
+        },
+        {
+          "login": "404Wolf",
+          "contributions": 1
+        },
+        {
+          "login": "wenley",
+          "contributions": 1
+        },
+        {
+          "login": "vippelina",
+          "contributions": 1
+        },
+        {
+          "login": "sara-hannigan",
+          "contributions": 1
+        },
+        {
+          "login": "spullara",
+          "contributions": 1
+        },
+        {
+          "login": "pjuhos",
+          "contributions": 1
+        },
+        {
+          "login": "linus-amg",
+          "contributions": 1
+        },
+        {
+          "login": "fatjyc",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "74ac150",
+          "message": "chore: release main (#1014)",
+          "date": "2026-04-24T23:26:28Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "22cb810",
+          "message": "chore: release main (#1008)",
+          "date": "2026-04-23T20:47:16Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "93ac7c7",
+          "message": "chore: release main (#1003)",
+          "date": "2026-04-16T14:26:37Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "39549e9",
+          "message": "chore: release main (#993)",
+          "date": "2026-04-14T19:08:33Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "089fe05",
+          "message": "chore: release main (#987)",
+          "date": "2026-04-10T22:25:59Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "73f128f",
+          "message": "chore: release main (#985)",
+          "date": "2026-04-09T18:11:50Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "fd6cf54",
+          "message": "chore: release main (#983)",
+          "date": "2026-04-08T19:50:15Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "79d1d73",
+          "message": "chore: release main (#982)",
+          "date": "2026-04-08T17:04:42Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "4ade5b1",
+          "message": "chore: release main (#979)",
+          "date": "2026-04-07T18:34:25Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "4368602",
+          "message": "chore: release main (#978)",
+          "date": "2026-04-07T18:25:53Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "4105fd6",
+          "message": "chore: release main (#973)",
+          "date": "2026-04-07T17:50:00Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "0b536ae",
+          "message": "chore: release main (#970)",
+          "date": "2026-04-03T18:55:36Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "6d72814",
+          "message": "chore: release main (#967)",
+          "date": "2026-04-01T19:49:12Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "bc1a2ff",
+          "message": "chore: release main (#955)",
+          "date": "2026-03-31T17:43:34Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "0f8153b",
+          "message": "chore: release main",
+          "date": "2026-03-18T18:30:33Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "e88d6a7",
+          "message": "feat(api): manual updates",
+          "date": "2026-03-18T18:30:01Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d3eb7d1",
+          "message": "feat(api): manual updates",
+          "date": "2026-03-18T06:24:23Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "ffca9a1",
+          "message": "chore(internal): tweak CI branches",
+          "date": "2026-03-16T20:50:35Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "af66c80",
+          "message": "chore: release main (#921)",
+          "date": "2026-03-16T17:27:27Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "fdaa72b",
+          "message": "chore: release main (#917)",
+          "date": "2026-02-19T20:04:14Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "e34f3a2",
+          "message": "release: 0.77.0 (#916)",
+          "date": "2026-02-18T20:29:05Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "1d2868f",
+          "message": "chore: release main (#915)",
+          "date": "2026-02-18T03:59:33Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "bcdf5b2",
+          "message": "chore: release main",
+          "date": "2026-02-17T19:12:22Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "2a5d0ad",
+          "message": "fix(tests): fix erroneous speed tests  (#699)",
+          "date": "2026-02-17T19:11:51Z",
+          "author": "Packy Gallagher"
+        },
+        {
+          "sha": "21ad14f",
+          "message": "fix(api): fix spec errors",
+          "date": "2026-02-17T18:28:15Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "f1c6b27",
+          "message": "feat(api): Releasing claude-sonnet-4-6",
+          "date": "2026-02-17T17:52:33Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "03ec73e",
+          "message": "chore(internal/client): fix form-urlencoded requests",
+          "date": "2026-02-17T17:40:07Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "a549b38",
+          "message": "codegen metadata",
+          "date": "2026-02-12T14:57:54Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "a823147",
+          "message": "codegen metadata",
+          "date": "2026-02-11T22:20:10Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "b40fc04",
+          "message": "codegen metadata",
+          "date": "2026-02-11T17:09:33Z",
+          "author": "stainless-app[bot]"
+        }
+      ]
+    },
+    {
+      "name": "anthropic-sdk-ruby",
+      "description": null,
+      "stars": 326,
+      "language": "Ruby",
+      "pushedAt": "2026-04-28T15:01:36Z",
+      "url": "https://github.com/anthropics/anthropic-sdk-ruby",
+      "contributors": [
+        {
+          "login": "stainless-app[bot]",
+          "contributions": 387
+        },
+        {
+          "login": "stainless-bot",
+          "contributions": 180
+        },
+        {
+          "login": "stainless-ci-bot",
+          "contributions": 46
+        },
+        {
+          "login": "ms-jpq",
+          "contributions": 33
+        },
+        {
+          "login": "dtmeadows",
+          "contributions": 13
+        },
+        {
+          "login": "renfredxh",
+          "contributions": 8
+        },
+        {
+          "login": "TomerAberbach",
+          "contributions": 4
+        },
+        {
+          "login": "charleseff",
+          "contributions": 3
+        },
+        {
+          "login": "chaselambda",
+          "contributions": 3
+        },
+        {
+          "login": "cameron-mcateer",
+          "contributions": 2
+        },
+        {
+          "login": "y-yagi",
+          "contributions": 2
+        },
+        {
+          "login": "dan-jensen",
+          "contributions": 2
+        },
+        {
+          "login": "andyw8",
+          "contributions": 2
+        },
+        {
+          "login": "shybovycha",
+          "contributions": 1
+        },
+        {
+          "login": "michael-cohen-io",
+          "contributions": 1
+        },
+        {
+          "login": "mikecluck",
+          "contributions": 1
+        },
+        {
+          "login": "nikblanchet",
+          "contributions": 1
+        },
+        {
+          "login": "RobertCraigie",
+          "contributions": 1
+        },
+        {
+          "login": "sara-hannigan",
+          "contributions": 1
+        },
+        {
+          "login": "yjp20",
+          "contributions": 1
+        },
+        {
+          "login": "bruce-hill",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "521ce68",
+          "message": "release: 1.36.0",
+          "date": "2026-04-23T20:43:20Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "869e82e",
+          "message": "fix(api): fix errors in api spec",
+          "date": "2026-04-23T20:42:51Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "977ad45",
+          "message": "fix(api): restore missing features",
+          "date": "2026-04-23T20:33:51Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "58ed58a",
+          "message": "feat(api): CMA Memory public beta",
+          "date": "2026-04-23T18:19:23Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "5a54f5d",
+          "message": "fix: avoid gzip buffering during streaming",
+          "date": "2026-04-23T20:37:45Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d19c3ef",
+          "message": "codegen metadata",
+          "date": "2026-04-22T23:14:45Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "6cb11d1",
+          "message": "chore(internal): more robust bootstrap script",
+          "date": "2026-04-22T14:04:01Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "0f68b36",
+          "message": "chore(tests): bump steady to v0.22.1",
+          "date": "2026-04-17T19:55:59Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "fd9c4a1",
+          "message": "codegen metadata",
+          "date": "2026-04-16T19:06:18Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "01dab61",
+          "message": "release: 1.35.0",
+          "date": "2026-04-16T14:23:18Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c26e586",
+          "message": "feat(api): add claude-opus-4-7, token budgets and user_profiles",
+          "date": "2026-04-16T14:22:19Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d87d827",
+          "message": "chore(ci): remove release-doctor workflow",
+          "date": "2026-04-14T19:29:39Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "faee426",
+          "message": "release: 1.34.0",
+          "date": "2026-04-14T18:37:31Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "49d958f",
+          "message": "feat(api): mark Sonnet and Opus 4 as deprecated",
+          "date": "2026-04-14T18:36:51Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "4d2f67c",
+          "message": "feat(bedrock): use auth header for mantle client (#894)",
+          "date": "2026-04-14T17:58:41Z",
+          "author": "Cameron McAteer"
+        },
+        {
+          "sha": "52136d3",
+          "message": "codegen metadata",
+          "date": "2026-04-14T15:37:08Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "2959534",
+          "message": "release: 1.33.1",
+          "date": "2026-04-13T16:22:22Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "e85124a",
+          "message": "fix(streaming): add missing events",
+          "date": "2026-04-13T16:21:57Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "7b8ed53",
+          "message": "docs: update examples",
+          "date": "2026-04-10T21:46:08Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "7de3aaf",
+          "message": "release: 1.33.0",
+          "date": "2026-04-10T17:14:24Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "dc663eb",
+          "message": "docs: improve examples",
+          "date": "2026-04-10T17:14:00Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "dec2172",
+          "message": "feat: vertex eu region (#897)",
+          "date": "2026-04-09T19:46:13Z",
+          "author": "Mike Cluck"
+        },
+        {
+          "sha": "150defa",
+          "message": "codegen metadata",
+          "date": "2026-04-09T18:47:06Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "cc47b5f",
+          "message": "release: 1.32.0",
+          "date": "2026-04-09T18:09:50Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c4b5480",
+          "message": "feat(api): Add beta advisor tool",
+          "date": "2026-04-09T18:08:57Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d570f82",
+          "message": "codegen metadata",
+          "date": "2026-04-09T15:16:16Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "7a95f92",
+          "message": "codegen metadata",
+          "date": "2026-04-09T14:10:28Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "28e856f",
+          "message": "fix: multipart encoding for file arrays",
+          "date": "2026-04-08T20:10:00Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "3ee64b4",
+          "message": "release: 1.31.0",
+          "date": "2026-04-08T16:51:08Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "66a7ff9",
+          "message": "feat(api): add support for Claude Managed Agents",
+          "date": "2026-04-08T16:50:45Z",
+          "author": "stainless-app[bot]"
+        }
+      ]
+    },
+    {
+      "name": "anthropic-sdk-csharp",
+      "description": "Access to Anthropic's safety-first language model APIs in C#",
+      "stars": 249,
+      "language": "C#",
+      "pushedAt": "2026-04-28T14:55:03Z",
+      "url": "https://github.com/anthropics/anthropic-sdk-csharp",
+      "contributors": [
+        {
+          "login": "stainless-app[bot]",
+          "contributions": 229
+        },
+        {
+          "login": "sd-st",
+          "contributions": 25
+        },
+        {
+          "login": "stephentoub",
+          "contributions": 13
+        },
+        {
+          "login": "TomerAberbach",
+          "contributions": 11
+        },
+        {
+          "login": "packyg",
+          "contributions": 5
+        },
+        {
+          "login": "RobertCraigie",
+          "contributions": 5
+        },
+        {
+          "login": "rogerbarreto",
+          "contributions": 3
+        },
+        {
+          "login": "JPVenson",
+          "contributions": 3
+        },
+        {
+          "login": "meorphis",
+          "contributions": 2
+        },
+        {
+          "login": "mattbrailsford",
+          "contributions": 1
+        },
+        {
+          "login": "koogoro",
+          "contributions": 1
+        },
+        {
+          "login": "dgellow",
+          "contributions": 1
+        },
+        {
+          "login": "sara-hannigan",
+          "contributions": 1
+        },
+        {
+          "login": "shug2k",
+          "contributions": 1
+        },
+        {
+          "login": "byigitt",
+          "contributions": 1
+        },
+        {
+          "login": "dtmeadows",
+          "contributions": 1
+        },
+        {
+          "login": "stainless-sdks[bot]",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "cbd09fc",
+          "message": "chore: release main (#179)",
+          "date": "2026-04-23T20:54:53Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "8322f19",
+          "message": "chore: release main (#177)",
+          "date": "2026-04-16T14:33:01Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "dbc66a2",
+          "message": "chore: release main (#176)",
+          "date": "2026-04-14T19:08:20Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "fa618be",
+          "message": "chore: release main (#172)",
+          "date": "2026-04-10T22:29:11Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "357eb80",
+          "message": "chore: release main (#171)",
+          "date": "2026-04-09T18:17:44Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "540e91f",
+          "message": "chore: release main (#170)",
+          "date": "2026-04-08T17:21:41Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "e1250dc",
+          "message": "chore: release main (#167)",
+          "date": "2026-04-07T19:17:38Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "5b00047",
+          "message": "chore: release main (#161)",
+          "date": "2026-04-07T17:54:10Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "0bef96b",
+          "message": "chore: release main (#160)",
+          "date": "2026-04-03T18:58:34Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "eae4ffe",
+          "message": "chore: release main (#158)",
+          "date": "2026-04-01T20:03:01Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d401daf",
+          "message": "chore: release main (#142)",
+          "date": "2026-03-31T18:34:27Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d858670",
+          "message": "chore: release main (#131)",
+          "date": "2026-03-16T16:08:08Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "3c330c9",
+          "message": "chore: release main (#129)",
+          "date": "2026-02-19T20:25:16Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "03019e7",
+          "message": "release: 12.7.0 (#128)",
+          "date": "2026-02-18T20:24:18Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "100e155",
+          "message": "chore: release 12.6.0 (#125)",
+          "date": "2026-02-18T01:09:50Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "3483b34",
+          "message": "chore(internal): fix publishing flow to ignore duplicate package versions (#122) (#123)",
+          "date": "2026-02-12T21:21:18Z",
+          "author": "Stephen"
+        },
+        {
+          "sha": "c21d143",
+          "message": "chore: release main (#112)",
+          "date": "2026-02-12T18:37:15Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "847cd56",
+          "message": "Update CHANGELOG.md (#114)",
+          "date": "2026-02-06T22:20:58Z",
+          "author": "Sara Hannigan"
+        },
+        {
+          "sha": "141cc86",
+          "message": "chore: release main (#102)",
+          "date": "2026-02-05T18:56:55Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "dd89a13",
+          "message": "chore: release main (#96)",
+          "date": "2026-01-29T21:40:44Z",
+          "author": "stainless-app[bot]"
+        }
+      ]
+    },
+    {
+      "name": "anthropic-sdk-python",
+      "description": null,
+      "stars": 3334,
+      "language": "Python",
+      "pushedAt": "2026-04-28T14:53:36Z",
+      "url": "https://github.com/anthropics/anthropic-sdk-python",
+      "contributors": [
+        {
+          "login": "stainless-app[bot]",
+          "contributions": 495
+        },
+        {
+          "login": "stainless-bot",
+          "contributions": 341
+        },
+        {
+          "login": "RobertCraigie",
+          "contributions": 91
+        },
+        {
+          "login": "dtmeadows",
+          "contributions": 29
+        },
+        {
+          "login": "mikelambert",
+          "contributions": 15
+        },
+        {
+          "login": "karpetrosyan",
+          "contributions": 15
+        },
+        {
+          "login": "TomerAberbach",
+          "contributions": 8
+        },
+        {
+          "login": "jenan-anthropic",
+          "contributions": 5
+        },
+        {
+          "login": "rattrayalex",
+          "contributions": 4
+        },
+        {
+          "login": "cameron-mcateer",
+          "contributions": 3
+        },
+        {
+          "login": "dgellow",
+          "contributions": 3
+        },
+        {
+          "login": "x5a",
+          "contributions": 3
+        },
+        {
+          "login": "meorphis",
+          "contributions": 2
+        },
+        {
+          "login": "ms-jpq",
+          "contributions": 2
+        },
+        {
+          "login": "yjp20",
+          "contributions": 2
+        },
+        {
+          "login": "nbhargava",
+          "contributions": 2
+        },
+        {
+          "login": "felixfbecker",
+          "contributions": 2
+        },
+        {
+          "login": "agola11",
+          "contributions": 2
+        },
+        {
+          "login": "aaron-lerner",
+          "contributions": 2
+        },
+        {
+          "login": "abi",
+          "contributions": 1
+        },
+        {
+          "login": "NDV-tiime",
+          "contributions": 1
+        },
+        {
+          "login": "nikblanchet",
+          "contributions": 1
+        },
+        {
+          "login": "PatDuJour",
+          "contributions": 1
+        },
+        {
+          "login": "sara-hannigan",
+          "contributions": 1
+        },
+        {
+          "login": "TurtleShip",
+          "contributions": 1
+        },
+        {
+          "login": "skoushan",
+          "contributions": 1
+        },
+        {
+          "login": "uripeled2",
+          "contributions": 1
+        },
+        {
+          "login": "yashwantbezawada",
+          "contributions": 1
+        },
+        {
+          "login": "nero19960329",
+          "contributions": 1
+        },
+        {
+          "login": "ezzcodeezzlife",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "78c7360",
+          "message": "release: 0.97.0",
+          "date": "2026-04-23T20:48:41Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d274533",
+          "message": "chore: add missing import",
+          "date": "2026-04-23T20:47:55Z",
+          "author": "Cameron McAteer"
+        },
+        {
+          "sha": "c078db1",
+          "message": "fix(api): fix errors in api spec",
+          "date": "2026-04-23T20:42:32Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "5807d0e",
+          "message": "fix(api): restore missing features",
+          "date": "2026-04-23T20:33:39Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "2cb7a83",
+          "message": "feat(api): CMA Memory public beta",
+          "date": "2026-04-23T18:19:01Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "edbddf7",
+          "message": "codegen metadata",
+          "date": "2026-04-22T23:14:26Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "4d3e27c",
+          "message": "chore(internal): more robust bootstrap script",
+          "date": "2026-04-22T14:03:42Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d2b3cda",
+          "message": "chore(tests): bump steady to v0.22.1",
+          "date": "2026-04-17T19:55:34Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "5871ccb",
+          "message": "perf(client): optimize file structure copying in multipart requests",
+          "date": "2026-04-17T17:39:03Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "b4fba03",
+          "message": "codegen metadata",
+          "date": "2026-04-16T19:05:59Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "78de297",
+          "message": "release: 0.96.0",
+          "date": "2026-04-16T14:23:35Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "dc0c792",
+          "message": "feat(api): add claude-opus-4-7, token budgets and user_profiles",
+          "date": "2026-04-16T14:22:06Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "71eff1f",
+          "message": "chore(ci): remove release-doctor workflow",
+          "date": "2026-04-14T19:29:12Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "1056685",
+          "message": "release: 0.95.0",
+          "date": "2026-04-14T18:56:11Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "9741185",
+          "message": "feat(bedrock): use auth header for mantle client (#1644)",
+          "date": "2026-04-14T18:55:22Z",
+          "author": "Cameron McAteer"
+        },
+        {
+          "sha": "ef22dbb",
+          "message": "feat(api): mark Sonnet and Opus 4 as deprecated",
+          "date": "2026-04-14T18:54:57Z",
+          "author": "David Meadows"
+        },
+        {
+          "sha": "6d9b986",
+          "message": "codegen metadata",
+          "date": "2026-04-14T15:36:50Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "47c48a9",
+          "message": "release: 0.94.1",
+          "date": "2026-04-13T16:22:11Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "49bab64",
+          "message": "fix(streaming): add missing events",
+          "date": "2026-04-13T16:21:38Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "7b03b0f",
+          "message": "release: 0.94.0",
+          "date": "2026-04-10T22:23:26Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "42ee3da",
+          "message": "docs: update examples",
+          "date": "2026-04-10T22:22:54Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "0c8a8c9",
+          "message": "fix: ensure file data are only sent as 1 parameter",
+          "date": "2026-04-10T14:57:47Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "9092064",
+          "message": "feat: vertex eu region (#1658)",
+          "date": "2026-04-09T19:46:05Z",
+          "author": "Mike Cluck"
+        },
+        {
+          "sha": "25b6c31",
+          "message": "codegen metadata",
+          "date": "2026-04-09T18:46:46Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "717f90b",
+          "message": "release: 0.93.0",
+          "date": "2026-04-09T18:09:06Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c101559",
+          "message": "feat(api): Add beta advisor tool",
+          "date": "2026-04-09T18:08:35Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "5a290a8",
+          "message": "codegen metadata",
+          "date": "2026-04-09T15:15:59Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c2cc6f9",
+          "message": "codegen metadata",
+          "date": "2026-04-09T14:10:10Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "90cd200",
+          "message": "release: 0.92.0 (#1348)",
+          "date": "2026-04-08T16:54:42Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "8a0885d",
+          "message": "release: 0.91.0 (#1345)",
+          "date": "2026-04-07T18:40:25Z",
+          "author": "stainless-app[bot]"
+        }
+      ]
+    },
+    {
+      "name": "anthropic-sdk-go",
+      "description": "Access to Anthropic's safety-first language model APIs via Go",
+      "stars": 1011,
+      "language": "Go",
+      "pushedAt": "2026-04-28T14:52:42Z",
+      "url": "https://github.com/anthropics/anthropic-sdk-go",
+      "contributors": [
+        {
+          "login": "stainless-app[bot]",
+          "contributions": 387
+        },
+        {
+          "login": "dtmeadows",
+          "contributions": 37
+        },
+        {
+          "login": "jacobzim-stl",
+          "contributions": 20
+        },
+        {
+          "login": "RobertCraigie",
+          "contributions": 9
+        },
+        {
+          "login": "yjp20",
+          "contributions": 8
+        },
+        {
+          "login": "TomerAberbach",
+          "contributions": 4
+        },
+        {
+          "login": "renfredxh",
+          "contributions": 4
+        },
+        {
+          "login": "gcemaj",
+          "contributions": 3
+        },
+        {
+          "login": "michael-cohen-io",
+          "contributions": 3
+        },
+        {
+          "login": "auzhva",
+          "contributions": 2
+        },
+        {
+          "login": "stainless-bot",
+          "contributions": 2
+        },
+        {
+          "login": "koogoro",
+          "contributions": 2
+        },
+        {
+          "login": "cameron-mcateer",
+          "contributions": 2
+        },
+        {
+          "login": "ms-jpq",
+          "contributions": 1
+        },
+        {
+          "login": "arcrank",
+          "contributions": 1
+        },
+        {
+          "login": "x5a",
+          "contributions": 1
+        },
+        {
+          "login": "stainless-ci-bot",
+          "contributions": 1
+        },
+        {
+          "login": "sara-hannigan",
+          "contributions": 1
+        },
+        {
+          "login": "samj-anthropic",
+          "contributions": 1
+        },
+        {
+          "login": "packyg",
+          "contributions": 1
+        },
+        {
+          "login": "nikblanchet",
+          "contributions": 1
+        },
+        {
+          "login": "mikecluck",
+          "contributions": 1
+        },
+        {
+          "login": "mhxw",
+          "contributions": 1
+        },
+        {
+          "login": "LucasHild",
+          "contributions": 1
+        },
+        {
+          "login": "jdotw",
+          "contributions": 1
+        },
+        {
+          "login": "h-ess",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "468905d",
+          "message": "release: 1.38.0",
+          "date": "2026-04-23T20:42:53Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "2c6421c",
+          "message": "fix(api): fix errors in api spec",
+          "date": "2026-04-23T20:42:25Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "8dd22d4",
+          "message": "fix(api): restore missing features",
+          "date": "2026-04-23T20:33:25Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "6b0457f",
+          "message": "feat(api): CMA Memory public beta",
+          "date": "2026-04-23T18:18:55Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "b6c5ffb",
+          "message": "codegen metadata",
+          "date": "2026-04-22T23:14:22Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "eb42d96",
+          "message": "chore(internal): more robust bootstrap script",
+          "date": "2026-04-22T14:03:31Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "eefb943",
+          "message": "feat: structured outputs via Schema any with auto-parse (#759)",
+          "date": "2026-04-17T22:29:58Z",
+          "author": "renfredxh"
+        },
+        {
+          "sha": "f5879a2",
+          "message": "chore(tests): bump steady to v0.22.1",
+          "date": "2026-04-17T19:55:23Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "4bef67d",
+          "message": "feat: add Type() method to API errors for error kind identification (#676)",
+          "date": "2026-04-17T15:20:05Z",
+          "author": "renfredxh"
+        },
+        {
+          "sha": "0d114df",
+          "message": "codegen metadata",
+          "date": "2026-04-16T19:05:52Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "b23d9dc",
+          "message": "release: 1.37.0",
+          "date": "2026-04-16T14:22:16Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "62d0297",
+          "message": "feat(api): add claude-opus-4-7, token budgets and user_profiles",
+          "date": "2026-04-16T14:21:52Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "9a9dd58",
+          "message": "release: 1.36.0",
+          "date": "2026-04-14T18:56:40Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "702322c",
+          "message": "feat(bedrock): use auth header for mantle client (#734)",
+          "date": "2026-04-14T18:56:10Z",
+          "author": "Cameron McAteer"
+        },
+        {
+          "sha": "1b7e4a5",
+          "message": "feat(api): mark Sonnet and Opus 4 as deprecated",
+          "date": "2026-04-14T18:36:25Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "53f1077",
+          "message": "codegen metadata",
+          "date": "2026-04-14T15:36:45Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "07302c8",
+          "message": "release: 1.35.1",
+          "date": "2026-04-13T16:21:54Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "1717fb8",
+          "message": "fix(streaming): add missing events",
+          "date": "2026-04-13T16:21:32Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "bfadb96",
+          "message": "release: 1.35.0",
+          "date": "2026-04-10T21:45:57Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "1cbab1a",
+          "message": "docs: update examples",
+          "date": "2026-04-10T21:45:38Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "cc480ed",
+          "message": "fix(tools): convert tool response type to array (#748)",
+          "date": "2026-04-10T16:01:20Z",
+          "author": "Cameron McAteer"
+        },
+        {
+          "sha": "6604dfd",
+          "message": "feat: vertex eu region (#740)",
+          "date": "2026-04-09T19:45:48Z",
+          "author": "Mike Cluck"
+        },
+        {
+          "sha": "31a928e",
+          "message": "codegen metadata",
+          "date": "2026-04-09T18:46:40Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "2a24e5f",
+          "message": "release: 1.34.0",
+          "date": "2026-04-09T18:08:57Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "05588c6",
+          "message": "feat(api): Add beta advisor tool",
+          "date": "2026-04-09T18:08:30Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "e57fbd7",
+          "message": "codegen metadata",
+          "date": "2026-04-09T15:15:53Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d0a83e9",
+          "message": "codegen metadata",
+          "date": "2026-04-09T14:10:05Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "f7e7e64",
+          "message": "release: 1.33.0 (#312)",
+          "date": "2026-04-08T16:54:43Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c5032f8",
+          "message": "release: 1.32.0",
+          "date": "2026-04-07T18:25:47Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c907d2a",
+          "message": "feat(bedrock): add AnthropicBedrockMantle client (#704)",
+          "date": "2026-04-07T18:25:18Z",
+          "author": "dtmeadows"
+        }
+      ]
+    },
+    {
+      "name": "anthropic-sdk-php",
+      "description": "Access to Anthropic's safety-first language model APIs in PHP",
+      "stars": 141,
+      "language": "PHP",
+      "pushedAt": "2026-04-28T14:52:24Z",
+      "url": "https://github.com/anthropics/anthropic-sdk-php",
+      "contributors": [
+        {
+          "login": "stainless-app[bot]",
+          "contributions": 204
+        },
+        {
+          "login": "jeromegamez",
+          "contributions": 11
+        },
+        {
+          "login": "cameron-mcateer",
+          "contributions": 9
+        },
+        {
+          "login": "dtmeadows",
+          "contributions": 5
+        },
+        {
+          "login": "ms-jpq",
+          "contributions": 4
+        },
+        {
+          "login": "mikecluck",
+          "contributions": 3
+        },
+        {
+          "login": "packyg",
+          "contributions": 3
+        },
+        {
+          "login": "nikblanchet",
+          "contributions": 2
+        },
+        {
+          "login": "re-bird",
+          "contributions": 1
+        },
+        {
+          "login": "renfredxh",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "dd575e5",
+          "message": "release: 0.17.1",
+          "date": "2026-04-27T05:59:01Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "0c0c45d",
+          "message": "fix: revert enum parsing change that lead to unconditional failure",
+          "date": "2026-04-25T02:39:26Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "09a5e07",
+          "message": "codegen metadata",
+          "date": "2026-04-24T00:28:40Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "0b7dc46",
+          "message": "codegen metadata",
+          "date": "2026-04-23T21:08:37Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "93127fa",
+          "message": "release: 0.17.0",
+          "date": "2026-04-23T20:43:05Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "f45b6e8",
+          "message": "fix(api): fix errors in api spec",
+          "date": "2026-04-23T20:42:38Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "5360300",
+          "message": "fix(api): restore missing features",
+          "date": "2026-04-23T20:33:35Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "699eb9e",
+          "message": "feat(api): CMA Memory public beta",
+          "date": "2026-04-23T18:19:09Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "045f75e",
+          "message": "codegen metadata",
+          "date": "2026-04-22T23:14:32Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "6a26021",
+          "message": "chore(tests): bump steady to v0.22.1",
+          "date": "2026-04-17T19:55:37Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c56c21a",
+          "message": "fix: populate enum-typed properties with enum instances",
+          "date": "2026-04-17T19:23:27Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c7fa39d",
+          "message": "fix(client): resolve serialization issue with unions and enums",
+          "date": "2026-04-22T22:48:22Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "a04f1f6",
+          "message": "codegen metadata",
+          "date": "2026-04-16T19:05:56Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "ac047bb",
+          "message": "release: 0.16.0",
+          "date": "2026-04-16T14:22:56Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "af853f5",
+          "message": "feat(api): add claude-opus-4-7, token budgets and user_profiles",
+          "date": "2026-04-16T14:22:04Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d4e70e6",
+          "message": "release: 0.15.0",
+          "date": "2026-04-14T21:22:57Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "f16cd42",
+          "message": "chore: deprecate sonnet 4 and opus 4 models (#540)",
+          "date": "2026-04-14T21:22:29Z",
+          "author": "Cameron McAteer"
+        },
+        {
+          "sha": "241a706",
+          "message": "chore(ci): remove release-doctor workflow",
+          "date": "2026-04-14T19:29:20Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "08d2725",
+          "message": "codegen metadata",
+          "date": "2026-04-14T18:36:37Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "4aec360",
+          "message": "chore(docs): add 2 more examples on how to use the agents API (#537)",
+          "date": "2026-04-14T17:58:39Z",
+          "author": "dtmeadows"
+        },
+        {
+          "sha": "2cf30f7",
+          "message": "feat(bedrock): use auth header for mantle client (#511)",
+          "date": "2026-04-14T17:58:22Z",
+          "author": "Cameron McAteer"
+        },
+        {
+          "sha": "43e80b6",
+          "message": "fix(lint): remove dead code flagged by PHPStan 2.1.47 (#534)",
+          "date": "2026-04-14T15:43:09Z",
+          "author": "dtmeadows"
+        },
+        {
+          "sha": "919e9a8",
+          "message": "feat(client): enable upload methods",
+          "date": "2026-04-14T15:36:55Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "b4b90a8",
+          "message": "fix(streaming): add missing events",
+          "date": "2026-04-13T16:21:43Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "049b01e",
+          "message": "release: 0.14.0",
+          "date": "2026-04-10T21:46:12Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "7c01932",
+          "message": "docs: update examples",
+          "date": "2026-04-10T21:45:53Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "950f2ce",
+          "message": "fix(client): properly generate file params",
+          "date": "2026-04-10T21:30:06Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "8bde0d0",
+          "message": "docs: improve examples",
+          "date": "2026-04-10T17:13:35Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "2e2ed63",
+          "message": "feat: vertex eu region (#517)",
+          "date": "2026-04-09T19:45:57Z",
+          "author": "Mike Cluck"
+        },
+        {
+          "sha": "44271bb",
+          "message": "codegen metadata",
+          "date": "2026-04-09T18:46:52Z",
+          "author": "stainless-app[bot]"
+        }
+      ]
+    },
+    {
+      "name": "anthropic-sdk-java",
+      "description": null,
+      "stars": 299,
+      "language": "Kotlin",
+      "pushedAt": "2026-04-28T14:52:06Z",
+      "url": "https://github.com/anthropics/anthropic-sdk-java",
+      "contributors": [
+        {
+          "login": "stainless-app[bot]",
+          "contributions": 447
+        },
+        {
+          "login": "TomerAberbach",
+          "contributions": 42
+        },
+        {
+          "login": "dtmeadows",
+          "contributions": 38
+        },
+        {
+          "login": "cameron-mcateer",
+          "contributions": 10
+        },
+        {
+          "login": "damo",
+          "contributions": 9
+        },
+        {
+          "login": "michael-cohen-io",
+          "contributions": 4
+        },
+        {
+          "login": "RobertCraigie",
+          "contributions": 4
+        },
+        {
+          "login": "miotke-ant",
+          "contributions": 2
+        },
+        {
+          "login": "benkomalo",
+          "contributions": 1
+        },
+        {
+          "login": "kevinc13",
+          "contributions": 1
+        },
+        {
+          "login": "re-bird",
+          "contributions": 1
+        },
+        {
+          "login": "MaxwellCalkin",
+          "contributions": 1
+        },
+        {
+          "login": "nikblanchet",
+          "contributions": 1
+        },
+        {
+          "login": "packyg",
+          "contributions": 1
+        },
+        {
+          "login": "sara-hannigan",
+          "contributions": 1
+        },
+        {
+          "login": "stainless-ci-bot",
+          "contributions": 1
+        },
+        {
+          "login": "stainless-bot",
+          "contributions": 1
+        },
+        {
+          "login": "ykoh42",
+          "contributions": 1
+        },
+        {
+          "login": "yjp20",
+          "contributions": 1
+        },
+        {
+          "login": "zklapow",
+          "contributions": 1
+        },
+        {
+          "login": "ms-jpq",
+          "contributions": 1
+        },
+        {
+          "login": "renfredxh",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "2dbf515",
+          "message": "chore: release main (#325)",
+          "date": "2026-04-23T21:17:37Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "ec3724d",
+          "message": "chore: release main (#323)",
+          "date": "2026-04-16T14:34:12Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "30a74c5",
+          "message": "chore: release main (#320)",
+          "date": "2026-04-14T19:08:18Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "227a6ed",
+          "message": "chore: release main (#319)",
+          "date": "2026-04-09T20:47:52Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "2cc9f20",
+          "message": "chore: release main (#318)",
+          "date": "2026-04-09T18:20:51Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "52273b4",
+          "message": "chore: release main (#317)",
+          "date": "2026-04-08T17:41:29Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "3014518",
+          "message": "chore: release main (#314)",
+          "date": "2026-04-07T17:55:04Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "87d86d9",
+          "message": "chore: release main (#313)",
+          "date": "2026-04-01T20:50:16Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "971efc8",
+          "message": "release: 2.19.0",
+          "date": "2026-03-31T19:17:11Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "3dabf07",
+          "message": "chore(tests): bump steady to v0.20.2",
+          "date": "2026-03-31T19:16:48Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "e21607c",
+          "message": "chore(tests): bump steady to v0.20.1",
+          "date": "2026-03-31T13:27:58Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "4b831a0",
+          "message": "Add output-300k-2026-03-24 beta header",
+          "date": "2026-03-30T16:21:37Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "404ab5d",
+          "message": "chore(ci): run builds on CI even if only spec metadata changed",
+          "date": "2026-03-27T20:03:06Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "72ff826",
+          "message": "chore(internal): update multipart form array serialization",
+          "date": "2026-03-26T19:28:01Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "59a1005",
+          "message": "codegen metadata",
+          "date": "2026-03-26T13:39:43Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "61e27d5",
+          "message": "chore(tests): bump steady to v0.19.7",
+          "date": "2026-03-24T15:47:59Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "6c29411",
+          "message": "chore(ci): skip lint on metadata-only changes",
+          "date": "2026-03-24T15:18:18Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "5137631",
+          "message": "feat: add errorType() method to AnthropicServiceException (#1031)",
+          "date": "2026-03-23T20:04:13Z",
+          "author": "renfredxh"
+        },
+        {
+          "sha": "e9e58a6",
+          "message": "chore(tests): bump steady to v0.19.6",
+          "date": "2026-03-23T18:03:30Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "ca71bf7",
+          "message": "chore(internal): update gitignore",
+          "date": "2026-03-23T12:42:09Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "76f3fa3",
+          "message": "chore(tests): bump steady to v0.19.5",
+          "date": "2026-03-20T21:44:36Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "ea9b4eb",
+          "message": "fix(format): re-format files after ktfmt upgrade",
+          "date": "2026-03-20T20:22:29Z",
+          "author": "David Meadows"
+        },
+        {
+          "sha": "6388445",
+          "message": "chore(tests): bump steady to v0.19.4",
+          "date": "2026-03-20T17:55:46Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "54cac60",
+          "message": "release: 2.18.0",
+          "date": "2026-03-18T18:30:16Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "26250c8",
+          "message": "feat(api): manual updates",
+          "date": "2026-03-18T18:29:52Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "be47fc3",
+          "message": "feat(api): manual updates",
+          "date": "2026-03-18T06:24:11Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "39bf190",
+          "message": "fix(client): allow updating header/query affecting fields in `toBuilder()`",
+          "date": "2026-03-18T15:31:55Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "06d97c6",
+          "message": "chore(internal): update retry delay tests",
+          "date": "2026-03-17T16:53:17Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "be96a0c",
+          "message": "chore(internal): tweak CI branches",
+          "date": "2026-03-16T20:50:24Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "ce72582",
+          "message": "release: 2.17.0",
+          "date": "2026-03-16T16:30:24Z",
+          "author": "stainless-app[bot]"
+        }
+      ]
+    },
+    {
+      "name": "claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 18096,
+      "language": "Python",
+      "pushedAt": "2026-04-28T13:23:23Z",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "contributors": [
+        {
+          "login": "bryan-anthropic",
+          "contributions": 75
+        },
+        {
+          "login": "tobinsouth",
+          "contributions": 59
+        },
+        {
+          "login": "k6l3",
+          "contributions": 52
+        },
+        {
+          "login": "noahzweben",
+          "contributions": 41
+        },
+        {
+          "login": "ThariqS",
+          "contributions": 15
+        },
+        {
+          "login": "dicksontsai",
+          "contributions": 14
+        },
+        {
+          "login": "dhollman",
+          "contributions": 11
+        },
+        {
+          "login": "claude",
+          "contributions": 8
+        },
+        {
+          "login": "kencheeto",
+          "contributions": 7
+        },
+        {
+          "login": "isabella-anthropic",
+          "contributions": 7
+        },
+        {
+          "login": "samfishman",
+          "contributions": 4
+        },
+        {
+          "login": "rfurman",
+          "contributions": 4
+        },
+        {
+          "login": "sarahdeaton",
+          "contributions": 4
+        },
+        {
+          "login": "russell-coleman",
+          "contributions": 3
+        },
+        {
+          "login": "amorriscode",
+          "contributions": 2
+        },
+        {
+          "login": "bhosmer-ant",
+          "contributions": 2
+        },
+        {
+          "login": "bcherny",
+          "contributions": 2
+        },
+        {
+          "login": "clackbib",
+          "contributions": 1
+        },
+        {
+          "login": "karandeep-johar",
+          "contributions": 1
+        },
+        {
+          "login": "OctavianGuzu",
+          "contributions": 1
+        },
+        {
+          "login": "obahareth",
+          "contributions": 1
+        },
+        {
+          "login": "jschwar2552",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "18113ad",
+          "message": "Add adobe-for-creativity plugin (#1625)",
+          "date": "2026-04-28T11:43:59Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "9983273",
+          "message": "Merge pull request #1621 from anthropics/fix/validate-frontmatter-shell-injection",
+          "date": "2026-04-28T10:41:07Z",
+          "author": "Octavian Guzu"
+        },
+        {
+          "sha": "c5837a2",
+          "message": "Add aws-dev-toolkit plugin (#1617)",
+          "date": "2026-04-28T05:40:28Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "f4b5494",
+          "message": "mcp-server-dev: hosting, payload-cap, lifecycle, and directory guidance (#1566)",
+          "date": "2026-04-28T03:46:23Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "068a59e",
+          "message": "Fix shell injection in validate-frontmatter workflow",
+          "date": "2026-04-28T00:38:18Z",
+          "author": "Dickson Tsai"
+        },
+        {
+          "sha": "1c81b81",
+          "message": "Add logfire plugin (#1613)",
+          "date": "2026-04-27T19:37:20Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "7d42fe2",
+          "message": "Add 42crunch-api-security-testing plugin (#1580)",
+          "date": "2026-04-27T19:37:15Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "71545a2",
+          "message": "Add datarobot-agent-skills plugin (#1579)",
+          "date": "2026-04-27T19:37:11Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "458b279",
+          "message": "Add aiven plugin (#1578)",
+          "date": "2026-04-27T19:37:07Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "26973b8",
+          "message": "Add fullstory plugin (#1577)",
+          "date": "2026-04-27T19:37:03Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "6fc0a4b",
+          "message": "Add jfrog plugin (#1576)",
+          "date": "2026-04-27T19:36:58Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "27cab8e",
+          "message": "Add rails-query plugin (#1575)",
+          "date": "2026-04-27T19:36:54Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "020446a",
+          "message": "Add quarkus-agent plugin (#1534)",
+          "date": "2026-04-23T21:45:48Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "740e9d5",
+          "message": "Add vanta-mcp-plugin (#1563)",
+          "date": "2026-04-23T21:29:25Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "5a71459",
+          "message": "telegram: gate /start, /help, /status behind dmPolicy (#894)",
+          "date": "2026-04-23T19:02:34Z",
+          "author": "Noah Zweben"
+        },
+        {
+          "sha": "ae54b11",
+          "message": "Add Apache 2.0 LICENSE to math-olympiad plugin (#868)",
+          "date": "2026-04-23T19:02:30Z",
+          "author": "Noah Zweben"
+        },
+        {
+          "sha": "2a40fd2",
+          "message": "skill-creator: sync from anthropics/skills (drop ANTHROPIC_API_KEY requirement) (#1523)",
+          "date": "2026-04-23T19:02:26Z",
+          "author": "jschwar2552"
+        },
+        {
+          "sha": "95f6172",
+          "message": "Add zscaler plugin (#1552)",
+          "date": "2026-04-23T19:01:19Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "7bbdb84",
+          "message": "Add data-agent-kit-starter-pack plugin (#1551)",
+          "date": "2026-04-23T19:01:12Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "4bbf944",
+          "message": "Add atlassian-forge-skills plugin (#1539)",
+          "date": "2026-04-23T19:01:06Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "06830b2",
+          "message": "Add apollo plugin (#1538)",
+          "date": "2026-04-23T19:01:00Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "bd6f1d7",
+          "message": "Add windsor-ai plugin (#1536)",
+          "date": "2026-04-23T19:00:53Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "808e70f",
+          "message": "Add auth0 plugin (#1535)",
+          "date": "2026-04-23T19:00:47Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "187a267",
+          "message": "Add cloud-sql-postgresql plugin (#1533)",
+          "date": "2026-04-23T19:00:37Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "42e9803",
+          "message": "Add alloydb plugin (#1532)",
+          "date": "2026-04-23T19:00:31Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "c15eada",
+          "message": "Add qt-development-skills plugin (#1519)",
+          "date": "2026-04-23T19:00:25Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "f9f07aa",
+          "message": "Add versori-skills plugin (#1501)",
+          "date": "2026-04-23T19:00:18Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "81952ca",
+          "message": "Merge pull request #1499 from anthropics/add-exa",
+          "date": "2026-04-23T18:59:15Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "0852f66",
+          "message": "Merge pull request #1437 from anthropics/rename-azure-skills-to-azure",
+          "date": "2026-04-23T18:58:58Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "b0724d7",
+          "message": "Rename azure-skills to azure per developer request",
+          "date": "2026-04-16T15:01:28Z",
+          "author": "Bryan Thompson"
+        }
+      ]
+    },
+    {
+      "name": "knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 11626,
+      "language": "Python",
+      "pushedAt": "2026-04-28T13:11:07Z",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "contributors": [
+        {
+          "login": "mattpic-ant",
+          "contributions": 16
+        },
+        {
+          "login": "tobinsouth",
+          "contributions": 6
+        },
+        {
+          "login": "bryan-anthropic",
+          "contributions": 5
+        },
+        {
+          "login": "ochafik",
+          "contributions": 5
+        },
+        {
+          "login": "henrythe9th",
+          "contributions": 3
+        },
+        {
+          "login": "lee-weisberger",
+          "contributions": 3
+        },
+        {
+          "login": "bhosmer-ant",
+          "contributions": 2
+        },
+        {
+          "login": "underyx",
+          "contributions": 2
+        },
+        {
+          "login": "TheGreatAdil",
+          "contributions": 1
+        },
+        {
+          "login": "aromal-a",
+          "contributions": 1
+        },
+        {
+          "login": "jasonm",
+          "contributions": 1
+        },
+        {
+          "login": "mike-luabase",
+          "contributions": 1
+        },
+        {
+          "login": "narenkatakam",
+          "contributions": 1
+        },
+        {
+          "login": "haosenwang1018",
+          "contributions": 1
+        },
+        {
+          "login": "smnbss",
+          "contributions": 1
+        },
+        {
+          "login": "tejas-dharani",
+          "contributions": 1
+        },
+        {
+          "login": "bartschneider",
+          "contributions": 1
+        },
+        {
+          "login": "hichana",
+          "contributions": 1
+        },
+        {
+          "login": "vprajago",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "16ac27f",
+          "message": "Add Box plugin to marketplace (#196)",
+          "date": "2026-04-28T13:11:02Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "902e914",
+          "message": "Add adobe-for-creativity plugin (#197)",
+          "date": "2026-04-28T11:44:04Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "d6c8015",
+          "message": "Update LICENSE with syntax-file and code integration (#193)",
+          "date": "2026-04-28T04:51:32Z",
+          "author": "Aromal A"
+        },
+        {
+          "sha": "8f8779a",
+          "message": "Normalize em-dash escapes in marketplace.json (#195)",
+          "date": "2026-04-28T04:50:59Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "8f9d2d9",
+          "message": "fix(engineering): correct GitHub MCP server URL (#172)",
+          "date": "2026-04-26T19:00:29Z",
+          "author": "Tejas Dharani"
+        },
+        {
+          "sha": "86a8570",
+          "message": "Merge pull request #189 from anthropics/basil/slack-oauth-client-id",
+          "date": "2026-04-23T16:14:59Z",
+          "author": "bhosmer-ant"
+        },
+        {
+          "sha": "39a57c5",
+          "message": "fix(mcp): add Slack OAuth clientId to all role plugins",
+          "date": "2026-04-23T15:54:32Z",
+          "author": "Basil Hosmer"
+        },
+        {
+          "sha": "3b505c1",
+          "message": "Rename google-calendar MCP key and clear gmail/gcal URLs (#184)",
+          "date": "2026-04-21T20:05:35Z",
+          "author": "lee-weisberger"
+        },
+        {
+          "sha": "8fd1c52",
+          "message": "Revert \"add(plugin-json): zoom-plugin external source (#175)\" (#176)",
+          "date": "2026-04-09T23:44:08Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "3dc15bd",
+          "message": "Add Zoom partner plugin (zoom-plugin) (#174)",
+          "date": "2026-04-09T23:28:06Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "3f12086",
+          "message": "add(plugin-json): zoom-plugin external source (#175)",
+          "date": "2026-04-09T21:12:37Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "976999e",
+          "message": "Restore bio-research to marketplace.json (#165)",
+          "date": "2026-04-03T20:12:34Z",
+          "author": "Jason Morrison"
+        },
+        {
+          "sha": "f55b539",
+          "message": "Merge pull request #72 from bryan-anthropic/add-pdf-research-plugin",
+          "date": "2026-03-28T02:13:30Z",
+          "author": "Olivier Chafik"
+        },
+        {
+          "sha": "fc8d9b2",
+          "message": "Merge upstream main: resolve marketplace.json conflict",
+          "date": "2026-03-26T14:38:27Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "f0c53a1",
+          "message": "Rescope pdf-research → pdf-viewer: annotation, form-fill, sign commands",
+          "date": "2026-03-26T14:33:03Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "5d244b9",
+          "message": "Add -y flag to npx to avoid first-install prompt hanging MCP connection",
+          "date": "2026-03-25T17:17:19Z",
+          "author": "Olivier Chafik"
+        },
+        {
+          "sha": "379948a",
+          "message": "Rename pdf → pdf-viewer, skill → view-pdf; refine trigger description",
+          "date": "2026-03-24T15:27:07Z",
+          "author": "Olivier Chafik"
+        },
+        {
+          "sha": "9ba70e2",
+          "message": "Address review: fix accuracy, conventions, emphasize visual form-filling",
+          "date": "2026-03-24T15:15:03Z",
+          "author": "Olivier Chafik"
+        },
+        {
+          "sha": "e925679",
+          "message": "Rescope pdf-research → pdf: expose annotation, form-filling, signing",
+          "date": "2026-03-24T15:12:30Z",
+          "author": "Olivier Chafik"
+        },
+        {
+          "sha": "d2ba7f6",
+          "message": "Plugin batch: 12 new plugins (intercom, cockroachdb, prisma, fastly, cloudinary, nimble, brightdata, searchfit-seo, atlan, ai-firstify, prod",
+          "date": "2026-03-20T17:53:59Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "0a09d9e",
+          "message": "Add Amplitude EU endpoint option (#7)",
+          "date": "2026-03-18T17:28:05Z",
+          "author": "Simone Basso"
+        },
+        {
+          "sha": "57edbc4",
+          "message": "Add Definite as a data warehouse connector (#31)",
+          "date": "2026-03-18T17:24:12Z",
+          "author": "Mike Ritchie"
+        },
+        {
+          "sha": "0835fae",
+          "message": "Add Supermetrics as a marketing analytics connector to the marketing plugin (#123)",
+          "date": "2026-03-18T17:24:05Z",
+          "author": "bartschneider"
+        },
+        {
+          "sha": "307533e",
+          "message": "docs: clarify Cowork vs Claude Code settings file location (#124)",
+          "date": "2026-03-18T17:23:03Z",
+          "author": "vinay"
+        },
+        {
+          "sha": "a518709",
+          "message": "feat(product-management): add brainstorming skill and /brainstorm command (#93)",
+          "date": "2026-03-18T17:22:57Z",
+          "author": "Naren Katakam"
+        },
+        {
+          "sha": "9659c68",
+          "message": "fix: replace 5 bare excepts with except Exception in bio-research scripts (#82)",
+          "date": "2026-03-18T17:22:51Z",
+          "author": "Sense_wang"
+        },
+        {
+          "sha": "e7a5e58",
+          "message": "Add manual plugin validation fallback when CLI validator is unavailable (#63)",
+          "date": "2026-03-18T17:22:45Z",
+          "author": "hichana"
+        },
+        {
+          "sha": "c43af45",
+          "message": "Update disclaimer with jurisdictional disclaimer (#35)",
+          "date": "2026-03-18T17:22:39Z",
+          "author": "Adil Anwar"
+        },
+        {
+          "sha": "89f6599",
+          "message": "Merge pull request #116 from anthropics/bump-versions-command-deprecation",
+          "date": "2026-03-13T18:58:55Z",
+          "author": "Matt Piccolella"
+        },
+        {
+          "sha": "7b2ea8e",
+          "message": "Bump plugin versions after commands-to-skills migration",
+          "date": "2026-03-13T18:51:33Z",
+          "author": "Matt Piccolella"
+        }
+      ]
+    },
+    {
+      "name": "claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": 61,
+      "language": null,
+      "pushedAt": "2026-04-28T11:50:16Z",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "contributors": [
+        {
+          "login": "tobinsouth",
+          "contributions": 9
+        },
+        {
+          "login": "bryan-anthropic",
+          "contributions": 2
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "4749e7a",
+          "message": "sync: 1921 plugins (+285) (#12)",
+          "date": "2026-04-28T11:50:15Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "dc8a0bc",
+          "message": "Merge pull request #10 from anthropics/sync/manual-2026-04-17",
+          "date": "2026-04-17T21:29:59Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "eab2acb",
+          "message": "sync: 1636 plugins (+541)",
+          "date": "2026-04-17T21:21:31Z",
+          "author": "tobin"
+        },
+        {
+          "sha": "7fa0c0f",
+          "message": "Merge pull request #8 from anthropics/sync/manual-2026-04-07",
+          "date": "2026-04-10T19:45:19Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "10711da",
+          "message": "sync: 1095 plugins (+281)",
+          "date": "2026-04-07T21:41:19Z",
+          "author": "tobinsouth"
+        },
+        {
+          "sha": "4fa0017",
+          "message": "Merge pull request #4 from anthropics/sync/manual-2026-03-31",
+          "date": "2026-04-01T16:06:19Z",
+          "author": "Bryan Thompson"
+        },
+        {
+          "sha": "349c219",
+          "message": "sync: 814 plugins (+314)",
+          "date": "2026-03-31T18:13:46Z",
+          "author": "tobin"
+        },
+        {
+          "sha": "e8d5ef8",
+          "message": "Merge pull request #3 from anthropics/sync/manual-2026-03-24",
+          "date": "2026-03-24T21:52:49Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "a800212",
+          "message": "sync: 500 plugins (+286)",
+          "date": "2026-03-24T20:59:38Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "3e9a035",
+          "message": "Initial sync: 214 plugins (#2)",
+          "date": "2026-03-23T02:39:00Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "49a68b9",
+          "message": "Initial scaffold: README, LICENSE, empty marketplace, PR auto-close",
+          "date": "2026-03-20T02:19:57Z",
+          "author": "Tobin South"
+        }
+      ]
+    },
+    {
+      "name": "buffa",
+      "description": "Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views",
+      "stars": 679,
+      "language": "Rust",
+      "pushedAt": "2026-04-28T04:05:03Z",
+      "url": "https://github.com/anthropics/buffa",
+      "contributors": [
+        {
+          "login": "iainmcgin",
+          "contributions": 28
+        },
+        {
+          "login": "hobostay",
+          "contributions": 3
+        },
+        {
+          "login": "th0114nd",
+          "contributions": 3
+        },
+        {
+          "login": "rpb-ant",
+          "contributions": 2
+        },
+        {
+          "login": "ariesdevil",
+          "contributions": 1
+        },
+        {
+          "login": "macalinao",
+          "contributions": 1
+        },
+        {
+          "login": "jlucaso1",
+          "contributions": 1
+        },
+        {
+          "login": "kollektiv",
+          "contributions": 1
+        },
+        {
+          "login": "adamnemecek",
+          "contributions": 1
+        },
+        {
+          "login": "alexchenai",
+          "contributions": 1
+        },
+        {
+          "login": "fanyang89",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "b237f28",
+          "message": "ci: bump cla-github-action to 1ecf0d2f (impersonation guard, co-author trailers) (#72)",
+          "date": "2026-04-28T00:20:23Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "f444eab",
+          "message": "release: v0.4.0 (#65)",
+          "date": "2026-04-27T23:15:50Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "c1fdbe1",
+          "message": "Externalize size cache: remove __buffa_cached_size from generated structs (#22)",
+          "date": "2026-04-27T22:22:21Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "d65280b",
+          "message": "Make DefaultViewInstance safe via compiler-checked covariance (#71)",
+          "date": "2026-04-27T19:20:48Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "fdc31df",
+          "message": "Drop unsafe from DefaultInstance and DefaultViewInstance traits (#70)",
+          "date": "2026-04-27T18:53:37Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "cf2604a",
+          "message": "fix: always fully-qualify Option to prevent cross-file prelude shadowing (#67)",
+          "date": "2026-04-27T16:37:56Z",
+          "author": "Tim Holland"
+        },
+        {
+          "sha": "3f80d56",
+          "message": "view: opt-in ViewEncode for serializing from borrowed fields (#55)",
+          "date": "2026-04-24T18:39:37Z",
+          "author": "rpb-ant"
+        },
+        {
+          "sha": "23a5a16",
+          "message": "codegen: namespace ancillary types under buffa_:: sentinel + per-package stitcher (#62)",
+          "date": "2026-04-23T22:39:40Z",
+          "author": "rpb-ant"
+        },
+        {
+          "sha": "f5690d7",
+          "message": "fix: qualify Option in nested scopes to prevent prelude shadowing (#36) (#39)",
+          "date": "2026-04-23T17:01:34Z",
+          "author": "Tim Holland"
+        },
+        {
+          "sha": "5649479",
+          "message": "refactor: deduplicate Rust keyword list in buffa-build (#59)",
+          "date": "2026-04-23T16:19:08Z",
+          "author": "Qiaochu Hu"
+        },
+        {
+          "sha": "d69ffe3",
+          "message": "fix: add missing text and allow_message_set params to protoc plugin (#58)",
+          "date": "2026-04-23T16:15:40Z",
+          "author": "Qiaochu Hu"
+        },
+        {
+          "sha": "051a3ab",
+          "message": "fix: update outdated MSRV comment in is_exact_integer (#57)",
+          "date": "2026-04-23T04:34:28Z",
+          "author": "Qiaochu Hu"
+        },
+        {
+          "sha": "a0c668c",
+          "message": "benchmarks: add prost bytes-feature variant + MediaFrame for zero-copy comparison (#61)",
+          "date": "2026-04-23T03:48:24Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "b065d14",
+          "message": "Add Enumeration::values() static slice for variant iteration (#49)",
+          "date": "2026-04-17T19:35:30Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "fc7ceb5",
+          "message": "Add enum_attribute API for enum-only Rust attributes (#50)",
+          "date": "2026-04-17T19:01:28Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "bd2d2f7",
+          "message": "Sanitize oneof variant names that PascalCase to reserved Rust idents (#48)",
+          "date": "2026-04-17T18:58:31Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "78373e3",
+          "message": "buffa-types: back Any.value with bytes::Bytes for refcount-bump clone (#51)",
+          "date": "2026-04-17T17:43:32Z",
+          "author": "Timothy Yen"
+        },
+        {
+          "sha": "155fe0b",
+          "message": "refactor: correct nesting depth for nested message type references, and introduce MessageScope to bundle codegen scope parameters (#45)",
+          "date": "2026-04-16T18:26:44Z",
+          "author": "Damon Z"
+        },
+        {
+          "sha": "687bee7",
+          "message": "Add type_attribute, field_attribute, and message_attribute support (#44)",
+          "date": "2026-04-16T00:49:55Z",
+          "author": "João Lucas"
+        },
+        {
+          "sha": "8355a95",
+          "message": "fix: resolve oneof enum name collisions with nested types (#34)",
+          "date": "2026-04-16T00:32:12Z",
+          "author": "Tim Holland"
+        },
+        {
+          "sha": "5a32c3e",
+          "message": "Document crates.io as primary cargo install source for protoc plugins (#28)",
+          "date": "2026-04-02T21:06:31Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "e6f97ad",
+          "message": "Tighten CI lint coverage: add --all-targets and fmt --check (#27)",
+          "date": "2026-04-02T02:41:28Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "fcb4901",
+          "message": "Prepare v0.3.0 release (#24)",
+          "date": "2026-04-01T22:25:42Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "48e9426",
+          "message": "Sanitize proto comments for rustdoc in generated code (#25)",
+          "date": "2026-04-01T20:21:40Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "cd002f6",
+          "message": "Add textproto (text format) encoding and decoding (#6)",
+          "date": "2026-03-30T20:17:37Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "52e40a3",
+          "message": "Use write-if-changed pattern in buffa-build to avoid unnecessary recompilation (#17)",
+          "date": "2026-03-30T19:22:45Z",
+          "author": "fanyang"
+        },
+        {
+          "sha": "63268e9",
+          "message": "Emit Self in generated code for clippy::use_self compliance (#15)",
+          "date": "2026-03-30T18:34:07Z",
+          "author": "adamnemecek"
+        },
+        {
+          "sha": "f3ed3fa",
+          "message": "Skip synthetic oneofs in nested type collision check (#20)",
+          "date": "2026-03-30T18:26:11Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "3605444",
+          "message": "Extract MAX_FIELD_NUMBER constant (#21)",
+          "date": "2026-03-30T17:50:26Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "d518df5",
+          "message": "Add timeout-minutes to all workflow jobs (#19)",
+          "date": "2026-03-30T17:33:31Z",
+          "author": "Iain McGinniss"
+        }
+      ]
+    },
+    {
+      "name": "connect-rust",
+      "description": "An implementation of the ConnectRPC protocol for Rust",
+      "stars": 304,
+      "language": "Rust",
+      "pushedAt": "2026-04-28T03:53:12Z",
+      "url": "https://github.com/anthropics/connect-rust",
+      "contributors": [
+        {
+          "login": "iainmcgin",
+          "contributions": 35
+        },
+        {
+          "login": "rpb-ant",
+          "contributions": 2
+        },
+        {
+          "login": "paikend",
+          "contributions": 2
+        },
+        {
+          "login": "iantay-ant",
+          "contributions": 1
+        },
+        {
+          "login": "washanhanzi",
+          "contributions": 1
+        },
+        {
+          "login": "tannaurus",
+          "contributions": 1
+        },
+        {
+          "login": "sharma-uday",
+          "contributions": 1
+        },
+        {
+          "login": "windsornguyen",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "056486c",
+          "message": "Adapt to buffa 0.4: __buffa:: sentinel paths + ViewEncode (#62)",
+          "date": "2026-04-28T00:46:20Z",
+          "author": "rpb-ant"
+        },
+        {
+          "sha": "8b87baf",
+          "message": "error: box ConnectError header maps to fix result_large_err (#65)",
+          "date": "2026-04-28T00:20:25Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "21b7ad5",
+          "message": "codegen: embed buffa CodeGenConfig directly in Options (#64)",
+          "date": "2026-04-28T00:10:36Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "317106d",
+          "message": "Bring graceful shutdown in line with Go's net/http.Server.Shutdown behavior (#58)",
+          "date": "2026-04-23T19:30:11Z",
+          "author": "rpb-ant"
+        },
+        {
+          "sha": "e18c6f3",
+          "message": "Release v0.3.3 (#57)",
+          "date": "2026-04-22T20:18:20Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "e5ad6be",
+          "message": "connectrpc-build: skip rerun-if-changed for .files() in Precompiled mode (#56)",
+          "date": "2026-04-17T17:35:14Z",
+          "author": "Uday Sharma"
+        },
+        {
+          "sha": "5fe8ed8",
+          "message": "ci: replace manual protoc install with arduino/setup-protoc action (#52)",
+          "date": "2026-04-16T15:16:48Z",
+          "author": "Gyeongjun Paik (Kent)"
+        },
+        {
+          "sha": "ffdd1fe",
+          "message": "Add user guide and link from README (#48)",
+          "date": "2026-04-05T16:34:07Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "b49ebdd",
+          "message": "Add streaming-tour and middleware examples (#46)",
+          "date": "2026-04-03T20:50:36Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "360d77e",
+          "message": "Pin MSRV to Rust 1.88 and add CI verification (#44)",
+          "date": "2026-04-03T19:25:39Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "4797d85",
+          "message": "Prepare connectrpc 0.3.2 release (#41)",
+          "date": "2026-04-03T18:04:20Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "5f63954",
+          "message": "Document protoc-gen-connect-rust installation (#40)",
+          "date": "2026-04-03T04:25:12Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "60c9b23",
+          "message": "fix(codegen): use fully qualified paths to prevent E0252 on multi-service include (#32)",
+          "date": "2026-04-03T01:14:37Z",
+          "author": "Windsor Nguyễn"
+        },
+        {
+          "sha": "2971c18",
+          "message": "Add wasm32 support and browser-based client example (#19)",
+          "date": "2026-04-02T22:11:13Z",
+          "author": "Tanner Gill"
+        },
+        {
+          "sha": "5537db5",
+          "message": "fix: use service name const instead of string literal in generated clients (#16)",
+          "date": "2026-04-02T21:23:17Z",
+          "author": "Kent Paik"
+        },
+        {
+          "sha": "72666b2",
+          "message": "Add timeout-minutes to all workflow jobs (#21)",
+          "date": "2026-04-02T21:06:52Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "ab2974f",
+          "message": "Update outdated dependencies (#37)",
+          "date": "2026-04-02T20:36:01Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "bc480b9",
+          "message": "Add Bazel example for buffa+connectrpc protoc plugins (#38)",
+          "date": "2026-04-02T20:32:11Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "30132af",
+          "message": "Prepare connectrpc 0.3.1 release (#36)",
+          "date": "2026-04-02T16:36:13Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "32c7eb0",
+          "message": "Expose emit_register_fn option in codegen and build configs (#35)",
+          "date": "2026-04-02T16:25:46Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "95c2c1d",
+          "message": "Prepare connectrpc 0.3.0 release (#29)",
+          "date": "2026-04-02T02:17:24Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "ea3ee1f",
+          "message": "Expose mTLS peer credentials and remote address to handlers (#31)",
+          "date": "2026-04-02T02:05:57Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "ef9204d",
+          "message": "Bump buffa to v0.3.0 and migrate to TypeRegistry API (#24)",
+          "date": "2026-04-02T01:30:46Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "bad94e5",
+          "message": "Reject RPC method names that collide after snake_case normalization (#28)",
+          "date": "2026-04-02T01:24:32Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "08f550b",
+          "message": "Suffix service trait name when it collides with Self keyword (#27)",
+          "date": "2026-04-02T01:19:41Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "973a548",
+          "message": "Escape Rust keywords in generated RPC method names (#26)",
+          "date": "2026-04-02T00:56:03Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "3a9d1dc",
+          "message": "Add --all-targets to CI cargo check and clippy (#25)",
+          "date": "2026-04-02T00:19:02Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "a363272",
+          "message": "fix(benches): update RPC benches for current client API (#17)",
+          "date": "2026-04-01T23:01:33Z",
+          "author": "Jingyu"
+        },
+        {
+          "sha": "2f1f460",
+          "message": "Use write-if-changed pattern in connectrpc-build (#22)",
+          "date": "2026-04-01T22:42:51Z",
+          "author": "Iain McGinniss"
+        },
+        {
+          "sha": "5a56c62",
+          "message": "Switch CLA action to Node 24 fork v2.7.1 (#20)",
+          "date": "2026-03-30T17:11:59Z",
+          "author": "Iain McGinniss"
+        }
+      ]
+    },
+    {
+      "name": "claude-agent-sdk-python",
+      "description": null,
+      "stars": 6600,
+      "language": "Python",
+      "pushedAt": "2026-04-28T03:41:52Z",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "contributors": [
+        {
+          "login": "github-actions[bot]",
+          "contributions": 121
+        },
+        {
+          "login": "actions-user",
+          "contributions": 111
+        },
+        {
+          "login": "ashwin-ant",
+          "contributions": 62
+        },
+        {
+          "login": "qing-ant",
+          "contributions": 54
+        },
+        {
+          "login": "dicksontsai",
+          "contributions": 40
+        },
+        {
+          "login": "ltawfik",
+          "contributions": 38
+        },
+        {
+          "login": "Mng-dev-ai",
+          "contributions": 4
+        },
+        {
+          "login": "shunfu",
+          "contributions": 4
+        },
+        {
+          "login": "sarahdeaton",
+          "contributions": 4
+        },
+        {
+          "login": "noahzweben",
+          "contributions": 3
+        },
+        {
+          "login": "omid-ant",
+          "contributions": 3
+        },
+        {
+          "login": "km-anthropic",
+          "contributions": 3
+        },
+        {
+          "login": "danielsiwiec",
+          "contributions": 2
+        },
+        {
+          "login": "yokomotod",
+          "contributions": 2
+        },
+        {
+          "login": "blois",
+          "contributions": 2
+        },
+        {
+          "login": "szwang",
+          "contributions": 2
+        },
+        {
+          "login": "ronmrdechai",
+          "contributions": 2
+        },
+        {
+          "login": "mdworsky",
+          "contributions": 2
+        },
+        {
+          "login": "KuaaMU",
+          "contributions": 2
+        },
+        {
+          "login": "vanducng",
+          "contributions": 2
+        },
+        {
+          "login": "8519mark",
+          "contributions": 1
+        },
+        {
+          "login": "grumpygordon",
+          "contributions": 1
+        },
+        {
+          "login": "RomainGehrig",
+          "contributions": 1
+        },
+        {
+          "login": "rushilpatel0",
+          "contributions": 1
+        },
+        {
+          "login": "vimota",
+          "contributions": 1
+        },
+        {
+          "login": "ant-kurt",
+          "contributions": 1
+        },
+        {
+          "login": "ben-complement",
+          "contributions": 1
+        },
+        {
+          "login": "bogini",
+          "contributions": 1
+        },
+        {
+          "login": "henrykeetay",
+          "contributions": 1
+        },
+        {
+          "login": "majiayu000",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "9ee52df",
+          "message": "fix(transport): use spawn_detached for stderr reader (trio nursery corruption) (#885)",
+          "date": "2026-04-28T03:41:52Z",
+          "author": "David McKennirey"
+        },
+        {
+          "sha": "e21b457",
+          "message": "docs: update changelog for v0.1.69",
+          "date": "2026-04-28T00:44:31Z",
+          "author": "claude[bot]"
+        },
+        {
+          "sha": "e6c2772",
+          "message": "chore: release v0.1.69",
+          "date": "2026-04-28T00:44:00Z",
+          "author": "github-actions[bot]"
+        },
+        {
+          "sha": "676b285",
+          "message": "chore: bump bundled CLI version to 2.1.121",
+          "date": "2026-04-28T00:31:37Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "8348d1f",
+          "message": "Add docstrings to ClaudeAgentOptions fields (#873)",
+          "date": "2026-04-25T03:19:04Z",
+          "author": "Ashwin Bhat"
+        },
+        {
+          "sha": "4a4fd74",
+          "message": "docs: update changelog for v0.1.68",
+          "date": "2026-04-25T02:07:33Z",
+          "author": "claude[bot]"
+        },
+        {
+          "sha": "41bd9cc",
+          "message": "chore: release v0.1.68",
+          "date": "2026-04-25T02:06:56Z",
+          "author": "github-actions[bot]"
+        },
+        {
+          "sha": "83a8fca",
+          "message": "chore: bump bundled CLI version to 2.1.119",
+          "date": "2026-04-25T01:55:26Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "82aada8",
+          "message": "docs: update changelog for v0.1.67",
+          "date": "2026-04-25T00:27:25Z",
+          "author": "claude[bot]"
+        },
+        {
+          "sha": "77020e4",
+          "message": "chore: release v0.1.67",
+          "date": "2026-04-25T00:26:57Z",
+          "author": "github-actions[bot]"
+        },
+        {
+          "sha": "c83369c",
+          "message": "chore: bump bundled CLI version to 2.1.120",
+          "date": "2026-04-25T00:14:59Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "62c8bfd",
+          "message": "fix(query): restore trio compatibility via sniffio dispatch (#870)",
+          "date": "2026-04-24T23:24:14Z",
+          "author": "Qing Wang"
+        },
+        {
+          "sha": "c1eb34e",
+          "message": "docs: update changelog for v0.1.66",
+          "date": "2026-04-23T23:36:25Z",
+          "author": "claude[bot]"
+        },
+        {
+          "sha": "07b4924",
+          "message": "chore: release v0.1.66",
+          "date": "2026-04-23T23:35:56Z",
+          "author": "github-actions[bot]"
+        },
+        {
+          "sha": "73befe5",
+          "message": "chore: bump bundled CLI version to 2.1.119",
+          "date": "2026-04-23T23:24:15Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "1def066",
+          "message": "docs: update changelog for v0.1.65",
+          "date": "2026-04-23T00:53:45Z",
+          "author": "claude[bot]"
+        },
+        {
+          "sha": "18059d0",
+          "message": "chore: release v0.1.65",
+          "date": "2026-04-23T00:52:59Z",
+          "author": "github-actions[bot]"
+        },
+        {
+          "sha": "ffdcc03",
+          "message": "chore: bump bundled CLI version to 2.1.118",
+          "date": "2026-04-23T00:42:26Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "95413fd",
+          "message": "feat(session_store): add import_session_to_store() for local→store replay (#858)",
+          "date": "2026-04-22T17:09:59Z",
+          "author": "Qing Wang"
+        },
+        {
+          "sha": "a7a5ead",
+          "message": "sdk(session_store): bounded retry on mirror append + uuid idempotency docs (#857)",
+          "date": "2026-04-22T17:09:44Z",
+          "author": "Qing Wang"
+        },
+        {
+          "sha": "32f09c1",
+          "message": "feat: forward thinking.display to --thinking-display CLI flag (#830)",
+          "date": "2026-04-22T16:35:44Z",
+          "author": "Maxim Grankin"
+        },
+        {
+          "sha": "fb54ccd",
+          "message": "docs: fix dontAsk and auto permission_mode descriptions (#863)",
+          "date": "2026-04-22T15:35:22Z",
+          "author": "Sarah Deaton"
+        },
+        {
+          "sha": "eeff81f",
+          "message": "transport: drop --debug-to-stderr detection (prep for CLI flag removal) (#860)",
+          "date": "2026-04-22T00:19:51Z",
+          "author": "timgu0"
+        },
+        {
+          "sha": "d570b8a",
+          "message": "chore: bump bundled CLI version to 2.1.117",
+          "date": "2026-04-22T00:09:49Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "6ab97b4",
+          "message": "fix: parse server_tool_use and advisor_tool_result content blocks (#836)",
+          "date": "2026-04-21T11:51:26Z",
+          "author": "mnielan-ant"
+        },
+        {
+          "sha": "aa3d023",
+          "message": "feat: SessionStore.list_session_summaries — batch summary fetch for list-all (#847)",
+          "date": "2026-04-21T05:28:53Z",
+          "author": "Qing Wang"
+        },
+        {
+          "sha": "a05af6b",
+          "message": "docs: update changelog for v0.1.64",
+          "date": "2026-04-20T22:31:08Z",
+          "author": "claude[bot]"
+        },
+        {
+          "sha": "e90050f",
+          "message": "chore: release v0.1.64",
+          "date": "2026-04-20T22:30:36Z",
+          "author": "github-actions[bot]"
+        },
+        {
+          "sha": "f659426",
+          "message": "chore: bump bundled CLI version to 2.1.116",
+          "date": "2026-04-20T22:18:41Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "2d7df08",
+          "message": "feat(examples): S3, Redis, Postgres SessionStore reference adapters (#842)",
+          "date": "2026-04-19T06:59:35Z",
+          "author": "Qing Wang"
+        }
+      ]
+    },
+    {
+      "name": "claude-code-action",
+      "description": null,
+      "stars": 7329,
+      "language": "TypeScript",
+      "pushedAt": "2026-04-28T00:32:59Z",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "contributors": [
+        {
+          "login": "actions-user",
+          "contributions": 231
+        },
+        {
+          "login": "ashwin-ant",
+          "contributions": 159
+        },
+        {
+          "login": "ltawfik",
+          "contributions": 30
+        },
+        {
+          "login": "km-anthropic",
+          "contributions": 20
+        },
+        {
+          "login": "OctavianGuzu",
+          "contributions": 12
+        },
+        {
+          "login": "ddworken",
+          "contributions": 9
+        },
+        {
+          "login": "qozle",
+          "contributions": 6
+        },
+        {
+          "login": "atsushi-ishibashi",
+          "contributions": 6
+        },
+        {
+          "login": "tomoish",
+          "contributions": 5
+        },
+        {
+          "login": "uc4w6c",
+          "contributions": 3
+        },
+        {
+          "login": "bogini",
+          "contributions": 3
+        },
+        {
+          "login": "Dave-London",
+          "contributions": 3
+        },
+        {
+          "login": "aki77",
+          "contributions": 2
+        },
+        {
+          "login": "np-anthropic",
+          "contributions": 2
+        },
+        {
+          "login": "burkematthew",
+          "contributions": 2
+        },
+        {
+          "login": "yukukotani",
+          "contributions": 2
+        },
+        {
+          "login": "whyuan-cc",
+          "contributions": 2
+        },
+        {
+          "login": "stefanoamorelli",
+          "contributions": 2
+        },
+        {
+          "login": "gor-st",
+          "contributions": 2
+        },
+        {
+          "login": "benny123tw",
+          "contributions": 2
+        },
+        {
+          "login": "stakeswky",
+          "contributions": 1
+        },
+        {
+          "login": "Tsuesun",
+          "contributions": 1
+        },
+        {
+          "login": "sepehr500",
+          "contributions": 1
+        },
+        {
+          "login": "csy1204",
+          "contributions": 1
+        },
+        {
+          "login": "ryok90",
+          "contributions": 1
+        },
+        {
+          "login": "rjwalters",
+          "contributions": 1
+        },
+        {
+          "login": "ranyhb",
+          "contributions": 1
+        },
+        {
+          "login": "prazek",
+          "contributions": 1
+        },
+        {
+          "login": "plaflamme",
+          "contributions": 1
+        },
+        {
+          "login": "EurFelux",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "11a9dad",
+          "message": "chore: bump Claude Code to 2.1.121 and Agent SDK to 0.2.121",
+          "date": "2026-04-28T00:31:46Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "567fe95",
+          "message": "chore: bump Claude Code to 2.1.119 and Agent SDK to 0.2.119",
+          "date": "2026-04-25T01:55:30Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "2da6cfa",
+          "message": "chore: bump Claude Code to 2.1.120 and Agent SDK to 0.2.120",
+          "date": "2026-04-25T00:15:05Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "e58dfa5",
+          "message": "chore: bump Claude Code to 2.1.119 and Agent SDK to 0.2.119",
+          "date": "2026-04-23T23:24:21Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "6ee201f",
+          "message": "fix: allow + in branch names (generated by Claude Code EnterWorktree) (#1248)",
+          "date": "2026-04-23T05:17:44Z",
+          "author": "Naoyoshi Aikawa"
+        },
+        {
+          "sha": "b4d6741",
+          "message": "chore: bump Claude Code to 2.1.118 and Agent SDK to 0.2.118",
+          "date": "2026-04-23T00:42:34Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "4e5d8b1",
+          "message": "chore: bump Claude Code to 2.1.117 and Agent SDK to 0.2.117",
+          "date": "2026-04-22T00:04:56Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "5d5c10a",
+          "message": "chore: bump Claude Code to 2.1.116 and Agent SDK to 0.2.116",
+          "date": "2026-04-20T22:18:45Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "632a368",
+          "message": "docs: nit updates to security.md (#1240)",
+          "date": "2026-04-20T14:00:35Z",
+          "author": "Octavian Guzu"
+        },
+        {
+          "sha": "4c682d8",
+          "message": "chore: bump oven-sh/setup-bun to v2.2.0 (Node.js 24) (#1238)",
+          "date": "2026-04-20T00:53:46Z",
+          "author": "Ashwin Bhat"
+        },
+        {
+          "sha": "38ec876",
+          "message": "chore: bump Claude Code to 2.1.114 and Agent SDK to 0.2.114",
+          "date": "2026-04-18T01:38:24Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "0d2971c",
+          "message": "fix: pass install.sh binary path explicitly to Agent SDK (#1235)",
+          "date": "2026-04-17T22:50:46Z",
+          "author": "Ashwin Bhat"
+        },
+        {
+          "sha": "c68f82c",
+          "message": "chore: bump Claude Code to 2.1.113 and Agent SDK to 0.2.113",
+          "date": "2026-04-17T19:40:20Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "78758ed",
+          "message": "chore: bump model version in workflows (#1227)",
+          "date": "2026-04-16T22:25:28Z",
+          "author": "Ashwin Bhat"
+        },
+        {
+          "sha": "c3d45e8",
+          "message": "chore: bump Claude Code to 2.1.112 and Agent SDK to 0.2.112",
+          "date": "2026-04-16T20:00:08Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "931e620",
+          "message": "chore: bump Claude Code to 2.1.111 and Agent SDK to 0.2.111",
+          "date": "2026-04-16T15:22:22Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "905d4eb",
+          "message": "chore: bump Claude Code to 2.1.110 and Agent SDK to 0.2.110",
+          "date": "2026-04-15T22:06:40Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "5fb8995",
+          "message": "chore: bump Claude Code to 2.1.109 and Agent SDK to 0.2.109",
+          "date": "2026-04-15T04:05:34Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "c3bf66d",
+          "message": "fix: handle fork PRs by fetching via refs/pull/N/head (#962) (#963)",
+          "date": "2026-04-15T03:33:04Z",
+          "author": "不做了睡大觉"
+        },
+        {
+          "sha": "3943183",
+          "message": "chore: bump Claude Code to 2.1.108 and Agent SDK to 0.2.108",
+          "date": "2026-04-14T19:16:11Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "65f29cf",
+          "message": "chore: bump Claude Code to 2.1.107 and Agent SDK to 0.2.107",
+          "date": "2026-04-14T06:14:35Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "1c8b699",
+          "message": "chore: bump Claude Code to 2.1.105 and Agent SDK to 0.2.105",
+          "date": "2026-04-13T21:56:13Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "ff49ec5",
+          "message": "Prepend system bin dirs to PATH when allowed_non_write_users is set (#1208)",
+          "date": "2026-04-12T20:51:15Z",
+          "author": "Octavian Guzu"
+        },
+        {
+          "sha": "25474bf",
+          "message": "chore: bump Claude Code to 2.1.104 and Agent SDK to 0.2.104",
+          "date": "2026-04-12T03:21:43Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "b47fd72",
+          "message": "chore: bump Claude Code to 2.1.101 and Agent SDK to 0.2.101",
+          "date": "2026-04-10T19:06:59Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "c26cb64",
+          "message": "chore: bump Claude Code to 2.1.100 and Agent SDK to 0.2.98",
+          "date": "2026-04-10T05:15:24Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "657fb7c",
+          "message": "chore: bump Claude Code to 2.1.98 and Agent SDK to 0.2.98",
+          "date": "2026-04-09T19:21:28Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "2ff1acb",
+          "message": "chore: bump Claude Code to 2.1.97 and Agent SDK to 0.2.97",
+          "date": "2026-04-08T21:55:30Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "b2fdd80",
+          "message": "Use pinned bun binary for post-steps when allowed_non_write_users is set (#1190)",
+          "date": "2026-04-08T09:20:15Z",
+          "author": "Octavian Guzu"
+        },
+        {
+          "sha": "26ddc35",
+          "message": "chore: bump Claude Code to 2.1.96 and Agent SDK to 0.2.96",
+          "date": "2026-04-08T04:40:59Z",
+          "author": "GitHub Actions"
+        }
+      ]
+    },
+    {
+      "name": "claude-code-base-action",
+      "description": "This repo is a mirror of the contents of base-action in https://github.com/anthropics/claude-code-action.",
+      "stars": 802,
+      "language": "TypeScript",
+      "pushedAt": "2026-04-28T00:32:00Z",
+      "url": "https://github.com/anthropics/claude-code-base-action",
+      "contributors": [
+        {
+          "login": "actions-user",
+          "contributions": 285
+        },
+        {
+          "login": "ashwin-ant",
+          "contributions": 40
+        },
+        {
+          "login": "ltawfik",
+          "contributions": 10
+        },
+        {
+          "login": "snkashis",
+          "contributions": 2
+        },
+        {
+          "login": "chrislloyd",
+          "contributions": 1
+        },
+        {
+          "login": "dylangarcia",
+          "contributions": 1
+        },
+        {
+          "login": "erjanmx",
+          "contributions": 1
+        },
+        {
+          "login": "gbmarc1",
+          "contributions": 1
+        },
+        {
+          "login": "K3UL",
+          "contributions": 1
+        },
+        {
+          "login": "amondnet",
+          "contributions": 1
+        },
+        {
+          "login": "rsharma-figma",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "3080e38",
+          "message": "Sync from claude-code-action base-action@11a9dad",
+          "date": "2026-04-28T00:31:58Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "90217a4",
+          "message": "Sync from claude-code-action base-action@567fe95",
+          "date": "2026-04-25T01:55:39Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "0ce8aca",
+          "message": "Sync from claude-code-action base-action@2da6cfa",
+          "date": "2026-04-25T00:15:15Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "a337322",
+          "message": "Sync from claude-code-action base-action@e58dfa5",
+          "date": "2026-04-23T23:24:30Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "e248cba",
+          "message": "Sync from claude-code-action base-action@b4d6741",
+          "date": "2026-04-23T00:42:43Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "abcf4b3",
+          "message": "Sync from claude-code-action base-action@4e5d8b1",
+          "date": "2026-04-22T00:05:07Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "c937844",
+          "message": "Sync from claude-code-action base-action@5d5c10a",
+          "date": "2026-04-20T22:18:55Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "a758d89",
+          "message": "Sync from claude-code-action base-action@4c682d8",
+          "date": "2026-04-20T00:53:54Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "6e050c7",
+          "message": "Sync from claude-code-action base-action@38ec876",
+          "date": "2026-04-18T01:38:34Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "576791d",
+          "message": "Sync from claude-code-action base-action@0d2971c",
+          "date": "2026-04-17T22:50:55Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "5cb0832",
+          "message": "Sync from claude-code-action base-action@c68f82c",
+          "date": "2026-04-17T19:40:30Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "413982e",
+          "message": "Sync from claude-code-action base-action@c3d45e8",
+          "date": "2026-04-16T20:00:20Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "aba361e",
+          "message": "Sync from claude-code-action base-action@931e620",
+          "date": "2026-04-16T15:22:36Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "ce8f118",
+          "message": "Sync from claude-code-action base-action@905d4eb",
+          "date": "2026-04-15T22:06:50Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "7b66596",
+          "message": "Sync from claude-code-action base-action@5fb8995",
+          "date": "2026-04-15T04:05:43Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "b597bd6",
+          "message": "Sync from claude-code-action base-action@3943183",
+          "date": "2026-04-14T19:16:21Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "764298b",
+          "message": "Sync from claude-code-action base-action@65f29cf",
+          "date": "2026-04-14T06:14:45Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "e2b875c",
+          "message": "Sync from claude-code-action base-action@1c8b699",
+          "date": "2026-04-13T21:56:22Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "041fe8f",
+          "message": "Sync from claude-code-action base-action@25474bf",
+          "date": "2026-04-12T03:21:51Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "90ad6ed",
+          "message": "Sync from claude-code-action base-action@b47fd72",
+          "date": "2026-04-10T19:07:11Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "6ad482d",
+          "message": "Sync from claude-code-action base-action@c26cb64",
+          "date": "2026-04-10T05:15:34Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "03c8d7a",
+          "message": "Sync from claude-code-action base-action@657fb7c",
+          "date": "2026-04-09T19:21:41Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "fa51c47",
+          "message": "Sync from claude-code-action base-action@2ff1acb",
+          "date": "2026-04-08T21:55:39Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "849c98c",
+          "message": "Sync from claude-code-action base-action@26ddc35",
+          "date": "2026-04-08T04:41:10Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "c37dd15",
+          "message": "Sync from claude-code-action base-action@3983706",
+          "date": "2026-04-07T21:22:50Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "9ce6842",
+          "message": "Sync from claude-code-action base-action@6e2bd52",
+          "date": "2026-04-05T14:42:14Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "767ef5f",
+          "message": "Sync from claude-code-action base-action@3534c32",
+          "date": "2026-04-05T06:10:21Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "ca73b27",
+          "message": "Sync from claude-code-action base-action@eb8baa4",
+          "date": "2026-04-05T03:26:23Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "b64dd4c",
+          "message": "Sync from claude-code-action base-action@f37c786",
+          "date": "2026-04-05T03:13:16Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "b61aa83",
+          "message": "Sync from claude-code-action base-action@1eddb33",
+          "date": "2026-04-04T00:45:41Z",
+          "author": "GitHub Actions"
+        }
+      ]
+    },
+    {
+      "name": "claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 118781,
+      "language": "Shell",
+      "pushedAt": "2026-04-28T00:31:30Z",
+      "url": "https://github.com/anthropics/claude-code",
+      "contributors": [
+        {
+          "login": "actions-user",
+          "contributions": 302
+        },
+        {
+          "login": "bcherny",
+          "contributions": 70
+        },
+        {
+          "login": "ant-kurt",
+          "contributions": 32
+        },
+        {
+          "login": "bogini",
+          "contributions": 21
+        },
+        {
+          "login": "fvolcic",
+          "contributions": 20
+        },
+        {
+          "login": "ashwin-ant",
+          "contributions": 19
+        },
+        {
+          "login": "OctavianGuzu",
+          "contributions": 13
+        },
+        {
+          "login": "chrislloyd",
+          "contributions": 8
+        },
+        {
+          "login": "ThariqS",
+          "contributions": 8
+        },
+        {
+          "login": "catherinewu",
+          "contributions": 8
+        },
+        {
+          "login": "whyuan-cc",
+          "contributions": 8
+        },
+        {
+          "login": "dhollman",
+          "contributions": 8
+        },
+        {
+          "login": "hackyon-anthropic",
+          "contributions": 8
+        },
+        {
+          "login": "rboyce-ant",
+          "contributions": 7
+        },
+        {
+          "login": "dicksontsai",
+          "contributions": 7
+        },
+        {
+          "login": "ddworken",
+          "contributions": 6
+        },
+        {
+          "login": "sid374",
+          "contributions": 6
+        },
+        {
+          "login": "km-anthropic",
+          "contributions": 5
+        },
+        {
+          "login": "claude",
+          "contributions": 4
+        },
+        {
+          "login": "Masa1984a",
+          "contributions": 3
+        },
+        {
+          "login": "williamhu99",
+          "contributions": 2
+        },
+        {
+          "login": "sarahdeaton",
+          "contributions": 2
+        },
+        {
+          "login": "ltawfik",
+          "contributions": 2
+        },
+        {
+          "login": "wolffiex",
+          "contributions": 2
+        },
+        {
+          "login": "shota-0129",
+          "contributions": 2
+        },
+        {
+          "login": "suwakei",
+          "contributions": 2
+        },
+        {
+          "login": "StephenGrider",
+          "contributions": 2
+        },
+        {
+          "login": "rquintino",
+          "contributions": 2
+        },
+        {
+          "login": "MadsRC",
+          "contributions": 2
+        },
+        {
+          "login": "amorriscode",
+          "contributions": 2
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "1586204",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-28T00:31:24Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "c128568",
+          "message": "fix: yaml.github-actions.security.run-shell-injection.run-shell-injection security vulnerability (#43824)",
+          "date": "2026-04-27T13:33:15Z",
+          "author": "orbisai0security"
+        },
+        {
+          "sha": "7e93645",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-25T01:55:07Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "c393344",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-25T00:14:25Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "ab3ce06",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-23T23:24:13Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "a5fa36c",
+          "message": "fix: point $schema at schemastore.org (URL was 404) (#52239)",
+          "date": "2026-04-23T18:27:07Z",
+          "author": "Daisy S. Hollman"
+        },
+        {
+          "sha": "925200d",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-23T00:42:15Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "9afdfd7",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-22T23:01:47Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "2fa6771",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-22T00:04:35Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "fe53778",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-20T22:18:23Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "0385848",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-18T01:34:25Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "71366ec",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-17T19:34:36Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "2b53fac",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-16T19:55:36Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "bf77ee6",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-16T15:18:41Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "5a7bf28",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-16T01:24:06Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "4fb8aa4",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-15T22:56:07Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "45ae2f5",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-15T22:07:12Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "f348a16",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-15T04:02:09Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "5c18c78",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-14T19:11:56Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "194736a",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-14T06:11:15Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "550aeec",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-13T21:53:07Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "9772e13",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-10T19:03:35Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "c5600e0",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-09T19:18:23Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "d2b2252",
+          "message": "Add MDM deployment example templates (#45866)",
+          "date": "2026-04-09T18:41:10Z",
+          "author": "ant-kurt"
+        },
+        {
+          "sha": "3c72545",
+          "message": "Merge pull request #45798 from anthropics/inigo/triage-prompt-accuracy",
+          "date": "2026-04-09T15:43:12Z",
+          "author": "bogini"
+        },
+        {
+          "sha": "54c7be5",
+          "message": "Tighten invalid-label rule and require a category label on new issues",
+          "date": "2026-04-09T15:29:23Z",
+          "author": "inigo"
+        },
+        {
+          "sha": "22fdf68",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-08T21:52:30Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "227817d",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-08T04:37:31Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "b9fbc77",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-07T21:18:46Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "b543a25",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-04T00:41:56Z",
+          "author": "GitHub Actions"
+        }
+      ]
+    },
+    {
+      "name": "claude-agent-sdk-typescript",
+      "description": null,
+      "stars": 1349,
+      "language": "Shell",
+      "pushedAt": "2026-04-28T00:31:28Z",
+      "url": "https://github.com/anthropics/claude-agent-sdk-typescript",
+      "contributors": [
+        {
+          "login": "actions-user",
+          "contributions": 163
+        },
+        {
+          "login": "ashwin-ant",
+          "contributions": 5
+        },
+        {
+          "login": "OctavianGuzu",
+          "contributions": 5
+        },
+        {
+          "login": "noahzweben",
+          "contributions": 1
+        },
+        {
+          "login": "qing-ant",
+          "contributions": 1
+        },
+        {
+          "login": "sarahdeaton",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "49b6b0e",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-28T00:31:22Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "2b1ffcc",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-25T01:55:19Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "48de067",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-25T00:14:22Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "76d1dec",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-23T23:24:03Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "e1721a4",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-23T00:42:13Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "b3623dc",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-22T00:04:32Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "b917684",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-20T22:18:22Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "f9b4a29",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-18T01:33:47Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "0e9214d",
+          "message": "examples: add S3, Redis, Postgres SessionStore reference adapters (#288)",
+          "date": "2026-04-18T00:41:29Z",
+          "author": "Qing Wang"
+        },
+        {
+          "sha": "c338376",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-17T19:34:27Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "c394ff5",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-16T19:55:45Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "bf1a335",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-16T15:18:42Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "9ecc668",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-15T22:07:29Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "36e2715",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-15T04:02:12Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "9ca6a44",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-14T19:12:03Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "849c843",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-14T06:11:16Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "0305880",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-13T21:53:01Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "de1cb56",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-13T01:45:29Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "01435f5",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-10T19:03:36Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "71e257a",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-09T19:18:21Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "943af1a",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-08T21:52:28Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "16cf7ba",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-08T04:37:26Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "3cecacb",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-07T21:18:51Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "4d9db79",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-04T00:41:46Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "6f58cdf",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-02T23:45:16Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "3cdcd33",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-01T23:41:29Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "29e6edf",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-04-01T01:07:02Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "d7cc5d9",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-03-31T14:35:58Z",
+          "author": "GitHub Actions"
+        },
+        {
+          "sha": "948afef",
+          "message": "Read issue number from workflow event in edit-issue-labels.sh (#258)",
+          "date": "2026-03-31T11:37:08Z",
+          "author": "Octavian Guzu"
+        },
+        {
+          "sha": "0a660e8",
+          "message": "chore: Update CHANGELOG.md",
+          "date": "2026-03-30T23:53:01Z",
+          "author": "GitHub Actions"
+        }
+      ]
+    },
+    {
+      "name": "claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 41749,
+      "language": "Jupyter Notebook",
+      "pushedAt": "2026-04-27T21:00:00Z",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "contributors": [
+        {
+          "login": "zealoushacker",
+          "contributions": 116
+        },
+        {
+          "login": "alexalbertt",
+          "contributions": 61
+        },
+        {
+          "login": "PedramNavid",
+          "contributions": 58
+        },
+        {
+          "login": "saflamini",
+          "contributions": 37
+        },
+        {
+          "login": "maheshmurag",
+          "contributions": 24
+        },
+        {
+          "login": "zack-anthropic",
+          "contributions": 18
+        },
+        {
+          "login": "GarvanD",
+          "contributions": 17
+        },
+        {
+          "login": "montanalow",
+          "contributions": 16
+        },
+        {
+          "login": "jsham042",
+          "contributions": 15
+        },
+        {
+          "login": "Briiick",
+          "contributions": 14
+        },
+        {
+          "login": "elie",
+          "contributions": 12
+        },
+        {
+          "login": "Adriaan-ANT",
+          "contributions": 11
+        },
+        {
+          "login": "JiriDeJonghe",
+          "contributions": 10
+        },
+        {
+          "login": "claude",
+          "contributions": 9
+        },
+        {
+          "login": "ashprabaker",
+          "contributions": 8
+        },
+        {
+          "login": "eltociear",
+          "contributions": 7
+        },
+        {
+          "login": "cal-anthropic",
+          "contributions": 7
+        },
+        {
+          "login": "davidhershey",
+          "contributions": 5
+        },
+        {
+          "login": "ravi03071991",
+          "contributions": 5
+        },
+        {
+          "login": "isabella-anthropic",
+          "contributions": 4
+        },
+        {
+          "login": "nadine-anthropic",
+          "contributions": 4
+        },
+        {
+          "login": "charmaine",
+          "contributions": 4
+        },
+        {
+          "login": "jpvajda",
+          "contributions": 4
+        },
+        {
+          "login": "rlatntjr",
+          "contributions": 4
+        },
+        {
+          "login": "gaganb-ant",
+          "contributions": 4
+        },
+        {
+          "login": "etd-23",
+          "contributions": 4
+        },
+        {
+          "login": "kevinc13",
+          "contributions": 3
+        },
+        {
+          "login": "ant-ken",
+          "contributions": 3
+        },
+        {
+          "login": "henrykeetay",
+          "contributions": 3
+        },
+        {
+          "login": "ericharmeling",
+          "contributions": 3
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "33424c3",
+          "message": "Merge pull request #573 from anthropics/claude/copy-memory-cookbook-pr-ZRx6N",
+          "date": "2026-04-27T21:00:00Z",
+          "author": "gaganb-ant"
+        },
+        {
+          "sha": "869f7e7",
+          "message": "fix(managed_agents): round 5 of memory cookbook review feedback",
+          "date": "2026-04-25T22:49:49Z",
+          "author": "Gagan Bhat"
+        },
+        {
+          "sha": "293bd2a",
+          "message": "fix(managed_agents): address remaining memory cookbook review items",
+          "date": "2026-04-25T22:03:06Z",
+          "author": "Gagan Bhat"
+        },
+        {
+          "sha": "fd673f8",
+          "message": "fix(managed_agents): pin agent version in combine-stores snippet too",
+          "date": "2026-04-25T01:50:16Z",
+          "author": "Claude"
+        },
+        {
+          "sha": "5343894",
+          "message": "fix(managed_agents): pin agent version on sessions.create in memory cookbook",
+          "date": "2026-04-25T01:22:03Z",
+          "author": "Claude"
+        },
+        {
+          "sha": "6c32b29",
+          "message": "fix(managed_agents): round 3 of memory cookbook review feedback",
+          "date": "2026-04-25T01:16:18Z",
+          "author": "Claude"
+        },
+        {
+          "sha": "892f846",
+          "message": "fix(managed_agents): align memory cookbook with CMA series conventions",
+          "date": "2026-04-25T01:10:44Z",
+          "author": "Claude"
+        },
+        {
+          "sha": "1016f8f",
+          "message": "docs(managed_agents): address review feedback on memory cookbook",
+          "date": "2026-04-25T00:41:28Z",
+          "author": "Claude"
+        },
+        {
+          "sha": "3e44f8d",
+          "message": "feat(managed_agents): add memory store cookbook",
+          "date": "2026-04-25T00:08:56Z",
+          "author": "Claude"
+        },
+        {
+          "sha": "753ddfe",
+          "message": "Merge pull request #526 from anthropics/sre-incident-response-agent-fixes",
+          "date": "2026-04-11T00:33:35Z",
+          "author": "gaganb-ant"
+        },
+        {
+          "sha": "355d201",
+          "message": "chore(registry): bump SRE incident responder date to 2026-04-10",
+          "date": "2026-04-11T00:12:21Z",
+          "author": "Claude"
+        },
+        {
+          "sha": "2aae611",
+          "message": "fix(managed_agents): add missing checkout-svc.log fixture for SRE cookbook",
+          "date": "2026-04-11T00:09:44Z",
+          "author": "Claude"
+        },
+        {
+          "sha": "11be135",
+          "message": "fix(managed_agents): SRE registry summary + use raw URL for console image",
+          "date": "2026-04-10T23:46:27Z",
+          "author": "Claude"
+        },
+        {
+          "sha": "b96dc04",
+          "message": "Merge pull request #516 from anthropics/mnowicki/cma-versioning-header-fix",
+          "date": "2026-04-09T01:57:10Z",
+          "author": "markn"
+        },
+        {
+          "sha": "9164000",
+          "message": "Print 'v1 results:' header before score loop",
+          "date": "2026-04-09T01:53:05Z",
+          "author": "mnowicki"
+        },
+        {
+          "sha": "8f6e61a",
+          "message": "Merge pull request #511 from anthropics/charmaine/fix-managed-agents-mdx-formatting",
+          "date": "2026-04-08T22:41:01Z",
+          "author": "Charmaine Lee"
+        },
+        {
+          "sha": "370c1f5",
+          "message": "fix(registry): correct SRE incident responder published date to 2026-04-08",
+          "date": "2026-04-08T22:38:11Z",
+          "author": "Charmaine Lee"
+        },
+        {
+          "sha": "65da848",
+          "message": "fix(managed_agents): address review — blockquotes, source normalization",
+          "date": "2026-04-08T22:07:08Z",
+          "author": "Charmaine Lee"
+        },
+        {
+          "sha": "09b8972",
+          "message": "fix(managed_agents): unwrap markdown paragraphs for MDX rendering",
+          "date": "2026-04-08T21:58:24Z",
+          "author": "Charmaine Lee"
+        },
+        {
+          "sha": "a07d43d",
+          "message": "fix(managed_agents): self-close <img> tags so MDX build doesn't fail (#509)",
+          "date": "2026-04-08T18:01:51Z",
+          "author": "Pedram Navid"
+        },
+        {
+          "sha": "fa27d43",
+          "message": "feat(managed_agents): add Claude Managed Agents cookbooks (#508)",
+          "date": "2026-04-08T17:52:57Z",
+          "author": "Pedram Navid"
+        },
+        {
+          "sha": "89e3293",
+          "message": "Update registry.yaml (#506)",
+          "date": "2026-04-07T17:23:07Z",
+          "author": "Jannet Park"
+        },
+        {
+          "sha": "ec01d0f",
+          "message": "feat(tool_use): add threat intelligence enrichment agent cookbook (#496)",
+          "date": "2026-04-07T16:17:59Z",
+          "author": "Pedram Navid"
+        },
+        {
+          "sha": "ca0dd33",
+          "message": "Merge pull request #480 from anthropics/qing/agent-sdk-session-browser",
+          "date": "2026-04-01T04:53:34Z",
+          "author": "Qing Wang"
+        },
+        {
+          "sha": "a5a6b21",
+          "message": "Merge pull request #484 from anthropics/isabella/unwrap-blockquote-callouts",
+          "date": "2026-03-31T00:17:34Z",
+          "author": "Isabella He"
+        },
+        {
+          "sha": "2fcb7b4",
+          "message": "fix(tool_use): unwrap blockquote callouts in context engineering notebook",
+          "date": "2026-03-31T00:11:46Z",
+          "author": "Isabella He"
+        },
+        {
+          "sha": "50871d8",
+          "message": "Merge pull request #483 from anthropics/isabella/fix-context-engineering-newlines",
+          "date": "2026-03-31T00:02:20Z",
+          "author": "Isabella He"
+        },
+        {
+          "sha": "acbcebd",
+          "message": "fix(tool_use): unwrap hard-wrapped paragraphs in context engineering notebook",
+          "date": "2026-03-30T23:59:28Z",
+          "author": "Isabella He"
+        },
+        {
+          "sha": "ee3dfe1",
+          "message": "feat(tool_use): add context engineering strategies cookbook (#481)",
+          "date": "2026-03-30T22:25:05Z",
+          "author": "Pedram Navid"
+        },
+        {
+          "sha": "67874c1",
+          "message": "address review: import SDKSessionInfo, explicit raise, return type, cwd note",
+          "date": "2026-03-30T22:20:21Z",
+          "author": "Qing Wang"
+        }
+      ]
+    },
+    {
+      "name": "life-sciences",
+      "description": "Repo for the Claude Code Marketplace to use with the Claude for Life Sciences Launch. This will continue to host the marketplace.json long-term, but not the actual MCP servers.",
+      "stars": 322,
+      "language": "Python",
+      "pushedAt": "2026-04-27T19:56:20Z",
+      "url": "https://github.com/anthropics/life-sciences",
+      "contributors": [
+        {
+          "login": "jwei-ant",
+          "contributions": 36
+        },
+        {
+          "login": "dhollman",
+          "contributions": 13
+        },
+        {
+          "login": "antdres",
+          "contributions": 12
+        },
+        {
+          "login": "claude",
+          "contributions": 5
+        },
+        {
+          "login": "daniellechou-anthropic",
+          "contributions": 3
+        },
+        {
+          "login": "kozo2",
+          "contributions": 1
+        },
+        {
+          "login": "yamz8",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "20f100e",
+          "message": "Merge pull request #30 from yamz8/fix/add-scientific-problem-selection-to-marketplace",
+          "date": "2026-04-27T19:56:20Z",
+          "author": "jwei-ant"
+        }
+      ]
+    },
+    {
+      "name": "homebrew-tap",
+      "description": "Homebrew formulae for Anthropic tools.",
+      "stars": 11,
+      "language": "Ruby",
+      "pushedAt": "2026-04-27T16:36:55Z",
+      "url": "https://github.com/anthropics/homebrew-tap",
+      "contributors": [
+        {
+          "login": "AlePouroullis",
+          "contributions": 2
+        },
+        {
+          "login": "packyg",
+          "contributions": 1
+        },
+        {
+          "login": "anthropic-sdk-publisher[bot]",
+          "contributions": 1
+        },
+        {
+          "login": "goreleaserbot",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "41d2959",
+          "message": "Brew cask update for ant version v1.3.2 (#4)",
+          "date": "2026-04-27T16:36:52Z",
+          "author": "anthropic-sdk-publisher[bot]"
+        },
+        {
+          "sha": "67bd3fd",
+          "message": "Brew cask update for ant version v1.3.2 (#3)",
+          "date": "2026-04-23T22:17:23Z",
+          "author": "Alexandros Pouroullis"
+        },
+        {
+          "sha": "03b7c5d",
+          "message": "Add CODEOWNERS requiring @anthropics/sdk approval (#2)",
+          "date": "2026-04-23T01:15:10Z",
+          "author": "Alexandros Pouroullis"
+        },
+        {
+          "sha": "c7d7f67",
+          "message": "Brew cask update for ant version v1.2.1 (#1)",
+          "date": "2026-04-16T16:03:55Z",
+          "author": "Packy Gallagher"
+        },
+        {
+          "sha": "0e6080c",
+          "message": "Brew cask update for ant version v1.0.0",
+          "date": "2026-04-08T18:16:09Z",
+          "author": "goreleaserbot"
+        }
+      ]
+    },
+    {
+      "name": "tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "stars": 10,
+      "language": "Rust",
+      "pushedAt": "2026-04-25T05:29:43Z",
+      "url": "https://github.com/anthropics/tokio",
+      "contributors": [
+        {
+          "login": "carllerche",
+          "contributions": 647
+        },
+        {
+          "login": "Darksonn",
+          "contributions": 572
+        },
+        {
+          "login": "alexcrichton",
+          "contributions": 357
+        },
+        {
+          "login": "taiki-e",
+          "contributions": 172
+        },
+        {
+          "login": "ipetkov",
+          "contributions": 125
+        },
+        {
+          "login": "hawkw",
+          "contributions": 113
+        },
+        {
+          "login": "LucioFranco",
+          "contributions": 54
+        },
+        {
+          "login": "seanmonstar",
+          "contributions": 52
+        },
+        {
+          "login": "mox692",
+          "contributions": 47
+        },
+        {
+          "login": "ADD-SP",
+          "contributions": 46
+        },
+        {
+          "login": "maminrayej",
+          "contributions": 38
+        },
+        {
+          "login": "jonhoo",
+          "contributions": 38
+        },
+        {
+          "login": "asomers",
+          "contributions": 35
+        },
+        {
+          "login": "hds",
+          "contributions": 35
+        },
+        {
+          "login": "martin-g",
+          "contributions": 27
+        },
+        {
+          "login": "zaharidichev",
+          "contributions": 26
+        },
+        {
+          "login": "udoprog",
+          "contributions": 24
+        },
+        {
+          "login": "vorot93",
+          "contributions": 23
+        },
+        {
+          "login": "blasrodri",
+          "contributions": 22
+        },
+        {
+          "login": "vorner",
+          "contributions": 20
+        },
+        {
+          "login": "satakuma",
+          "contributions": 20
+        },
+        {
+          "login": "nylonicious",
+          "contributions": 18
+        },
+        {
+          "login": "sfackler",
+          "contributions": 17
+        },
+        {
+          "login": "Marwes",
+          "contributions": 16
+        },
+        {
+          "login": "Noah-Kennedy",
+          "contributions": 16
+        },
+        {
+          "login": "wathenjiang",
+          "contributions": 15
+        },
+        {
+          "login": "dekellum",
+          "contributions": 14
+        },
+        {
+          "login": "davidpdrsn",
+          "contributions": 14
+        },
+        {
+          "login": "aturon",
+          "contributions": 13
+        },
+        {
+          "login": "njsmith",
+          "contributions": 13
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "7f7724e",
+          "message": "Merge pull request #9 from anthropics/sujay/fork-version-scheme",
+          "date": "2026-04-25T05:29:42Z",
+          "author": "Sujay Jayakar"
+        },
+        {
+          "sha": "bb81033",
+          "message": "release: use patch-offset versioning instead of +anthropic.N",
+          "date": "2026-04-24T23:33:54Z",
+          "author": "sujay"
+        },
+        {
+          "sha": "1dd3e60",
+          "message": "Merge pull request #8 from antsujay/rng-seed-stable-v1.49.0",
+          "date": "2026-04-24T21:38:09Z",
+          "author": "Sujay Jayakar"
+        },
+        {
+          "sha": "64c734e",
+          "message": "runtime: expose Builder::rng_seed without tokio_unstable",
+          "date": "2026-04-15T23:46:03Z",
+          "author": "Sujay Jayakar"
+        },
+        {
+          "sha": "8b6e427",
+          "message": "Merge pull request #6 from anthropics/trigger-publish-2",
+          "date": "2026-03-17T19:09:59Z",
+          "author": "Nathaniel J. Smith"
+        },
+        {
+          "sha": "531e95d",
+          "message": "ci: trigger publish after terraform crates/ prefix fix",
+          "date": "2026-03-17T19:06:02Z",
+          "author": "njs"
+        },
+        {
+          "sha": "7d435bd",
+          "message": "Merge pull request #5 from anthropics/fix-publish-auth",
+          "date": "2026-03-17T02:59:29Z",
+          "author": "Nathaniel J. Smith"
+        },
+        {
+          "sha": "6066d8c",
+          "message": "fix: improve publish auth and add debugging",
+          "date": "2026-03-17T02:19:59Z",
+          "author": "njs"
+        },
+        {
+          "sha": "9c26341",
+          "message": "Merge pull request #4 from anthropics/fix-publish-auth",
+          "date": "2026-03-17T02:30:27Z",
+          "author": "Nathaniel J. Smith"
+        },
+        {
+          "sha": "e44f53a",
+          "message": "fix: improve publish auth and add debugging",
+          "date": "2026-03-17T02:19:59Z",
+          "author": "njs"
+        },
+        {
+          "sha": "7e7a948",
+          "message": "Merge pull request #3 from anthropics/trigger-publish-retry",
+          "date": "2026-03-17T01:47:32Z",
+          "author": "Nathaniel J. Smith"
+        },
+        {
+          "sha": "48a5714",
+          "message": "ci: trigger publish workflow retry",
+          "date": "2026-03-17T01:31:17Z",
+          "author": "njs"
+        },
+        {
+          "sha": "3f83fa4",
+          "message": "Merge pull request #2 from anthropics/setup-artifactory-publishing",
+          "date": "2026-03-17T01:22:25Z",
+          "author": "Nathaniel J. Smith"
+        },
+        {
+          "sha": "2c22000",
+          "message": "Merge pull request #1 from anthropics/stall-detection-v1.49.0",
+          "date": "2026-03-16T20:23:14Z",
+          "author": "Nathaniel J. Smith"
+        },
+        {
+          "sha": "71f8658",
+          "message": "fix: use 'publish' environment in publish workflow",
+          "date": "2026-03-13T20:00:25Z",
+          "author": "njs"
+        },
+        {
+          "sha": "0eb5be1",
+          "message": "ci: add Artifactory publishing workflow and version bump to 1.49.0+anthropic.1",
+          "date": "2026-03-13T18:43:05Z",
+          "author": "njs"
+        },
+        {
+          "sha": "14d2234",
+          "message": "feat: add scheduler stall detection",
+          "date": "2026-03-09T23:23:26Z",
+          "author": "njs"
+        }
+      ]
+    },
+    {
+      "name": "anthropic-cli",
+      "description": "The CLI for the Claude API",
+      "stars": 323,
+      "language": "Go",
+      "pushedAt": "2026-04-24T00:29:07Z",
+      "url": "https://github.com/anthropics/anthropic-cli",
+      "contributors": [
+        {
+          "login": "stainless-app[bot]",
+          "contributions": 100
+        },
+        {
+          "login": "felixfbecker",
+          "contributions": 4
+        },
+        {
+          "login": "AlePouroullis",
+          "contributions": 4
+        },
+        {
+          "login": "dtmeadows",
+          "contributions": 2
+        },
+        {
+          "login": "packyg",
+          "contributions": 1
+        },
+        {
+          "login": "RobertCraigie",
+          "contributions": 1
+        },
+        {
+          "login": "bruce-hill",
+          "contributions": 1
+        },
+        {
+          "login": "meorphis",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "899e30c",
+          "message": "release: 1.3.2",
+          "date": "2026-04-23T22:00:20Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "34331b3",
+          "message": "ci: wait for notarization to complete before publishing (#35)",
+          "date": "2026-04-23T21:59:54Z",
+          "author": "Alexandros Pouroullis"
+        },
+        {
+          "sha": "22cf6c3",
+          "message": "release: 1.3.1",
+          "date": "2026-04-23T21:34:21Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "81bfa8e",
+          "message": "ci: base64-encode MACOS_NOTARY_KEY before passing to goreleaser (#33)",
+          "date": "2026-04-23T21:33:49Z",
+          "author": "Alexandros Pouroullis"
+        },
+        {
+          "sha": "ce3e990",
+          "message": "release: 1.3.0",
+          "date": "2026-04-23T21:18:07Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "9858388",
+          "message": "chore(client): config fixes",
+          "date": "2026-04-23T21:08:55Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "f916d54",
+          "message": "Bump go SDK dependency",
+          "date": "2026-04-23T20:58:13Z",
+          "author": "Packy Gallagher"
+        },
+        {
+          "sha": "25069cf",
+          "message": "codegen metadata",
+          "date": "2026-04-23T20:42:52Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c54f87c",
+          "message": "fix(api): restore missing features",
+          "date": "2026-04-23T20:33:54Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "0e46989",
+          "message": "feat(api): CMA Memory public beta",
+          "date": "2026-04-23T18:19:26Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "a68e240",
+          "message": "feat(cli): default to interactive explore format for retrieve/list commands when connected to TTY",
+          "date": "2026-04-22T23:14:53Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "b65fa33",
+          "message": "chore(internal): more robust bootstrap script",
+          "date": "2026-04-22T14:03:58Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "e17f5dd",
+          "message": "chore(tests): bump steady to v0.22.1",
+          "date": "2026-04-17T19:56:14Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "38ad709",
+          "message": "fix: correctly serialize --file parameter",
+          "date": "2026-04-17T19:22:56Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "cbf55d1",
+          "message": "chore(cli): use `ShowJSONOpts` as argument to `formatJSON` instead of many positionals",
+          "date": "2026-04-17T16:51:45Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "d4bbcb1",
+          "message": "add workflow to trigger release-please via stainless (#30)",
+          "date": "2026-04-22T22:03:11Z",
+          "author": "meorphis"
+        },
+        {
+          "sha": "2b71bac",
+          "message": "codegen metadata",
+          "date": "2026-04-16T19:06:15Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "9f37b5b",
+          "message": "feat(cli): add `--raw-output`/`-r` option to print raw (non-JSON) strings",
+          "date": "2026-04-16T19:01:20Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "19772ca",
+          "message": "feat(cli): send filename and content type when reading input from files",
+          "date": "2026-04-16T17:26:50Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "fbf21ad",
+          "message": "ci: enable macOS signing + notarization in release workflow (#31)",
+          "date": "2026-04-22T22:01:30Z",
+          "author": "Alexandros Pouroullis"
+        },
+        {
+          "sha": "af90f28",
+          "message": "release: 1.2.1",
+          "date": "2026-04-16T15:43:31Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "dd9eeb2",
+          "message": "chore(ci): support manually triggering release workflow",
+          "date": "2026-04-16T15:39:05Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "1f4c5ad",
+          "message": "fix(goreleaser): correct pull request config",
+          "date": "2026-04-16T15:30:25Z",
+          "author": "Robert Craigie"
+        },
+        {
+          "sha": "be3b17b",
+          "message": "release: 1.2.0",
+          "date": "2026-04-16T14:40:01Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "1af033b",
+          "message": "chore(internal): codegen related update",
+          "date": "2026-04-16T14:39:41Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "c593721",
+          "message": "feat(api): add claude-opus-4-7, token budgets and user_profiles",
+          "date": "2026-04-16T14:22:23Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "3b672af",
+          "message": "chore(cli): switch long lists of positional args over to param structs",
+          "date": "2026-04-15T21:50:00Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "2ad59b6",
+          "message": "feat(cli): alias parameters in data with `x-stainless-cli-data-alias`",
+          "date": "2026-04-14T23:03:34Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "e343901",
+          "message": "chore(ci): remove release-doctor workflow",
+          "date": "2026-04-14T19:29:24Z",
+          "author": "stainless-app[bot]"
+        },
+        {
+          "sha": "e4a778b",
+          "message": "chore(cli): fall back to JSON when using default \"explore\" with non-TTY",
+          "date": "2026-04-14T18:38:49Z",
+          "author": "stainless-app[bot]"
+        }
+      ]
+    },
+    {
+      "name": "skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 125320,
+      "language": "Python",
+      "pushedAt": "2026-04-23T17:07:20Z",
+      "url": "https://github.com/anthropics/skills",
+      "contributors": [
+        {
+          "login": "klazuka",
+          "contributions": 13
+        },
+        {
+          "login": "ericharmeling",
+          "contributions": 3
+        },
+        {
+          "login": "rlancemartin",
+          "contributions": 2
+        },
+        {
+          "login": "mattpic-ant",
+          "contributions": 2
+        },
+        {
+          "login": "cc-skill-sync[bot]",
+          "contributions": 2
+        },
+        {
+          "login": "maheshmurag",
+          "contributions": 2
+        },
+        {
+          "login": "allenzhou101",
+          "contributions": 1
+        },
+        {
+          "login": "quuu",
+          "contributions": 1
+        },
+        {
+          "login": "camaris",
+          "contributions": 1
+        },
+        {
+          "login": "kencheeto",
+          "contributions": 1
+        },
+        {
+          "login": "peterlai-ant",
+          "contributions": 1
+        },
+        {
+          "login": "ant-andi",
+          "contributions": 1
+        },
+        {
+          "login": "zack-anthropic",
+          "contributions": 1
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "5128e18",
+          "message": "Add Managed Agents memory stores page to claude-api skill (#1014)",
+          "date": "2026-04-23T17:07:18Z",
+          "author": "Lance Martin"
+        },
+        {
+          "sha": "b9e19e6",
+          "message": "Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)",
+          "date": "2026-04-20T21:38:16Z",
+          "author": "Lance Martin"
+        },
+        {
+          "sha": "2c7ec5e",
+          "message": "chore: update claude-api skill (#956)",
+          "date": "2026-04-16T19:12:57Z",
+          "author": "Eric Harmeling"
+        },
+        {
+          "sha": "0f7c287",
+          "message": "fix skill yaml rendering (#898)",
+          "date": "2026-04-13T20:37:42Z",
+          "author": "Allen Zhou"
+        },
+        {
+          "sha": "12ab35c",
+          "message": "Add proper front-matter to SKILL.md for claude-api (#897)",
+          "date": "2026-04-09T17:20:06Z",
+          "author": "Andrew Qu"
+        },
+        {
+          "sha": "ca1e7dc",
+          "message": "Update claude-api skill with Managed Agents guidance (#891)",
+          "date": "2026-04-08T17:01:02Z",
+          "author": "Eric Harmeling"
+        },
+        {
+          "sha": "98669c1",
+          "message": "chore: update claude-api skill [auto-sync] (#730)",
+          "date": "2026-03-25T15:10:46Z",
+          "author": "cc-skill-sync[bot]"
+        },
+        {
+          "sha": "887114f",
+          "message": "chore: update claude-api skill [auto-sync] (#729)",
+          "date": "2026-03-22T16:16:01Z",
+          "author": "cc-skill-sync[bot]"
+        },
+        {
+          "sha": "b0cbd3d",
+          "message": "skill-creator: drop ANTHROPIC_API_KEY requirement from description optimizer (#547)",
+          "date": "2026-03-06T20:06:23Z",
+          "author": "zack-anthropic"
+        },
+        {
+          "sha": "7029232",
+          "message": "Add claude-api skill (#515)",
+          "date": "2026-03-04T20:05:44Z",
+          "author": "Eric Harmeling"
+        },
+        {
+          "sha": "3d59511",
+          "message": "chore: export latest skills (#465)",
+          "date": "2026-02-25T04:28:38Z",
+          "author": "Kenshiro Nakagawa"
+        },
+        {
+          "sha": "1ed29a0",
+          "message": "Update skill-creator and make scripts executable (#350)",
+          "date": "2026-02-06T21:19:32Z",
+          "author": "Keith Lazuka"
+        },
+        {
+          "sha": "a5bcdd7",
+          "message": "Delete legacy html2pptx.tgz dependency. (#331)",
+          "date": "2026-02-04T02:20:33Z",
+          "author": "Peter Lai"
+        },
+        {
+          "sha": "4e6907a",
+          "message": "Update docx, xlsx, pdf, pptx skills with latest improvements (#330)",
+          "date": "2026-02-04T02:09:36Z",
+          "author": "Keith Lazuka"
+        }
+      ]
+    },
+    {
+      "name": "financial-services-plugins",
+      "description": null,
+      "stars": 7813,
+      "language": "Python",
+      "pushedAt": "2026-04-23T03:20:45Z",
+      "url": "https://github.com/anthropics/financial-services-plugins",
+      "contributors": [
+        {
+          "login": "cxyback",
+          "contributions": 16
+        },
+        {
+          "login": "manar-ant",
+          "contributions": 10
+        },
+        {
+          "login": "mihilmy",
+          "contributions": 8
+        },
+        {
+          "login": "tobinsouth",
+          "contributions": 5
+        },
+        {
+          "login": "vinitra-ant",
+          "contributions": 3
+        },
+        {
+          "login": "viveknair",
+          "contributions": 2
+        },
+        {
+          "login": "alexa-perlov",
+          "contributions": 2
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "532221d",
+          "message": "docs(claude-in-office): document otlp_resource_attributes config key (#73)",
+          "date": "2026-04-23T03:20:45Z",
+          "author": "Vivek Nair"
+        },
+        {
+          "sha": "356f09f",
+          "message": "feat(manifest): add inference_headers config key (#68)",
+          "date": "2026-04-17T21:50:20Z",
+          "author": "manar-ant"
+        },
+        {
+          "sha": "a9c6d61",
+          "message": "fix(manifest): accept gateway_auth_header and gateway_api_format case-insensitively (#65)",
+          "date": "2026-04-15T19:13:09Z",
+          "author": "manar-ant"
+        },
+        {
+          "sha": "c35ff8c",
+          "message": "feat(claude-in-office): Python bootstrap reference server with RBAC (#64)",
+          "date": "2026-04-15T16:31:47Z",
+          "author": "Omar Mihilmy"
+        },
+        {
+          "sha": "ad39947",
+          "message": "fix(manifest): add otlp_endpoint/otlp_headers to KEYS validator (#63)",
+          "date": "2026-04-14T20:17:10Z",
+          "author": "manar-ant"
+        },
+        {
+          "sha": "38369ba",
+          "message": "feat(manifest): add Azure AI Foundry config keys (#60)",
+          "date": "2026-04-13T17:46:21Z",
+          "author": "alexa-perlov"
+        },
+        {
+          "sha": "e96550a",
+          "message": "feat(claude-in-office): add gateway_api_format manifest key (#61)",
+          "date": "2026-04-08T21:22:25Z",
+          "author": "manar-ant"
+        },
+        {
+          "sha": "90d7a0c",
+          "message": "feat: document otlp_endpoint and otlp_headers config keys (#57)",
+          "date": "2026-04-05T15:34:12Z",
+          "author": "Vivek Nair"
+        },
+        {
+          "sha": "8470f2d",
+          "message": "feat(claude-in-office): accept mcp_servers key in build-manifest (#55)",
+          "date": "2026-04-02T00:15:35Z",
+          "author": "alexa-perlov"
+        },
+        {
+          "sha": "75aac9a",
+          "message": "docs(claude-in-office): add devtools recipes for macOS and Windows (#51)",
+          "date": "2026-04-01T16:18:51Z",
+          "author": "Omar Mihilmy"
+        },
+        {
+          "sha": "16321d9",
+          "message": "Merge pull request #53 from anthropics/feat/bootstrap-command",
+          "date": "2026-04-01T15:42:44Z",
+          "author": "Omar Mihilmy"
+        },
+        {
+          "sha": "2c72866",
+          "message": "feat(claude-in-office): add bootstrap command for mcp_servers and skills",
+          "date": "2026-04-01T14:23:05Z",
+          "author": "Omar Mihilmy"
+        },
+        {
+          "sha": "8f122c9",
+          "message": "Merge pull request #52 from anthropics/manar/bootstrap-expires-at-docs",
+          "date": "2026-04-01T03:37:49Z",
+          "author": "manar-ant"
+        },
+        {
+          "sha": "ef1b63b",
+          "message": "docs(claude-in-office): document bootstrap_expires_at response field",
+          "date": "2026-04-01T03:27:33Z",
+          "author": "Manar Safi"
+        },
+        {
+          "sha": "a757f2f",
+          "message": "Merge pull request #48 from anthropics/manar/gateway-auth-header-key",
+          "date": "2026-03-30T15:04:02Z",
+          "author": "manar-ant"
+        },
+        {
+          "sha": "c22da9a",
+          "message": "docs(claude-in-office): document gateway_auth_header key",
+          "date": "2026-03-29T15:05:26Z",
+          "author": "Manar Safi"
+        },
+        {
+          "sha": "618cf03",
+          "message": "feat(claude-in-office): add gateway_auth_header manifest key",
+          "date": "2026-03-28T00:37:21Z",
+          "author": "Manar Safi"
+        },
+        {
+          "sha": "62ba73a",
+          "message": "Merge pull request #47 from anthropics/add-claude-in-office-plugin",
+          "date": "2026-03-27T16:22:04Z",
+          "author": "Omar Mihilmy"
+        },
+        {
+          "sha": "c7e5fc6",
+          "message": "claude-in-office: make admin consent conditional on entra_sso",
+          "date": "2026-03-27T15:36:13Z",
+          "author": "Omar Mihilmy"
+        },
+        {
+          "sha": "c9358a5",
+          "message": "Add claude-in-office plugin for Office add-in deployment",
+          "date": "2026-03-27T14:57:28Z",
+          "author": "Omar Mihilmy"
+        },
+        {
+          "sha": "b75df36",
+          "message": "Merge pull request #43 from anthropics/cxl/remove-yfinance",
+          "date": "2026-03-26T17:41:11Z",
+          "author": "Omar Mihilmy"
+        },
+        {
+          "sha": "9a08cb4",
+          "message": "Remove unused yfinance dependency from dcf-model skill",
+          "date": "2026-03-26T14:43:28Z",
+          "author": "Nicholas Lin"
+        },
+        {
+          "sha": "b881b3c",
+          "message": "Merge pull request #35 from anthropics/cxl/pe-ai-readiness",
+          "date": "2026-03-13T22:12:12Z",
+          "author": "cxyback"
+        },
+        {
+          "sha": "3efe45f",
+          "message": "Prompt for portfolio data source upfront in ai-readiness skill",
+          "date": "2026-03-13T20:07:07Z",
+          "author": "Nicholas Lin"
+        },
+        {
+          "sha": "e36e38a",
+          "message": "Add ai-readiness skill to private-equity plugin",
+          "date": "2026-03-12T23:51:34Z",
+          "author": "Nicholas Lin"
+        },
+        {
+          "sha": "609de35",
+          "message": "Merge pull request #27 from anthropics/vinitra/update-ppt-skills",
+          "date": "2026-03-10T16:13:10Z",
+          "author": "vinitra-ant"
+        },
+        {
+          "sha": "530503a",
+          "message": "Merge remote-tracking branch 'origin/main' into vinitra/update-ppt-skills",
+          "date": "2026-03-10T16:10:55Z",
+          "author": "Vinitra Rangan"
+        },
+        {
+          "sha": "fc22a5e",
+          "message": "Merge pull request #29 from anthropics/fix/normalize-thousand-trillion-substring",
+          "date": "2026-03-10T14:38:17Z",
+          "author": "Tobin South"
+        },
+        {
+          "sha": "2f5a932",
+          "message": "Fix normalize_number matching 'thousand' as trillion",
+          "date": "2026-03-10T14:35:22Z",
+          "author": "Manar Safi"
+        },
+        {
+          "sha": "52d23e2",
+          "message": "Update PowerPoint skills for Claude in PPT skills launch",
+          "date": "2026-03-09T23:12:30Z",
+          "author": "Vinitra Rangan"
+        }
+      ]
+    },
+    {
+      "name": "claude-desktop-buddy",
+      "description": "Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop",
+      "stars": 1477,
+      "language": "C++",
+      "pushedAt": "2026-04-16T23:25:07Z",
+      "url": "https://github.com/anthropics/claude-desktop-buddy",
+      "contributors": [
+        {
+          "login": "felixrieseberg",
+          "contributions": 2
+        }
+      ],
+      "recentCommits": [
+        {
+          "sha": "a280c64",
+          "message": "Add screenshots to README and bridge-enable steps to REFERENCE (#1)",
+          "date": "2026-04-16T23:25:04Z",
+          "author": "Felix Rieseberg"
+        },
+        {
+          "sha": "8ac960d",
+          "message": "Initial release",
+          "date": "2026-04-09T22:43:42Z",
+          "author": "Felix Rieseberg"
+        }
+      ]
+    }
+  ]
+}

@@ -8,7 +8,13 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "fetch": "node scripts/fetch-jobs.mjs"
+    "fetch": "node scripts/fetch-jobs.mjs",
+    "fetch-arxiv": "node scripts/fetch-arxiv.mjs",
+    "fetch-github": "node scripts/fetch-github.mjs",
+    "cross-ref": "node scripts/cross-reference.mjs",
+    "vocab-shift": "node scripts/vocab-shift.mjs",
+    "withdrawal": "node scripts/withdrawal-lifetime.mjs",
+    "diffusion": "node scripts/diffusion-velocity.mjs"
   },
   "dependencies": {
     "astro": "^5.0.0",

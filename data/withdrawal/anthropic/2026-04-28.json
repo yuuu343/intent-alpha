@@ -1,0 +1,25 @@
+{
+  "slug": "anthropic",
+  "computedAt": "2026-04-28T15:26:45.403Z",
+  "snapshotCount": 1,
+  "snapshotDates": [
+    "2026-04-28"
+  ],
+  "framework": {
+    "description": "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+    "buckets": [
+      "0–14d (likely withdrawn)",
+      "15–60d",
+      "61–120d",
+      "120+d (backlog)"
+    ],
+    "readiness": "awaiting second snapshot"
+  },
+  "withdrawn": [],
+  "stillOpen": [],
+  "summary": {
+    "withdrawnCount": 0,
+    "stillOpenCount": 0,
+    "bucketCounts": {}
+  }
+}

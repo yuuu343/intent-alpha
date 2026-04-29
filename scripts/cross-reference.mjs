@@ -1,0 +1,123 @@
+#!/usr/bin/env node
+// scripts/cross-reference.mjs <entity>
+//
+// Joins three primary sources for a given entity into one topic table:
+//   - jobs:   data/snapshots/<slug>/<latest>.json
+//   - arxiv:  data/arxiv/<entity>/<latest>.json
+//   - github: data/github/<org>/<latest>.json    (org tried as <entity> then <entity>s)
+//
+// For each curated topic regex, counts hits across the three sources.
+// This is the editorial backbone for the deep-dispatch piece — the layer
+// where "hiring up + papers up + commits up" co-incidence becomes visible.
+//
+// Output: data/cross-ref/<entity>/<YYYY-MM-DD>.json
+
+import { readFile, readdir, writeFile, mkdir } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __filename = fileURLToPath(import.meta.url);
+const ROOT = path.resolve(path.dirname(__filename), '..');
+const today = () => new Date().toISOString().slice(0, 10);
+
+const TOPICS = {
+  post_training:     /(post[- ]?training|preference modeling|\brlhf\b|\brlaif\b|\bdpo\b|\bgrpo\b|\bsft\b|\bppo\b)/i,
+  pre_training:      /(pre[- ]?training|foundation model|scaling law)/i,
+  interpretability:  /(interpretab|mech(?:anistic)? interp|circuit analysis|sparse autoencoder|\bsae\b|representation engineering)/i,
+  alignment_safety:  /(alignment|safeguard|constitutional ai|harm reduction|red[- ]?team|trust and safety)/i,
+  agents:            /(\bagent\b|agentic|tool use|orchestration|autonomous workflow|computer use)/i,
+  inference_serving: /(inference|model serving|tensorrt|\btrt-?llm\b|ray serve|\bvllm\b|serving infrastructure)/i,
+  multimodal:        /(multimodal|vision-?language|\bvlm\b|audio model|video model|speech model|image model)/i,
+  evaluation:        /(\beval(?:uation)?\b|benchmark|model assessment)/i,
+  compute_infra:     /(datacenter|colocation|\bgpu cluster\b|infiniband|nvlink|capex|capacity planning)/i,
+  data_quality:      /(data quality|data curation|dataset construction|filtering pipeline)/i,
+  security_eng:      /(security engineer|security research|threat model|incident response|vulnerab)/i,
+  applied_fde:       /(forward[- ]deployed|applied (?:ai|engineer|ml)|deployment engineer|customer engineer)/i,
+};
+
+async function loadLatest(dir) {
+  if (!existsSync(dir)) return null;
+  const files = (await readdir(dir)).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+  if (!files.length) return null;
+  const file = path.join(dir, files[files.length - 1]);
+  return { file, data: JSON.parse(await readFile(file, 'utf8')) };
+}
+
+function countMatches(items, getText) {
+  const out = {};
+  for (const label of Object.keys(TOPICS)) out[label] = 0;
+  for (const it of items) {
+    const text = getText(it);
+    if (!text) continue;
+    for (const [label, re] of Object.entries(TOPICS)) {
+      if (re.test(text)) out[label]++;
+    }
+  }
+  return out;
+}
+
+async function main() {
+  const entity = process.argv[2];
+  if (!entity) {
+    console.error('usage: node scripts/cross-reference.mjs <entity>');
+    process.exit(1);
+  }
+
+  const jobs  = await loadLatest(path.join(ROOT, 'data', 'snapshots', entity));
+  const arxiv = await loadLatest(path.join(ROOT, 'data', 'arxiv', entity));
+  const gh    = (await loadLatest(path.join(ROOT, 'data', 'github', entity)))
+              ?? (await loadLatest(path.join(ROOT, 'data', 'github', `${entity}s`)));
+
+  if (!jobs && !arxiv && !gh) {
+    console.error(`no source data for ${entity} — run fetch-jobs / fetch-arxiv / fetch-github first`);
+    process.exit(1);
+  }
+
+  const jobMatches   = jobs  ? countMatches(jobs.data.jobs ?? [],     (j) => j.title) : null;
+  const arxivMatches = arxiv ? countMatches(arxiv.data.papers ?? [], (p) => `${p.title} ${p.summary}`) : null;
+  const ghMatches    = gh    ? countMatches(gh.data.repos ?? [],     (r) => `${r.name} ${r.description ?? ''} ${(r.recentCommits ?? []).map((c) => c.message).join(' ')}`) : null;
+
+  const rows = Object.keys(TOPICS).map((label) => ({
+    topic: label,
+    jobs:   jobMatches   ? jobMatches[label]   : null,
+    arxiv:  arxivMatches ? arxivMatches[label] : null,
+    github: ghMatches    ? ghMatches[label]    : null,
+  }));
+
+  const out = {
+    entity,
+    computedAt: new Date().toISOString(),
+    sources: {
+      jobs:   jobs   ? path.relative(ROOT, jobs.file)   : null,
+      arxiv:  arxiv  ? path.relative(ROOT, arxiv.file)  : null,
+      github: gh     ? path.relative(ROOT, gh.file)     : null,
+    },
+    totals: {
+      jobs:   jobs  ? (jobs.data.jobs ?? []).length    : 0,
+      arxiv:  arxiv ? (arxiv.data.papers ?? []).length : 0,
+      github: gh    ? (gh.data.repos ?? []).length     : 0,
+    },
+    topics: rows,
+  };
+
+  const dir = path.join(ROOT, 'data', 'cross-ref', entity);
+  await mkdir(dir, { recursive: true });
+  const file = path.join(dir, `${today()}.json`);
+  await writeFile(file, JSON.stringify(out, null, 2));
+
+  console.log(`\n=== ${entity} cross-reference (${out.totals.jobs} jobs, ${out.totals.arxiv} papers, ${out.totals.github} repos) ===\n`);
+  console.log('topic'.padEnd(22) + 'jobs'.padStart(6) + 'arxiv'.padStart(8) + 'github'.padStart(8));
+  console.log('-'.repeat(44));
+  for (const r of rows) {
+    console.log(
+      r.topic.padEnd(22) +
+      String(r.jobs ?? '-').padStart(6) +
+      String(r.arxiv ?? '-').padStart(8) +
+      String(r.github ?? '-').padStart(8)
+    );
+  }
+  console.log(`\nwrote → ${path.relative(ROOT, file)}`);
+}
+
+main().catch((e) => { console.error(e); process.exit(1); });
