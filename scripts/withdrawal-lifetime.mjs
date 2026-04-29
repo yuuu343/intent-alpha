@@ -72,6 +72,20 @@ function bucket(days) {
   return '120+d (backlog)';
 }
 
+// 5–95 percentile trim to suppress mis-posts (1-day) and permanent
+// always-open boilerplate (year+) from inflating the centroid statistics.
+function trimmedStats(values) {
+  if (values.length === 0) return { count: 0, mean: 0, median: 0, kept: 0 };
+  const sorted = [...values].sort((a, b) => a - b);
+  const lo = sorted[Math.floor(sorted.length * 0.05)];
+  const hi = sorted[Math.floor(sorted.length * 0.95)];
+  const kept = sorted.filter((v) => v >= lo && v <= hi);
+  if (kept.length === 0) return { count: values.length, mean: 0, median: 0, kept: 0 };
+  const mean = kept.reduce((a, b) => a + b, 0) / kept.length;
+  const median = kept[Math.floor(kept.length / 2)];
+  return { count: values.length, mean: Math.round(mean), median, kept: kept.length, lo, hi };
+}
+
 async function main() {
   const slug = process.argv[2];
   if (!slug) {
@@ -93,13 +107,15 @@ async function main() {
     buckets[b] = (buckets[b] || 0) + 1;
   }
 
+  const trimmed = trimmedStats(withdrawn.map((w) => w.lifetimeDays));
+
   const out = {
     slug,
     computedAt: new Date().toISOString(),
     snapshotCount: snaps.length,
     snapshotDates: snaps.map((s) => s.date),
     framework: {
-      description: "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn.",
+      description: "Each posting's observed lifetime is days from first-seen to last-seen across snapshots. Postings absent from the latest snapshot are counted as withdrawn. trimmed.* stats use a 5–95 percentile cut to suppress mis-posts (1-day) and permanent boilerplate (year+).",
       buckets: ['0–14d (likely withdrawn)', '15–60d', '61–120d', '120+d (backlog)'],
       readiness: snaps.length >= 2 ? 'live' : 'awaiting second snapshot',
     },
@@ -109,6 +125,7 @@ async function main() {
       withdrawnCount: withdrawn.length,
       stillOpenCount: stillOpen.length,
       bucketCounts: buckets,
+      trimmed,
     },
   };
 

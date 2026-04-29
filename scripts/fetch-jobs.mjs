@@ -27,9 +27,10 @@ const today = () => new Date().toISOString().slice(0, 10);
 const UA = 'IntentAlphaBot/0.2 (+https://intent-alpha.hide3desudesu.workers.dev; respectful-fetch)';
 
 // Strip HTML, decode common entities, collapse whitespace, cap at maxChars.
-// Used to capture JD body text without bloating snapshot files. The body
-// powers tech-stack co-occurrence analysis; titles alone are too sparse to
-// resolve interpretation ambiguities (e.g. PROV-010's BD (a)/(b) question).
+// Used to capture JD body text without bloating snapshot files. When the body
+// is longer than the cap, prefer to keep a window around an anchor heading
+// (Qualifications / Requirements / Responsibilities / etc.) — that's where
+// the technical signal lives, vs. EEO boilerplate at the end.
 function cleanBody(input, maxChars = 3000) {
   if (!input) return null;
   let text = String(input)
@@ -42,8 +43,20 @@ function cleanBody(input, maxChars = 3000) {
     .replace(/&#39;/g, "'")
     .replace(/\s+/g, ' ')
     .trim();
-  if (text.length > maxChars) text = text.slice(0, maxChars).trim() + '…';
-  return text;
+  if (text.length <= maxChars) return text;
+  const anchors = [
+    'Qualifications', 'Requirements', 'Responsibilities', 'What you will do',
+    'What you\'ll do', 'About the role', 'About this role', 'Summary',
+    'Minimum qualifications', 'Required skills',
+  ];
+  for (const anchor of anchors) {
+    const idx = text.indexOf(anchor);
+    if (idx > 200 && idx < text.length - 800) {
+      const start = Math.max(0, idx - 200);
+      return text.slice(start, start + maxChars).trim() + '…';
+    }
+  }
+  return text.slice(0, maxChars).trim() + '…';
 }
 
 // ---------- adapters ----------

@@ -270,12 +270,20 @@ const fmtDate = (s: string | null) => s ? s.replace('.json', '').replaceAll('-',
       const col = state.sort.col;
       const sign = state.sort.dir === 'desc' ? -1 : 1;
       if (!col) return arr;
+      // Secondary sort by date (desc) so a primary sort on company / dept
+      // groups rows but still surfaces the most recent within each group.
       const sorted = arr.slice();
       sorted.sort(function (a, b) {
         const av = (a[col] || '').toString();
         const bv = (b[col] || '').toString();
         if (av < bv) return -1 * sign;
         if (av > bv) return 1 * sign;
+        if (col !== 'date') {
+          const ad = (a.date || '').toString();
+          const bd = (b.date || '').toString();
+          if (ad > bd) return -1;
+          if (ad < bd) return 1;
+        }
         return 0;
       });
       return sorted;

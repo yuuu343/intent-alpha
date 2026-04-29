@@ -38,10 +38,34 @@ const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
             <span class="v">{a.data.confidence}</span>
             <span class="h">{a.data.horizon}</span>
           </span>
+          <div class={`conf-bar conf-bar--${a.data.confidence}`} aria-hidden="true"/>
         </div>
       </a>
     ))}
   </div>
+
+  <style>
+    .conf-bar {
+      height: 3px;
+      background: var(--rule-soft);
+      margin-top: 0.4rem;
+      width: 100%;
+      max-width: 7rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .conf-bar::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; bottom: 0;
+      background: var(--accent);
+      width: var(--conf-w, 33%);
+      transition: width 600ms cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .conf-bar--low { --conf-w: 33%; }
+    .conf-bar--medium { --conf-w: 66%; }
+    .conf-bar--high { --conf-w: 100%; }
+  </style>
 
   {archived.length > 0 && (
     <>

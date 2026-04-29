@@ -68,6 +68,8 @@ async function main() {
   const arxiv = await loadLatest(path.join(ROOT, 'data', 'arxiv', entity));
   const gh    = (await loadLatest(path.join(ROOT, 'data', 'github', entity)))
               ?? (await loadLatest(path.join(ROOT, 'data', 'github', `${entity}s`)));
+  const ghDeps = (await loadLatest(path.join(ROOT, 'data', 'github-dependents', entity)))
+              ?? (await loadLatest(path.join(ROOT, 'data', 'github-dependents', `${entity}s`)));
 
   if (!jobs && !arxiv && !gh) {
     console.error(`no source data for ${entity} — run fetch-jobs / fetch-arxiv / fetch-github first`);
@@ -78,11 +80,40 @@ async function main() {
   const arxivMatches = arxiv ? countMatches(arxiv.data.papers ?? [], (p) => `${p.title} ${p.summary}`) : null;
   const ghMatches    = gh    ? countMatches(gh.data.repos ?? [],     (r) => `${r.name} ${r.description ?? ''} ${(r.recentCommits ?? []).map((c) => c.message).join(' ')}`) : null;
 
+  // Adoption-weighted GitHub: dependents (Repositories + Packages) carry 0.8,
+  // stars 0.2. Repos with no dependents data fall back to stars-only weight,
+  // so the metric degrades gracefully when github-dependents hasn't been run.
+  const depByRepo = new Map();
+  if (ghDeps) {
+    for (const r of (ghDeps.data.rows ?? [])) {
+      const reps = typeof r.repositories === 'number' ? r.repositories : 0;
+      const pkgs = typeof r.packages === 'number' ? r.packages : 0;
+      depByRepo.set(r.repo, reps + pkgs);
+    }
+  }
+  let ghAdoption = null;
+  if (gh) {
+    ghAdoption = {};
+    for (const label of Object.keys(TOPICS)) ghAdoption[label] = 0;
+    for (const r of (gh.data.repos ?? [])) {
+      const text = `${r.name} ${r.description ?? ''} ${(r.recentCommits ?? []).map((c) => c.message).join(' ')}`;
+      const stars = r.stars ?? 0;
+      const deps = depByRepo.get(r.name) ?? 0;
+      const weight = stars * 0.2 + deps * 0.8;
+      for (const [label, re] of Object.entries(TOPICS)) {
+        if (re.test(text)) ghAdoption[label] += weight;
+      }
+    }
+    // Round for readability
+    for (const k of Object.keys(ghAdoption)) ghAdoption[k] = Math.round(ghAdoption[k]);
+  }
+
   const rows = Object.keys(TOPICS).map((label) => ({
     topic: label,
-    jobs:   jobMatches   ? jobMatches[label]   : null,
-    arxiv:  arxivMatches ? arxivMatches[label] : null,
-    github: ghMatches    ? ghMatches[label]    : null,
+    jobs:        jobMatches   ? jobMatches[label]   : null,
+    arxiv:       arxivMatches ? arxivMatches[label] : null,
+    github:      ghMatches    ? ghMatches[label]    : null,
+    githubAdopt: ghAdoption   ? ghAdoption[label]   : null,
   }));
 
   const out = {
@@ -106,15 +137,16 @@ async function main() {
   const file = path.join(dir, `${today()}.json`);
   await writeFile(file, JSON.stringify(out, null, 2));
 
-  console.log(`\n=== ${entity} cross-reference (${out.totals.jobs} jobs, ${out.totals.arxiv} papers, ${out.totals.github} repos) ===\n`);
-  console.log('topic'.padEnd(22) + 'jobs'.padStart(6) + 'arxiv'.padStart(8) + 'github'.padStart(8));
-  console.log('-'.repeat(44));
+  console.log(`\n=== ${entity} cross-reference (${out.totals.jobs} jobs, ${out.totals.arxiv} papers, ${out.totals.github} repos${ghDeps ? ', adoption-weighted' : ''}) ===\n`);
+  console.log('topic'.padEnd(22) + 'jobs'.padStart(6) + 'arxiv'.padStart(8) + 'github'.padStart(8) + 'adopt'.padStart(8));
+  console.log('-'.repeat(52));
   for (const r of rows) {
     console.log(
       r.topic.padEnd(22) +
       String(r.jobs ?? '-').padStart(6) +
       String(r.arxiv ?? '-').padStart(8) +
-      String(r.github ?? '-').padStart(8)
+      String(r.github ?? '-').padStart(8) +
+      String(r.githubAdopt ?? '-').padStart(8)
     );
   }
   console.log(`\nwrote → ${path.relative(ROOT, file)}`);

@@ -74,6 +74,26 @@ const themeExposure = THEMES.map((t) => ({
   href: `/themes/${t.slug}/`,
 })).filter((x) => x.value > 0).sort((a, b) => b.value - a.value);
 
+// ---- Capability profile (3 derived scores from job titles).
+// All counts come from titles only — no body, no external claim. Each metric
+// is a structural signal about how the company is staffing, not a value
+// judgment. Rendered as a single mono row above the Department breakdown.
+const AGENT_RE = /(\bagent\b|agentic|orchestrat|autonomous|long[- ]?running|\bmcp\b|coordination)/i;
+const FDE_RE = /(forward[- ]deployed|technical ambassador|solutions engineer|customer engineer|applied (?:ai|engineer|ml|architect))/i;
+const RESEARCH_RE = /(research scientist|research engineer|\bphd\b|fellowship)/i;
+const COMPLIANCE_RE = /(compliance|regulation|gdpr|hipaa|soc[- ]?2|sr 11-7|fedramp|fisma|trust and safety|safeguards|\bgrc\b|sovereign)/i;
+
+const agenticCount = jobs.filter((j) => AGENT_RE.test(j.title || '')).length;
+const fdeCount = jobs.filter((j) => FDE_RE.test(j.title || '')).length;
+const researchCount = jobs.filter((j) => RESEARCH_RE.test(j.title || '')).length;
+const complianceCount = jobs.filter((j) => COMPLIANCE_RE.test(j.title || '')).length;
+const totalJobs = jobs.length;
+const scores = {
+  agenticPct: totalJobs ? (agenticCount / totalJobs * 100) : 0,
+  compliancePct: totalJobs ? (complianceCount / totalJobs * 100) : 0,
+  fdeRatio: researchCount > 0 ? (fdeCount / researchCount) : null,
+};
+
 // Default equation by AI relevance — soft topical hint when the company isn't
 // the subject of an article yet.
 const equationByRelevance: Record<string, string | undefined> = {
@@ -146,6 +166,24 @@ const host = new URL(company.data.website).host;
     </div>
   )}
 
+  {totalJobs > 0 && (
+    <div class="scorecard-row">
+      <span class="meta meta--accent">Capability profile</span>
+      <span class="score-item">
+        agentic <strong>{scores.agenticPct.toFixed(1)}%</strong>
+        <span class="score-sub">{agenticCount}/{totalJobs}</span>
+      </span>
+      <span class="score-item">
+        FDE/Research <strong>{scores.fdeRatio === null ? '—' : scores.fdeRatio.toFixed(2)}</strong>
+        <span class="score-sub">{fdeCount}/{researchCount}</span>
+      </span>
+      <span class="score-item">
+        compliance <strong>{scores.compliancePct.toFixed(1)}%</strong>
+        <span class="score-sub">{complianceCount}/{totalJobs}</span>
+      </span>
+    </div>
+  )}
+
   {topDepts.length > 0 && (
     <>
       <div class="section-head" style="margin-top: 2rem;">
@@ -214,4 +252,33 @@ const host = new URL(company.data.website).host;
     border-top: 1px solid var(--rule-soft);
   }
   .trend-row .meta { white-space: nowrap; }
+
+  .scorecard-row {
+    display: flex;
+    align-items: baseline;
+    gap: 1.5rem 2rem;
+    flex-wrap: wrap;
+    padding: 0.5rem 0 0.85rem;
+    border-bottom: 1px solid var(--rule-soft);
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+  }
+  .score-item {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    color: var(--fg-soft);
+    text-transform: lowercase;
+    letter-spacing: 0.04em;
+  }
+  .score-item strong {
+    font-weight: 600;
+    color: var(--accent);
+    font-size: 1rem;
+  }
+  .score-item .score-sub {
+    font-size: 0.7rem;
+    color: var(--fg-faint);
+    letter-spacing: 0.06em;
+  }
 </style>

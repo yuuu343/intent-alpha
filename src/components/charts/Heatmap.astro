@@ -54,6 +54,12 @@ function opacity(v: number) {
   const norm = v / maxVal;
   return 0.08 + 0.88 * Math.pow(norm, 0.55);
 }
+
+// Top-decile threshold: cells at or above this value get a hairline vermillion
+// stroke so outliers read instantly without disrupting the gradient elsewhere.
+const sortedVals = cells.map((c) => c.value).filter((v) => v > 0).sort((a, b) => b - a);
+const p90Idx = Math.max(0, Math.floor(sortedVals.length * 0.10) - 1);
+const p90 = sortedVals.length > 0 ? sortedVals[p90Idx] : Infinity;
 ---
 <figure class="heatmap-fig">
   <svg class="heatmap" viewBox={`0 0 ${totalW} ${totalH}`} preserveAspectRatio="xMidYMid meet" role="img" aria-label={caption ?? 'Hiring concentration heatmap'}>
@@ -94,8 +100,9 @@ function opacity(v: number) {
       const delay = (ri + ci) * 9;
       const href = cellHref?.(row.id, col.id);
       const title = cellTitle?.(row.id, col.id, v) ?? `${row.label} · ${col.label}: ${v}`;
+      const isOutlier = v > 0 && v >= p90;
       const cell = (
-        <g class="hm-cell" data-row={row.id} data-col={col.id}>
+        <g class={`hm-cell${isOutlier ? ' hm-cell--outlier' : ''}`} data-row={row.id} data-col={col.id}>
           <rect class="hm-cell-bg" x={x} y={y} width={COL_W} height={ROW_H} style={`--cell-op: ${op}; animation-delay: ${delay}ms;`}/>
           <text class="hm-cell-text" x={x + COL_W / 2} y={y + ROW_H * 0.7} text-anchor="middle" style={v === 0 ? 'display: none;' : ''}>{v}</text>
           <title>{title}</title>
@@ -130,8 +137,14 @@ function opacity(v: number) {
   .hm-cell-bg {
     fill: var(--accent);
     fill-opacity: var(--cell-op, 0);
+    stroke: none;
     animation: hm-cell-in 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
     transition: fill-opacity 180ms ease;
+  }
+  .hm-cell--outlier .hm-cell-bg {
+    stroke: var(--accent);
+    stroke-width: 1;
+    vector-effect: non-scaling-stroke;
   }
   @keyframes hm-cell-in {
     from { fill-opacity: 0; }

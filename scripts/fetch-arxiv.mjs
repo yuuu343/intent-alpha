@@ -34,26 +34,31 @@ const SEEDS = {
   anthropic: {
     affiliation: 'Anthropic',
     authors: [
-      'Dario Amodei',
-      'Tom Brown',
-      'Jared Kaplan',
-      'Sam McCandlish',
-      'Chris Olah',
-      'Jack Clark',
-      'Ben Mann',
-      'Catherine Olsson',
-      'Nelson Elhage',
-      'Saurav Kadavath',
-      'Tom Henighan',
-      'Andy Jones',
-      'Deep Ganguli',
-      'Yuntao Bai',
-      'Amanda Askell',
+      // Co-founders / leadership-tier
+      'Dario Amodei', 'Daniela Amodei', 'Tom Brown', 'Jared Kaplan',
+      'Sam McCandlish', 'Chris Olah', 'Jack Clark', 'Ben Mann',
+      // Alignment / interpretability research with public papers
+      'Catherine Olsson', 'Nelson Elhage', 'Saurav Kadavath', 'Tom Henighan',
+      'Andy Jones', 'Deep Ganguli', 'Yuntao Bai', 'Amanda Askell',
+      'Ethan Perez', 'Sam Bowman', 'Jared Mueller', 'Stanislav Fort',
+      'Newton Cheng', 'Liane Lovitt',
     ],
   },
   openai: {
     affiliation: 'OpenAI',
-    authors: ['Ilya Sutskever', 'John Schulman', 'Wojciech Zaremba', 'Greg Brockman'],
+    authors: [
+      'Ilya Sutskever', 'John Schulman', 'Wojciech Zaremba', 'Greg Brockman',
+      'Andrej Karpathy', 'Mark Chen', 'Jakub Pachocki', 'Lilian Weng',
+      'Aleksander Madry', 'Bob McGrew',
+    ],
+  },
+  cohere: {
+    affiliation: 'Cohere',
+    authors: ['Aidan Gomez', 'Nick Frosst', 'Sara Hooker'],
+  },
+  mistral: {
+    affiliation: 'Mistral',
+    authors: ['Arthur Mensch', 'Guillaume Lample', 'Timothée Lacroix'],
   },
 };
 

@@ -1,5 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
+
+const buildDate = new Date().toISOString().slice(0, 10).replace(/-/g, '.');
 ---
 <Layout
   title="About"
@@ -38,6 +40,17 @@ import Layout from '../layouts/Layout.astro';
       Job postings are read from publicly accessible endpoints provided by the applicant
       tracking systems each company uses. We respect <code>robots.txt</code> and stated
       terms of service. Snapshots are version-controlled.
+    </p>
+
+    <h2>Cadence</h2>
+    <p>
+      This site is rebuilt and redeployed on every push to the source repository.
+      Data analyses (cross-reference, vocab-shift, withdrawal-lifetime, diffusion-velocity)
+      are recomputed against the latest snapshots and the outputs are committed back into
+      the tree, so what you see and what the dispatches cite are the same files.
+    </p>
+    <p class="meta" style="margin-top: 1rem; text-transform: none; letter-spacing: 0;">
+      Last build: <code>{buildDate}</code>
     </p>
   </article>
 </Layout>
