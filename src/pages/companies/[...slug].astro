@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import BarChart from '../../components/charts/BarChart.astro';
+import Sparkline from '../../components/charts/Sparkline.astro';
 import { THEMES } from '../../data/themes';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -21,16 +22,25 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft && d
 
 const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 
-// ---- B: read the most recent snapshot at build time for stats + breakdown viz.
+// ---- B: read snapshots at build time for stats + breakdown viz + sparkline.
 function loadCompanyData(slug: string) {
   const dir = path.resolve(process.cwd(), 'data', 'snapshots', slug);
   if (!fs.existsSync(dir)) return null;
   const files = fs.readdirSync(dir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
   if (files.length === 0) return null;
   const latest = files[files.length - 1];
+  // Build a tiny snapshot history (date + count per snapshot) for the sparkline.
+  const history: { date: string; value: number }[] = [];
+  for (const f of files) {
+    try {
+      const s = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
+      const count = typeof s.count === 'number' ? s.count : (Array.isArray(s.jobs) ? s.jobs.length : 0);
+      history.push({ date: f.replace('.json', ''), value: count });
+    } catch { /* skip */ }
+  }
   try {
     const snap = JSON.parse(fs.readFileSync(path.join(dir, latest), 'utf8'));
-    return { snap, latest };
+    return { snap, latest, history };
   } catch {
     return null;
   }
@@ -40,6 +50,8 @@ const snapshot = loadCompanyData(company.id);
 const jobs: Job[] = snapshot?.snap?.jobs ?? [];
 const postings = typeof snapshot?.snap?.count === 'number' ? snapshot.snap.count : jobs.length || null;
 const lastFetch = snapshot ? snapshot.latest.replace('.json', '').replaceAll('-', '.') : null;
+const history = snapshot?.history ?? [];
+const trendDelta = history.length >= 2 ? history[history.length - 1].value - history[0].value : 0;
 const dispatchesCount = articles.length;
 const signalsSum = articles.reduce((s, a) => s + (a.data.signalCount ?? 0), 0);
 
@@ -124,6 +136,16 @@ const host = new URL(company.data.website).host;
     </div>
   </section>
 
+  {history.length >= 2 && (
+    <div class="trend-row">
+      <span class="meta meta--accent">Hiring trend</span>
+      <Sparkline points={history}/>
+      <span class="meta">
+        {history[0].date} → {history[history.length - 1].date} · {history[history.length - 1].value.toLocaleString()} now ({trendDelta >= 0 ? '+' : ''}{trendDelta})
+      </span>
+    </div>
+  )}
+
   {topDepts.length > 0 && (
     <>
       <div class="section-head" style="margin-top: 2rem;">
@@ -180,3 +202,16 @@ const host = new URL(company.data.website).host;
     ))}
   </div>
 </Layout>
+
+<style>
+  .trend-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding: 1rem 0 0.5rem;
+    margin-top: 0.5rem;
+    border-top: 1px solid var(--rule-soft);
+  }
+  .trend-row .meta { white-space: nowrap; }
+</style>

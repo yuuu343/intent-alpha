@@ -1,0 +1,70 @@
+---
+// Sparkline — tiny inline trend line (vermillion, ~120 × 30 SVG).
+// Used on company pages to show hiring count over snapshot history.
+// With 2 data points it's a single segment — placeholder until snapshots
+// accrue, but visually signals "we measure over time".
+
+interface Point {
+  date: string;
+  value: number;
+}
+
+interface Props {
+  points: Point[];
+  width?: number;
+  height?: number;
+  showDots?: boolean;
+}
+
+const { points, width = 130, height = 32, showDots = true } = Astro.props;
+
+const W = width;
+const H = height;
+const P = 3;
+const N = points.length;
+
+const xs = points.map((_, i) =>
+  N <= 1 ? W / 2 : P + (i / (N - 1)) * (W - 2 * P)
+);
+const values = points.map((p) => p.value);
+const minV = Math.min(...values);
+const maxV = Math.max(...values);
+const range = Math.max(1, maxV - minV);
+const ys = values.map((v) =>
+  H - P - ((v - minV) / range) * (H - 2 * P)
+);
+
+const pathD = points
+  .map((_, i) => `${i === 0 ? 'M' : 'L'}${xs[i].toFixed(2)},${ys[i].toFixed(2)}`)
+  .join(' ');
+
+const titles = points.map((p) => `${p.date}: ${p.value.toLocaleString()}`).join(' · ');
+---
+<svg class="sparkline" viewBox={`0 0 ${W} ${H}`} preserveAspectRatio="none" role="img" aria-label={titles}>
+  <title>{titles}</title>
+  {N > 1 && <path class="spark-line" d={pathD}/>}
+  {showDots && points.map((_, i) => (
+    <circle class="spark-dot" cx={xs[i]} cy={ys[i]} r="1.6"/>
+  ))}
+</svg>
+
+<style>
+  .sparkline {
+    width: 100%;
+    max-width: 130px;
+    height: 32px;
+    display: inline-block;
+    overflow: visible;
+  }
+  .spark-line {
+    stroke: var(--accent);
+    stroke-width: 1.3;
+    fill: none;
+    vector-effect: non-scaling-stroke;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  .spark-dot {
+    fill: var(--accent);
+  }
+</style>
