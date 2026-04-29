@@ -5,6 +5,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import { THEMES } from '../data/themes';
 import Heatmap from '../components/charts/Heatmap.astro';
+import Sparkline from '../components/charts/Sparkline.astro';
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft && !data.archived))
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
@@ -15,10 +16,13 @@ const companies = allCompanies.filter((c) => c.data.aiRelevance !== 'non_ai');
 
 // Per-company × per-theme matrix, computed at build time from the latest
 // snapshot per company. Powers the homepage heatmap (the page's data anchor)
-// and the stats / themes summaries below.
+// and the stats / themes summaries below. Snapshot history per company
+// (when multiple snapshots exist) feeds the inline sparkline next to each
+// tracked-company row.
 const SNAPSHOTS = path.resolve(process.cwd(), 'data', 'snapshots');
 const matrixCells: { row: string; col: string; value: number }[] = [];
 const companyTotals = new Map<string, number>();
+const companyHistories = new Map<string, { date: string; value: number }[]>();
 const themeTotals = new Map<string, number>();
 let panoramaPostings = 0;
 let panoramaCompanies = 0;
@@ -31,6 +35,19 @@ for (const c of companies) {
   if (!files.length) continue;
   const newest = files[files.length - 1];
   if (!latestSnapshotDate || newest > latestSnapshotDate) latestSnapshotDate = newest;
+  // Snapshot history (date + count) — reads every snapshot file for this
+  // company; cheap (typically 1–3 small JSON files) and only runs at build.
+  if (files.length >= 2) {
+    const history: { date: string; value: number }[] = [];
+    for (const f of files) {
+      try {
+        const s = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
+        const count = typeof s.count === 'number' ? s.count : (Array.isArray(s.jobs) ? s.jobs.length : 0);
+        history.push({ date: f.replace('.json', ''), value: count });
+      } catch { /* skip */ }
+    }
+    if (history.length >= 2) companyHistories.set(c.id, history);
+  }
   const snap = JSON.parse(fs.readFileSync(path.join(dir, newest), 'utf8'));
   const jobs = (snap.jobs ?? []) as { title?: string }[];
   panoramaCompanies++;
@@ -165,13 +182,37 @@ const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
     <h2>Tracked</h2>
     <span class="count">№ 01–{String(companies.length).padStart(2, '0')}</span>
   </div>
-  <div class="list-rows">
-    {companies.map((c, i) => (
-      <a class="list-row" href={`/companies/${c.id}/`}>
-        <span class="name">{c.data.name}</span>
-        <span class="desc">{c.data.sector ?? c.data.description.slice(0, 80)}</span>
-        <span class="num">№ {String(i + 1).padStart(2, '0')}</span>
-      </a>
-    ))}
+  <div class="list-rows tracked-rows">
+    {companies.map((c, i) => {
+      const history = companyHistories.get(c.id);
+      return (
+        <a class="list-row tracked-row" href={`/companies/${c.id}/`}>
+          <span class="name">{c.data.name}</span>
+          <span class="desc">{c.data.sector ?? c.data.description.slice(0, 80)}</span>
+          <span class="trend">
+            {history && <Sparkline points={history} width={90} height={22} showDots={false}/>}
+          </span>
+          <span class="num">№ {String(i + 1).padStart(2, '0')}</span>
+        </a>
+      );
+    })}
   </div>
 </Layout>
+
+<style>
+  .tracked-row {
+    grid-template-columns: minmax(0, 14rem) minmax(0, 1fr) 100px auto;
+  }
+  .tracked-row .trend {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 22px;
+  }
+  @media (max-width: 640px) {
+    .tracked-row {
+      grid-template-columns: minmax(0, 1fr) auto;
+    }
+    .tracked-row .desc, .tracked-row .trend { display: none; }
+  }
+</style>
