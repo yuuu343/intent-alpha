@@ -20,6 +20,11 @@ const articles = defineCollection({
     signalCount: z.number().int().optional(),
     totalPostings: z.number().int().optional(),
     equation: z.string().optional(),
+    falsifications: z.array(z.object({
+      condition: z.string(),
+      by: z.coerce.date().optional(),
+      status: z.enum(['pending', 'holding', 'triggered']).default('pending'),
+    })).default([]),
   }),
 });
 

@@ -1,0 +1,192 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const all = (await getCollection('articles', ({ data }) => !data.draft && !data.archived))
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+
+const structured = all.filter((a) => (a.data.falsifications ?? []).length > 0);
+const qualitative = all.filter((a) => (a.data.falsifications ?? []).length === 0);
+
+const fmtDate = (d?: Date | null) => d ? d.toISOString().slice(0, 10).replace(/-/g, '.') : '—';
+const totalConditions = structured.reduce((s, a) => s + (a.data.falsifications?.length ?? 0), 0);
+const triggered = structured.reduce((s, a) =>
+  s + (a.data.falsifications?.filter((f) => f.status === 'triggered').length ?? 0), 0);
+const holding = structured.reduce((s, a) =>
+  s + (a.data.falsifications?.filter((f) => f.status === 'holding').length ?? 0), 0);
+
+const STATUS_STAMP: Record<string, string> = {
+  pending: 'low',
+  holding: 'medium',
+  triggered: 'high',
+};
+---
+<Layout
+  title="Track Record"
+  description="Where Intent Alpha's dispatches stand against the reversal conditions they were published with."
+  spineGlyph="↻"
+  bgEquation={`triggered / total = ${triggered} / ${totalConditions}`}
+>
+  <section class="hero" style="border-bottom: 0; padding-bottom: 1.5rem;">
+    <span class="meta meta--accent">Audit loop</span>
+    <h1>Where the dispatches stand.</h1>
+    <p class="lede">
+      Each dispatch publishes with explicit reversal conditions — the events that, if observed,
+      would invalidate the published hypothesis. This page is the ledger: which conditions
+      have been observed, which still hold, which have triggered. It is updated as new snapshots
+      and external signals come in.
+    </p>
+  </section>
+
+  <div class="stats stats--small">
+    <div class="item">
+      <span class="num">{structured.length}</span>
+      <span class="lbl">Dispatches with structured conditions</span>
+    </div>
+    <div class="item">
+      <span class="num">{totalConditions}</span>
+      <span class="lbl">Conditions tracked</span>
+    </div>
+    <div class="item">
+      <span class="num">{holding}</span>
+      <span class="lbl">Holding (hypothesis stands)</span>
+    </div>
+    <div class="item">
+      <span class="num"><em>{triggered}</em></span>
+      <span class="lbl">Triggered (hypothesis weakens)</span>
+    </div>
+    <div class="item">
+      <span class="num">{qualitative.length}</span>
+      <span class="lbl">Dispatches with prose-only conditions</span>
+    </div>
+  </div>
+
+  <article class="prose" style="margin-top: 1.5rem;">
+    <h2>How this works</h2>
+    <p>
+      Each falsification condition has three states. <strong>Pending</strong>: no
+      observation yet against this condition (we haven't checked, or it's not
+      observable until a future date). <strong>Holding</strong>: we've checked
+      and the condition is not met — the hypothesis still stands.
+      <strong>Triggered</strong>: the condition is observably met — the
+      hypothesis as published is in trouble, and the dispatch should be
+      updated or retracted.
+    </p>
+    <p>
+      Conditions are written deliberately specific (with dollar thresholds and
+      named entities where possible) so that "did this happen?" is answerable
+      without interpretation latitude. Where a dispatch was published with
+      qualitative reversal language in the body rather than structured
+      frontmatter conditions, it appears in the second list below; the
+      structured format will backfill as the conditions become observable.
+    </p>
+  </article>
+
+  {structured.map((a) => (
+    <>
+      <div class="section-head" style="margin-top: 3rem;">
+        <h2 style="font-family: var(--font-display); font-weight: 380; letter-spacing: -0.015em; text-transform: none;">
+          <a href={`/articles/${a.id}/`} style="text-decoration: none; color: inherit;">
+            <span class="meta meta--accent" style="font-family: var(--font-mono); font-size: 0.72rem; margin-right: 0.6rem;">{a.data.provId ?? '—'}</span>
+            {a.data.title}
+          </a>
+        </h2>
+        <span class="count">{a.data.falsifications?.length ?? 0} conditions</span>
+      </div>
+      <p class="meta" style="margin-bottom: 1rem; color: var(--fg-muted); text-transform: none; letter-spacing: 0;">
+        Published {fmtDate(a.data.publishedAt)} · confidence {a.data.confidence} · horizon {a.data.horizon}
+      </p>
+      <table class="track-table">
+        <thead>
+          <tr>
+            <th>Condition</th>
+            <th class="col-by">By</th>
+            <th class="col-status">Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          {(a.data.falsifications ?? []).map((f) => (
+            <tr>
+              <td>{f.condition}</td>
+              <td class="col-by">{fmtDate(f.by)}</td>
+              <td class="col-status">
+                <span class={`stamp stamp--${STATUS_STAMP[f.status] ?? 'low'}`}>
+                  <span class="v">{f.status}</span>
+                </span>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </>
+  ))}
+
+  {qualitative.length > 0 && (
+    <>
+      <div class="section-head" style="margin-top: 4rem;">
+        <h2>Prose-only reversal conditions</h2>
+        <span class="count">{qualitative.length} {qualitative.length === 1 ? 'dispatch' : 'dispatches'}</span>
+      </div>
+      <p class="meta" style="margin-bottom: 1rem; color: var(--fg-muted); text-transform: none; letter-spacing: 0;">
+        These dispatches were published with reversal language in the body
+        ("what would change our mind") rather than as structured frontmatter
+        conditions. The structured format is the going-forward standard;
+        prose-only entries will be backfilled as their conditions become
+        observable enough to articulate as specific thresholds.
+      </p>
+      <div class="list-rows">
+        {qualitative.map((a, i) => (
+          <a class="list-row" href={`/articles/${a.id}/`}>
+            <span class="name">{a.data.title}</span>
+            <span class="desc">
+              <span style="font-family: var(--font-mono); color: var(--fg-faint); margin-right: 0.5rem;">{a.data.provId ?? '—'}</span>
+              {fmtDate(a.data.publishedAt)} · confidence {a.data.confidence} · horizon {a.data.horizon}
+            </span>
+            <span class="num">№ {String(i + 1).padStart(2, '0')}</span>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+</Layout>
+
+<style>
+  .track-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+  }
+  .track-table th {
+    text-align: left;
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--fg-muted);
+    padding: 0.5rem 0.5rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .track-table td {
+    padding: 0.7rem 0.5rem;
+    border-bottom: 1px solid var(--rule-soft);
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  .track-table .col-by {
+    width: 8rem;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+  }
+  .track-table .col-status {
+    width: 9rem;
+  }
+  .track-table .stamp {
+    display: inline-flex;
+  }
+  @media (max-width: 640px) {
+    .track-table .col-by { width: 5.5rem; }
+    .track-table .col-status { width: 7rem; }
+    .track-table th, .track-table td { padding: 0.5rem 0.25rem; }
+  }
+</style>

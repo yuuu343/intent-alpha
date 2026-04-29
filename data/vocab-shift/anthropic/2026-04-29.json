@@ -1,0 +1,691 @@
+{
+  "slug": "anthropic",
+  "computedAt": "2026-04-29T10:27:56.084Z",
+  "snapshotCount": 2,
+  "windows": [
+    {
+      "date": "2026-04-28",
+      "total": 451,
+      "topUnigrams": [
+        [
+          "research",
+          63
+        ],
+        [
+          "account",
+          58
+        ],
+        [
+          "executive",
+          55
+        ],
+        [
+          "ai",
+          53
+        ],
+        [
+          "software",
+          49
+        ],
+        [
+          "applied",
+          39
+        ],
+        [
+          "enterprise",
+          38
+        ],
+        [
+          "security",
+          26
+        ],
+        [
+          "operations",
+          26
+        ],
+        [
+          "sales",
+          23
+        ],
+        [
+          "product",
+          22
+        ],
+        [
+          "architect",
+          21
+        ],
+        [
+          "technical",
+          21
+        ],
+        [
+          "program",
+          19
+        ],
+        [
+          "systems",
+          19
+        ],
+        [
+          "marketing",
+          17
+        ],
+        [
+          "strategic",
+          17
+        ],
+        [
+          "safeguards",
+          17
+        ],
+        [
+          "engineering",
+          17
+        ],
+        [
+          "finance",
+          17
+        ],
+        [
+          "strategy",
+          17
+        ],
+        [
+          "industries",
+          16
+        ],
+        [
+          "infrastructure",
+          16
+        ],
+        [
+          "scientist",
+          15
+        ],
+        [
+          "emea",
+          15
+        ],
+        [
+          "partner",
+          15
+        ],
+        [
+          "specialist",
+          14
+        ],
+        [
+          "beneficial",
+          13
+        ],
+        [
+          "deployments",
+          13
+        ],
+        [
+          "claude",
+          13
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          54
+        ],
+        [
+          "applied ai",
+          39
+        ],
+        [
+          "enterprise account",
+          23
+        ],
+        [
+          "ai architect",
+          19
+        ],
+        [
+          "research scientist",
+          15
+        ],
+        [
+          "beneficial deployments",
+          13
+        ],
+        [
+          "finance strategy",
+          10
+        ],
+        [
+          "strategic account",
+          10
+        ],
+        [
+          "customer success",
+          9
+        ],
+        [
+          "technical program",
+          9
+        ],
+        [
+          "federal civilian",
+          7
+        ],
+        [
+          "claude code",
+          7
+        ],
+        [
+          "forward deployed",
+          7
+        ],
+        [
+          "executive beneficial",
+          6
+        ],
+        [
+          "anthropic fellows",
+          6
+        ],
+        [
+          "fellows program",
+          6
+        ],
+        [
+          "commercial counsel",
+          6
+        ],
+        [
+          "data center",
+          6
+        ],
+        [
+          "executive federal",
+          6
+        ],
+        [
+          "executive industries",
+          6
+        ],
+        [
+          "strategy deal",
+          6
+        ],
+        [
+          "ai architecture",
+          6
+        ],
+        [
+          "machine learning",
+          6
+        ],
+        [
+          "product support",
+          6
+        ],
+        [
+          "software inference",
+          6
+        ],
+        [
+          "executive startups",
+          5
+        ],
+        [
+          "reinforcement learning",
+          5
+        ],
+        [
+          "revenue accounting",
+          5
+        ],
+        [
+          "detection response",
+          5
+        ],
+        [
+          "civilian sales",
+          5
+        ]
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "total": 454,
+      "topUnigrams": [
+        [
+          "research",
+          64
+        ],
+        [
+          "account",
+          57
+        ],
+        [
+          "executive",
+          54
+        ],
+        [
+          "ai",
+          54
+        ],
+        [
+          "software",
+          50
+        ],
+        [
+          "applied",
+          39
+        ],
+        [
+          "enterprise",
+          36
+        ],
+        [
+          "operations",
+          27
+        ],
+        [
+          "security",
+          26
+        ],
+        [
+          "sales",
+          23
+        ],
+        [
+          "technical",
+          22
+        ],
+        [
+          "product",
+          22
+        ],
+        [
+          "architect",
+          21
+        ],
+        [
+          "program",
+          20
+        ],
+        [
+          "systems",
+          18
+        ],
+        [
+          "strategy",
+          18
+        ],
+        [
+          "strategic",
+          17
+        ],
+        [
+          "safeguards",
+          17
+        ],
+        [
+          "engineering",
+          17
+        ],
+        [
+          "finance",
+          17
+        ],
+        [
+          "industries",
+          16
+        ],
+        [
+          "infrastructure",
+          16
+        ],
+        [
+          "marketing",
+          16
+        ],
+        [
+          "scientist",
+          15
+        ],
+        [
+          "emea",
+          15
+        ],
+        [
+          "partner",
+          15
+        ],
+        [
+          "specialist",
+          14
+        ],
+        [
+          "beneficial",
+          13
+        ],
+        [
+          "deployments",
+          13
+        ],
+        [
+          "customer",
+          13
+        ]
+      ],
+      "topBigrams": [
+        [
+          "account executive",
+          53
+        ],
+        [
+          "applied ai",
+          39
+        ],
+        [
+          "enterprise account",
+          22
+        ],
+        [
+          "ai architect",
+          19
+        ],
+        [
+          "research scientist",
+          15
+        ],
+        [
+          "beneficial deployments",
+          13
+        ],
+        [
+          "finance strategy",
+          10
+        ],
+        [
+          "strategic account",
+          10
+        ],
+        [
+          "technical program",
+          10
+        ],
+        [
+          "customer success",
+          9
+        ],
+        [
+          "federal civilian",
+          7
+        ],
+        [
+          "forward deployed",
+          7
+        ],
+        [
+          "executive beneficial",
+          6
+        ],
+        [
+          "anthropic fellows",
+          6
+        ],
+        [
+          "fellows program",
+          6
+        ],
+        [
+          "commercial counsel",
+          6
+        ],
+        [
+          "claude code",
+          6
+        ],
+        [
+          "data center",
+          6
+        ],
+        [
+          "executive federal",
+          6
+        ],
+        [
+          "executive industries",
+          6
+        ],
+        [
+          "strategy deal",
+          6
+        ],
+        [
+          "ai architecture",
+          6
+        ],
+        [
+          "machine learning",
+          6
+        ],
+        [
+          "product support",
+          6
+        ],
+        [
+          "software inference",
+          6
+        ],
+        [
+          "executive startups",
+          5
+        ],
+        [
+          "reinforcement learning",
+          5
+        ],
+        [
+          "revenue accounting",
+          5
+        ],
+        [
+          "detection response",
+          5
+        ],
+        [
+          "civilian sales",
+          5
+        ]
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "from": "2026-04-28",
+      "to": "2026-04-29",
+      "bigramShifts": [
+        {
+          "term": "account executive",
+          "before": 54,
+          "after": 53,
+          "delta": -1
+        },
+        {
+          "term": "anthropic institute",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "business systems",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "systems analyst",
+          "before": 3,
+          "after": 2,
+          "delta": -1
+        },
+        {
+          "term": "claude code",
+          "before": 7,
+          "after": 6,
+          "delta": -1
+        },
+        {
+          "term": "cloud inference",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "enterprise account",
+          "before": 23,
+          "after": 22,
+          "delta": -1
+        },
+        {
+          "term": "gtm strategy",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "business partner",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "partner success",
+          "before": 2,
+          "after": 3,
+          "delta": 1
+        },
+        {
+          "term": "enterprise sales",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "dach cee",
+          "before": 2,
+          "after": 1,
+          "delta": -1
+        },
+        {
+          "term": "marketing events",
+          "before": 4,
+          "after": 3,
+          "delta": -1
+        },
+        {
+          "term": "revenue strategy",
+          "before": 3,
+          "after": 4,
+          "delta": 1
+        },
+        {
+          "term": "sales strategy",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "datacenter server",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "server lifecycle",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        },
+        {
+          "term": "technical program",
+          "before": 9,
+          "after": 10,
+          "delta": 1
+        },
+        {
+          "term": "executive academic",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "academic medical",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "medical centers",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        },
+        {
+          "term": "executive beneficial",
+          "before": 6,
+          "after": 6,
+          "delta": 0
+        },
+        {
+          "term": "beneficial deployments",
+          "before": 13,
+          "after": 13,
+          "delta": 0
+        },
+        {
+          "term": "deployments french",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "french speaking",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "deployments portuguese",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "portuguese speaking",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "deployments spanish",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "spanish speaking",
+          "before": 2,
+          "after": 2,
+          "delta": 0
+        },
+        {
+          "term": "executive mid",
+          "before": 1,
+          "after": 1,
+          "delta": 0
+        }
+      ]
+    }
+  ]
+}
