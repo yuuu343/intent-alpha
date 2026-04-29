@@ -1,0 +1,4537 @@
+{
+  "company": "nxp",
+  "ats": "workday",
+  "atsIdentifier": null,
+  "fetchedAt": "2026-04-29T16:54:58.468Z",
+  "count": 566,
+  "jobs": [
+    {
+      "id": "R-10062832",
+      "title": "Sr. Die Bond Process Engineer",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/Sr-Die-Bond-Process-Engineer_R-10062832"
+    },
+    {
+      "id": "R-10062384",
+      "title": "Test Operations Strategy Manager",
+      "location": "6 Locations",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Test-Strategic-Capacity-Planning-Manager_R-10062384"
+    },
+    {
+      "id": "R-10063128",
+      "title": "Semiconductor Maintenance Technician – CMP Rebuild/PM Machinist",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---CMP-Rebuild-PM-Machinist_R-10063128"
+    },
+    {
+      "id": "R-10063097",
+      "title": "Industrial Engineer",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Industrial-Engineer_R-10063097"
+    },
+    {
+      "id": "R-10063042",
+      "title": "UPW O&M Technician",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/UPW-O-M-Technician_R-10063042"
+    },
+    {
+      "id": "R-10063075",
+      "title": "Intern (f/m/d) for Quantum Sensing Demonstrator and Technical Documentation",
+      "location": "Hamburg",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/Intern--f-m-d--for-Quantum-Sensing-Demonstrator-and-Technical-Documentation_R-10063075"
+    },
+    {
+      "id": "R-10063071",
+      "title": "NFC Firmware Senior Architect",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/NFC-Firmware-Senior-Architect_R-10063071"
+    },
+    {
+      "id": "R-10061637",
+      "title": "Senior Digital Verification Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Senior-Digital-Verification-Engineer_R-10061637"
+    },
+    {
+      "id": "R-10061636",
+      "title": "Principal Design Verification Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Principal-Design-Verification-Engineer_R-10061636"
+    },
+    {
+      "id": "R-10061654",
+      "title": "Digital Design Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Digital-Design-Engineer_R-10061654"
+    },
+    {
+      "id": "R-10060730",
+      "title": "Program Manager Crypto & Security Competence Centre",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/Program-Manager-for-AI-ML_R-10060730-1"
+    },
+    {
+      "id": "R-10059829",
+      "title": "Internship: Electrical - Optical Failure Analysis",
+      "location": "Nijmegen",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Nijmegen/Internship---Electrical-Failure-Analysis_R-10059829"
+    },
+    {
+      "id": "R-10062786",
+      "title": "Verification Engineer",
+      "location": "Glasgow",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/Verification-Engineer_R-10062786-1"
+    },
+    {
+      "id": "R-10063001",
+      "title": "2026 Intern - System & Application Engineer",
+      "location": "Tianjin (Weiwu)",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Weiwu/XMLNAME-2026-Intern---System---Application-Engineer_R-10063001"
+    },
+    {
+      "id": "R-10063079",
+      "title": "Human Resources",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Human-Resources_R-10063079"
+    },
+    {
+      "id": "R-10062624",
+      "title": "Senior Firmware Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted Today",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Senior-Firmware-Engineer_R-10062624"
+    },
+    {
+      "id": "R-10060144",
+      "title": "Semiconductor Maintenance Technician - Photo",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Photo_R-10060144"
+    },
+    {
+      "id": "R-10061641",
+      "title": "Senior Principal Applications Engineer",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Senior-Applications-Engineer_R-10061641"
+    },
+    {
+      "id": "R-10061640",
+      "title": "Hardware Applications Engineer",
+      "location": "San Jose (Holger Way)",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Hardware-Applications-Engineer_R-10061640"
+    },
+    {
+      "id": "R-10061769",
+      "title": "Wireless System Engineer Intern - Summer 2026",
+      "location": "San Jose (Holger Way)",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Wireless-System-Intern---Summer-2026_R-10061769-1"
+    },
+    {
+      "id": "R-10062929",
+      "title": "Automotive Product Engineer - Entry Level",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Automotive-Product-Engineer---Entry-Level_R-10062929"
+    },
+    {
+      "id": "R-10062199",
+      "title": "Embedded SW Engineer - Platform Support",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Embedded-SW-Engineer---Platform-Support--f-m-d-_R-10062199"
+    },
+    {
+      "id": "R-10061848",
+      "title": "Requirement Manager (f/m/d)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/Requirement-Manager--f-m-d-_R-10061848"
+    },
+    {
+      "id": "R-10062290",
+      "title": "NPI Program Manager - Automotive Processors",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/NPI-Program-Manager---Automotive-Processors_R-10062290-1"
+    },
+    {
+      "id": "R-10062658",
+      "title": "Alternance : Apprenti(e) Ingénieur : Bluetooth LE Test and AI (F/M)",
+      "location": "Sophia-Antipolis (Valbonne)",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sophia-Antipolis-Valbonne/Alternance---Apprenti-e--Ingnieur---Bluetooth-LE-Test-and-AI--F-M-_R-10062658-1"
+    },
+    {
+      "id": "R-10063082",
+      "title": "Analog Design Internship",
+      "location": "Catania",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/Analog-Design-Internship_R-10063082-1"
+    },
+    {
+      "id": "R-10062972",
+      "title": "SYSTEMS VALIDATION",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/SYSTEMS-VALIDATION_R-10062972"
+    },
+    {
+      "id": "R-10062862",
+      "title": "Sr. Technical Writer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Sr-Technical-Writer_R-10062862"
+    },
+    {
+      "id": "R-10062966",
+      "title": "SoC Verification Lead Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/SoC-Verification-Lead-Engineer_R-10062966"
+    },
+    {
+      "id": "R-10063041",
+      "title": "Embedded Firmware/Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Embedded-Firmware-Software-Engineer_R-10063041"
+    },
+    {
+      "id": "R-10063023",
+      "title": "Sr./Lead FW Verification and Validation Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Sr-Lead-FW-Verification-and-Validation-Engineer_R-10063023"
+    },
+    {
+      "id": "R-10063083",
+      "title": "Edge AI Model Optimization Software Engineer",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Edge-AI-Model-Optimization-Software-Engineer_R-10063083"
+    },
+    {
+      "id": "R-10063056",
+      "title": "Facilities Electrical Maintenance Technician",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Facilities-Electrical-Maintenance-Technician_R-10063056"
+    },
+    {
+      "id": "R-10063046",
+      "title": "Sr. Facilities Mechanical-Process Piping Engineer",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Sr-Facilities-Mechanical-Process-Piping-Engineer_R-10063046"
+    },
+    {
+      "id": "R-10063052",
+      "title": "Senior Photolithography Process Engineer",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Senior-Photolithography-Process-Engineer_R-10063052-1"
+    },
+    {
+      "id": "R-10062370",
+      "title": "'Internship: Software Developer NFC/UWB System Verification (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/XMLNAME--Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10062370"
+    },
+    {
+      "id": "R-10061979",
+      "title": "Equipment Engineer",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/Equipment-Engineer_R-10061979"
+    },
+    {
+      "id": "R-10062296",
+      "title": "PROCESS ENGINEER",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/PROCESS-ENGINEER_R-10062296"
+    },
+    {
+      "id": "R-10062326",
+      "title": "PROCESS ENGINEER",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted Yesterday",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/PROCESS-ENGINEER_R-10062326-1"
+    },
+    {
+      "id": "R-10063015",
+      "title": "ATMC Films PVD Engineering Technician",
+      "location": "Austin (Ed Bluestein, Office)",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Office/ATMC-Films-PVD-Engineering-Technician_R-10063015"
+    },
+    {
+      "id": "R-10062947",
+      "title": "Marketing Director",
+      "location": "San Jose (Holger Way)",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Marketing-Director_R-10062947-1"
+    },
+    {
+      "id": "R-10062949",
+      "title": "Director of Marketing, Go To Market",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Director-of-Marketing--Go-To-Market_R-10062949"
+    },
+    {
+      "id": "R-10063008",
+      "title": "Outside Sales Representative",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Outside-Sales-Representative_R-10063008"
+    },
+    {
+      "id": "R-10062172",
+      "title": "Senior Digital Design Enginner",
+      "location": "Caen",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Caen/Digital-Design_R-10062172"
+    },
+    {
+      "id": "R-10061653",
+      "title": "Senior Principal Applications Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Novi/Senior-Principal-Applications-Engineer_R-10061653"
+    },
+    {
+      "id": "R-10061659",
+      "title": "ROM Software Test Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/ROM-Software-Test-Engineer_R-10061659-1"
+    },
+    {
+      "id": "R-10061881",
+      "title": "Information Security SIEM Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/SOC-L3-Analyst_R-10061881"
+    },
+    {
+      "id": "R-10062904",
+      "title": "Distribution Business Manager (Germany, South-West) (f/m/d)",
+      "location": "Germany (home based)",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Germany-home-based/DIstribution-Business-Manager--Germany--South-West---f-m-d-_R-10062904-1"
+    },
+    {
+      "id": "R-10063076",
+      "title": "Operator",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Operator_R-10063076"
+    },
+    {
+      "id": "R-10062973",
+      "title": "Senior Principal Engineer - SoC Design Verification",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Principle-Engineer---SoC-Design-Verification_R-10062973"
+    },
+    {
+      "id": "R-10062198",
+      "title": "Web Application Developer Intern",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Web-Application-Developer_R-10062198"
+    },
+    {
+      "id": "R-10062344",
+      "title": "Embedded Software Developer for Cryptography Testing",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Embedded-Software-Developer-for-Cryptography-Testing_R-10062344"
+    },
+    {
+      "id": "R-10062002",
+      "title": "Embedded Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Embedded-Software-Engineer_R-10062002"
+    },
+    {
+      "id": "R-10061883",
+      "title": "Embedded SW Developer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Rust-Embedded-SW-Developer_R-10061883"
+    },
+    {
+      "id": "R-10061844",
+      "title": "Embedded SW Developer - Microcontrollers",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/Embedded-SW-Developer---Microcontrollers_R-10061844-1"
+    },
+    {
+      "id": "R-10060344",
+      "title": "Embedded Software student - IoT Application Development",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Embedded-Software-student---IoT-Application-Development_R-10060344"
+    },
+    {
+      "id": "R-10059638",
+      "title": "Software Engineering Intern, Linux Kernel/BSP",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Software-Engineering-Intern--Linux-Kernel-BSP_R-10059638"
+    },
+    {
+      "id": "R-10062934",
+      "title": "Staff Analog Validation Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Staff-Analog-Validation-Engineer_R-10062934"
+    },
+    {
+      "id": "R-10063028",
+      "title": "SEMICONDUCTOR ASSEMBLER",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/SEMICONDUCTOR-ASSEMBLER_R-10063028"
+    },
+    {
+      "id": "R-10063047",
+      "title": "Automotive applications student",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Automotive-applications-student_R-10063047"
+    },
+    {
+      "id": "R-10063050",
+      "title": "Automotive applications student",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 3 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Automotive-applications-student_R-10063050"
+    },
+    {
+      "id": "R-10062722",
+      "title": "Application Support Engineer",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/Application-Support-Engineer_R-10062722"
+    },
+    {
+      "id": "R-10062821",
+      "title": "Key Account Manager - Automotive",
+      "location": "Shanghai (JingAn)",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-JingAn/Key-Account-Manager---Automotive_R-10062821"
+    },
+    {
+      "id": "R-10062775",
+      "title": "Director of FE Engineering - SoC MCU",
+      "location": "Yokneam Ilit",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Yokneam-Ilit/Director-of-FE-Engineering---SoC-MCU_R-10062775"
+    },
+    {
+      "id": "R-10062774",
+      "title": "Senior Analog Design Engineer - MCU",
+      "location": "Yokneam Ilit",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Yokneam-Ilit/Senior-Analog-Design-Engineer---MCU_R-10062774"
+    },
+    {
+      "id": "R-10062777",
+      "title": "Senior Physical Design Leader MCU",
+      "location": "Yokneam Ilit",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Yokneam-Ilit/Senior-Physical-Design-Leader-MCU_R-10062777"
+    },
+    {
+      "id": "R-10062776",
+      "title": "Senior SoC Architect - MCU",
+      "location": "Yokneam Ilit",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Yokneam-Ilit/Senior-SoC-Architect---MCU_R-10062776"
+    },
+    {
+      "id": "R-10062652",
+      "title": "DOCUMENTATION SPECIALIST",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/DOCUMENTATION-SPECIALIST_R-10062652"
+    },
+    {
+      "id": "R-10062828",
+      "title": "Foundry Operation Principal Engineer",
+      "location": "Singapore",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Singapore/Foundry-Operation-Principal-Engineer_R-10062828"
+    },
+    {
+      "id": "R-10062888",
+      "title": "Sr. Principal Foundry Engineer – Logic/RF Device Expert",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 2 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Singapore/Sr-Principal-Foundry-Engineer---Logic-RF-Device-Expert_R-10062888"
+    },
+    {
+      "id": "R-10062870",
+      "title": "Lead SoC Validation Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 4 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Lead-SoC-Validation-Engineer_R-10062870-1"
+    },
+    {
+      "id": "R-10061355",
+      "title": "Field Application Engineer - Microcontrollers",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Field-Application-Engineer---Microcontrollers_R-10061355"
+    },
+    {
+      "id": "R-10062939",
+      "title": "RF System Engineer (NFC) (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/RF-System-Engineer--NFC---m-f-d-_R-10062939"
+    },
+    {
+      "id": "R-10062692",
+      "title": "SW Developer - Microcontrollers",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/SW-Developer---Microcontrollers_R-10062692"
+    },
+    {
+      "id": "R-10062160",
+      "title": "Student SW Engineer",
+      "location": "Sibiu",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sibiu/Student-SW-Engineer_R-10062160-1"
+    },
+    {
+      "id": "R-10062396",
+      "title": "Intern Software Engineer for MCUXpresso VSCode team",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Intern-Software-Engineer-for-MCUXpresso-VSCode-team_R-10062396"
+    },
+    {
+      "id": "R-10059640",
+      "title": "Software Engineering Intern, Linux Kernel/BSP",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Software-Engineering-Intern--Linux-Kernel-BSP_R-10059640"
+    },
+    {
+      "id": "R-10062521",
+      "title": "Software Engineer for MCUXpresso team",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Software-Engineer-for-MCUXpresso-team_R-10062521"
+    },
+    {
+      "id": "R-10062893",
+      "title": "Technical Lead For China- eUICC carrier",
+      "location": "Shanghai (JingAn)",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-JingAn/Technical-Lead-For-China--eUICC-carrier_R-10062893"
+    },
+    {
+      "id": "R-10062974",
+      "title": "Senior Principal Engineer - SoC Design Verification",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Principal-Engineer---SoC-Design-Verification_R-10062974"
+    },
+    {
+      "id": "R-10061655",
+      "title": "Sr. Principal Digital Design Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 5 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Digital-Design-Engineer_R-10061655"
+    },
+    {
+      "id": "R-10062487",
+      "title": "Director Global Trade Compliance Infrastructure & Operations",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/Director-Trade-Compliance-Infrastructure---Operations_R-10062487-1"
+    },
+    {
+      "id": "R-10062940",
+      "title": "Facilities Operations Technical Watch - Night Shift",
+      "location": "Austin (Oakhill, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Manufacturing/Facilities-Operations-Technical-Watch---Night-Shift_R-10062940"
+    },
+    {
+      "id": "R-10062995",
+      "title": "System and Application Engineer F/M",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/System-and-Application-Engineer-F-M_R-10062995"
+    },
+    {
+      "id": "R-10062840",
+      "title": "Senior Firmware Engineer – Automotive NFC (m/f/d) - fixed term contract",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Senior-Firmware-Engineer---Automotive-NFC--m-f-d----1-year-contract_R-10062840"
+    },
+    {
+      "id": "R-10062905",
+      "title": "Distribution Business Manager (Germany South-East) (f/m/d)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Munich/Distribution-Business-Manager--Germany-South-East---f-m-d-_R-10062905"
+    },
+    {
+      "id": "R-10062508",
+      "title": "Director Trade Compliance Strategy & Resilience",
+      "location": "Eindhoven",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/Director-Trade-Compliance-Strategy---Resilience_R-10062508-1"
+    },
+    {
+      "id": "R-10061673",
+      "title": "Internship / Thesis Student for Edge AI Optimization Research & Engineering (f/m/d)",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/Internship---Thesis-Student-for-Edge-AI-Optimization-Research---Engineering--f-m-d-_R-10061673"
+    },
+    {
+      "id": "R-10062347",
+      "title": "Regional Marketing Manager – Robotics & Transportation (Europe)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Milan/Regional-Marketing-Manager---Robotics---Transportation--Europe-_R-10062347"
+    },
+    {
+      "id": "R-10062945",
+      "title": "Metrology Process Engineer",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Metrology-Process-Engineer_R-10062945"
+    },
+    {
+      "id": "R-10061721",
+      "title": "Principal Product Security Certification Expert (m/f/d)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Principal-Product-Security-Certification-Expert--m-f-d-_R-10061721"
+    },
+    {
+      "id": "R-10062986",
+      "title": "Etch Equipment Maintenance Technician- Compressed Days 1 Shift",
+      "location": "Austin (Ed Bluestein, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Manufacturing/Etch-Equipment-Maintenance-Technician--Compressed-Days-1-Shift_R-10062986"
+    },
+    {
+      "id": "R-10059565",
+      "title": "<New Graduate Hiring> Test Integration Engineer",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 6 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/XMLNAME--New-Graduate-Hiring--Test-Integration-Engineer_R-10059565"
+    },
+    {
+      "id": "R-10061815",
+      "title": "Senior / Principal Validation Leader",
+      "location": "Toulouse",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Toulouse/Senior---Principal-Validation-Leader_R-10061815-1"
+    },
+    {
+      "id": "R-10062338",
+      "title": "Strategy & Distribution Marketing Manager  – Automotive MCU",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Toulouse/Strategy---Distribution-Marketing-Manager----Automotive-MCU_R-10062338-1"
+    },
+    {
+      "id": "R-10062705",
+      "title": "Senior DFT Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Sr-DFT-Engineer_R-10062705"
+    },
+    {
+      "id": "R-10062706",
+      "title": "Senior DFT Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Sr-DFT-Engineer_R-10062706"
+    },
+    {
+      "id": "R-10062708",
+      "title": "Principal DFT Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Principle-DFT-Engineer_R-10062708-1"
+    },
+    {
+      "id": "R-10061923",
+      "title": "Senior Principal DFT Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Sr-Principle-DFT-Engineer_R-10061923"
+    },
+    {
+      "id": "R-10062895",
+      "title": "Senior Hardware/Software Co-Design Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Engineer--HW-SW-Co-Design_R-10062895-1"
+    },
+    {
+      "id": "R-10062441",
+      "title": "Senior Principal HW/SW Co-Design Lead",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/HW-SW-Co-Design-Lead_R-10062441"
+    },
+    {
+      "id": "R-10062801",
+      "title": "Technical Project Manager",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Technical-Project-Manager_R-10062801"
+    },
+    {
+      "id": "R-10062218",
+      "title": "Senior Manager, Threat Intel Analyst",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Senior-Manager--Threat-Intel-Analyst_R-10062218"
+    },
+    {
+      "id": "R-10062852",
+      "title": "Sr. Facilities Engineer - Ultra Pure Water (UPW)Specialist",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Sr-Facilities-Engineer---Ultra-Pure-Water--UPW-Specialist_R-10062852-1"
+    },
+    {
+      "id": "R-10062401",
+      "title": "Principal Analog Design engineer",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Principal-Analog-Design-engineer_R-10062401"
+    },
+    {
+      "id": "R-10062156",
+      "title": "Senior Principal Analog design engineer",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 7 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Senior-Principal-Analog-design-engineer_R-10062156"
+    },
+    {
+      "id": "R-10062933",
+      "title": "Stage Assistant Ingénieur : Analog Design F/M",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Toulouse/Stage-Assistant-Ingnieur---Analog-Design-F-M_R-10062933"
+    },
+    {
+      "id": "R-10062745",
+      "title": "Facilities Controls Engineer",
+      "location": "Austin (Ed Bluestein, Office)",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Office/Facilities-Controls-Engineer_R-10062745-1"
+    },
+    {
+      "id": "R-10061214",
+      "title": "Semiconductor Maintenance Technician – Photo",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Photo_R-10061214"
+    },
+    {
+      "id": "R-10062773",
+      "title": "Metrology/Automated Material Handling (AMHS) Equipment Engineer",
+      "location": "Austin (Ed Bluestein, Office)",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Office/Metrology-Automated-Material-Handling--AMHS--Equipment-Engineer_R-10062773"
+    },
+    {
+      "id": "R-10062819",
+      "title": "Films Equipment Engineer - Novellus C2",
+      "location": "Austin (Ed Bluestein, Office)",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Office/Films-Equipment-Engineer---Novellus-C2_R-10062819"
+    },
+    {
+      "id": "R-10062912",
+      "title": "Senior Cleans Process Engineer",
+      "location": "Austin (Ed Bluestein, Office)",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Office/Senior-Cleans-Process-Engineer_R-10062912"
+    },
+    {
+      "id": "R-10062422",
+      "title": "Network SME",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Lead-Network-and-Connectivity-Engineer_R-10062422"
+    },
+    {
+      "id": "R-10062061",
+      "title": "Test Engineer (NPI/NTI) - Principal",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/Test-Engineer--NPI-NTI----Principal_R-10062061"
+    },
+    {
+      "id": "R-10062021",
+      "title": "Senior Director, HR Hub Lead – Central & Eastern Europe (CEE)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Senior-Director--HR-Hub-Lead---Central---Eastern-Europe--CEE-_R-10062021-1"
+    },
+    {
+      "id": "R-10062598",
+      "title": "Business Development Manager – Edge AI",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Senior-Business-Development-Manager---Edge-AI_R-10062598"
+    },
+    {
+      "id": "R-10061515",
+      "title": "Senior Systems Validation Engineer",
+      "location": "Hamburg",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/Senior-Systems-Validation-Engineer_R-10061515"
+    },
+    {
+      "id": "R-10061457",
+      "title": "Product Security Incident Response Manager (m/f/d)",
+      "location": "4 Locations",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Product-Security-Incident-Response-Manager--m-f-d-_R-10061457"
+    },
+    {
+      "id": "R-10062827",
+      "title": "APAC Foundry Operations Senior Principal Engineer",
+      "location": "Hsinchu",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/APAC-Foundry-Operations-Senior-Principal-Engineer_R-10062827"
+    },
+    {
+      "id": "R-10062755",
+      "title": "Senior Principal Physical Design Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Principal-Physical-Design-Engineer_R-10062755"
+    },
+    {
+      "id": "R-10062182",
+      "title": "Project Manager for Crypto & Security Competence Center (m/f/d)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/Project-Manager-for-Crypto---Security-Competence-Center--m-f-d-_R-10062182-1"
+    },
+    {
+      "id": "R-10062299",
+      "title": "Applications / Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Applications---Software-Engineer_R-10062299-1"
+    },
+    {
+      "id": "R-10062891",
+      "title": "Malaysia Finance Controller - Assembly & Test Operations",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Malaysia-Finance-Controller---Assembly---Test-Operations_R-10062891"
+    },
+    {
+      "id": "R-10062857",
+      "title": "Data Scientist",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Data-Scientist_R-10062857-1"
+    },
+    {
+      "id": "R-10062190",
+      "title": "倉儲管理員",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/_R-10062190-1"
+    },
+    {
+      "id": "R-10062464",
+      "title": "Platform Embedded Software Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 8 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Platform-Embedded-Software-Engineer_R-10062464"
+    },
+    {
+      "id": "R-10062822",
+      "title": "Sr Analog Design Engineer",
+      "location": "Catania",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/Sr-Analog-Design-Engineer_R-10062822"
+    },
+    {
+      "id": "R-10062818",
+      "title": "Jr Analog Design Engineer",
+      "location": "Catania",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/Jr-Analog-Design-Engineer_R-10062818"
+    },
+    {
+      "id": "R-10062816",
+      "title": "Jr Analog Design Engineer",
+      "location": "Catania",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/Jr-Analog-Design-Engineer_R-10062816"
+    },
+    {
+      "id": "R-10062488",
+      "title": "AI Strategy & Architecture for Alternance : Automated Test Program (TP) Generation F/M",
+      "location": "Sophia-Antipolis (Valbonne)",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sophia-Antipolis-Valbonne/AI-Strategy---Architecture-for-Automated-Test-Program--TP--Generation_R-10062488"
+    },
+    {
+      "id": "R-10062486",
+      "title": "Alternance : Test Data & Reporting (Engineering / Data) F/M",
+      "location": "Sophia-Antipolis (Valbonne)",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sophia-Antipolis-Valbonne/Test-Data---Reporting--Engineering---Data-_R-10062486"
+    },
+    {
+      "id": "R-10060434",
+      "title": "Senior Embedded AI Platform Security Engineer (m/f/d)",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Embedded-AI-Platform-Security-Engineer_R-10060434"
+    },
+    {
+      "id": "R-10060123",
+      "title": "Senior System Security Architect (m/f/d)",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Experienced-System-Security-Architect--m-f-d-_R-10060123"
+    },
+    {
+      "id": "R-10060346",
+      "title": "Embedded Systems Engineer",
+      "location": "Roznov",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Embedded-Systems-Engineer_R-10060346-1"
+    },
+    {
+      "id": "R-10062392",
+      "title": "Manufacturing Engineer",
+      "location": "Nijmegen",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Nijmegen/Manufacturing-Engineer_R-10062392-1"
+    },
+    {
+      "id": "R-10062008",
+      "title": "Principal Embedded SW / Applications Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/Principal-Automotive-Applications-Engineer_R-10062008"
+    },
+    {
+      "id": "R-10062843",
+      "title": "<2026 Internship Program> Digital Design Intern - Power Management",
+      "location": "Hsinchu",
+      "department": null,
+      "updated_at": "Posted 9 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/XMLNAME--2026-Internship-Program--Digital-Design-Intern---Power-Management_R-10062843"
+    },
+    {
+      "id": "R-10062911",
+      "title": "Semiconductor Maintenance Technician – Etch PM Machinist",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-PM-Machinist_R-10062911"
+    },
+    {
+      "id": "R-10062909",
+      "title": "Semiconductor Maintenance Technician – Etch/Metals",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-Metals_R-10062909"
+    },
+    {
+      "id": "R-10062910",
+      "title": "Semiconductor Maintenance Technician – Etch PM Machinist",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 11 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-PM-Machinist_R-10062910"
+    },
+    {
+      "id": "R-10062853",
+      "title": "CVD PM Tech (MST) Days 2 shift",
+      "location": "Austin (Ed Bluestein, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Manufacturing/CVD-PM-Tech--MST--Days-2-shift_R-10062853"
+    },
+    {
+      "id": "R-10062673",
+      "title": "OHT Facilities Operations Tech Watch",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/OHT-Facilities-Operations-Tech-Watch_R-10062673"
+    },
+    {
+      "id": "R-10062799",
+      "title": "Semiconductor Maintenance Technician – CVD",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/CVD-Maintenance-Technician_R-10062799"
+    },
+    {
+      "id": "R-10062283",
+      "title": "Subfab Support Machinist - Semiconductor Maintenance Technician",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-Metals_R-10062283"
+    },
+    {
+      "id": "R-10060359",
+      "title": "CVD PM Machinist - Semiconductor Maintenance",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---EPI_R-10060359"
+    },
+    {
+      "id": "R-10062136",
+      "title": "CVD PM Machinist - Semiconductor Maintenance Technician",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---CVD_R-10062136"
+    },
+    {
+      "id": "R-10061779",
+      "title": "Internship: Human Resources (HR) (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Internship--Human-Resources--HR---m-f-d-_R-10061779-1"
+    },
+    {
+      "id": "R-10062896",
+      "title": "Senior AI Software Developer",
+      "location": "Brno",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/Senior-AI-Software-Developer_R-10062896"
+    },
+    {
+      "id": "R-10062134",
+      "title": "DSP Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/DSP-Engineer_R-10062134"
+    },
+    {
+      "id": "R-10062124",
+      "title": "Process Technology Engineer (Hardware Validation)",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 12 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Process-Technology-Engineer--Hardware-Validation-_R-10062124"
+    },
+    {
+      "id": "R-10062854",
+      "title": "Etch Equipment Maintenance Technician - Nights 2",
+      "location": "Austin (Ed Bluestein, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Manufacturing/Etch-Equipment-Maintenance-Technician---Nights-2_R-10062854"
+    },
+    {
+      "id": "R-10062465",
+      "title": "Internship: Marketing Communications - part time (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Internship--Marketing-Communications---part-time--m-f-d-_R-10062465"
+    },
+    {
+      "id": "R-10062138",
+      "title": "Principal Verification Engineer",
+      "location": "Eindhoven",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/Principal-Verification-Engineer_R-10062138-1"
+    },
+    {
+      "id": "R-10062342",
+      "title": "Commodity Director Innovation -  IP, EDA & Outsourced Design",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/XMLNAME--Senior--Commodity-Manager-Innovation----IP--EDA---Outsourced-Design_R-10062342"
+    },
+    {
+      "id": "R-10062641",
+      "title": "Supply Chain Planner",
+      "location": "Taipei",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Taipei/Supply-Chain-Planner_R-10062641"
+    },
+    {
+      "id": "R-10062304",
+      "title": "Test BackEnd (Pack) Process Manager",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Test-BackEnd--Pack--Process-Manager_R-10062304-1"
+    },
+    {
+      "id": "R-10062294",
+      "title": "IT CMDB / CSDM Process Owner",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/IT-CMDB---CSDM-Process-Owner_R-10062294"
+    },
+    {
+      "id": "R-10061616",
+      "title": "[社會新鮮人] 進出口人員",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/_R-10061616"
+    },
+    {
+      "id": "R-10062719",
+      "title": "<2026 Intern Program> Supply Chain Factory Planner (Semester Intern)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 13 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/XMLNAME--2026-Intern-Program--Supply-Chain-Factory-Planner_R-10062719"
+    },
+    {
+      "id": "R-10062698",
+      "title": "Alternance : Apprenti(e) Ingénieur CEM (F/M)",
+      "location": "Toulouse",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Toulouse/Alternance---Apprenti-e--Ingnieur-CEM--F-M-_R-10062698"
+    },
+    {
+      "id": "R-10061396",
+      "title": "Principal Engineer – Identity Governance & Administration (IGA)",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Principal-Engineer---Identity-Governance---Administration--IGA-_R-10061396"
+    },
+    {
+      "id": "R-10062648",
+      "title": "Linux VPU FW Engineer",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Linux-VPU-FW-Engineer_R-10062648-1"
+    },
+    {
+      "id": "R-10061511",
+      "title": "EMC Engineer (f/m/d)",
+      "location": "Munich",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Munich/EMC-Engineer--f-m-d-_R-10061511"
+    },
+    {
+      "id": "R-10062072",
+      "title": "Internship: RF Test Automation Engineer (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Internship--NFC-RF-System-Validation--m-f-d-_R-10062072"
+    },
+    {
+      "id": "R-10062738",
+      "title": "Principal BMS Industrial System Architect  (m/f/d)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Munich/Principal-BMS-Industrial-System-Architect---m-f-d-_R-10062738"
+    },
+    {
+      "id": "R-10061610",
+      "title": "Business Development Manager (f/m/d)",
+      "location": "Munich",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Munich/Business-Development-Manager--f-m-d-_R-10061610"
+    },
+    {
+      "id": "R-10062577",
+      "title": "Equipment Engineer",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Equipment-Engineer_R-10062577-1"
+    },
+    {
+      "id": "R-10061811",
+      "title": "Probe Process Engineer",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Probe-Process-Engineer_R-10061811-1"
+    },
+    {
+      "id": "R-10062515",
+      "title": "Trade Compliance Operations Manager",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Trade-Compliance-Operations-Manager_R-10062515-1"
+    },
+    {
+      "id": "R-10062516",
+      "title": "Trade Compliance Operations Coordinator",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Trade-Compliance-Operations-Coordinator_R-10062516-1"
+    },
+    {
+      "id": "R-10062623",
+      "title": "Sales Operations Manager",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Sales-Operations-Manager_R-10062623"
+    },
+    {
+      "id": "R-10062725",
+      "title": "Safety Architect",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Safety-Architect_R-10062725"
+    },
+    {
+      "id": "R-10062240",
+      "title": "Embedded Security Engineer / Vulnerability Researcher (Embedded Systems) (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Embedded-Security-Engineer---Vulnerability-Researcher--Embedded-Systems---m-f-d-_R-10062240"
+    },
+    {
+      "id": "R-10060438",
+      "title": "Senior ML Security Tools & Threat Modeling Engineer (m/f/d)",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/ML-Security-Tools---Threat-Modeling-Engineer--m-f-d-_R-10060438"
+    },
+    {
+      "id": "R-10062566",
+      "title": "Product Engineer",
+      "location": "Tianjin (Weiwu)",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Weiwu/Product-Engineer_R-10062566"
+    },
+    {
+      "id": "R-10062691",
+      "title": "Senior Principal Foundry Engineer",
+      "location": "Singapore",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Singapore/Senior-Principal-Foundry-Engineer_R-10062691"
+    },
+    {
+      "id": "R-10059691",
+      "title": "<New Graduate Hiring> Equipment Engineer",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 14 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/XMLNAME--New-Graduate-Hiring--Equipment-Engineer_R-10059691"
+    },
+    {
+      "id": "R-10061825",
+      "title": "Summer Internship: AI-Based Anomaly Detection for Logical Attack Detection (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Summer-Internship--AI-Based-Anomaly-Detection-for-Logical-Attack-Detection--m-f-d-_R-10061825"
+    },
+    {
+      "id": "R-10062427",
+      "title": "Senior Principal Data and AI Engineer- R&D IT",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/IT-Architect--Data-and-AI---R-D-IT_R-10062427"
+    },
+    {
+      "id": "R-10062555",
+      "title": "IP/Patent Counsel (f/m/d)",
+      "location": "Hamburg",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/IP-Patent-Counsel--f-m-d-_R-10062555"
+    },
+    {
+      "id": "R-10062764",
+      "title": "Project Manager",
+      "location": "Eindhoven",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/Project-Manager_R-10062764"
+    },
+    {
+      "id": "R-10062754",
+      "title": "Field Application Engineer (Automotive) - SDV/VEA",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tokyo/Field-Application-Engineer--Automotive----SDV-VEA_R-10062754"
+    },
+    {
+      "id": "R-10062686",
+      "title": "IT Systems Engineer - Storage Services",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/IT-Systems-Engineer---Storage-Services_R-10062686"
+    },
+    {
+      "id": "R-10062640",
+      "title": "Senior Firmware Developer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Senior-Firmware-Developer_R-10062640"
+    },
+    {
+      "id": "R-10062671",
+      "title": "Distribution Corporate Account Manager (f/m/d)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Saclay/Distribution-Corporate-Account-Manager--f-m-d-_R-10062671"
+    },
+    {
+      "id": "R-10061498",
+      "title": "Senior Firmware Engineer",
+      "location": "San Jose (Holger Way)",
+      "department": null,
+      "updated_at": "Posted 16 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Senior-Firmware-Engineer_R-10061498"
+    },
+    {
+      "id": "R-10062627",
+      "title": "Regional Sales Manager-Must reside in Florida",
+      "location": "USA (home based)",
+      "department": null,
+      "updated_at": "Posted 16 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/USA-home-based/Regional-Sales-Manager_R-10062627"
+    },
+    {
+      "id": "R-10060931",
+      "title": "System IC Architect - Advanced Power Systems",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 16 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/USA-home-based/System-IC-Architect---Advanced-Power-Systems_R-10060931"
+    },
+    {
+      "id": "R-10062645",
+      "title": "Senior Static Timing Analysis (STA) Engineer",
+      "location": "Tianjin (Teda)",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Teda/Senior-Static-Timing-Analysis--STA--Engineer_R-10062645"
+    },
+    {
+      "id": "R-10062647",
+      "title": "SoC & NPI Program Management",
+      "location": "Tianjin (Teda)",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Teda/SoC---NPI-Program-Management_R-10062647"
+    },
+    {
+      "id": "R-10062665",
+      "title": "System Architecture Director - MPU& MCU",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 15 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-Pudong/System-Architecture-Director---MPU--MCU_R-10062665"
+    },
+    {
+      "id": "R-10062233",
+      "title": "Senior HR Services SpezialistIn  (m/w/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 16 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/HR-Generalist--m-w-d-_R-10062233"
+    },
+    {
+      "id": "R-10062724",
+      "title": "Working Student – Analog Regression & Test Automation",
+      "location": "Eindhoven",
+      "department": null,
+      "updated_at": "Posted 16 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/Working-Student---Analog-Regression---Test-Automation_R-10062724"
+    },
+    {
+      "id": "R-10059009",
+      "title": "2026 Intern- Digital/Mixed-signal Design Intern",
+      "location": "Tianjin (Teda)",
+      "department": null,
+      "updated_at": "Posted 16 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Teda/XMLNAME-2025-Intern--Digital-Mixed-signal-Design-Intern_R-10059009-1"
+    },
+    {
+      "id": "R-10062683",
+      "title": "FP&A Sr Analyst",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 17 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/FP-A-Sr-Analyst_R-10062683-1"
+    },
+    {
+      "id": "R-10062562",
+      "title": "Metrology Equipment Technician",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 18 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Metrology-Equipment-Technician_R-10062562"
+    },
+    {
+      "id": "R-10061750",
+      "title": "Senior Marketing Engineer- Robotics",
+      "location": "Shanghai (JingAn)",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-JingAn/Senior-Marketing-Engineer--Robotics_R-10061750"
+    },
+    {
+      "id": "R-10058149",
+      "title": "Car OEM Sales Leader",
+      "location": "Shanghai (JingAn)",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-JingAn/Sr-Sales-Director---Car-OEM_R-10058149-1"
+    },
+    {
+      "id": "R-10061227",
+      "title": "Senior Principal Analog Validation Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Principal-Analog-Validation-Engineer_R-10061227-1"
+    },
+    {
+      "id": "R-10062098",
+      "title": "Senior Field Application Engineer - UWB/BLE",
+      "location": "Shenzhen",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shenzhen/Auto-Field-Application-Engineer---UWB-BLE_R-10062098"
+    },
+    {
+      "id": "R-10062617",
+      "title": "Field Applications Engineer - Microprocessors",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Field-Applications-Engineer---Microprocessors_R-10062617"
+    },
+    {
+      "id": "R-10062663",
+      "title": "Senior Automotive Systems & Applications Engineer",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Senior-Automotive-Systems---Applications-Engineer_R-10062663"
+    },
+    {
+      "id": "R-10062335",
+      "title": "Software Security Architect (JavaCard OS, Crypto Library, Firmware) (m/f/d)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Software-Security-Architect--JavaCard-OS--Crypto-Library--Firmware---m-f-d-_R-10062335"
+    },
+    {
+      "id": "R-10062493",
+      "title": "Internship: UWB Validation Test Management Automotive UWB (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Internship--UWB-Validation-Test-Management-Automotive-UWB--m-f-d-_R-10062493"
+    },
+    {
+      "id": "R-10062293",
+      "title": "Internship: Lab Measurements and Test Setups Automation (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Internship--Lab-Measurements-and-Test-Setups-Automation--m-f-d-_R-10062293-1"
+    },
+    {
+      "id": "R-10062709",
+      "title": "N1 Cleans Equipment Technician",
+      "location": "Austin (Ed Bluestein, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Manufacturing/N1-Cleans-Equipment-Technician_R-10062709"
+    },
+    {
+      "id": "R-10062715",
+      "title": "N1 Photo Equipment Technician",
+      "location": "Austin (Ed Bluestein, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Manufacturing/N1-Photo-Equipment-Technician_R-10062715"
+    },
+    {
+      "id": "R-10062678",
+      "title": "Photo Equipment Technician",
+      "location": "Austin (Ed Bluestein, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Manufacturing/Photo-Equipment-Technician_R-10062678"
+    },
+    {
+      "id": "R-10062732",
+      "title": "Semiconductor Equipment Technician",
+      "location": "Austin (Ed Bluestein, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Manufacturing/Semiconductor-Equipment-Technician_R-10062732"
+    },
+    {
+      "id": "R-10062325",
+      "title": "Product/Test Engineer",
+      "location": "Tianjin (Weiwu)",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Weiwu/Product-Test-Engineer_R-10062325"
+    },
+    {
+      "id": "R-10062639",
+      "title": "2026 Intern - Embedded Software Development Engineer - UWB RADAR",
+      "location": "Shanghai (JingAn)",
+      "department": null,
+      "updated_at": "Posted 19 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-JingAn/XMLNAME-2026-Intern---Embedded-Software-Development-Engineer---UWB-RADAR_R-10062639"
+    },
+    {
+      "id": "R-10062425",
+      "title": "Senior Lead Engineer - ServiceNow",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/IT-Systems-Engineer---DevOps-ServiceNow_R-10062425-1"
+    },
+    {
+      "id": "R-10062275",
+      "title": "Senior Validation Engineer",
+      "location": "Catania",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/Senior-Validation-Engineer_R-10062275-1"
+    },
+    {
+      "id": "R-10062449",
+      "title": "Sales Intern",
+      "location": "Taipei",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Taipei/Sales-Intern_R-10062449"
+    },
+    {
+      "id": "R-10062707",
+      "title": "Sr. DFT Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Sr-DFT-Engineer_R-10062707"
+    },
+    {
+      "id": "R-10062243",
+      "title": "Sr. Metrology/Automated Material Handling (AMHS) Equipment Engineer",
+      "location": "Austin (Ed Bluestein, Office)",
+      "department": null,
+      "updated_at": "Posted 20 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Office/Sr-Metrology-Automated-Material-Handling--AMHS--Equipment-Engineer_R-10062243"
+    },
+    {
+      "id": "R-10062415",
+      "title": "Concept Development Engineer (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Concept-Development-Engineer--m-f-d-_R-10062415-1"
+    },
+    {
+      "id": "R-10062711",
+      "title": "Director, Global Key Account Manager (GKAM) Automotive OEM",
+      "location": "Novi",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Novi/Director--Global-Key-Account-Manager--GKAM--Automotive-OEM_R-10062711"
+    },
+    {
+      "id": "R-10062670",
+      "title": "Crypto Software Performance Evaluation",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Crypto-Software-Performance-Evaluation_R-10062670"
+    },
+    {
+      "id": "R-10062669",
+      "title": "Cryptographic Software Performance Evaluation Intern",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Cryptographic-Software-Performance-Evaluation-Intern_R-10062669"
+    },
+    {
+      "id": "R-10062116",
+      "title": "Software Intern Student - RealTime Drivers",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062116"
+    },
+    {
+      "id": "R-10062117",
+      "title": "Software Intern Student - RealTime Drivers",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117"
+    },
+    {
+      "id": "R-10062280",
+      "title": "Senior Commodity Manager - IT",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Senior-Commodity-Manager---IT_R-10062280-1"
+    },
+    {
+      "id": "R-10062543",
+      "title": "Customer Service Representative",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Customer-Service-Representative_R-10062543-1"
+    },
+    {
+      "id": "R-10062538",
+      "title": "Senior Customer Service Representative",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 21 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Senior-Customer-Service-Representative_R-10062538"
+    },
+    {
+      "id": "R-10062636",
+      "title": "MCU Support Engineering Intern",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/MCU-Support-Engineering-Intern_R-10062636"
+    },
+    {
+      "id": "R-10062581",
+      "title": "Senior Director & Team Lead of Security Vulnerability Analysis",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/Senior-Director---Team-Lead-of-Security-Vulnerability-Analysis_R-10062581"
+    },
+    {
+      "id": "R-10060489",
+      "title": "HR Country Manager, UK",
+      "location": "Glasgow",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/UK-Country-Human-Resource-Leader_R-10060489-1"
+    },
+    {
+      "id": "R-10061633",
+      "title": "Senior Digital Design Engineer, Automotive",
+      "location": "4 Locations",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/Senior-Digital-Design-Engineer_R-10061633-1"
+    },
+    {
+      "id": "R-10061634",
+      "title": "Principal Digital Design Engineer, Automotive",
+      "location": "5 Locations",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/Principal-Digital-Design-Engineer_R-10061634-1"
+    },
+    {
+      "id": "R-10062196",
+      "title": "Web Application Developer Intern",
+      "location": "Sibiu",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sibiu/Web-Application-Developer_R-10062196"
+    },
+    {
+      "id": "R-10062195",
+      "title": "Web Application Developer Intern",
+      "location": "Sibiu",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sibiu/Web-Application-Developer_R-10062195"
+    },
+    {
+      "id": "R-10062194",
+      "title": "Web Application Developer Intern",
+      "location": "Sibiu",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sibiu/Web-Application-Developer_R-10062194-1"
+    },
+    {
+      "id": "R-10062512",
+      "title": "Image Signal Processing - Control & Tuning Specialist",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Image-Signal-Processing---Control---Tuning-Specialist_R-10062512"
+    },
+    {
+      "id": "R-10062638",
+      "title": "MCU Support Engineering Intern",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 23 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/MCU-Support-Engineering-Intern_R-10062638"
+    },
+    {
+      "id": "R-10062200",
+      "title": "Embedded Security Software Architect",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 22 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Embedded-Security-Software-Architect_R-10062200"
+    },
+    {
+      "id": "R-10062576",
+      "title": "Motor Control SW developer",
+      "location": "Roznov",
+      "department": null,
+      "updated_at": "Posted 23 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Motor-Control-SW-developer_R-10062576-1"
+    },
+    {
+      "id": "R-10062575",
+      "title": "Motor Control SW developer",
+      "location": "Roznov",
+      "department": null,
+      "updated_at": "Posted 23 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Motor-Control-SW-developer_R-10062575-1"
+    },
+    {
+      "id": "R-10061875",
+      "title": "Security Operations Engineer",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 23 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Security-Operations-Engineer_R-10061875-1"
+    },
+    {
+      "id": "R-10061886",
+      "title": "SOC L3 Analyst",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 23 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/SOC-L3-Analyst_R-10061886-1"
+    },
+    {
+      "id": "R-10062541",
+      "title": "SW Tools Developer - Secure Provisioning Tool",
+      "location": "Brno",
+      "department": null,
+      "updated_at": "Posted 23 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/SW-Tools-Developer---Secure-Provisioning-Tool_R-10062541"
+    },
+    {
+      "id": "R-10062567",
+      "title": "Sales Account Manager - Automotive, Pune (West India)",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 23 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Sales-Account-Manager---Automotive--Pune--West-India-_R-10062567"
+    },
+    {
+      "id": "R-10062568",
+      "title": "Sales Account Manager – Industrial & IOT, Bengaluru (South India)",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 23 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Sales-Account-Manager---Industrial---IOT--Bengaluru--South-India-_R-10062568"
+    },
+    {
+      "id": "R-10060431",
+      "title": "Senior Accountant",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 23 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Senior-Accountant_R-10060431-1"
+    },
+    {
+      "id": "R-10054775",
+      "title": "Intern SW Quality",
+      "location": "Roznov",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Intern-SW-Quality_R-10054775"
+    },
+    {
+      "id": "R-10061898",
+      "title": "Student Position: Signal Processing – Human‑Machine Interface (HMI) in Ostrava/CZ",
+      "location": "Roznov",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Student-Position--Signal-Processing---Human-Machine-Interface--HMI--in-Ostrava-CZ_R-10061898-1"
+    },
+    {
+      "id": "R-10061213",
+      "title": "Intern - SW administrator",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Intern---SW-administrator_R-10061213"
+    },
+    {
+      "id": "R-10062159",
+      "title": "Student SW Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sibiu/Student-SW-Engineer_R-10062159-1"
+    },
+    {
+      "id": "R-10062130",
+      "title": "AI Software Student/Intern",
+      "location": "Brno",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/AI-Software-Student-Intern_R-10062130"
+    },
+    {
+      "id": "R-10062146",
+      "title": "SCE Principal Test Engineer",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 26 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/SCE-Principal-Test-Engineer_R-10062146-1"
+    },
+    {
+      "id": "R-10062323",
+      "title": "Americas Customer Application Support Internship - Summer 2026",
+      "location": "Novi",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Novi/Americas-Customer-Application-Support-Internship---Summer-2026_R-10062323"
+    },
+    {
+      "id": "R-10062295",
+      "title": "Senior Software Application Engineer – Ethernet Products (f/m/d)",
+      "location": "Hamburg",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/Senior-Software-Application-Engineer---Ethernet-Products--f-m-d-_R-10062295"
+    },
+    {
+      "id": "R-10062609",
+      "title": "Customer Application Support Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Customer-Application-Support-Engineer_R-10062609"
+    },
+    {
+      "id": "R-10062608",
+      "title": "Sr. Customer Application Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 27 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Sr-Customer-Application-Engineer_R-10062608"
+    },
+    {
+      "id": "R-10062170",
+      "title": "Senior System Validation Engineer",
+      "location": "Eindhoven",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/Senior-System-Validation-Enginer_R-10062170-1"
+    },
+    {
+      "id": "R-10062251",
+      "title": "Security Vulnerability Analyst",
+      "location": "Leuven",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Leuven/Security-Vulnerability-Analyst_R-10062251"
+    },
+    {
+      "id": "R-10062616",
+      "title": "ATE Test Hardware Design - Director",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/ATE-Test-Hardware-Design---Director_R-10062616-1"
+    },
+    {
+      "id": "R-10062571",
+      "title": "Customer Application Support Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Customer-Application-Support-Engineer_R-10062571"
+    },
+    {
+      "id": "R-10059145",
+      "title": "Equipment Technician",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/Equipment-Technician_R-10059145"
+    },
+    {
+      "id": "R-10062399",
+      "title": "Litigation Paralegal and E-Discovery Specialist",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Litigation-Paralegal-and-E-Discovery-Specialist_R-10062399"
+    },
+    {
+      "id": "R-10062265",
+      "title": "Trade Compliance and Transportation Manager",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Trade-Compliance-and-Transportation-Manager_R-10062265-1"
+    },
+    {
+      "id": "R-10062597",
+      "title": "Firmware Engineer Intern - Summer 2026",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Firmware-Engineer-Intern---Summer-2026_R-10062597"
+    },
+    {
+      "id": "R-10062430",
+      "title": "BI Developer - R&D IT",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/BI-Developer---R-D-IT_R-10062430"
+    },
+    {
+      "id": "R-10062433",
+      "title": "Data Platform DevOps Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 28 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Data-Platform-DevOps-Engineer_R-10062433"
+    },
+    {
+      "id": "R-10062534",
+      "title": "Business Development - Automotive MCUs, Processors and Vehicle Electronic Architecture (VEA)",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Business-Development---Automotive-MCUs--Processors-and-Vehicle-Electronic-Architecture--VEA-_R-10062534"
+    },
+    {
+      "id": "R-10062500",
+      "title": "Director Product Marketing",
+      "location": "San Jose (Holger Way)",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Director-Product-Marketing_R-10062500"
+    },
+    {
+      "id": "R-10062595",
+      "title": "Strategic Sales Account Manager - Robotics",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Strategic-Sales-Account-Manager---Robotics_R-10062595"
+    },
+    {
+      "id": "R-10062558",
+      "title": "Senior Secure Provisioning Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/Senior-Secure-Provisioning-Software-Engineer_R-10062558"
+    },
+    {
+      "id": "R-10061988",
+      "title": "Principal AMS Verification Engineer (m/f/d)",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Caen/Principal-AMS-Verification-Engineer--m-f-d-_R-10061988-1"
+    },
+    {
+      "id": "R-10061795",
+      "title": "Principal Analog Design Engineer",
+      "location": "Toulouse",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Toulouse/Principal-Analog-Design-Engineer_R-10061795"
+    },
+    {
+      "id": "R-10061989",
+      "title": "Senior Principal Analog Design Engineer PMU",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Caen/Senior-Principal-Analog-Design-Engineer-PMU_R-10061989"
+    },
+    {
+      "id": "R-10061984",
+      "title": "Principal Analog CAD Engineer",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Caen/Principal-Analog-Design-Engineer---Methodology_R-10061984-1"
+    },
+    {
+      "id": "R-10061525",
+      "title": "Senior Data Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Senior-Data-Engineer_R-10061525-1"
+    },
+    {
+      "id": "R-10062123",
+      "title": "NPI Product Engineer",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 29 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/NPI-Product-Engineer_R-10062123"
+    },
+    {
+      "id": "R-10061901",
+      "title": "Product Definer (IO Aggregator)",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 30 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Product-Definer--IO-Aggregator-_R-10061901"
+    },
+    {
+      "id": "R-10061365",
+      "title": "HV/BCD Principal Engineer",
+      "location": "Hsinchu",
+      "department": null,
+      "updated_at": "Posted 30 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/HV-BCD-Principal-Engineer_R-10061365"
+    },
+    {
+      "id": "R-10054774",
+      "title": "Working Student (f/m/d) AI Automation Engineer – Quality Automation",
+      "location": "Hamburg",
+      "department": null,
+      "updated_at": "Posted 30 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/Intern-SW-Quality_R-10054774"
+    },
+    {
+      "id": "R-10061195",
+      "title": "Lead Engineer - Compilers",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 30 Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Lead-Engineer---Compilers_R-10061195"
+    },
+    {
+      "id": "R-10062083",
+      "title": "HW Security Architect",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/HW-Security-Architect_R-10062083"
+    },
+    {
+      "id": "R-10062419",
+      "title": "Service Manager",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Service-Manager_R-10062419"
+    },
+    {
+      "id": "R-10062531",
+      "title": "SW TEST/VALIDATION",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/SW-TEST-VALIDATION_R-10062531"
+    },
+    {
+      "id": "R-10062052",
+      "title": "Technician Area 3",
+      "location": "Nijmegen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Nijmegen/Technician-Area-3_R-10062052-1"
+    },
+    {
+      "id": "R-10062428",
+      "title": "Lead Data & AI Engineer - R&D IT",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Lead-Data---AI-Engineer---R-D-IT_R-10062428"
+    },
+    {
+      "id": "R-10062424",
+      "title": "PRTM Product Manager - R&D IT",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/PRTM-Product-Manager---R-D-IT_R-10062424"
+    },
+    {
+      "id": "R-10062362",
+      "title": "MSc/BSc Intern position - Electrochemical impedance spectroscopy for SoC estimation at Systems Innovation Automotive (SI A)",
+      "location": "Eindhoven",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/MSc-BSc-Intern-position---Electrochemical-impedance-spectroscopy-for-SoC-estimation-at-Systems-Innovation-Automotive--SI-A-_R-10062362"
+    },
+    {
+      "id": "R-10062497",
+      "title": "Sr Principal Firmware Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Sr-Principal-Firmware-Engineer_R-10062497"
+    },
+    {
+      "id": "R-10062126",
+      "title": "<New Graduate Hiring> Product Engineer",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/XMLNAME--New-Graduate-Hiring--Product-Engineer_R-10062126"
+    },
+    {
+      "id": "R-10062361",
+      "title": "MSc/BSc Intern position - In-Cabin Sensing for Automotive Applications at Systems Innovation Automotive (SI A)",
+      "location": "Eindhoven",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/MSc-BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062361"
+    },
+    {
+      "id": "R-10062169",
+      "title": "Lead Physical Design Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Lead-Physical-Design-Engineer_R-10062169"
+    },
+    {
+      "id": "R-10062451",
+      "title": "Senior Principal SoC Design Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Principal-SoC-Design-Engineer_R-10062451"
+    },
+    {
+      "id": "R-10062412",
+      "title": "NXViewGen and IDPEV developer for IP views generation and validation",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/NXViewGen-and-IDPEV-developer-for-IP-views-generation-and-validation_R-10062412"
+    },
+    {
+      "id": "R-10062436",
+      "title": "Business Analyst - GtM",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Business-Analyst---GtM_R-10062436"
+    },
+    {
+      "id": "R-10062108",
+      "title": "Alternance : Développement Java dans le Cadre de Test Industriel (Automated Test Equipement) F/M",
+      "location": "Caen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Caen/Alternance---Dveloppement-Java-dans-le-Cadre-de-Test-Industriel--Automated-Test-Equipement--F-M_R-10062108"
+    },
+    {
+      "id": "R-10060142",
+      "title": "Alternance: Ingénieur systèmes Énergie et Puissance F/M",
+      "location": "Toulouse",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Toulouse/Alternance--Ingnieur-systmes-nergie-et-Puissance-F-M_R-10060142-1"
+    },
+    {
+      "id": "R-10061938",
+      "title": "Embedded HW/SW Developer – Phone Wireless Charging",
+      "location": "Roznov",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Embedded-HW-SW-Developer---Phone-Wireless-Charging_R-10061938-1"
+    },
+    {
+      "id": "R-10062405",
+      "title": "Senior Engineer - SoC Design Verification",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Engineer---SoC-Design-Verification_R-10062405"
+    },
+    {
+      "id": "R-10062429",
+      "title": "Senior IT Systems Engineer - DevOps LDAP Services",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Senior-IT-Systems-Engineer---DevOps-LDAP-Services_R-10062429"
+    },
+    {
+      "id": "R-10062420",
+      "title": "Principal IT Systems Engineer - DevOps LDAP Services",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Principal-IT-Systems-Engineer---DevOps-LDAP-Services_R-10062420"
+    },
+    {
+      "id": "R-10062435",
+      "title": "IT Systems Engineer - DevOps LDAP Services",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/IT-Systems-Engineer---DevOps-LDAP-Services_R-10062435"
+    },
+    {
+      "id": "R-10062316",
+      "title": "Senior Counsel",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Senior-Counsel_R-10062316"
+    },
+    {
+      "id": "R-10062382",
+      "title": "Director of Analog Mixed Signal Design",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Director-of-Analog-Mixed-Signal-Design_R-10062382"
+    },
+    {
+      "id": "R-10062099",
+      "title": "Software DevOps Engineer - for Gen AI",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Software-DevOps-Engineer---for-Gen-AI_R-10062099"
+    },
+    {
+      "id": "R-10062066",
+      "title": "NPI/NTI Test Engineer",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/NPI-NTI-Test-Engineer_R-10062066-1"
+    },
+    {
+      "id": "R-10062421",
+      "title": "IT Systems Engineer - Storage Services",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/IT-Systems-Engineer---Storage-Services_R-10062421"
+    },
+    {
+      "id": "R-10062416",
+      "title": "Connectivity Service Lead",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Connectivity-Service-Lead_R-10062416"
+    },
+    {
+      "id": "R-10062431",
+      "title": "AI Platform Dev Ops Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/AI-Platform-Dev-Ops-Engineer_R-10062431"
+    },
+    {
+      "id": "R-10062426",
+      "title": "IT Data Engineer - R&D IT",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/IT-Data-Engineer---R-D-IT_R-10062426"
+    },
+    {
+      "id": "R-10062423",
+      "title": "ML OPS Engineer -  R&D IT",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/ML-OPS-Engineer----R-D-IT_R-10062423-1"
+    },
+    {
+      "id": "R-10062432",
+      "title": "Data Platform DevOps Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Data-Platform-DevOps-Engineer_R-10062432"
+    },
+    {
+      "id": "R-10061327",
+      "title": "Internship: Software Test Engineer - JavaCard Applications",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Internship--Software-Test-Engineer---JavaCard-Applications_R-10061327"
+    },
+    {
+      "id": "R-10061524",
+      "title": "Quality Technician",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/Quality-Technician_R-10061524"
+    },
+    {
+      "id": "R-10062373",
+      "title": "SW Test Engineer",
+      "location": "Brno",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/SW-Test-Engineer_R-10062373"
+    },
+    {
+      "id": "R-10062375",
+      "title": "Senior SW Engineer -  C# / Java Developer",
+      "location": "Brno",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/Senior-SW-Engineer----C----Java-Developer_R-10062375-1"
+    },
+    {
+      "id": "R-10062374",
+      "title": "Senior SW Engineer - C# / Java Developer",
+      "location": "Brno",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/Senior-SW-Engineer---C----Java-Developer_R-10062374"
+    },
+    {
+      "id": "R-10062320",
+      "title": "Software Engineer - Java / C# Developer",
+      "location": "Brno",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/Software-Engineer---Java---C--Developer_R-10062320"
+    },
+    {
+      "id": "R-10062408",
+      "title": "Principle Engineer - SoC Design Verification",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Principle-Engineer---SoC-Design-Verification_R-10062408-1"
+    },
+    {
+      "id": "R-10062284",
+      "title": "Staff Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Staff-Engineer_R-10062284-1"
+    },
+    {
+      "id": "R-10061192",
+      "title": "Software Engineer-Compilers",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Software-Engineer-Compilers_R-10061192"
+    },
+    {
+      "id": "R-10061196",
+      "title": "Software Engineer-Runtime",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Software-Engineer-Runtime_R-10061196"
+    },
+    {
+      "id": "R-10061191",
+      "title": "Software Engineer- Modelzoo",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Software-Engineer--Modelzoo_R-10061191"
+    },
+    {
+      "id": "R-10060353",
+      "title": "Embedded SW Developer – Wireless Charging (Student)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Roznov/Embedded-SW-Developer---Wireless-Charging--Student-_R-10060353"
+    },
+    {
+      "id": "R-10062315",
+      "title": "Director/Chip Architect",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Director-Chip-Architect_R-10062315"
+    },
+    {
+      "id": "R-10062078",
+      "title": "Senior Hardware Verification Engineer",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Senior-Hardware-Verification-Engineer_R-10062078"
+    },
+    {
+      "id": "R-10061617",
+      "title": "Senior Analog Layout Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Senior-Analog-Layout-Engineer_R-10061617"
+    },
+    {
+      "id": "R-10061090",
+      "title": "Senior Analog Layout Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Penang/Senior-Analog-Layout-Engineer_R-10061090"
+    },
+    {
+      "id": "R-10061667",
+      "title": "Lead Engineer - Compilers",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Lead-Engineer---Compilers_R-10061667"
+    },
+    {
+      "id": "R-10062366",
+      "title": "Software Project/Program Manager (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Software-Project-Program-Manager--m-f-d-_R-10062366"
+    },
+    {
+      "id": "R-10062248",
+      "title": "Lead Physical Design Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Lead-Physical-Design-Engineer_R-10062248"
+    },
+    {
+      "id": "R-10062250",
+      "title": "Lead Physical Design Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Lead-Physical-Design-Engineer_R-10062250"
+    },
+    {
+      "id": "R-10062244",
+      "title": "Sr. DFT Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Sr-DFT-Engineer_R-10062244"
+    },
+    {
+      "id": "R-10062062",
+      "title": "Sr. Lead ASIC design Engineer - Digital Design",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Sr-Lead-ASIC-design-Engineer---Digital-Design_R-10062062"
+    },
+    {
+      "id": "R-10062292",
+      "title": "Senior Emulation / FPGA Prototyping Engineer ",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Emulation---FPGA-Prototyping-Engineer-_R-10062292"
+    },
+    {
+      "id": "R-10062288",
+      "title": "Senior Engineer - SoC Design Engineering",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Engineer---SoC-Design-Engineering_R-10062288"
+    },
+    {
+      "id": "R-10062291",
+      "title": "Senior Engineer - SoC Design Engineering",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Engineer---SoC-Design-Engineering_R-10062291"
+    },
+    {
+      "id": "R-10062186",
+      "title": "(Senior) Talent Acquisition Specialist",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/XMLNAME--Senior--Talent-Acquisition-Specialist_R-10062186"
+    },
+    {
+      "id": "R-10062277",
+      "title": "Crypto & Security Engineers",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Glasgow/Crypto---Security-Engineers_R-10062277-1"
+    },
+    {
+      "id": "R-10061846",
+      "title": "Business Development Manager For In-Vehicle Networking",
+      "location": "Shanghai (JingAn)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-JingAn/Business-Development-Manager-For-In-Vehicle-Networking_R-10061846"
+    },
+    {
+      "id": "R-10062234",
+      "title": "Electronic Repair Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Office/Electronic-Repair-Engineer_R-10062234"
+    },
+    {
+      "id": "R-10062065",
+      "title": "Warehouse Manager",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Warehouse-Manager_R-10062065-1"
+    },
+    {
+      "id": "R-10061882",
+      "title": "L3 SOC Analyst",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/L3-SOC-Analyst_R-10061882"
+    },
+    {
+      "id": "R-10061887",
+      "title": "SOC L3 Analyst",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/SOC-L3-Analyst_R-10061887-1"
+    },
+    {
+      "id": "R-10061775",
+      "title": "Business Development non SIP",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Business-Development-non-SIP_R-10061775"
+    },
+    {
+      "id": "R-10061326",
+      "title": "Systems and Control Engineer, High Tech Utilities",
+      "location": "Nijmegen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Nijmegen/Netwerk-en-Control-Engineer_R-10061326"
+    },
+    {
+      "id": "R-10061598",
+      "title": "Marketing Director Automotive Radar (f/m/d)",
+      "location": "Munich",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Munich/Marketing-Director-Automotive-Radar--f-m-d-_R-10061598"
+    },
+    {
+      "id": "R-10061823",
+      "title": "NPI Project Engineer",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/NPI-Local-Champion_R-10061823"
+    },
+    {
+      "id": "R-10061741",
+      "title": "Assembly Technical Program Manager",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/Process-engineer-manager_R-10061741"
+    },
+    {
+      "id": "R-10062225",
+      "title": "2026 Intern - Field Quality Engineer",
+      "location": "Shenzhen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shenzhen/XMLNAME-2026-Intern---Field-Quality-Engineer_R-10062225"
+    },
+    {
+      "id": "R-10062141",
+      "title": "Fab Internal Electronic Repair Shop - Group Lead",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Fab-Internal-Electronic-Repair-Shop---Group-Lead_R-10062141"
+    },
+    {
+      "id": "R-10062281",
+      "title": "Semiconductor Maintenance Technician – Etch/Metals",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-Metals_R-10062281"
+    },
+    {
+      "id": "R-10062282",
+      "title": "Semiconductor Maintenance Technician – Etch/Metals",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-Metals_R-10062282"
+    },
+    {
+      "id": "R-10061957",
+      "title": "Senior Strategic Global Account Manager",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Senior-Strategic-Global-Account-Manager_R-10061957"
+    },
+    {
+      "id": "R-10062088",
+      "title": "Sr. Facilities Engineer – Controls Systems",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Sr-Facilities-Engineer---Controls-Systems_R-10062088"
+    },
+    {
+      "id": "R-10061645",
+      "title": "Senior Digital/AMS Validation and Integration Engineer",
+      "location": "San Jose (Holger Way)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Senior-Digital-AMS-Validation-and-Integration-Engineer_R-10061645"
+    },
+    {
+      "id": "R-10062266",
+      "title": "Field Application Engineer - Automotive",
+      "location": "Novi",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Novi/Field-Application-Engineer---Automotive_R-10062266"
+    },
+    {
+      "id": "R-10061497",
+      "title": "Principal HW Validation Engineer",
+      "location": "San Jose (Holger Way)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Principal-HW-Validation-Engineer_R-10061497"
+    },
+    {
+      "id": "R-10061623",
+      "title": "Senior Analog Validation/Characterization Engineer",
+      "location": "San Jose (Holger Way)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Senior-Analog-Validation-Characterization-Engineer_R-10061623"
+    },
+    {
+      "id": "R-10062279",
+      "title": "Energy Network (48V) & Electrification Product Marketing Engineer (f/m/d)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Munich/Energy-Network--48V----Electrification-Product-Marketing-Engineer--f-m-d-_R-10062279"
+    },
+    {
+      "id": "R-10062137",
+      "title": "Semiconductor Maintenance Technician – Diffusion/Cleans",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Diffusion-Cleans_R-10062137-1"
+    },
+    {
+      "id": "R-10062212",
+      "title": "Wire Bond Shift Assistant Engineer",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/Wire-Bond-Shift-Assistant-Engineer_R-10062212"
+    },
+    {
+      "id": "R-10058896",
+      "title": "2026 Intern - Product Marketing - DES",
+      "location": "Shanghai (JingAn)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-JingAn/XMLNAME-2026-Intern---Product-Marketing---DES_R-10058896-1"
+    },
+    {
+      "id": "R-10062007",
+      "title": "Senior Principal Digital IC Designer",
+      "location": "Milan",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Milan/Senior-Principal-Digital-IC-Designer_R-10062007"
+    },
+    {
+      "id": "R-10061789",
+      "title": "Order Management (OM) Team Manager",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Order-Management--OM--Team-Manager_R-10061789"
+    },
+    {
+      "id": "R-10061514",
+      "title": "Senior Systems Validation Engineer",
+      "location": "San Jose (Holger Way)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Holger-Way/Senior-Systems-Validation-Engineer_R-10061514"
+    },
+    {
+      "id": "R-10061740",
+      "title": "Internship: Firmware Engineer (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Internship--Firmware-Engineer--m-f-d-_R-10061740"
+    },
+    {
+      "id": "R-10062113",
+      "title": "Diffusion Equipment Engineer",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Diffusion-Equipment-Engineer_R-10062113"
+    },
+    {
+      "id": "R-10062090",
+      "title": "Semiconductor Maintenance Technician - Etch / Metals",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch---Metals_R-10062090"
+    },
+    {
+      "id": "R-10062067",
+      "title": "Semiconductor Maintenance Technician – Rebuild Support Machinist",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Rebuild-Support-Machinist_R-10062067"
+    },
+    {
+      "id": "R-10061707",
+      "title": "Real Estate-Americas",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Real-Estate-Americas_R-10061707"
+    },
+    {
+      "id": "R-10061991",
+      "title": "Internship:  Lab support (f/m/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Internship---Lab-support--f-m-d-_R-10061991"
+    },
+    {
+      "id": "R-10061782",
+      "title": "Principal Design Engineer",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Principal-Design-Engineer_R-10061782"
+    },
+    {
+      "id": "R-10062125",
+      "title": "Sr. Principal Engineer -STA",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Sr-Principal-Engineer--STA_R-10062125"
+    },
+    {
+      "id": "R-10061806",
+      "title": "Principal Engineer - Physical Design",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Principal-Engineer---Physical-Design_R-10061806"
+    },
+    {
+      "id": "R-10062119",
+      "title": "Internship: Electro/Thermo Migration Reliability Capabilities of IC Packages",
+      "location": "Nijmegen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Nijmegen/Internship--Electro-Thermo-Migration-Reliability-Capabilities-of-IC-Packages_R-10062119"
+    },
+    {
+      "id": "R-10061438",
+      "title": "Principal Analog Engineer -Power Management",
+      "location": "Hsinchu",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/Principal-Analog-Engineer--Power-Management_R-10061438"
+    },
+    {
+      "id": "R-10061888",
+      "title": "Industrial Engineering Solutions Business Analyst",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Industrial-Engineering-Solutions-Business-Analyst_R-10061888"
+    },
+    {
+      "id": "R-10061889",
+      "title": "Manufacturing NPI & Engineering Solutions Business Analyst",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Manufacturing-NPI---Engineering-Solutions-Business-Analyst_R-10061889"
+    },
+    {
+      "id": "R-10061890",
+      "title": "Manufacturing NPI & Engineering Solutions Senior Business Analyst",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Manufacturing-NPI---Engineering-Solutions-Senior-Business-Analyst_R-10061890"
+    },
+    {
+      "id": "R-10061885",
+      "title": "Manufacturing Solution Lead - NPI & Engineering",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Manufacturing-Solution-Lead---NPI---Engineering_R-10061885"
+    },
+    {
+      "id": "R-10061418",
+      "title": "Analog Mixed Signal Circuit Design",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Analog-Mixed-Signal-Circuit-Design_R-10061418"
+    },
+    {
+      "id": "R-10061638",
+      "title": "Business Development Manager",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Business-Development-Manager_R-10061638"
+    },
+    {
+      "id": "R-10062013",
+      "title": "Principal Physical Design Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Principal-Physical-Design-Engineer_R-10062013"
+    },
+    {
+      "id": "R-10062036",
+      "title": "Helpdesk Engineer - Printing Support ",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Helpdesk-Engineer---Printing-Support-_R-10062036"
+    },
+    {
+      "id": "R-10062037",
+      "title": "Helpdesk Engineer - Printing Support ",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Helpdesk-Engineer---Printing-Support-_R-10062037"
+    },
+    {
+      "id": "R-10062104",
+      "title": "Intern for Edge AI Model Zoo Optimization Research & Engineering (f/m/d)",
+      "location": "Eindhoven",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/Intern-for-Edge-AI-Model-Zoo-Optimization-Research---Engineering--f-m-d-_R-10062104"
+    },
+    {
+      "id": "R-10061837",
+      "title": "Business & Technology Strategy - Secure Connected Edge",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sophia-Antipolis-Valbonne/Business---Technology-Strategy---Secure-Connected-Edge_R-10061837-1"
+    },
+    {
+      "id": "R-10062034",
+      "title": "Helpdesk Engineer - Printing Support ",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Helpdesk-Engineer---Printing-Support-_R-10062034"
+    },
+    {
+      "id": "R-10062035",
+      "title": "Helpdesk Engineer - Printing Support ",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Helpdesk-Engineer---Printing-Support-_R-10062035"
+    },
+    {
+      "id": "R-10059564",
+      "title": "<New Graduate Hiring> Manufacturing Test Engineer (System & Hardware)",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/XMLNAME--New-Graduate-Hiring--Equipment-Engineer_R-10059564"
+    },
+    {
+      "id": "R-10061494",
+      "title": "NVM Device & Reliability Development Principal Engineer",
+      "location": "Hsinchu",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/Non-Volatile-Memory-Reliability-Principal-Engineer_R-10061494"
+    },
+    {
+      "id": "R-10058986",
+      "title": "PhD Student in Radar Interference Avoidance (m/f/d)",
+      "location": "Dresden",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Dresden/PhD-Student-in-Radar-Interference-Avoidance--m-f-d-_R-10058986"
+    },
+    {
+      "id": "R-10061809",
+      "title": "Application Engineer",
+      "location": "Shanghai (JingAn)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-JingAn/Application-Engineer_R-10061809"
+    },
+    {
+      "id": "R-10061168",
+      "title": "Principal Field Application Engineer - Radar",
+      "location": "Shenzhen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shenzhen/Principal-Field-Application-Engineer---Radar_R-10061168-1"
+    },
+    {
+      "id": "R-10059347",
+      "title": "BootROM Lead Architect",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/BootROM-Lead-Architect_R-10059347"
+    },
+    {
+      "id": "R-10061967",
+      "title": "Data & AI Capability Lead",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Data---AI-Capability-Lead_R-10061967"
+    },
+    {
+      "id": "R-10061519",
+      "title": "Edge AI Model Optimization Software Engineer",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Quantizer--Software-Engineer_R-10061519"
+    },
+    {
+      "id": "R-10061520",
+      "title": "Edge AI Model Optimization Software Engineer",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Quantizer--Software-Engineer_R-10061520"
+    },
+    {
+      "id": "R-10061521",
+      "title": "Edge AI Model Optimization Software Engineer",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Quantizer--Software-Engineer_R-10061521"
+    },
+    {
+      "id": "R-10061523",
+      "title": "Edge AI Model Optimization Research Engineer",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Quantizer--Research-Engineer_R-10061523"
+    },
+    {
+      "id": "R-10061876",
+      "title": "SOC L3 Analyst",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/SOC-L3-Analyst_R-10061876"
+    },
+    {
+      "id": "R-10061880",
+      "title": "SOC L3 Analyst",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/SOC-L3-Analyst_R-10061880"
+    },
+    {
+      "id": "R-10061884",
+      "title": "Red Team PenTester",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Red-Team-PenTester_R-10061884"
+    },
+    {
+      "id": "R-10062022",
+      "title": "Technical Sales Engineer, Automotive",
+      "location": "Novi",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Novi/Technical-Sales-Engineer--Automotive_R-10062022"
+    },
+    {
+      "id": "R-10062056",
+      "title": "Senior Global Account Manager",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Senior-Global-Account-Manager_R-10062056"
+    },
+    {
+      "id": "R-10061272",
+      "title": "Senior Principal Power Architect - MCU",
+      "location": "Catania",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/POWER-ARCHITECT-MCU_R-10061272"
+    },
+    {
+      "id": "R-10060432",
+      "title": "Senior Accountant & SOX Specialist",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Statutory-Senior-Accountant_R-10060432-1"
+    },
+    {
+      "id": "R-10061535",
+      "title": "Senior Marketing Engineer- Factory Automation",
+      "location": "Shanghai (Pudong)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-Pudong/Factory-Automation-Marketing-Engineer_R-10061535"
+    },
+    {
+      "id": "R-10061222",
+      "title": "Key Account Sales Manager-Home Appliance",
+      "location": "Shenzhen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shenzhen/Key-Account-Sales-Manager_R-10061222"
+    },
+    {
+      "id": "R-10061926",
+      "title": "Sr Manager - Mass Market Technical Leader - Americas",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Novi/Sr-Manager---Mass-Market-Technical-Leader---Americas_R-10061926"
+    },
+    {
+      "id": "R-10061685",
+      "title": "Principal DFT Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Principal-DFT-Engineer_R-10061685"
+    },
+    {
+      "id": "R-10061635",
+      "title": "Lead Design Verification Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Lead-Design-Verification-Engineer_R-10061635"
+    },
+    {
+      "id": "R-10061929",
+      "title": "Senior Principle Engineer - SoC Design Verification",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Principle-Engineer---SoC-Design-Verification_R-10061929"
+    },
+    {
+      "id": "R-10058992",
+      "title": "PhD Position (f/m/d) - New Waveforms for Automotive Radar",
+      "location": "Dresden",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Dresden/PhD-Position--f-m-d----New-Waveforms-for-Automotive-Radar_R-10058992"
+    },
+    {
+      "id": "R-10061486",
+      "title": "Sales Account Manager – Automotive",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Sales-Account-Manager---Automotive_R-10061486-1"
+    },
+    {
+      "id": "R-10061921",
+      "title": "Senior Principal Physical Design Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-Principal-Physical-Design-Engineer_R-10061921"
+    },
+    {
+      "id": "R-10061788",
+      "title": "Technical Sales & Applications Program (TSAP)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Novi/Technical-Sales---Applications-Program--TSAP-_R-10061788"
+    },
+    {
+      "id": "R-10061928",
+      "title": "Principle Engineer - SoC Design Verification",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Principle-Engineer---SoC-Design-Verification_R-10061928"
+    },
+    {
+      "id": "R-10061927",
+      "title": "Principle Engineer - SoC Design Verification",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Principle-Engineer---SoC-Design-Verification_R-10061927"
+    },
+    {
+      "id": "R-10061435",
+      "title": "Senior Shift Technician",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Senior-Shift-Technician_R-10061435-1"
+    },
+    {
+      "id": "R-10061771",
+      "title": "Sales BI Analyst",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Sales-BI-Analyst_R-10061771-1"
+    },
+    {
+      "id": "R-10061941",
+      "title": "Web Content Program Manager",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Web-Content-Program-Manager_R-10061941"
+    },
+    {
+      "id": "R-10059455",
+      "title": "Intern (f/m/d) Corporate Real Estate & Workplace",
+      "location": "Hamburg",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/Corporate-Real-Estate---Workplace-Intern--m-f-d-_R-10059455"
+    },
+    {
+      "id": "R-10061360",
+      "title": "Process Engineer",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/Process-Engineer_R-10061360"
+    },
+    {
+      "id": "R-10061784",
+      "title": "Business Process Expert (BPE) Applications Platforms",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Business-Process-Expert--BPE--Applications-Platforms_R-10061784"
+    },
+    {
+      "id": "R-10061646",
+      "title": "Business Development Manager",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Japan-home-based/Business-Development-Manager_R-10061646-1"
+    },
+    {
+      "id": "R-10061650",
+      "title": "Non-Volatile Memory IP Platform Lead",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Non-Volatile-Memory-IP-Platform-Lead_R-10061650"
+    },
+    {
+      "id": "R-10060536",
+      "title": "GenAI DevOps Program Manager",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/GenAI-DevOps-Program-Manager_R-10060536"
+    },
+    {
+      "id": "R-10060962",
+      "title": "Audio Algorithm Engineer F/M",
+      "location": "Sophia-Antipolis (Valbonne)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Sophia-Antipolis-Valbonne/Audio-Algorithm-Engineer-F-M_R-10060962"
+    },
+    {
+      "id": "R-10061692",
+      "title": "Pre-Assembly Quality Assurance Manager",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/Pre-Assembly-Quality-Assurance-Manager_R-10061692"
+    },
+    {
+      "id": "R-10061619",
+      "title": "Operator Techniek DRY 2 ploegen",
+      "location": "Nijmegen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Nijmegen/Operator-Techniek-DRY-2-ploegen_R-10061619-1"
+    },
+    {
+      "id": "R-10061566",
+      "title": "Lead EDA Engineer - Devops",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Lead-IT-DesignSync-Engineer---Devops_R-10061566"
+    },
+    {
+      "id": "R-10061682",
+      "title": "Semiconductor Maintenance Technician – Machine Shop",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Semiconductor-Maintenance-Technician---Machine-Shop_R-10061682"
+    },
+    {
+      "id": "R-10061588",
+      "title": "<New Graduate Hiring> Data Scientist",
+      "location": "Singapore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Singapore/XMLNAME--New-Graduate-Hiring--Data-Scientist_R-10061588"
+    },
+    {
+      "id": "R-10060564",
+      "title": "PhD Position - mm-Wave mixing ADC for automotive digital (FMCW) radar receivers",
+      "location": "Eindhoven",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/PhD-Position---mm-Wave-mixing-ADC-for-automotive-digital--FMCW--radar-receivers_R-10060564"
+    },
+    {
+      "id": "R-10061689",
+      "title": "Wireless Systems & Architecture Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Wireless-Systems---Architecture-Engineer_R-10061689"
+    },
+    {
+      "id": "R-10061711",
+      "title": "Wireless Systems Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Wireless-Systems-Engineer_R-10061711"
+    },
+    {
+      "id": "R-10061436",
+      "title": "Manufacturing Engineering & Project Manager",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Project---Manufacturing-Engineer_R-10061436"
+    },
+    {
+      "id": "R-10060717",
+      "title": "Product Marketing - Automotive SoCs",
+      "location": "Austin (Oakhill, Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Product-Marketing---Automotive-SoCs_R-10060717"
+    },
+    {
+      "id": "R-10061726",
+      "title": "Distribution Business Manager",
+      "location": "USA (home based)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/USA-home-based/Distribution-Business-Manager_R-10061726"
+    },
+    {
+      "id": "R-10061560",
+      "title": "Hardware Design Architect -  DevOps R&D IT",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Hardware-Design-Architect----DevOps-R-D-IT_R-10061560"
+    },
+    {
+      "id": "R-10061732",
+      "title": "Design Verification Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Design-Verification-Engineer_R-10061732"
+    },
+    {
+      "id": "R-10061744",
+      "title": "Intern (f/m/d) RF Engineering",
+      "location": "Hamburg",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/Intern--f-m-d--RF-Engineering_R-10061744"
+    },
+    {
+      "id": "R-10060540",
+      "title": "Senior Program Manager - Advanced Power System",
+      "location": "Seoul (Jung-gu)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Seoul-Jung-gu/Senior-Program-Manager---Advanced-Power-System_R-10060540-1"
+    },
+    {
+      "id": "R-10061476",
+      "title": "Sr. Customer Application Support",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Sr-Customer-Application-Support_R-10061476"
+    },
+    {
+      "id": "R-10061712",
+      "title": "Principal Wireless Systems Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Principal-Wireless-Systems-Engineer_R-10061712"
+    },
+    {
+      "id": "R-10061715",
+      "title": "Synthesis & Front-End Implementation Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Synthesis---Front-End-Implementation-Engineer_R-10061715"
+    },
+    {
+      "id": "R-10061347",
+      "title": "Corporate Forecasting Manager – Oracle EPM",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Corporate-Forecasting-Manager---Oracle-EPM_R-10061347-1"
+    },
+    {
+      "id": "R-10061209",
+      "title": "Director of Engineering – ASIC Design",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Director-of-Engineering---ASIC---SoC-Architecture---Design_R-10061209"
+    },
+    {
+      "id": "R-10061602",
+      "title": "Facilities HVAC/Mechanical O&M Technician",
+      "location": "Chandler (Office)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Office/Facilities-HVAC-Mechanical-O-M-Technician_R-10061602"
+    },
+    {
+      "id": "R-10061578",
+      "title": "Senior IT Business Analyst – Web Analytics",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Senior-IT-Business-Analyst---Web-Analytics_R-10061578"
+    },
+    {
+      "id": "R-10061571",
+      "title": "Splunk - Service and Architecture Lead",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Splunk---Service-and-Architecture-Lead_R-10061571"
+    },
+    {
+      "id": "R-10061442",
+      "title": "Customer Application Engineer",
+      "location": "3 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Customer-Application-Engineer_R-10061442"
+    },
+    {
+      "id": "R-10061561",
+      "title": "IT Teamlead -  LDAP Services",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/IT-Teamlead----LDAP-Services_R-10061561"
+    },
+    {
+      "id": "R-10061456",
+      "title": "Sr. Manager, Modem Systems",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Sr-Manager--Modem-Systems_R-10061456"
+    },
+    {
+      "id": "R-10061338",
+      "title": "AI/ML driven ASIC Design and Implementation Principal Automation Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Principal-ASIC-Design-and-Implementation-Automation-Engineer_R-10061338"
+    },
+    {
+      "id": "R-10059496",
+      "title": "DSP Architect",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/DSP-Architect_R-10059496"
+    },
+    {
+      "id": "R-10061567",
+      "title": "IT Data Engineer - R&D IT",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/IT-Data-Engineer---R-D-IT_R-10061567"
+    },
+    {
+      "id": "R-10060626",
+      "title": "Senior Digital IC designer",
+      "location": "Catania",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/Senior-Digital-IC-designer_R-10060626-1"
+    },
+    {
+      "id": "R-10061573",
+      "title": "Connectivity - Service and Ops Lead",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Connectivity---Service-and-Ops-Lead_R-10061573"
+    },
+    {
+      "id": "R-10061579",
+      "title": "IT Cloud and AIOps Engineer",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/IT-Cloud-and-AIOps-Engineer_R-10061579"
+    },
+    {
+      "id": "R-10061575",
+      "title": "M365 Sharepoint & Copilot Engineer",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/M365-Sharepoint---Copilot-Engineer_R-10061575"
+    },
+    {
+      "id": "R-10061577",
+      "title": "WPS - Principal Engineer (Intune, SCCM, VDI, Imaging)",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/WPS---Principal-Engineer--Intune--SCCM--VDI--Imaging-_R-10061577"
+    },
+    {
+      "id": "R-10061585",
+      "title": "WPS - Senior Engineer (Intune, SCCM, VDI, Imaging)",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/WPS---Senior-Engineer--Intune--SCCM--VDI--Imaging-_R-10061585"
+    },
+    {
+      "id": "R-10061550",
+      "title": "Senior Software Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Senior-Software-Engineer_R-10061550"
+    },
+    {
+      "id": "R-10061632",
+      "title": "Business Distribution Manager",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Business-Distribution-Manager_R-10061632"
+    },
+    {
+      "id": "R-10061546",
+      "title": "Senior Data Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Senior-Data-Engineer_R-10061546"
+    },
+    {
+      "id": "R-10061545",
+      "title": "Senior Software Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Senior-Software-Engineer_R-10061545"
+    },
+    {
+      "id": "R-10061547",
+      "title": "RPA Business Analyst",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/RPA-Business-Analyst_R-10061547"
+    },
+    {
+      "id": "R-10061551",
+      "title": "AI & BI Enablement",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/AI---BI-Enablement_R-10061551-1"
+    },
+    {
+      "id": "R-10061552",
+      "title": "AI & BI Enablement",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/AI---BI-Enablement_R-10061552"
+    },
+    {
+      "id": "R-10061554",
+      "title": "Software Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Software-Engineer_R-10061554"
+    },
+    {
+      "id": "R-10061555",
+      "title": "AI Platform Dev Ops Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/AI-Platform-Dev-Ops-Engineer_R-10061555"
+    },
+    {
+      "id": "R-10061558",
+      "title": "Business Process Expert (BPE) Quality Applications",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Business-Process-Expert--BPE--Quality-Applications_R-10061558"
+    },
+    {
+      "id": "R-10061321",
+      "title": "Senior ASIC Design Engineer",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/Senior-ASIC-Design-Engineer_R-10061321-1"
+    },
+    {
+      "id": "R-10061459",
+      "title": "Semiconductor Maintenance Technician – Cleans/Diffusion",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Cleans-Diffusion_R-10061459-1"
+    },
+    {
+      "id": "R-10061402",
+      "title": "Senior Director Functional Safety",
+      "location": "5 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Oakhill-Office/Senior-Director-Functional-Safety_R-10061402"
+    },
+    {
+      "id": "R-10061529",
+      "title": "Senior Hardware ASIC Arch/Design Engineer",
+      "location": "Hyderabad",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hyderabad/Senior-Hardware-ASIC-Arch-Design-Engineer_R-10061529"
+    },
+    {
+      "id": "R-10061512",
+      "title": "AI Software Engineer",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/AI-Software-Engineer_R-10061512"
+    },
+    {
+      "id": "R-10061513",
+      "title": "AI Software Engineer",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/AI-Software-Engineer_R-10061513"
+    },
+    {
+      "id": "R-10061518",
+      "title": "Senior AI Software Engineer",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Senior-AI-Software-Engineer_R-10061518"
+    },
+    {
+      "id": "R-10061416",
+      "title": "Business Distribution Manager - West Coast",
+      "location": "USA (home based)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/USA-home-based/Business-Distribution-Manager---Bay-Area_R-10061416"
+    },
+    {
+      "id": "R-10061332",
+      "title": "Safety product development F/M",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Safety-product-development-F-M_R-10061332"
+    },
+    {
+      "id": "R-10061532",
+      "title": "Master Thesis RF Engineering (f/m/d)",
+      "location": "Hamburg",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hamburg/Master-Thesis-RF-Engineering--f-m-d-_R-10061532"
+    },
+    {
+      "id": "R-10061278",
+      "title": "MCU SoC R&D Director",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/MCU-SoC-R-D-Director_R-10061278-1"
+    },
+    {
+      "id": "R-10061440",
+      "title": "Internal Auditor",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Internal-Auditor_R-10061440-1"
+    },
+    {
+      "id": "R-10061379",
+      "title": "SW Manager – Zephyr & MCU Platform Software",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/SW-Manager---Zephyr---MCU-Platform-Software_R-10061379"
+    },
+    {
+      "id": "R-10061485",
+      "title": "Sales Account Manager – Automotive",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Sales-Account-Manager---Automotive_R-10061485"
+    },
+    {
+      "id": "R-10061369",
+      "title": "Physical Failure Analysis Engineer",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Physical-Failure-Analysis-Engineer_R-10061369-1"
+    },
+    {
+      "id": "R-10061372",
+      "title": "Failure Analysis (FA) Engineer",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Failure-Analysis--FA--Engineer_R-10061372-1"
+    },
+    {
+      "id": "R-10061385",
+      "title": "Failure Analysis Software Development Engineer",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Failure-Analysis-Software-Development-Engineer_R-10061385"
+    },
+    {
+      "id": "R-10061383",
+      "title": "Failure Analysis Hardware Validation Engineer",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Failure-Analysis-Hardware-Validation-Engineer_R-10061383-1"
+    },
+    {
+      "id": "R-10061364",
+      "title": "Failure Analysis Engineer",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Failure-Analysis-Engineer_R-10061364-1"
+    },
+    {
+      "id": "R-10061367",
+      "title": "Reliability Qualification Engineer",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Reliability-Qualification-Engineer_R-10061367"
+    },
+    {
+      "id": "R-10061257",
+      "title": "SCE Product Engineer (Staff / Senior)",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/SCE-Product-Engineer--Staff---Senior-_R-10061257-1"
+    },
+    {
+      "id": "R-10061232",
+      "title": "倉儲作業員",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/_R-10061232-1"
+    },
+    {
+      "id": "R-10061271",
+      "title": "Principal Analog IP Design Lead - MCU",
+      "location": "Catania",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/Principal-Analog-IP-Design-Lead---MCU_R-10061271-1"
+    },
+    {
+      "id": "R-10061284",
+      "title": "Facilities O&M Supervisor - Nights",
+      "location": "Chandler (Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Chandler-Manufacturing/Facilities-O-M-Supervisor---Nights_R-10061284"
+    },
+    {
+      "id": "R-10061277",
+      "title": "SoC Digital Physical Design Engineer - MCU",
+      "location": "Catania",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Catania/SoC-Digital-Physical-Design-Engineer---MCU_R-10061277"
+    },
+    {
+      "id": "R-10061415",
+      "title": "Distribution Business Manager - US East Coast",
+      "location": "USA (home based)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/USA-home-based/Distribution-Business-Manager---US-East-Coast_R-10061415"
+    },
+    {
+      "id": "R-10061411",
+      "title": "Distribution Business Manager - Central US",
+      "location": "USA (home based)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/USA-home-based/Distribution-Business-Manager---Central-US_R-10061411"
+    },
+    {
+      "id": "R-10060740",
+      "title": "2025-2026 NCG_Service Engineer",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/XMLNAME-2025-2026-NCG-Service-Engineer_R-10060740-1"
+    },
+    {
+      "id": "R-10061010",
+      "title": "倉儲作業員",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/_R-10061010-1"
+    },
+    {
+      "id": "R-10061041",
+      "title": "倉儲作業員",
+      "location": "Kaohsiung",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kaohsiung/_R-10061041-1"
+    },
+    {
+      "id": "R-10059953",
+      "title": "Etch Equipment Maintenance Technician - Nights 2",
+      "location": "Austin (Ed Bluestein, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Manufacturing/Etch-Equipment-Maintenance-Technician---Days-2_R-10059953"
+    },
+    {
+      "id": "R-10061237",
+      "title": "Senior Mechanical Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Senior-Mechanical-Engineer_R-10061237"
+    },
+    {
+      "id": "R-10061125",
+      "title": "2026 Campus - System Application Engineer",
+      "location": "Tianjin (Weiwu)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Weiwu/XMLNAME-2026-Campus---System-Application-Engineer_R-10061125"
+    },
+    {
+      "id": "R-10060587",
+      "title": "SoC Front End Design Engr",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/SoC-Front-End-Design-Engr_R-10060587"
+    },
+    {
+      "id": "R-10060589",
+      "title": "Design Engr",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Design-Engr_R-10060589"
+    },
+    {
+      "id": "R-10060509",
+      "title": "Principle/Staff STA Engineer",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Principle-Staff-STA-Engineer_R-10060509"
+    },
+    {
+      "id": "R-10060967",
+      "title": "Applying for candidate database TTTech Auto part of NXP",
+      "location": "11 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Novi-Sad/Applying-for-candidate-database-TTTech-Auto-part-of-NXP_R-10060967"
+    },
+    {
+      "id": "R-10060783",
+      "title": "Technician",
+      "location": "Nijmegen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Nijmegen/Technician_R-10060783-1"
+    },
+    {
+      "id": "R-10060911",
+      "title": "Project Manager",
+      "location": "Seongnam",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Seongnam/Project-Manager_R-10060911-1"
+    },
+    {
+      "id": "R-10059685",
+      "title": "Test infrastructure developer - Intern",
+      "location": "Brno",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Brno/Test-infrastructure-developer---Intern_R-10059685"
+    },
+    {
+      "id": "R-10014465",
+      "title": "Candidature Spontanée / Spontaneous Application – NXP Semiconductors France",
+      "location": "5 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Toulouse/General-Job-Application-Candidature-Spontane_R-10014465"
+    },
+    {
+      "id": "R-10060691",
+      "title": "NXP Thailand [2026 Internship Program]",
+      "location": "Bangkok",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangkok/NXP-Thailand--2026-Internship-Program_R-10060691"
+    },
+    {
+      "id": "R-10059846",
+      "title": "Senior Foundry Manager",
+      "location": "Hsinchu",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/Senior-Foundry-Manager_R-10059846"
+    },
+    {
+      "id": "R-10060462",
+      "title": "DIGITAL PHYSICAL DESIGN-G2",
+      "location": "Pune",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Pune/DIGITAL-PHYSICAL-DESIGN-G2_R-10060462"
+    },
+    {
+      "id": "R-10060374",
+      "title": "2026 Campus- MPU Systems Engineer Intern",
+      "location": "Tianjin (Weiwu)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Weiwu/XMLNAME-2026-Campus--MPU-Systems-Engineer-Intern_R-10060374"
+    },
+    {
+      "id": "R-10060430",
+      "title": "2026 Intern - MCU Software Development",
+      "location": "Shanghai (Pudong)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-Pudong/XMLNAME-2026-Intern---MCU-Software-Development_R-10060430"
+    },
+    {
+      "id": "R-10058139",
+      "title": "Automotive E/E System Architect",
+      "location": "San Jose (Rose Orchard)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/San-Jose-Rose-Orchard/Automotive-E-E-System-architect_R-10058139-1"
+    },
+    {
+      "id": "R-10059962",
+      "title": "Gas and Chemicals Coordinator",
+      "location": "Nijmegen",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Nijmegen/Gas-and-Chemicals-Coordinator_R-10059962-1"
+    },
+    {
+      "id": "R-10057261",
+      "title": "Metrology Equipment Maintenance Technician",
+      "location": "Austin (Ed Bluestein, Manufacturing)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Austin-Ed-Bluestein-Manufacturing/Metrology-Equipment-Maintenance-Technician_R-10057261-1"
+    },
+    {
+      "id": "R-10060058",
+      "title": "Senior Design Engineer",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Senior-Design-Engineer_R-10060058"
+    },
+    {
+      "id": "R-10059411",
+      "title": "2026 Intern - Packaging Engineer",
+      "location": "Tianjin (Xinghua)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Xinghua/XMLNAME-2025-Intern---Packaging-Engineer_R-10059411"
+    },
+    {
+      "id": "R-10059865",
+      "title": "2026 Intern - Information System Engineer",
+      "location": "Tianjin (Xinghua)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Xinghua/XMLNAME-2026-Intern---Information-System-Engineer_R-10059865-1"
+    },
+    {
+      "id": "R-10059867",
+      "title": "2026 Intern - Information System Engineer",
+      "location": "Tianjin (Xinghua)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Xinghua/XMLNAME-2026-Intern---Information-System-Engineer_R-10059867"
+    },
+    {
+      "id": "R-10059847",
+      "title": "Senior Foundry Manager",
+      "location": "Hsinchu",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/Senior-Foundry-Manager_R-10059847"
+    },
+    {
+      "id": "R-10054983",
+      "title": "Software Internship – Automotive Security Firmware",
+      "location": "Bucharest",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/Software-Internship---Automotive-Security-Firmware_R-10054983-1"
+    },
+    {
+      "id": "R-10058875",
+      "title": "2026 Intern - HR",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/XMLNAME-2026-Intern---HR_R-10058875"
+    },
+    {
+      "id": "R-10052538",
+      "title": "Technical Internship  (2026)",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538"
+    },
+    {
+      "id": "R-10058837",
+      "title": "2026 Intern - Product Master Data Maintenance",
+      "location": "Tianjin (Xinghua)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Xinghua/XMLNAME-2026-Intern---Product-Master-Data-Maintenance_R-10058837"
+    },
+    {
+      "id": "R-10058841",
+      "title": "2026 Intern - Product Test Engineer",
+      "location": "Tianjin (Weiwu)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Weiwu/XMLNAME-2026-Intern---Product-Test-Engineer_R-10058841"
+    },
+    {
+      "id": "R-10059174",
+      "title": "2026 Campus - SoC DFT Engineer",
+      "location": "Tianjin (Teda)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Teda/XMLNAME-2026-Campus-SOC-DFT-Engineer_R-10059174"
+    },
+    {
+      "id": "R-10059388",
+      "title": "2025 Intern - Packaging Engineer",
+      "location": "Tianjin (Xinghua)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Xinghua/XMLNAME-2025-Intern---Packaging-Engineer_R-10059388"
+    },
+    {
+      "id": "R-10059118",
+      "title": "2026 Campus - Facility Engineer",
+      "location": "Tianjin (Xinghua)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Xinghua/Facility-Engineer_R-10059118"
+    },
+    {
+      "id": "R-10059125",
+      "title": "2026 Campus - Hardware Validation Engineer",
+      "location": "Suzhou",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Suzhou/XMLNAME-2026-Campus---Hardware-Validation-Engineer_R-10059125-1"
+    },
+    {
+      "id": "R-10059293",
+      "title": "2026 Campus - MPU System Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Weiwu/XMLNAME-2026-Campus---MPU-System-Engineer_R-10059293"
+    },
+    {
+      "id": "R-10059295",
+      "title": "2026 Campus- MCU Systems Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Weiwu/XMLNAME-2026-Campus--MCU-Systems-Engineer_R-10059295"
+    },
+    {
+      "id": "R-10059354",
+      "title": "Assembly Backend Technician (System & Tooling )",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Assembly-Backend-Technician--System---Tooling--_R-10059354"
+    },
+    {
+      "id": "R-10059356",
+      "title": "Die Attach Equipment Technician",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Die-Attach-Equipment-Technician_R-10059356"
+    },
+    {
+      "id": "R-10059182",
+      "title": "2026 Campus - SoC Backend Design Engineer",
+      "location": "Tianjin (Teda)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Teda/XMLNAME-2026-Campus---SoC-Backend-Design-Engineer_R-10059182"
+    },
+    {
+      "id": "R-10059243",
+      "title": "2026 Campus - Software Engineer - Wireless",
+      "location": "Shanghai (Pudong)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-Pudong/XMLNAME-2026-Campus---Software-Engineer---Wireless_R-10059243"
+    },
+    {
+      "id": "R-10059245",
+      "title": "2026 Campus - Software Engineer - Wireless",
+      "location": "Shanghai (Pudong)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-Pudong/XMLNAME-2026-Campus---Software-Engineer---Wireless_R-10059245"
+    },
+    {
+      "id": "R-10059290",
+      "title": "2026 Campus - System/Application Engineer",
+      "location": "Shanghai (Pudong)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-Pudong/XMLNAME-2026-Campus---System-Application-Engineer_R-10059290"
+    },
+    {
+      "id": "R-10059146",
+      "title": "2026 Campus - Emulation Engineer",
+      "location": "Tianjin (Teda)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Tianjin-Teda/XMLNAME-2026-Campus---Emulation-Engineer_R-10059146"
+    },
+    {
+      "id": "R-10059080",
+      "title": "2026 Campus - SoC Design Verification - MCU/MPU",
+      "location": "Suzhou",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Suzhou/XMLNAME-2026-Campus---SoC-Design-Verification---MCU-MPU_R-10059080"
+    },
+    {
+      "id": "R-10059110",
+      "title": "2026 Campus - Emulation Engineer",
+      "location": "Suzhou",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Suzhou/XMLNAME-2026-Campus---Emulation-Engineer_R-10059110"
+    },
+    {
+      "id": "R-10059121",
+      "title": "2026 Campus - SoC DFT Engineer",
+      "location": "Shanghai (Pudong)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Shanghai-Pudong/XMLNAME-2026-Campus---SoC-DFT-Engineer_R-10059121"
+    },
+    {
+      "id": "R-10059119",
+      "title": "2026 Campus - Analog/Mixed-Signal Design Engineer",
+      "location": "Suzhou",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Suzhou/XMLNAME-2026-Campus---Analog-Mixed-Signal-Design-Engineer_R-10059119"
+    },
+    {
+      "id": "R-10057703",
+      "title": "Data Integration Engineer TIBCO",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Data-Integration-Engineer-TIBCO_R-10057703"
+    },
+    {
+      "id": "R-10058011",
+      "title": "Senior FAE-Microprocessors (MPU), Home Based East Coast",
+      "location": "USA (home based)",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/USA-home-based/Senior-FAE-Microprocessors--MPU---Home-Based-East-Coast_R-10058011"
+    },
+    {
+      "id": "R-10058550",
+      "title": "STA methodology engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/STA-methodology-engineer_R-10058550"
+    },
+    {
+      "id": "R-10058528",
+      "title": "Business Development Manager - ADAS/AD",
+      "location": "4 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Business-Development-Manager---ADAS-AD_R-10058528"
+    },
+    {
+      "id": "R-10058419",
+      "title": "Principal Board Solutions Design Engineer",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Principal-Board-Solutions-Design-Engineer_R-10058419"
+    },
+    {
+      "id": "R-10057710",
+      "title": "Data Integration Engineer",
+      "location": "Bangalore",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Bangalore/Data-Integration-Engineer_R-10057710-1"
+    },
+    {
+      "id": "R-10057883",
+      "title": "Semiconductor Assembler",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Semiconductor-Assembler_R-10057883"
+    },
+    {
+      "id": "R-10057758",
+      "title": "Die Attach Equipment Technician",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Die-Attach-Equipment-Technician_R-10057758"
+    },
+    {
+      "id": "R-10057707",
+      "title": "Process and Equipment Tech",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Process-and-Equipment-Tech_R-10057707"
+    },
+    {
+      "id": "R-10057505",
+      "title": "Linux and UNIX Architect / SME",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Linux-and-UNIX-Architect---SME_R-10057505"
+    },
+    {
+      "id": "R-10057504",
+      "title": "Windows and Virtualization System Architect / SME",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Windows-and-Virtualization-System-Architect---SME_R-10057504"
+    },
+    {
+      "id": "R-10057508",
+      "title": "Windows and Virtualization System SME",
+      "location": "Noida",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Noida/Windows-and-Virtualization-System-SME_R-10057508"
+    },
+    {
+      "id": "R-10056953",
+      "title": "Product Owner (Web Technology)",
+      "location": "Guadalajara",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Guadalajara/Product-Owner--Web-Technology-_R-10056953"
+    },
+    {
+      "id": "R-10029317",
+      "title": "[WiFi] Software Engineer / Senior Software Engineer / Principal Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/XMLNAME--WiFi--Software-Engineer---Senior-Software-Engineer---Principal-Software-Engineer_R-10029317"
+    },
+    {
+      "id": "R-10029318",
+      "title": "[Bluetooth] Software/Senior Software/Principal Software Engineer",
+      "location": "2 Locations",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Hsinchu/XMLNAME--Bluetooth--Software-Senior-Software-Principal-Software-Engineer_R-10029318"
+    },
+    {
+      "id": "R-10021437",
+      "title": "New College Graduate - Engineering",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/New-College-Graduate---Engineering_R-10021437"
+    },
+    {
+      "id": "R-10030165",
+      "title": "Student Internships - Initiative Application (m/f/d)",
+      "location": "Gratkorn",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Gratkorn/Student-Opportunities---Initiative-Application--m-f-d-_R-10030165"
+    },
+    {
+      "id": "R-10005472",
+      "title": "Intern (Engineering & IT)",
+      "location": "Kuala Lumpur",
+      "department": null,
+      "updated_at": "Posted 30+ Days Ago",
+      "url": "https://nxp.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Intern--Engineering-_R-10005472"
+    }
+  ]
+}
