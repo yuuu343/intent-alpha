@@ -66,10 +66,11 @@ for (const c of fetchedCompanies) {
 const heatmapRows = fetchedCompanies.map((c) => ({ id: c.id, label: c.data.name }));
 const heatmapCols = THEMES.map((t) => ({ id: t.slug, label: t.name }));
 
-// Initial server-side page render: first 50 rows. The full ~12k-job dataset
-// is shipped via /explore-data.json (a separate static endpoint) so the
-// initial HTML stays light. JS fetches that on load and takes over the
-// table + heatmap on filter changes.
+// Initial server-side page render: first 50 rows by date desc (matches the
+// JS default sort so the table doesn't visibly reorder when /explore-data.json
+// resolves). The full ~12k-job dataset is shipped via /explore-data.json
+// (a separate static endpoint) so the initial HTML stays light.
+allJobs.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 const PAGE_SIZE = 50;
 const initialPageJobs = allJobs.slice(0, PAGE_SIZE);
 const totalJobs = allJobs.length;
@@ -184,11 +185,11 @@ const fmtDate = (s: string | null) => s ? s.replace('.json', '').replaceAll('-',
     <table class="explore-table">
       <thead>
         <tr>
-          <th class="col-title">Title (→ original posting)</th>
-          <th class="col-company">Company</th>
-          <th class="col-dept">Department</th>
-          <th class="col-loc">Location</th>
-          <th class="col-date">Updated</th>
+          <th class="col-title" data-sort="title" tabindex="0" role="button" aria-sort="none">Title (→ original posting)</th>
+          <th class="col-company" data-sort="companyName" tabindex="0" role="button" aria-sort="none">Company</th>
+          <th class="col-dept" data-sort="dept" tabindex="0" role="button" aria-sort="none">Department</th>
+          <th class="col-loc" data-sort="location" tabindex="0" role="button" aria-sort="none">Location</th>
+          <th class="col-date" data-sort="date" tabindex="0" role="button" aria-sort="descending">Updated</th>
         </tr>
       </thead>
       <tbody id="explore-tbody">
@@ -244,7 +245,8 @@ const fmtDate = (s: string | null) => s ? s.replace('.json', '').replaceAll('-',
     let raw = null;
     let themes = null;
     let themeMap = null;
-    const state = { company: '', theme: '', dept: '', title: '', page: 0 };
+    // sort.col is one of: title, companyName, dept, location, date (default: date desc)
+    const state = { company: '', theme: '', dept: '', title: '', page: 0, sort: { col: 'date', dir: 'desc' } };
 
     function escape(s) {
       return String(s).replace(/[&<>"']/g, function (c) { return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]; });
@@ -264,9 +266,24 @@ const fmtDate = (s: string | null) => s ? s.replace('.json', '').replaceAll('-',
       });
     }
 
+    function applySort(arr) {
+      const col = state.sort.col;
+      const sign = state.sort.dir === 'desc' ? -1 : 1;
+      if (!col) return arr;
+      const sorted = arr.slice();
+      sorted.sort(function (a, b) {
+        const av = (a[col] || '').toString();
+        const bv = (b[col] || '').toString();
+        if (av < bv) return -1 * sign;
+        if (av > bv) return 1 * sign;
+        return 0;
+      });
+      return sorted;
+    }
+
     function render() {
       if (!raw) return;
-      const filtered = applyFilters();
+      const filtered = applySort(applyFilters());
       renderTable(filtered);
       renderHeatmap(filtered);
     }
@@ -368,6 +385,29 @@ const fmtDate = (s: string | null) => s ? s.replace('.json', '').replaceAll('-',
           state.title = p.title || '';
           state.page = 0;
           syncControls(); render();
+        });
+      });
+
+      // Sort: click a th with data-sort to toggle/select. Updates aria-sort on
+      // every th so CSS can render the active arrow.
+      document.querySelectorAll('th[data-sort]').forEach(function (th) {
+        function activate() {
+          const col = th.getAttribute('data-sort');
+          if (state.sort.col === col) {
+            state.sort.dir = state.sort.dir === 'asc' ? 'desc' : 'asc';
+          } else {
+            state.sort.col = col;
+            state.sort.dir = col === 'date' ? 'desc' : 'asc';
+          }
+          document.querySelectorAll('th[data-sort]').forEach(function (other) {
+            other.setAttribute('aria-sort', other === th ? (state.sort.dir === 'asc' ? 'ascending' : 'descending') : 'none');
+          });
+          state.page = 0;
+          render();
+        }
+        th.addEventListener('click', activate);
+        th.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); activate(); }
         });
       });
     }
@@ -499,7 +539,28 @@ const fmtDate = (s: string | null) => s ? s.replace('.json', '').replaceAll('-',
     padding: 0.55rem 0.5rem;
     border-bottom: 1px solid var(--rule);
     background: var(--bg);
+    transition: color 180ms ease;
   }
+  .explore-table th[data-sort] {
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    padding-right: 1.4rem;
+  }
+  .explore-table th[data-sort]:hover,
+  .explore-table th[data-sort]:focus-visible { color: var(--accent); outline: none; }
+  .explore-table th[data-sort]::after {
+    content: "";
+    position: absolute;
+    right: 0.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.85em;
+    opacity: 0.35;
+    color: var(--fg-faint);
+  }
+  .explore-table th[aria-sort="ascending"]::after { content: "↑"; opacity: 1; color: var(--accent); }
+  .explore-table th[aria-sort="descending"]::after { content: "↓"; opacity: 1; color: var(--accent); }
   .explore-table td {
     padding: 0.6rem 0.5rem;
     border-bottom: 1px solid var(--rule-soft);
