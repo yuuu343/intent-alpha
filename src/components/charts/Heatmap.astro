@@ -1,0 +1,181 @@
+---
+// Heatmap — sparse 2D matrix rendered as cream-paper SVG with vermillion-opacity cells.
+// Hand-crafted (no D3): styled to sit alongside Fraunces hero text and equation
+// watermarks without breaking the editorial register.
+//
+// Color: vermillion fill, opacity scales with value (gamma-corrected for perception).
+// Empty cells: hairline only. No categorical palette — register stays single-accent.
+//
+// Cells are wrapped in <a> if cellHref is provided; otherwise pure SVG.
+
+interface Cell {
+  row: string;
+  col: string;
+  value: number;
+}
+
+interface Item {
+  id: string;
+  label: string;
+  href?: string;
+}
+
+interface Props {
+  rows: Item[];
+  cols: Item[];
+  cells: Cell[];
+  cellHref?: (rowId: string, colId: string) => string | undefined;
+  cellTitle?: (rowId: string, colId: string, value: number) => string;
+  caption?: string;
+}
+
+const { rows, cols, cells, cellHref, cellTitle, caption } = Astro.props;
+
+const cellMap = new Map<string, number>();
+for (const c of cells) cellMap.set(`${c.row}|${c.col}`, c.value);
+
+const maxVal = Math.max(1, ...cells.map((c) => c.value));
+
+// Layout constants (in viewBox units; SVG scales to container width).
+const COL_W = 56;
+const ROW_H = 20;
+const COL_LABEL_H = 90;
+const ROW_LABEL_W = 130;
+const PAD_R = 8;
+const PAD_B = 8;
+
+const gridW = cols.length * COL_W;
+const gridH = rows.length * ROW_H;
+const totalW = ROW_LABEL_W + gridW + PAD_R;
+const totalH = COL_LABEL_H + gridH + PAD_B;
+
+function opacity(v: number) {
+  if (v === 0) return 0;
+  const norm = v / maxVal;
+  return 0.08 + 0.88 * Math.pow(norm, 0.55);
+}
+---
+<figure class="heatmap-fig">
+  <svg class="heatmap" viewBox={`0 0 ${totalW} ${totalH}`} preserveAspectRatio="xMidYMid meet" role="img" aria-label={caption ?? 'Hiring concentration heatmap'}>
+    {/* Column header rules: thin underline beneath labels */}
+    <line class="hm-rule" x1={ROW_LABEL_W} y1={COL_LABEL_H - 0.5} x2={ROW_LABEL_W + gridW} y2={COL_LABEL_H - 0.5}/>
+
+    {/* Column labels — themes, rotated -45deg */}
+    {cols.map((col, ci) => {
+      const x = ROW_LABEL_W + ci * COL_W + COL_W / 2;
+      const y = COL_LABEL_H - 6;
+      return (
+        <g transform={`translate(${x}, ${y}) rotate(-45)`}>
+          <text class="hm-col-label" text-anchor="start">{col.label}</text>
+        </g>
+      );
+    })}
+
+    {/* Row labels — companies */}
+    {rows.map((row, ri) => {
+      const x = ROW_LABEL_W - 6;
+      const y = COL_LABEL_H + ri * ROW_H + ROW_H * 0.7;
+      return (
+        <text class="hm-row-label" x={x} y={y} text-anchor="end">{row.label}</text>
+      );
+    })}
+
+    {/* Cells */}
+    {rows.map((row, ri) => cols.map((col, ci) => {
+      const v = cellMap.get(`${row.id}|${col.id}`) ?? 0;
+      const x = ROW_LABEL_W + ci * COL_W;
+      const y = COL_LABEL_H + ri * ROW_H;
+      const op = opacity(v);
+      const href = cellHref?.(row.id, col.id);
+      const title = cellTitle?.(row.id, col.id, v) ?? `${row.label} · ${col.label}: ${v}`;
+      const cell = (
+        <g class="hm-cell" data-row={row.id} data-col={col.id}>
+          <rect class="hm-cell-bg" x={x} y={y} width={COL_W} height={ROW_H} style={`fill-opacity: ${op};`}/>
+          <text class="hm-cell-text" x={x + COL_W / 2} y={y + ROW_H * 0.7} text-anchor="middle" style={v === 0 ? 'display: none;' : ''}>{v}</text>
+          <title>{title}</title>
+        </g>
+      );
+      return href ? <a href={href}>{cell}</a> : cell;
+    }))}
+
+    {/* Grid lines (above cells so they always read) */}
+    {Array.from({ length: rows.length + 1 }, (_, i) => (
+      <line class="hm-grid" x1={ROW_LABEL_W} x2={ROW_LABEL_W + gridW} y1={COL_LABEL_H + i * ROW_H} y2={COL_LABEL_H + i * ROW_H}/>
+    ))}
+    {Array.from({ length: cols.length + 1 }, (_, i) => (
+      <line class="hm-grid" x1={ROW_LABEL_W + i * COL_W} x2={ROW_LABEL_W + i * COL_W} y1={COL_LABEL_H} y2={COL_LABEL_H + gridH}/>
+    ))}
+  </svg>
+  {caption && <figcaption class="heatmap-caption">{caption}</figcaption>}
+</figure>
+
+<style>
+  .heatmap-fig {
+    margin: 0;
+    overflow-x: auto;
+  }
+  .heatmap {
+    width: 100%;
+    height: auto;
+    min-width: 600px;
+    color: var(--fg);
+    display: block;
+  }
+  .hm-cell-bg {
+    fill: var(--accent);
+    transition: fill-opacity 180ms ease;
+  }
+  .heatmap a:hover .hm-cell-bg {
+    fill-opacity: 1 !important;
+  }
+  .heatmap a:focus-visible .hm-cell-bg {
+    fill-opacity: 1 !important;
+    stroke: var(--fg);
+    stroke-width: 1;
+  }
+  .hm-cell-text {
+    font-family: var(--font-mono);
+    font-size: 8.5px;
+    font-weight: 500;
+    fill: var(--fg);
+    pointer-events: none;
+    transition: fill 180ms ease;
+  }
+  .heatmap a:hover .hm-cell-text {
+    fill: var(--bg) !important;
+  }
+  .hm-row-label {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 11px;
+    font-variation-settings: "opsz" 60, "SOFT" 60, "WONK" 1;
+    fill: var(--fg-soft);
+  }
+  .hm-col-label {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 12px;
+    font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+    fill: var(--fg);
+  }
+  .hm-grid {
+    stroke: var(--rule-soft);
+    stroke-width: 0.5;
+    vector-effect: non-scaling-stroke;
+    pointer-events: none;
+  }
+  .hm-rule {
+    stroke: var(--rule);
+    stroke-width: 0.7;
+    vector-effect: non-scaling-stroke;
+  }
+  .heatmap-caption {
+    margin-top: 0.85rem;
+    font-family: var(--font-mono);
+    font-size: var(--fs-meta);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--fg-muted);
+    text-align: center;
+  }
+</style>

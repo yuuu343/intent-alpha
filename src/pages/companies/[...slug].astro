@@ -1,6 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import BarChart from '../../components/charts/BarChart.astro';
+import { THEMES } from '../../data/themes';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -19,27 +21,46 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft && d
 
 const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 
-// ---- B: read the most recent snapshot at build time for live posting / fetch stats.
-function loadCompanyStats(slug: string) {
+// ---- B: read the most recent snapshot at build time for stats + breakdown viz.
+function loadCompanyData(slug: string) {
   const dir = path.resolve(process.cwd(), 'data', 'snapshots', slug);
-  if (!fs.existsSync(dir)) return { postings: null, lastFetch: null } as const;
+  if (!fs.existsSync(dir)) return null;
   const files = fs.readdirSync(dir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
-  if (files.length === 0) return { postings: null, lastFetch: null } as const;
+  if (files.length === 0) return null;
   const latest = files[files.length - 1];
   try {
-    const raw = fs.readFileSync(path.join(dir, latest), 'utf8');
-    const snap = JSON.parse(raw);
-    const count = typeof snap.count === 'number'
-      ? snap.count
-      : Array.isArray(snap.jobs) ? snap.jobs.length : null;
-    return { postings: count, lastFetch: latest.replace('.json', '').replaceAll('-', '.') };
+    const snap = JSON.parse(fs.readFileSync(path.join(dir, latest), 'utf8'));
+    return { snap, latest };
   } catch {
-    return { postings: null, lastFetch: null } as const;
+    return null;
   }
 }
-const { postings, lastFetch } = loadCompanyStats(company.id);
+type Job = { title?: string; department?: string | null; location?: string | null; updated_at?: string | null; url?: string | null };
+const snapshot = loadCompanyData(company.id);
+const jobs: Job[] = snapshot?.snap?.jobs ?? [];
+const postings = typeof snapshot?.snap?.count === 'number' ? snapshot.snap.count : jobs.length || null;
+const lastFetch = snapshot ? snapshot.latest.replace('.json', '').replaceAll('-', '.') : null;
 const dispatchesCount = articles.length;
 const signalsSum = articles.reduce((s, a) => s + (a.data.signalCount ?? 0), 0);
+
+// Department breakdown (top 12 by count)
+const deptCounts = new Map<string, number>();
+for (const j of jobs) {
+  const d = j.department ?? '(no department)';
+  deptCounts.set(d, (deptCounts.get(d) ?? 0) + 1);
+}
+const topDepts = Array.from(deptCounts.entries())
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 12)
+  .map(([label, value]) => ({ label, value, meta: `${((value / Math.max(jobs.length, 1)) * 100).toFixed(1)}%` }));
+
+// Theme exposure: count of jobs per theme via theme regex on title
+const themeExposure = THEMES.map((t) => ({
+  id: t.slug,
+  label: t.name,
+  value: jobs.filter((j) => t.regex.test(j.title || '')).length,
+  href: `/themes/${t.slug}/`,
+})).filter((x) => x.value > 0).sort((a, b) => b.value - a.value);
 
 // Default equation by AI relevance — soft topical hint when the company isn't
 // the subject of an article yet.
@@ -103,7 +124,33 @@ const host = new URL(company.data.website).host;
     </div>
   </section>
 
-  <div class="section-head">
+  {topDepts.length > 0 && (
+    <>
+      <div class="section-head" style="margin-top: 2rem;">
+        <h2>Department breakdown</h2>
+        <span class="count">{deptCounts.size} departments · top {Math.min(12, deptCounts.size)}</span>
+      </div>
+      <BarChart
+        items={topDepts}
+        caption={`f(department) = roles tagged · share of ${jobs.length.toLocaleString()} open postings`}
+      />
+    </>
+  )}
+
+  {themeExposure.length > 0 && (
+    <>
+      <div class="section-head" style="margin-top: 2.5rem;">
+        <h2>Theme exposure</h2>
+        <span class="count">{themeExposure.length} of {THEMES.length} themes matched</span>
+      </div>
+      <BarChart
+        items={themeExposure}
+        caption={`g(theme) = roles matching theme regex (linked to theme detail)`}
+      />
+    </>
+  )}
+
+  <div class="section-head" style="margin-top: 2.5rem;">
     <h2>Dispatches on {company.data.name}</h2>
     <span class="count">{articles.length} {articles.length === 1 ? 'entry' : 'entries'}</span>
   </div>

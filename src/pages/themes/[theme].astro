@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import BarChart from '../../components/charts/BarChart.astro';
 import { THEMES, THEMES_BY_SLUG } from '../../data/themes';
 
 export async function getStaticPaths() {
@@ -97,20 +98,29 @@ const description = `${t.name} hiring across the AI-relevant roster: ${totalMatc
     by all currently-fetchable open roles for that company.
   </p>
 
+  <BarChart
+    items={rows.map((r) => ({
+      id: r.slug,
+      label: r.name,
+      value: r.matches,
+      href: `/companies/${r.slug}/`,
+      meta: `${(r.share * 100).toFixed(1)}%`,
+    }))}
+    caption={`f(company) = roles matching /${t.regex.source}/`}
+  />
+
+  <div class="section-head" style="margin-top: 2.5rem;">
+    <h2>Sample titles per company</h2>
+    <span class="count">{rows.length} {rows.length === 1 ? 'entry' : 'entries'}</span>
+  </div>
   <div class="list-rows">
     {rows.map((r, i) => (
-      <a class="list-row" href={`/companies/${r.slug}/`} style="grid-template-columns: minmax(0, 14rem) minmax(0, 1fr) 6rem auto;">
+      <a class="list-row" href={`/companies/${r.slug}/`} style="grid-template-columns: minmax(0, 14rem) minmax(0, 1fr) auto;">
         <span class="name">{r.name}</span>
         <span class="desc" style="font-family: var(--font-mono); font-size: 0.78rem; line-height: 1.5;">
-          {r.samples.length > 0 && r.samples[0].title.slice(0, 80)}
+          {r.samples.length > 0 && r.samples[0].title.slice(0, 90)}
         </span>
-        <span class="num" style="text-align: right;">
-          <span style="color: var(--fg);">{r.matches}</span>
-          <span style="color: var(--fg-faint);"> / {r.total}</span>
-        </span>
-        <span class="num" style="text-align: right; color: var(--accent);">
-          {(r.share * 100).toFixed(1)}%
-        </span>
+        <span class="num" style="text-align: right; color: var(--accent);">{r.matches}</span>
       </a>
     ))}
   </div>

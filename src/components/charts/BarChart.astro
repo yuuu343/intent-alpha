@@ -1,0 +1,118 @@
+---
+// BarChart — horizontal bar rows in cream-paper register.
+// Each row: italic Fraunces label, mono value, vermillion bar fill on a
+// faint cream-deep track. Optional href wraps the row as a link.
+//
+// Used by theme detail pages (companies × roles), company detail pages
+// (departments × count + theme exposure × count), and any list view that
+// wants the comparative-magnitude visual on top of textual ranking.
+
+interface Item {
+  id?: string;
+  label: string;
+  value: number;
+  href?: string;
+  meta?: string;
+}
+
+interface Props {
+  items: Item[];
+  caption?: string;
+  valueFormatter?: (v: number) => string;
+  maxValue?: number;
+  labelWidth?: string;
+}
+
+const { items, caption, valueFormatter, maxValue, labelWidth = '14rem' } = Astro.props;
+const fmt = valueFormatter ?? ((v: number) => v.toLocaleString());
+const max = Math.max(maxValue ?? 0, ...items.map((i) => i.value), 1);
+---
+<figure class="bc-fig" style={`--bc-label-w: ${labelWidth};`}>
+  <div class="barchart">
+    {items.map((item) => {
+      const pct = (item.value / max) * 100;
+      const row = (
+        <div class="bc-row">
+          <span class="bc-label">{item.label}</span>
+          <div class="bc-track">
+            <div class="bc-fill" style={`width: ${pct.toFixed(2)}%;`}/>
+          </div>
+          <span class="bc-value">{fmt(item.value)}</span>
+          <span class="bc-meta">{item.meta ?? ''}</span>
+        </div>
+      );
+      return item.href ? <a href={item.href} class="bc-link">{row}</a> : row;
+    })}
+  </div>
+  {caption && <figcaption class="bc-caption">{caption}</figcaption>}
+</figure>
+
+<style>
+  .bc-fig { margin: 0; }
+  .barchart {
+    display: flex;
+    flex-direction: column;
+  }
+  .bc-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  .bc-row {
+    display: grid;
+    grid-template-columns: minmax(0, var(--bc-label-w, 14rem)) 1fr 4rem 3.5rem;
+    align-items: center;
+    gap: 0.9rem;
+    padding: 0.45rem 0;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+  .bc-link:hover .bc-fill { background: var(--accent-deep); }
+  .bc-link:hover .bc-label { color: var(--accent); }
+  .bc-label {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 1rem;
+    font-variation-settings: "opsz" 60, "SOFT" 60, "WONK" 1;
+    color: var(--fg-soft);
+    transition: color 180ms ease;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .bc-track {
+    height: 7px;
+    background: var(--bg-deep);
+    position: relative;
+  }
+  .bc-fill {
+    height: 100%;
+    background: var(--accent);
+    transition: background 180ms ease;
+  }
+  .bc-value {
+    font-family: var(--font-mono);
+    font-size: 0.86rem;
+    color: var(--fg);
+    text-align: right;
+  }
+  .bc-meta {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    color: var(--fg-faint);
+    text-align: right;
+  }
+  .bc-caption {
+    margin-top: 0.85rem;
+    font-family: var(--font-mono);
+    font-size: var(--fs-meta);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--fg-muted);
+  }
+  @media (max-width: 640px) {
+    .bc-row {
+      grid-template-columns: minmax(0, 9rem) 1fr 3rem;
+    }
+    .bc-meta { display: none; }
+  }
+</style>
