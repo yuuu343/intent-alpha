@@ -24,11 +24,31 @@ const SNAPSHOTS_DIR = path.join(ROOT, 'data', 'snapshots');
 const today = () => new Date().toISOString().slice(0, 10);
 const UA = 'IntentAlphaBot/0.2 (+https://intent-alpha.hide3desudesu.workers.dev; respectful-fetch)';
 
+// Strip HTML, decode common entities, collapse whitespace, cap at maxChars.
+// Used to capture JD body text without bloating snapshot files. The body
+// powers tech-stack co-occurrence analysis; titles alone are too sparse to
+// resolve interpretation ambiguities (e.g. PROV-010's BD (a)/(b) question).
+function cleanBody(input, maxChars = 3000) {
+  if (!input) return null;
+  let text = String(input)
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (text.length > maxChars) text = text.slice(0, maxChars).trim() + '…';
+  return text;
+}
+
 // ---------- adapters ----------
 
 async function fetchGreenhouse(token) {
-  // content=true is required for `departments` and `offices`; we strip the
-  // heavy `content` field client-side and persist only structured metadata.
+  // content=true is required for `departments` and `offices`; we now also
+  // capture a cleaned, capped body for vocab / tech-stack analysis.
   const url = `https://boards-api.greenhouse.io/v1/boards/${encodeURIComponent(token)}/jobs?content=true`;
   const res = await fetch(url, { headers: { 'User-Agent': UA, Accept: 'application/json' } });
   if (!res.ok) throw new Error(`greenhouse ${token}: HTTP ${res.status}`);
@@ -41,6 +61,7 @@ async function fetchGreenhouse(token) {
     offices: (j.offices ?? []).map((o) => o.name).join(' / ') || null,
     updated_at: j.updated_at ?? null,
     url: j.absolute_url ?? null,
+    body: cleanBody(j.content),
   }));
 }
 
@@ -56,6 +77,7 @@ async function fetchLever(token) {
     department: j.categories?.team ?? j.categories?.department ?? null,
     updated_at: j.createdAt ? new Date(j.createdAt).toISOString() : null,
     url: j.hostedUrl ?? null,
+    body: cleanBody(j.descriptionPlain ?? j.description),
   }));
 }
 
@@ -119,6 +141,7 @@ async function fetchAshby(token) {
     department: j.department ?? j.departmentName ?? null,
     updated_at: j.publishedAt ?? j.updatedAt ?? null,
     url: j.jobUrl ?? null,
+    body: cleanBody(j.descriptionPlain ?? j.descriptionHtml),
   }));
 }
 
