@@ -75,6 +75,17 @@ for (const f of files) {
   } catch { /* skip */ }
 }
 
+// ---- Headline: per-character entrance, mirrors equation watermark pattern.
+// Each character gets a random direction and a hash-based stagger delay, so
+// the headline materialises over ~2s like the equation watermarks rather
+// than sliding in as one block. Same easing register as the rest of the site.
+const headlineLines = [
+  'Anthropic is staffing',
+  'vertical-specific Claude products',
+  "that haven't been announced.",
+];
+const headlineFull = headlineLines.join(' ');
+
 // ---- Compare to OpenAI (regional, not vertical) ---------------------------
 let openaiRegional = 0;
 let openaiTotal = 0;
@@ -109,10 +120,21 @@ try {
       transition shows up in <em>sales architecture</em> first — months or
       quarters before the products it supports are announced.
     </p>
-    <h1 class="obs-headline">
-      <span class="obs-line-1">Anthropic is staffing</span>
-      <span class="obs-line-2">vertical-specific Claude products</span>
-      <span class="obs-line-3">that haven't been announced.</span>
+    <h1 class="obs-headline" aria-label={headlineFull}>
+      {headlineLines.map((line, lineIdx) => (
+        <span class={`obs-line-${lineIdx + 1}`}>
+          {Array.from(line).map((ch, i) => {
+            const k = i + (lineIdx + 1) * 31;
+            const dir = ['from-top', 'from-bottom', 'from-left', 'from-right'][((k * 2654435761) >>> 0) % 4];
+            const delay = (lineIdx * 180) + 250 + (((k * 7919) % 20) * 55);
+            return (
+              <span class={`obs-ch ${dir}`} style={`animation-delay: ${delay}ms;`} aria-hidden="true">
+                {ch === ' ' ? ' ' : ch}
+              </span>
+            );
+          })}
+        </span>
+      ))}
     </h1>
     <p class="obs-num">{totalVerticalAE}</p>
     <p class="obs-num-label">vertical Account Executive roles · already industry-segmented · pre-product staffing pattern (Stripe / Snowflake / Palantir all did this before launching vertical SKUs)</p>
@@ -282,7 +304,39 @@ try {
     margin: 1.25rem 0 1.5rem;
     max-width: 32ch;
     font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 1;
-    animation: inner-from-left 1500ms cubic-bezier(0.16, 1, 0.3, 1) 200ms both;
+  }
+  /* per-char entrance — same register as the equation watermarks. Each .obs-ch
+     animates from a hashed direction with a hashed delay; the headline
+     materialises over ~2s instead of sliding in as one block. */
+  .obs-headline .obs-ch {
+    display: inline-block;
+    animation-duration: 1200ms;
+    animation-fill-mode: both;
+    animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: transform, opacity;
+  }
+  .obs-headline .obs-ch.from-top    { animation-name: obs-from-top; }
+  .obs-headline .obs-ch.from-bottom { animation-name: obs-from-bottom; }
+  .obs-headline .obs-ch.from-left   { animation-name: obs-from-left; }
+  .obs-headline .obs-ch.from-right  { animation-name: obs-from-right; }
+  @keyframes obs-from-top {
+    from { opacity: 0; transform: translateY(-0.8em) rotate(4deg); }
+    to   { opacity: 1; transform: translateY(0) rotate(0); }
+  }
+  @keyframes obs-from-bottom {
+    from { opacity: 0; transform: translateY(0.8em) rotate(-4deg); }
+    to   { opacity: 1; transform: translateY(0) rotate(0); }
+  }
+  @keyframes obs-from-left {
+    from { opacity: 0; transform: translateX(-0.7em) rotate(-3deg); }
+    to   { opacity: 1; transform: translateX(0) rotate(0); }
+  }
+  @keyframes obs-from-right {
+    from { opacity: 0; transform: translateX(0.7em) rotate(3deg); }
+    to   { opacity: 1; transform: translateX(0) rotate(0); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .obs-headline .obs-ch { animation: none; }
   }
   .obs-line-1, .obs-line-3 {
     display: block;
