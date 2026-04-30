@@ -1,0 +1,369 @@
+---
+// α · observed — viz-first intermediate page.
+//
+// The homepage observation hero links here, not directly to PROV-010.
+// This page exists to do one thing: show the data that backs the
+// observation, in chart form, fast. Each section is one-line setup +
+// big chart + one-line takeaway. Deep dispatch link only at the end.
+//
+// Topic: Anthropic is staffing vertical-specific Claude products that
+// haven't been announced. Account Executives are already segmented by
+// regulated industry; GitHub plugin packs are already shipping.
+
+import Layout from '../../layouts/Layout.astro';
+import BarChart from '../../components/charts/BarChart.astro';
+import Sparkline from '../../components/charts/Sparkline.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+// ---- live data load --------------------------------------------------------
+const SNAPSHOTS = path.resolve(process.cwd(), 'data', 'snapshots', 'anthropic');
+const files = fs.existsSync(SNAPSHOTS)
+  ? fs.readdirSync(SNAPSHOTS).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort()
+  : [];
+const latest = files.length > 0 ? JSON.parse(fs.readFileSync(path.join(SNAPSHOTS, files[files.length - 1]), 'utf8')) : { jobs: [] };
+type Job = { id?: string | number; title?: string; department?: string | null; updated_at?: string | null; url?: string | null };
+const jobs: Job[] = latest.jobs ?? [];
+
+// ---- vertical AE breakdown -------------------------------------------------
+type VerticalRow = { id: string; label: string; value: number; href?: string };
+function countMatching(re: RegExp): number {
+  return jobs.filter((j) => re.test(j.title || '')).length;
+}
+const verticalAEs: VerticalRow[] = [
+  { id: 'federal',     label: 'Federal civilian',          value: countMatching(/federal civilian|account executive,?\s*federal/i) },
+  { id: 'beneficial',  label: 'Beneficial Deployments',    value: countMatching(/beneficial deployments/i) },
+  { id: 'industries',  label: 'Industries (generic vertical)', value: countMatching(/enterprise account executive,?\s*industries/i) },
+  { id: 'life-sci',    label: 'Life Sciences',             value: countMatching(/strategic account executive,?\s*life sciences/i) },
+  { id: 'healthcare',  label: 'Academic Medical Centers',  value: countMatching(/academic medical/i) },
+  { id: 'manufacturing', label: 'Manufacturing & Automotive', value: countMatching(/manufacturing.*automotive|account executive,?\s*manufacturing/i) },
+  { id: 'tech',        label: 'Tech',                      value: countMatching(/account executive,?\s*tech\b/i) },
+  { id: 'startups',    label: 'Startups',                  value: countMatching(/account executive,?\s*startups/i) },
+].filter((v) => v.value > 0).sort((a, b) => b.value - a.value);
+
+const totalVerticalAE = verticalAEs.reduce((s, v) => s + v.value, 0);
+
+// ---- GitHub vertical plugin packs -----------------------------------------
+type PluginRow = { label: string; value: number; meta?: string };
+let pluginPacks: PluginRow[] = [];
+try {
+  const ghDir = path.resolve(process.cwd(), 'data', 'github', 'anthropics');
+  if (fs.existsSync(ghDir)) {
+    const ghFiles = fs.readdirSync(ghDir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+    if (ghFiles.length > 0) {
+      const ghData = JSON.parse(fs.readFileSync(path.join(ghDir, ghFiles[ghFiles.length - 1]), 'utf8'));
+      pluginPacks = (ghData.repos ?? [])
+        .filter((r: any) => /-plugins$|^life-sciences$/.test(r.name))
+        .map((r: any) => ({
+          label: r.name,
+          value: r.stars ?? 0,
+          meta: r.language ?? '',
+        }))
+        .sort((a: PluginRow, b: PluginRow) => b.value - a.value);
+    }
+  }
+} catch { /* tolerate */ }
+
+// ---- Vertical AE trend across snapshots -----------------------------------
+const verticalAERegex = /(federal civilian|beneficial deployments|enterprise account executive,?\s*industries|strategic account executive,?\s*life sciences|academic medical|manufacturing.*automotive|account executive,?\s*manufacturing|account executive,?\s*tech\b|account executive,?\s*startups)/i;
+const trend: { date: string; value: number }[] = [];
+for (const f of files) {
+  try {
+    const snap = JSON.parse(fs.readFileSync(path.join(SNAPSHOTS, f), 'utf8'));
+    const count = (snap.jobs ?? []).filter((j: Job) => verticalAERegex.test(j.title || '')).length;
+    trend.push({ date: f.replace('.json', ''), value: count });
+  } catch { /* skip */ }
+}
+
+// ---- Compare to OpenAI (regional, not vertical) ---------------------------
+let openaiRegional = 0;
+let openaiTotal = 0;
+try {
+  const oaiDir = path.resolve(process.cwd(), 'data', 'snapshots', 'openai');
+  if (fs.existsSync(oaiDir)) {
+    const oaiFiles = fs.readdirSync(oaiDir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+    if (oaiFiles.length > 0) {
+      const oaiData = JSON.parse(fs.readFileSync(path.join(oaiDir, oaiFiles[oaiFiles.length - 1]), 'utf8'));
+      const oaiJobs: Job[] = oaiData.jobs ?? [];
+      openaiTotal = oaiJobs.length;
+      // Account Director by region (Tokyo / Paris / Singapore / Sydney / Seoul / etc.) — region-segmented sales
+      openaiRegional = oaiJobs.filter((j) => /account director/i.test(j.title || '')).length;
+    }
+  }
+} catch { /* tolerate */ }
+---
+<Layout
+  title="α · observed: Anthropic is staffing vertical-specific Claude products that haven't been announced"
+  description="Anthropic's open roles show Account Executives segmented by Federal, Healthcare, Life Sciences, Manufacturing. GitHub plugin packs already shipping. The pre-product staffing pattern."
+  spineGlyph="α"
+  bgEquation={`vert_AE = ${totalVerticalAE}`}
+>
+  <a class="back" href="/">← α · home</a>
+
+  <section class="obs-hero">
+    <span class="meta meta--accent">α · observed 2026-04-30 · {jobs.length} open roles at anthropic</span>
+    <h1 class="obs-headline">
+      <span class="obs-line-1">Anthropic is staffing</span>
+      <span class="obs-line-2">vertical-specific Claude products</span>
+      <span class="obs-line-3">that haven't been announced.</span>
+    </h1>
+    <p class="obs-num">{totalVerticalAE}</p>
+    <p class="obs-num-label">vertical Account Executive roles · already industry-segmented · pre-product staffing pattern (Stripe / Snowflake / Palantir all did this before launching vertical SKUs)</p>
+  </section>
+
+  <section class="viz-section">
+    <div class="viz-setup">
+      <span class="meta meta--accent">Chart 1 · the breakdown</span>
+      <h2>Account Executives by vertical, today</h2>
+    </div>
+    <BarChart
+      items={verticalAEs}
+      caption={`f(vertical) = AE roles · live count from anthropic snapshot ${trend[trend.length - 1]?.date ?? ''}`}
+    />
+    <p class="viz-takeaway">
+      <em>Six</em> distinct verticals with named-AE coverage today. Federal civilian
+      and Beneficial Deployments tie for the largest band. <strong>None of these
+      verticals have a corresponding announced Claude product</strong> — the sales
+      motion precedes the product, by design.
+    </p>
+  </section>
+
+  {pluginPacks.length > 0 && (
+    <section class="viz-section">
+      <div class="viz-setup">
+        <span class="meta meta--accent">Chart 2 · the artifacts already shipping</span>
+        <h2>GitHub vertical plugin packs, by stars</h2>
+      </div>
+      <BarChart
+        items={pluginPacks}
+        caption="GitHub repository stars · vertical-specific plugin packs already published under anthropics/"
+      />
+      <p class="viz-takeaway">
+        Three vertical plugin packs already exist as public repositories ── these
+        are the developer-facing scaffolding that gets <strong>pre-installed once a
+        vertical Claude product is announced</strong>. The sequence is consistent
+        with the standard Stripe Press / Snowflake Marketplace pattern: ship the
+        integration scaffolding first, name the product later.
+      </p>
+    </section>
+  )}
+
+  {trend.length >= 2 && (
+    <section class="viz-section">
+      <div class="viz-setup">
+        <span class="meta meta--accent">Chart 3 · the trend</span>
+        <h2>Vertical AE count, across snapshots</h2>
+      </div>
+      <div class="trend-large">
+        <Sparkline points={trend} width={520} height={120} />
+        <div class="trend-legend">
+          <span><strong>{trend[0].value}</strong> on {trend[0].date}</span>
+          <span style="color: var(--accent);"><strong>{trend[trend.length - 1].value}</strong> on {trend[trend.length - 1].date}</span>
+          <span class="meta">delta: {trend[trend.length - 1].value - trend[0].value >= 0 ? '+' : ''}{trend[trend.length - 1].value - trend[0].value}</span>
+        </div>
+      </div>
+      <p class="viz-takeaway">
+        Day-over-day movement is small (single snapshot at start), but the pipeline
+        is in place: vertical AE count is now tracked at every fetch. <strong>If
+        the count climbs sharply over the next quarter, the vertical-product
+        announcement is imminent.</strong>
+      </p>
+    </section>
+  )}
+
+  {openaiRegional > 0 && (
+    <section class="viz-section">
+      <div class="viz-setup">
+        <span class="meta meta--accent">Chart 4 · the contrast</span>
+        <h2>Anthropic segments by vertical. OpenAI segments by region.</h2>
+      </div>
+      <BarChart
+        items={[
+          { label: 'Anthropic — vertical AEs (Federal, Healthcare, Life Sci, Manufacturing, etc.)', value: totalVerticalAE, meta: `${jobs.length} total` },
+          { label: 'OpenAI — regional Account Directors (Tokyo, Paris, etc.)', value: openaiRegional, meta: `${openaiTotal} total` },
+        ]}
+        labelWidth="22rem"
+        caption="same Sales-heavy shape, different segmentation logic"
+      />
+      <p class="viz-takeaway">
+        OpenAI's enterprise sales motion is <em>geography-anchored</em>; the
+        product is the same Claude API across regions. Anthropic's is
+        <em>industry-anchored</em>; the implication is that the products will
+        differentiate by industry too. <strong>Vertical segmentation precedes
+        vertical products. Regional segmentation precedes regional expansion of
+        the same product.</strong> Different sales architecture, different product
+        roadmap.
+      </p>
+    </section>
+  )}
+
+  <section class="deep-link-section">
+    <div class="deep-link-frame">
+      <span class="meta meta--accent">α · the full thesis</span>
+      <h2>The 12–18 month forecast, with 8 falsification conditions.</h2>
+      <p>
+        This page showed the staffing pattern. The deep dispatch carries the
+        full hypothesis on what Claude products will appear and when, the
+        cross-reference with arXiv + GitHub + departmental staffing, the
+        Beneficial Deployments (a)/(b) interpretation caveat, the OpenAI
+        regional-vs-vertical staffing technical contrast, and the eight
+        specific reversal conditions — each with a date and a measurable
+        threshold.
+      </p>
+      <p class="deep-link-cta">
+        <a href="/articles/anthropic-twelve-month-surfaces-2026-04/">→ PROV-010 · twelve-month surfaces forecast (4,852 words)</a>
+      </p>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  /* viz-first page: charts dominate, text annotates. */
+  .obs-hero {
+    padding: 1rem 0 2.5rem;
+    border-bottom: var(--rule-thick) solid var(--rule);
+    isolation: isolate;
+  }
+  .obs-headline {
+    font-family: var(--font-display);
+    font-weight: 360;
+    letter-spacing: -0.025em;
+    line-height: 1.04;
+    margin: 1.25rem 0 1.5rem;
+    max-width: 32ch;
+    font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 1;
+    animation: inner-from-left 1500ms cubic-bezier(0.16, 1, 0.3, 1) 200ms both;
+  }
+  .obs-line-1, .obs-line-3 {
+    display: block;
+    font-size: clamp(1.6rem, 4.4vw, 3rem);
+    color: var(--fg-soft);
+    font-style: italic;
+    font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+  }
+  .obs-line-2 {
+    display: block;
+    font-size: clamp(2.2rem, 6.4vw, 4.6rem);
+    color: var(--fg);
+    margin: 0.05em 0;
+    font-variation-settings: "opsz" 144, "SOFT" 30, "WONK" 1;
+  }
+  .obs-num {
+    font-family: var(--font-display);
+    font-variation-settings: "opsz" 144, "SOFT" 30, "WONK" 1;
+    font-weight: 380;
+    font-size: clamp(4rem, 10vw, 7.5rem);
+    line-height: 0.95;
+    letter-spacing: -0.04em;
+    color: var(--accent);
+    margin: 1.25rem 0 0.5rem;
+    animation: inner-from-below 1400ms cubic-bezier(0.16, 1, 0.3, 1) 600ms both;
+  }
+  .obs-num-label {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: var(--fs-lead);
+    line-height: 1.42;
+    color: var(--fg-soft);
+    max-width: 44rem;
+    font-variation-settings: "opsz" 36, "SOFT" 50, "WONK" 0;
+  }
+
+  .viz-section {
+    margin-top: 3.5rem;
+    padding-top: 0;
+  }
+  .viz-setup {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 1.25rem;
+  }
+  .viz-setup h2 {
+    font-size: clamp(1.4rem, 3vw, 2rem);
+    margin: 0;
+    line-height: 1.15;
+    font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 1;
+  }
+  .viz-takeaway {
+    margin: 1rem 0 0;
+    max-width: 44rem;
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 1.05rem;
+    line-height: 1.55;
+    color: var(--fg-soft);
+    font-variation-settings: "opsz" 36, "SOFT" 50, "WONK" 0;
+  }
+  .viz-takeaway strong {
+    color: var(--fg);
+    font-style: normal;
+    font-variation-settings: "opsz" 36, "SOFT" 30, "WONK" 1;
+  }
+  .viz-takeaway em {
+    color: var(--accent);
+  }
+
+  .trend-large {
+    padding: 1.5rem 0;
+    border-top: 1px solid var(--rule-soft);
+    border-bottom: 1px solid var(--rule-soft);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .trend-large :global(.sparkline) {
+    max-width: 100% !important;
+    height: 120px !important;
+  }
+  .trend-legend {
+    display: flex;
+    gap: 2rem;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    color: var(--fg-soft);
+    flex-wrap: wrap;
+  }
+  .trend-legend strong { color: var(--fg); font-size: 1.1rem; font-weight: 600; }
+
+  .deep-link-section {
+    margin-top: 5rem;
+    padding-top: 3rem;
+    border-top: var(--rule-thick) solid var(--rule);
+  }
+  .deep-link-frame {
+    background: var(--bg-deep);
+    border-left: 3px solid var(--accent);
+    padding: 2rem 2rem 2.5rem;
+    max-width: 50rem;
+  }
+  .deep-link-frame h2 {
+    font-size: clamp(1.4rem, 3vw, 1.8rem);
+    margin: 0.75rem 0 1rem;
+    line-height: 1.2;
+  }
+  .deep-link-frame p {
+    color: var(--fg-soft);
+    line-height: 1.65;
+  }
+  .deep-link-cta {
+    margin-top: 1.25rem;
+    font-family: var(--font-mono);
+    font-size: 0.92rem;
+    letter-spacing: 0.04em;
+  }
+  .deep-link-cta a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent);
+    padding-bottom: 0.1em;
+  }
+  .deep-link-cta a:hover {
+    color: var(--accent-deep);
+    border-bottom-color: var(--accent-deep);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .obs-headline, .obs-num { animation: none; }
+  }
+</style>

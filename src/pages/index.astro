@@ -74,22 +74,24 @@ const heatmapRows = fetchedCompanies.map((c) => ({ id: c.id, label: c.data.name 
 const heatmapCols = THEMES.map((t) => ({ id: t.slug, label: t.name }));
 const fmtSnapDate = (s: string | null) => s ? s.replace('.json', '').replaceAll('-', '.') : '—';
 
-// α · observed — the front-page magnet. Single observation, biggest visual,
-// numerical proof inline, link to the dispatch that backs it. Edit the const
-// below to surface a different observation; build redeploys instantly.
+// α · observed — the front-page magnet. Forward prediction, not site
+// description. Click target is /observed/<slug>/ (viz-first intermediate
+// page) — NOT directly the deep dispatch. The funnel is:
+//   homepage observation → viz-first page → deep dispatch
+// Each step earns the next.
 const observation = {
   date: '2026-04-30',
-  headline: 'Anthropic publicly leads on AI safety.',
-  emphasis: 'Their largest department is Sales.',
+  headline: 'Anthropic is staffing the sales side',
+  emphasis: 'of Claude products that haven\'t been announced.',
   numbers: [
-    { value: '132', label: 'Sales' },
-    { value: '69', label: 'AI Research' },
-    { value: '1.91×', label: 'ratio' },
-    { value: '451', label: 'total roles' },
+    { value: '6', label: 'Federal AEs' },
+    { value: '6', label: 'Beneficial Deployments AEs' },
+    { value: '3', label: 'vertical plugin packs' },
+    { value: '451', label: 'total Anthropic roles' },
   ],
   link: {
-    href: '/articles/anthropic-twelve-month-surfaces-2026-04/',
-    label: 'PROV-010 · twelve-month surfaces forecast',
+    href: '/observed/anthropic-vertical-claude/',
+    label: 'See the data →',
   },
 };
 
