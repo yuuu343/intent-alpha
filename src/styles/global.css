@@ -141,6 +141,16 @@ header.site-header {
 }
 .brand .slash { color: var(--accent); margin: 0 0.15em; font-style: italic; }
 .brand:hover { color: var(--fg); }
+.brand-glyph {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+  color: var(--accent);
+  margin-right: 0.4em;
+  font-size: 1.18em;
+  vertical-align: -0.04em;
+  display: inline-block;
+}
 .site-header nav {
   display: flex;
   gap: 1.5rem;

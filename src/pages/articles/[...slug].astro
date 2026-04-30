@@ -74,6 +74,13 @@ const jsonLd = {
 >
   <a class="back" href="/articles/">All Dispatches</a>
 
+  {!article.data.archived && (
+    <div class="method-tag" aria-label="method">
+      <span class="meta meta--accent">α · Method</span>
+      <span class="method-tag-body">intent–alpha gap analysis · {company?.data.name ?? article.data.company}</span>
+    </div>
+  )}
+
   <header class="article-head">
     <div class="meta-line">
       <span class="meta meta--accent">{article.data.cycle ? `Cycle №${article.data.cycle}` : 'Cycle —'}</span>
@@ -159,3 +166,21 @@ const jsonLd = {
     </div>
   </section>
 </Layout>
+
+<style>
+  .method-tag {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.7rem;
+    margin: 0.5rem 0 1.5rem;
+    padding: 0.4rem 0.7rem;
+    border: 1px solid var(--rule);
+    border-left: 2px solid var(--accent);
+    background: var(--bg-deep);
+  }
+  .method-tag .method-tag-body {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--fg-soft);
+  }
+</style>

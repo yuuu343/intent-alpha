@@ -5,41 +5,85 @@ const buildDate = new Date().toISOString().slice(0, 10).replace(/-/g, '.');
 ---
 <Layout
   title="About"
-  description="What Intent Alpha is, how it works, and what it isn't."
-  spineGlyph="¶"
-  bgEquation="α : t ↦ Σ signals(t)"
+  description="α · intent vs alpha — the say-do gap of frontier AI labs. What this site believes, how it measures, what it isn't."
+  spineGlyph="α"
+  bgEquation="α : intent → alpha"
 >
   <section class="hero" style="border-bottom: 0; padding-bottom: 1.5rem;">
     <span class="meta meta--accent">Colophon</span>
     <h1>What this is.</h1>
     <p class="lede">
-      Intent Alpha reads the public job postings of leading technology companies and infers
-      what they are building next. Each dispatch is an explicit, falsifiable hypothesis.
+      Intent Alpha measures the gap between what frontier AI labs <em>say</em>
+      in public and what they <em>actually staff for</em> in their open roles.
+      That gap is the thesis; every dispatch is one measurement; the year-over-year
+      record is the artifact.
     </p>
   </section>
 
   <article class="prose" style="margin-top: 2rem;">
+    <h2>Thesis</h2>
+    <p>
+      A frontier AI lab is two voices at once. The first is the <em>public</em>
+      voice — papers, blog posts, keynote talks, the framing on the
+      homepage. The second is the <em>operational</em> voice — the open
+      roles on the careers page, the departments where headcount actually
+      grows, the verticals where the Account Executives are segmented.
+      The two voices are rarely identical. The space between them is what
+      this site calls the <em>intent–alpha gap</em>: the difference between
+      stated direction and committed direction.
+    </p>
+    <p>
+      The gap is the signal because hiring carries opportunity cost in a way
+      that public messaging does not. A lab can say it cares about
+      interpretability without staffing for it; it cannot staff for
+      interpretability without ranking the work above some other use of the
+      same hire. The gap is therefore the closest public proxy to revealed
+      strategy that doesn't require insider information.
+    </p>
+
+    <h2>Vertical</h2>
+    <p>
+      <em>Frontier AI labs only.</em> Anthropic, OpenAI, xAI, Mistral, Cohere,
+      Hugging Face, Scale AI, Stability AI, Perplexity, and the bot-protected
+      tier (Google DeepMind, Meta-FAIR, Microsoft AI). Other companies — chip
+      companies, hyperscalers, vertical SaaS — appear in the data layer as
+      context, but the dispatches are about labs. This is a deliberate
+      narrowing from the earlier 22-company panorama; the breadth was
+      diluting the thesis.
+    </p>
+
     <h2>Method</h2>
     <ul>
-      <li>We pull job postings from public ATS endpoints — Greenhouse, Lever, Workday.</li>
+      <li>We pull job postings from public ATS endpoints — Greenhouse, Lever, Workday, Ashby, SmartRecruiters.</li>
       <li>We track changes over time — what roles appear, disappear, and cluster.</li>
-      <li>From those patterns, a single hypothesis is proposed per cycle.</li>
+      <li>For each frontier lab we compare the public messaging with the operational hiring shape.</li>
+      <li>From that comparison, a single hypothesis is proposed per cycle.</li>
       <li>The hypothesis is then audited against pre-registered fail/pass criteria before publication.</li>
-      <li>Each dispatch ships with an explicit confidence label and horizon.</li>
+      <li>Each dispatch ships with an explicit confidence label, horizon, and structured falsification conditions.</li>
     </ul>
+
+    <h2>Signature artifact</h2>
+    <p>
+      Year over year, the dispatches accumulate into the <em>Intent Alpha Index</em> — a
+      flagship synthesis of the say-do gaps observed across frontier labs over
+      the period. Year 1 is in preparation.
+    </p>
 
     <h2>What this is not</h2>
     <ul>
-      <li>Not investment advice.</li>
-      <li>Not insider information &mdash; everything is sourced from public listings.</li>
-      <li>Not a guarantee &mdash; hypotheses are falsifiable by design.</li>
+      <li>Not investment advice. Hiring data is a structural signal about what an organisation is building, not a signal about valuation.</li>
+      <li>Not insider information — everything is sourced from public listings.</li>
+      <li>Not a competitive ranking. Three-company references are ecosystem positions, not a leaderboard.</li>
+      <li>Not a guarantee — hypotheses are falsifiable by design and tracked at <a href="/track-record/">/track-record/</a>.</li>
     </ul>
 
     <h2>Sources</h2>
     <p>
-      Job postings are read from publicly accessible endpoints provided by the applicant
-      tracking systems each company uses. We respect <code>robots.txt</code> and stated
-      terms of service. Snapshots are version-controlled.
+      Job postings are read from publicly accessible endpoints provided by the
+      applicant tracking systems each company uses. We respect <code>robots.txt</code>
+      and stated terms of service. Snapshots are version-controlled. The
+      sampling map and all known coverage limitations are disclosed at
+      <a href="/coverage/">/coverage/</a>.
     </p>
 
     <h2>Cadence</h2>
