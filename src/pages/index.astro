@@ -74,43 +74,52 @@ const heatmapRows = fetchedCompanies.map((c) => ({ id: c.id, label: c.data.name 
 const heatmapCols = THEMES.map((t) => ({ id: t.slug, label: t.name }));
 const fmtSnapDate = (s: string | null) => s ? s.replace('.json', '').replaceAll('-', '.') : '—';
 
+// α · observed — the front-page magnet. Single observation, biggest visual,
+// numerical proof inline, link to the dispatch that backs it. Edit the const
+// below to surface a different observation; build redeploys instantly.
+const observation = {
+  date: '2026-04-30',
+  headline: 'Anthropic publicly leads on AI safety.',
+  emphasis: 'Their largest department is Sales.',
+  numbers: [
+    { value: '132', label: 'Sales' },
+    { value: '69', label: 'AI Research' },
+    { value: '1.91×', label: 'ratio' },
+    { value: '451', label: 'total roles' },
+  ],
+  link: {
+    href: '/articles/anthropic-twelve-month-surfaces-2026-04/',
+    label: 'PROV-010 · twelve-month surfaces forecast',
+  },
+};
+
 const description = 'Intent Alpha reads the public job boards of foundation labs, chip companies, and AI-adjacent platforms, and looks for what AI is becoming. Hypotheses with the hiring signals they rest on.';
 
 const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 ---
 <Layout title="Intent Alpha" description={description} bgEquations={["e^(iπ) + 1 = 0", "L = − Σᵢ yᵢ log ŷᵢ"]}>
-  <section class="hero">
-    <svg class="hero-spiral" viewBox="0 0 144 89" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
-      <g class="grid">
-        <rect x="0" y="0" width="144" height="89"/>
-        <line x1="89" y1="0" x2="89" y2="89"/>
-        <line x1="89" y1="55" x2="144" y2="55"/>
-        <line x1="110" y1="55" x2="110" y2="89"/>
-        <line x1="89" y1="68" x2="110" y2="68"/>
-        <line x1="102" y1="55" x2="102" y2="68"/>
-        <line x1="102" y1="63" x2="110" y2="63"/>
-        <line x1="105" y1="63" x2="105" y2="68"/>
-      </g>
-      <path class="curve" pathLength="100" d="M 0 89 A 89 89 0 0 1 89 0 A 55 55 0 0 1 144 55 A 34 34 0 0 1 110 89 A 21 21 0 0 1 89 68 A 13 13 0 0 1 102 55 A 8 8 0 0 1 110 63 A 5 5 0 0 1 105 68 A 3 3 0 0 1 102 65 A 2 2 0 0 1 104 67"/>
-    </svg>
-    <span class="meta meta--accent">α · intent vs alpha · the say-do gap of frontier AI labs</span>
-    <h1 class="hero-art" aria-label="What labs say. What they hire.">
-      <span class="line line-1"><em>What labs</em></span>
-      <span class="line line-2">
-        say.
-        <svg class="swash" viewBox="0 0 200 8" preserveAspectRatio="none" aria-hidden="true">
-          <path d="M2,5.5 C30,2 70,7.2 110,4.8 C150,2.4 180,6.5 198,3.2"/>
-        </svg>
-      </span>
-      <span class="line line-3"><em>What they</em></span>
-      <span class="line line-4">hire<span class="period">.</span></span>
+  <section class="obs-hero">
+    <span class="meta meta--accent">α · observed {observation.date}</span>
+    <h1 class="obs-headline">
+      <span class="obs-line-1">{observation.headline}</span>
+      <span class="obs-line-2">{observation.emphasis}</span>
     </h1>
-    <p class="lede">
+    <div class="obs-numbers">
+      {observation.numbers.map((n) => (
+        <div class="obs-num-item">
+          <span class="obs-num-value">{n.value}</span>
+          <span class="obs-num-label">{n.label}</span>
+        </div>
+      ))}
+    </div>
+    <p class="obs-link">
+      <a href={observation.link.href}>→ {observation.link.label}</a>
+    </p>
+    <p class="obs-tagline">
       Frontier AI labs are read here against their own hiring. The gap between
-      what they <em>say</em> in public — papers, blog posts, keynote slides —
-      and what they <em>actually staff for</em> in their open roles is the
-      signal. We call it the <em>intent–alpha gap</em>; every dispatch is one
-      measurement of it. Anonymous, falsifiable, on free infrastructure.
+      what they <em>say</em> in public and what they <em>actually staff for</em> is
+      the signal — the <em>intent–alpha gap</em>. Every dispatch is one
+      measurement; the year-over-year record is the artifact.
     </p>
   </section>
 
@@ -201,6 +210,106 @@ const fmtDate = (d: Date) => d.toISOString().slice(0, 10).replace(/-/g, '.');
 </Layout>
 
 <style>
+  /* α · observed — front-page magnet. Designed to do its work above the
+     fold: tagline → headline → numbers → click-through, all visible without
+     scrolling on most viewports. */
+  .obs-hero {
+    max-width: var(--measure-full);
+    padding-bottom: 2.5rem;
+    border-bottom: var(--rule-thick) solid var(--rule);
+    isolation: isolate;
+  }
+  .obs-headline {
+    font-family: var(--font-display);
+    font-weight: 360;
+    letter-spacing: -0.025em;
+    line-height: 1.04;
+    margin: 1rem 0 1.5rem;
+    max-width: 26ch;
+    font-variation-settings: "opsz" 144, "SOFT" 50, "WONK" 1;
+    animation: inner-from-left 1500ms cubic-bezier(0.16, 1, 0.3, 1) 250ms both;
+  }
+  .obs-line-1 {
+    display: block;
+    font-size: clamp(2rem, 5vw, 3.6rem);
+    color: var(--fg-soft);
+    font-style: italic;
+    font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+  }
+  .obs-line-2 {
+    display: block;
+    font-size: clamp(2.4rem, 6.8vw, 5rem);
+    color: var(--fg);
+    margin-top: 0.2em;
+    font-variation-settings: "opsz" 144, "SOFT" 30, "WONK" 1;
+  }
+  .obs-numbers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr));
+    gap: 1rem 2rem;
+    padding: 1.25rem 0 1rem;
+    border-top: 1px solid var(--rule-soft);
+    border-bottom: 1px solid var(--rule-soft);
+    margin: 0.5rem 0 1.25rem;
+    animation: inner-from-below 1500ms cubic-bezier(0.16, 1, 0.3, 1) 600ms both;
+  }
+  .obs-num-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+  .obs-num-value {
+    font-family: var(--font-display);
+    font-variation-settings: "opsz" 144, "SOFT" 30, "WONK" 1;
+    font-weight: 380;
+    font-size: clamp(1.8rem, 3.6vw, 2.6rem);
+    line-height: 1;
+    letter-spacing: -0.03em;
+    color: var(--accent);
+  }
+  .obs-num-label {
+    font-family: var(--font-mono);
+    font-size: var(--fs-meta);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--fg-muted);
+  }
+  .obs-link {
+    margin: 0.5rem 0 1.5rem;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    letter-spacing: 0.04em;
+  }
+  .obs-link a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent);
+    padding-bottom: 0.1em;
+  }
+  .obs-link a:hover {
+    color: var(--accent-deep);
+    border-bottom-color: var(--accent-deep);
+  }
+  .obs-tagline {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-weight: 350;
+    font-size: var(--fs-lead);
+    line-height: 1.42;
+    font-variation-settings: "opsz" 36, "SOFT" 50, "WONK" 0;
+    max-width: 44rem;
+    color: var(--fg-soft);
+    margin-top: 1.5rem;
+  }
+  .obs-tagline em {
+    color: var(--fg);
+    font-variation-settings: "opsz" 144, "SOFT" 100, "WONK" 1;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .obs-headline,
+    .obs-numbers { animation: none; }
+  }
+
   .tracked-row {
     grid-template-columns: minmax(0, 14rem) minmax(0, 1fr) 100px auto;
   }
