@@ -86,6 +86,32 @@ const headlineLines = [
 ];
 const headlineFull = headlineLines.join(' ');
 
+// ---- Bit-output (typewriter-style) for the macro context paragraph and the
+// number subtitle. Each character appears in reading order, left-to-right,
+// at 4 ms stagger — fast, like a digital readout. Macro animates first, then
+// the number subtitle starts after a short gap. Each character animates over
+// 35 ms for a soft fade rather than a hard pop.
+type BitSegment = { text: string; em?: boolean };
+const macroSegments: BitSegment[] = [
+  { text: 'The wider context: AI labs are crossing from horizontal model APIs to vertical industry solutions. Stripe did this with industry packs; Snowflake with data clouds; Palantir with embedded engineers. The transition shows up in ' },
+  { text: 'sales architecture', em: true },
+  { text: ' first — months or quarters before the products it supports are announced.' },
+];
+type BitChar = { ch: string; em: boolean };
+const macroChars: BitChar[] = [];
+for (const seg of macroSegments) {
+  for (const ch of seg.text) macroChars.push({ ch, em: !!seg.em });
+}
+const macroFullText = macroSegments.map((s) => s.text).join('');
+
+const subtitleText = `vertical Account Executive roles · already industry-segmented · pre-product staffing pattern (Stripe / Snowflake / Palantir all did this before launching vertical SKUs)`;
+
+const BIT_STAGGER = 4;     // ms between consecutive chars (high-speed)
+const BIT_INITIAL = 200;   // ms before first char of macro
+const BIT_GAP = 200;       // ms between macro end and subtitle start
+const macroEnd = BIT_INITIAL + macroChars.length * BIT_STAGGER;
+const subtitleStart = macroEnd + BIT_GAP;
+
 // ---- Compare to OpenAI (regional, not vertical) ---------------------------
 let openaiRegional = 0;
 let openaiTotal = 0;
@@ -113,12 +139,14 @@ try {
 
   <section class="obs-hero">
     <span class="meta meta--accent">α · observed 2026-04-30 · {jobs.length} open roles at anthropic</span>
-    <p class="obs-macro">
-      The wider context: AI labs are crossing from horizontal model APIs to
-      vertical industry solutions. Stripe did this with industry packs;
-      Snowflake with data clouds; Palantir with embedded engineers. The
-      transition shows up in <em>sales architecture</em> first — months or
-      quarters before the products it supports are announced.
+    <p class="obs-macro" aria-label={macroFullText}>
+      {macroChars.map((c, i) => {
+        const delay = BIT_INITIAL + i * BIT_STAGGER;
+        const style = `animation-delay: ${delay}ms;`;
+        return c.em
+          ? <em class="bit-ch" style={style} aria-hidden="true">{c.ch === ' ' ? ' ' : c.ch}</em>
+          : <span class="bit-ch" style={style} aria-hidden="true">{c.ch === ' ' ? ' ' : c.ch}</span>;
+      })}
     </p>
     <h1 class="obs-headline" aria-label={headlineFull}>
       {headlineLines.map((line, lineIdx) => (
@@ -137,7 +165,11 @@ try {
       ))}
     </h1>
     <p class="obs-num">{totalVerticalAE}</p>
-    <p class="obs-num-label">vertical Account Executive roles · already industry-segmented · pre-product staffing pattern (Stripe / Snowflake / Palantir all did this before launching vertical SKUs)</p>
+    <p class="obs-num-label" aria-label={subtitleText}>
+      {Array.from(subtitleText).map((ch, i) => (
+        <span class="bit-ch" style={`animation-delay: ${subtitleStart + i * BIT_STAGGER}ms;`} aria-hidden="true">{ch === ' ' ? ' ' : ch}</span>
+      ))}
+    </p>
   </section>
 
   <section class="viz-section">
@@ -387,6 +419,22 @@ try {
   .obs-macro em {
     color: var(--fg);
     font-variation-settings: "opsz" 36, "SOFT" 100, "WONK" 1;
+  }
+
+  /* bit-output: each character fades in over 35 ms in left-to-right reading
+     order, with a 4 ms stagger between chars. Fast — total page time ~2.3 s
+     for both paragraphs combined. The visual rhythm reads as a digital
+     readout, not a typewriter (no cursor, no clack — just sequential reveal). */
+  .bit-ch {
+    display: inline-block;
+    animation: bit-out 35ms ease-out both;
+  }
+  @keyframes bit-out {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .bit-ch { animation: none; }
   }
 
   .watch-timeline {
