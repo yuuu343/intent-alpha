@@ -102,6 +102,13 @@ try {
 
   <section class="obs-hero">
     <span class="meta meta--accent">α · observed 2026-04-30 · {jobs.length} open roles at anthropic</span>
+    <p class="obs-macro">
+      The wider context: AI labs are crossing from horizontal model APIs to
+      vertical industry solutions. Stripe did this with industry packs;
+      Snowflake with data clouds; Palantir with embedded engineers. The
+      transition shows up in <em>sales architecture</em> first — months or
+      quarters before the products it supports are announced.
+    </p>
     <h1 class="obs-headline">
       <span class="obs-line-1">Anthropic is staffing</span>
       <span class="obs-line-2">vertical-specific Claude products</span>
@@ -118,7 +125,7 @@ try {
     </div>
     <BarChart
       items={verticalAEs}
-      caption={`f(vertical) = AE roles · live count from anthropic snapshot ${trend[trend.length - 1]?.date ?? ''}`}
+      caption={`f(vertical) = AE role count from job titles · source: data/snapshots/anthropic/${trend[trend.length - 1]?.date ?? ''}.json`}
     />
     <p class="viz-takeaway">
       <em>Six</em> distinct verticals with named-AE coverage today. Federal civilian
@@ -136,7 +143,7 @@ try {
       </div>
       <BarChart
         items={pluginPacks}
-        caption="GitHub repository stars · vertical-specific plugin packs already published under anthropics/"
+        caption="GitHub repository stars · source: github.com/anthropics/ public repos matching /-plugins$|^life-sciences$/"
       />
       <p class="viz-takeaway">
         Three vertical plugin packs already exist as public repositories ── these
@@ -183,19 +190,62 @@ try {
           { label: 'OpenAI — regional Account Directors (Tokyo, Paris, etc.)', value: openaiRegional, meta: `${openaiTotal} total` },
         ]}
         labelWidth="22rem"
-        caption="same Sales-heavy shape, different segmentation logic"
+        caption="same Sales-heavy shape, different segmentation logic · source: data/snapshots/anthropic + data/snapshots/openai (latest)"
       />
       <p class="viz-takeaway">
         OpenAI's enterprise sales motion is <em>geography-anchored</em>; the
-        product is the same Claude API across regions. Anthropic's is
+        product (the same API) ships across regions. Anthropic's is
         <em>industry-anchored</em>; the implication is that the products will
         differentiate by industry too. <strong>Vertical segmentation precedes
-        vertical products. Regional segmentation precedes regional expansion of
+        vertical products. Regional segmentation precedes regional rollout of
         the same product.</strong> Different sales architecture, different product
-        roadmap.
+        roadmap. This is a structural observation, not a competitive ranking.
       </p>
     </section>
   )}
+
+  <section class="viz-section">
+    <div class="viz-setup">
+      <span class="meta meta--accent">Chart 5 · the watch windows</span>
+      <h2>When to come back, and what to look for.</h2>
+    </div>
+    <div class="watch-timeline">
+      <svg class="watch-svg" viewBox="0 0 1000 240" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Observation windows from PROV-010 structured falsifications">
+        {/* main timeline rule */}
+        <line x1="80" y1="120" x2="920" y2="120" class="watch-rule"/>
+        {/* anchor markers */}
+        <g transform="translate(80, 120)">
+          <circle r="9" class="watch-marker watch-marker--now"/>
+          <text y="-22" text-anchor="start" class="watch-anchor">2026-04-30</text>
+          <text y="-7" text-anchor="start" class="watch-anchor-sub">now · {totalVerticalAE} vertical AEs · {jobs.length} total roles</text>
+        </g>
+        <g transform="translate(560, 120)">
+          <circle r="9" class="watch-marker"/>
+          <text y="-22" text-anchor="middle" class="watch-anchor">2026-12-31</text>
+          <text y="-7" text-anchor="middle" class="watch-anchor-sub">8 months out · falsification window 1</text>
+          <text y="32" text-anchor="middle" class="watch-condition"><tspan x="0" dy="0">— Federal civilian contract $10M+ announced?</tspan></text>
+          <text y="50" text-anchor="middle" class="watch-condition"><tspan x="0" dy="0">— Healthcare / Life Sciences named customer?</tspan></text>
+          <text y="68" text-anchor="middle" class="watch-condition"><tspan x="0" dy="0">— Consumer mass app launched (>1M MAU within 6mo)?</tspan></text>
+        </g>
+        <g transform="translate(920, 120)">
+          <circle r="9" class="watch-marker"/>
+          <text y="-22" text-anchor="end" class="watch-anchor">2027-04-30</text>
+          <text y="-7" text-anchor="end" class="watch-anchor-sub">12 months out · falsification window 2</text>
+          <text y="32" text-anchor="end" class="watch-condition"><tspan x="0" dy="0">— Vertical AEs below 12? (vs 26+ now)</tspan></text>
+          <text y="50" text-anchor="end" class="watch-condition"><tspan x="0" dy="0">— Beneficial Deployments fewer than 5?</tspan></text>
+          <text y="68" text-anchor="end" class="watch-condition"><tspan x="0" dy="0">— Plugin packs zero commits in 90d?</tspan></text>
+        </g>
+      </svg>
+    </div>
+    <p class="viz-takeaway">
+      The dates are not Anthropic's roadmap; they are <em>our observation
+      deadlines</em>. If by 2026-12 there is no Federal civilian or Healthcare /
+      Life Sciences named-customer announcement, the vertical-Claude thesis
+      weakens. If by 2027-04 the vertical AE count drops below 12, the thesis is
+      functionally dead. <strong>Come back to check.</strong> Each window's
+      pass/fail status is tracked at <a href="/track-record/">/track-record/</a>.
+    </p>
+  </section>
 
   <section class="deep-link-section">
     <div class="deep-link-frame">
@@ -267,6 +317,70 @@ try {
     color: var(--fg-soft);
     max-width: 44rem;
     font-variation-settings: "opsz" 36, "SOFT" 50, "WONK" 0;
+  }
+  .obs-macro {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 1.05rem;
+    line-height: 1.55;
+    color: var(--fg-muted);
+    max-width: 50rem;
+    margin: 1rem 0 0;
+    padding-left: 1rem;
+    border-left: 2px solid var(--rule);
+    font-variation-settings: "opsz" 36, "SOFT" 60, "WONK" 0;
+  }
+  .obs-macro em {
+    color: var(--fg);
+    font-variation-settings: "opsz" 36, "SOFT" 100, "WONK" 1;
+  }
+
+  .watch-timeline {
+    padding: 1.5rem 0;
+    border-top: 1px solid var(--rule-soft);
+    border-bottom: 1px solid var(--rule-soft);
+    overflow-x: auto;
+  }
+  .watch-svg {
+    width: 100%;
+    min-width: 720px;
+    height: auto;
+    display: block;
+  }
+  .watch-rule {
+    stroke: var(--rule);
+    stroke-width: 1;
+    vector-effect: non-scaling-stroke;
+  }
+  .watch-marker {
+    fill: var(--bg);
+    stroke: var(--accent);
+    stroke-width: 2;
+    vector-effect: non-scaling-stroke;
+  }
+  .watch-marker--now {
+    fill: var(--accent);
+  }
+  .watch-anchor {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    font-weight: 600;
+    fill: var(--fg);
+    letter-spacing: 0.04em;
+  }
+  .watch-anchor-sub {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    fill: var(--fg-muted);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .watch-condition {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 12px;
+    fill: var(--fg-soft);
+    font-variation-settings: "opsz" 36, "SOFT" 60, "WONK" 0;
   }
 
   .viz-section {
