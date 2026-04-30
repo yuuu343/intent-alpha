@@ -57,9 +57,11 @@ function opacity(v: number) {
 
 // Top-decile threshold: cells at or above this value get a hairline vermillion
 // stroke so outliers read instantly without disrupting the gradient elsewhere.
+// Also identify the absolute top-1 for the most prominent visual treatment.
 const sortedVals = cells.map((c) => c.value).filter((v) => v > 0).sort((a, b) => b - a);
 const p90Idx = Math.max(0, Math.floor(sortedVals.length * 0.10) - 1);
 const p90 = sortedVals.length > 0 ? sortedVals[p90Idx] : Infinity;
+const top1 = sortedVals.length > 0 ? sortedVals[0] : Infinity;
 ---
 <figure class="heatmap-fig">
   <svg class="heatmap" viewBox={`0 0 ${totalW} ${totalH}`} preserveAspectRatio="xMidYMid meet" role="img" aria-label={caption ?? 'Hiring concentration heatmap'}>
@@ -101,8 +103,10 @@ const p90 = sortedVals.length > 0 ? sortedVals[p90Idx] : Infinity;
       const href = cellHref?.(row.id, col.id);
       const title = cellTitle?.(row.id, col.id, v) ?? `${row.label} · ${col.label}: ${v}`;
       const isOutlier = v > 0 && v >= p90;
+      const isTop1 = v > 0 && v === top1;
+      const cellClass = `hm-cell${isOutlier ? ' hm-cell--outlier' : ''}${isTop1 ? ' hm-cell--top1' : ''}`;
       const cell = (
-        <g class={`hm-cell${isOutlier ? ' hm-cell--outlier' : ''}`} data-row={row.id} data-col={col.id}>
+        <g class={cellClass} data-row={row.id} data-col={col.id}>
           <rect class="hm-cell-bg" x={x} y={y} width={COL_W} height={ROW_H} style={`--cell-op: ${op}; animation-delay: ${delay}ms;`}/>
           <text class="hm-cell-text" x={x + COL_W / 2} y={y + ROW_H * 0.7} text-anchor="middle" style={v === 0 ? 'display: none;' : ''}>{v}</text>
           <title>{title}</title>
@@ -146,6 +150,23 @@ const p90 = sortedVals.length > 0 ? sortedVals[p90Idx] : Infinity;
     stroke-width: 1;
     vector-effect: non-scaling-stroke;
   }
+  /* Outlier text inverted to cream — high opacity vermillion + dark text loses
+     contrast; cream-on-saturated reads at a glance and signals "extreme value". */
+  .hm-cell--outlier .hm-cell-text {
+    fill: var(--bg);
+    font-weight: 600;
+  }
+  /* Absolute top: thicker stroke, double-emphasis. */
+  .hm-cell--top1 .hm-cell-bg {
+    stroke-width: 1.6;
+  }
+  .hm-cell--top1 .hm-cell-text {
+    font-weight: 700;
+    font-size: 9.5px;
+  }
+  .heatmap a:hover .hm-cell-text {
+    fill: var(--bg) !important;
+  }
   @keyframes hm-cell-in {
     from { fill-opacity: 0; }
     to   { fill-opacity: var(--cell-op, 0); }
@@ -171,9 +192,6 @@ const p90 = sortedVals.length > 0 ? sortedVals[p90Idx] : Infinity;
     fill: var(--fg);
     pointer-events: none;
     transition: fill 180ms ease;
-  }
-  .heatmap a:hover .hm-cell-text {
-    fill: var(--bg) !important;
   }
   .hm-row-label {
     font-family: var(--font-display);

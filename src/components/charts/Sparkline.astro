@@ -38,14 +38,30 @@ const pathD = points
   .map((_, i) => `${i === 0 ? 'M' : 'L'}${xs[i].toFixed(2)},${ys[i].toFixed(2)}`)
   .join(' ');
 
+// Closed area path for the fill below the line (anchors at H-P on both ends).
+const baseY = (H - P).toFixed(2);
+const areaD = N > 1
+  ? `M${xs[0].toFixed(2)},${baseY} L${pathD.slice(1)} L${xs[N - 1].toFixed(2)},${baseY} Z`
+  : '';
+
+// Peak / trough indices — used to mark the extreme points more prominently.
+let peakIdx = 0;
+let troughIdx = 0;
+for (let i = 1; i < N; i++) {
+  if (values[i] > values[peakIdx]) peakIdx = i;
+  if (values[i] < values[troughIdx]) troughIdx = i;
+}
+
 const titles = points.map((p) => `${p.date}: ${p.value.toLocaleString()}`).join(' · ');
 ---
 <svg class="sparkline" viewBox={`0 0 ${W} ${H}`} preserveAspectRatio="none" role="img" aria-label={titles}>
   <title>{titles}</title>
+  {N > 1 && <path class="spark-area" d={areaD}/>}
   {N > 1 && <path class="spark-line" d={pathD}/>}
-  {showDots && points.map((_, i) => (
-    <circle class="spark-dot" cx={xs[i]} cy={ys[i]} r="1.6"/>
-  ))}
+  {showDots && points.map((_, i) => {
+    const isPeak = i === peakIdx && N > 1;
+    return <circle class={`spark-dot${isPeak ? ' spark-dot--peak' : ''}`} cx={xs[i]} cy={ys[i]}/>;
+  })}
 </svg>
 
 <style>
@@ -56,9 +72,14 @@ const titles = points.map((p) => `${p.date}: ${p.value.toLocaleString()}`).join(
     display: inline-block;
     overflow: visible;
   }
+  .spark-area {
+    fill: var(--accent);
+    fill-opacity: 0.13;
+    stroke: none;
+  }
   .spark-line {
     stroke: var(--accent);
-    stroke-width: var(--spark-stroke, 1.3);
+    stroke-width: var(--spark-stroke, 1.5);
     fill: none;
     vector-effect: non-scaling-stroke;
     stroke-linecap: round;
@@ -66,7 +87,14 @@ const titles = points.map((p) => `${p.date}: ${p.value.toLocaleString()}`).join(
   }
   .spark-dot {
     fill: var(--accent);
-    r: var(--spark-dot, 1.6);
+    r: var(--spark-dot, 1.7);
+  }
+  .spark-dot--peak {
+    r: calc(var(--spark-dot, 1.7) * 1.7);
+    fill: var(--accent-deep, var(--accent));
+    stroke: var(--bg);
+    stroke-width: 1;
+    vector-effect: non-scaling-stroke;
   }
   /* Mobile: thicker stroke and larger dots for outdoor / low-brightness viewing. */
   @media (max-width: 640px) {

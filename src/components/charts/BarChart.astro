@@ -32,8 +32,9 @@ const max = Math.max(maxValue ?? 0, ...items.map((i) => i.value), 1);
     {items.map((item, i) => {
       const pct = (item.value / max) * 100;
       const delay = i * 45;
+      const isLeader = i === 0;
       const row = (
-        <div class="bc-row">
+        <div class={`bc-row${isLeader ? ' bc-row--leader' : ''}`}>
           <span class="bc-label">{item.label}</span>
           <div class="bc-track">
             <div class="bc-fill" style={`--target-w: ${pct.toFixed(2)}%; animation-delay: ${delay}ms;`}/>
@@ -80,7 +81,7 @@ const max = Math.max(maxValue ?? 0, ...items.map((i) => i.value), 1);
     white-space: nowrap;
   }
   .bc-track {
-    height: 7px;
+    height: 10px;
     background: var(--bg-deep);
     position: relative;
   }
@@ -90,6 +91,18 @@ const max = Math.max(maxValue ?? 0, ...items.map((i) => i.value), 1);
     width: var(--target-w, 0%);
     animation: bc-fill-in 800ms cubic-bezier(0.16, 1, 0.3, 1) both;
     transition: background 180ms ease;
+  }
+  /* Top bar (leader): thicker fill + bolder value. The visual asymmetry is
+     small but enough to make the eye land on the leader before scanning down. */
+  .bc-row--leader .bc-track { height: 13px; }
+  .bc-row--leader .bc-value {
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--accent);
+  }
+  .bc-row--leader .bc-label {
+    color: var(--fg);
+    font-weight: 400;
   }
   @keyframes bc-fill-in {
     from { width: 0; }
