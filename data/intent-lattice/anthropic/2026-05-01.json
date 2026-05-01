@@ -1,0 +1,395 @@
+{
+  "lab": "anthropic",
+  "computedAt": "2026-05-01T01:26:53.174Z",
+  "sources": {
+    "jobs": "data\\snapshots\\anthropic\\2026-04-29.json",
+    "arxiv": "data\\arxiv\\anthropic\\2026-04-29.json"
+  },
+  "totals": {
+    "jobs": 445,
+    "researchJobs": 159,
+    "arxiv": 200
+  },
+  "thresholds": {
+    "jobs": 5,
+    "arxiv": 10
+  },
+  "topics": [
+    {
+      "topic": "post_training",
+      "jobs": 2,
+      "arxiv": 13,
+      "sampleJobs": [
+        {
+          "title": "Research Engineer, Production Model Post-Training",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
+          "department": "AI Research & Engineering"
+        },
+        {
+          "title": "Research Engineer, Production Model Post-Training",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008",
+          "department": "AI Research & Engineering"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Beyond Importance Sampling: Rejection-Gated Policy Optimization",
+          "url": "http://arxiv.org/abs/2604.14895v1",
+          "published": "2026-04-16T11:39:11Z"
+        },
+        {
+          "title": "Relational Preference Encoding in Looped Transformer Internal States",
+          "url": "http://arxiv.org/abs/2604.09870v1",
+          "published": "2026-04-10T20:00:49Z"
+        },
+        {
+          "title": "Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning",
+          "url": "http://arxiv.org/abs/2603.29038v1",
+          "published": "2026-03-30T22:10:28Z"
+        }
+      ],
+      "quadrant": "Q2"
+    },
+    {
+      "topic": "pre_training",
+      "jobs": 5,
+      "arxiv": 3,
+      "sampleJobs": [
+        {
+          "title": "Research Engineer, Pretraining",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008",
+          "department": "AI Research & Engineering"
+        },
+        {
+          "title": "Research Engineer, Pretraining Scaling",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
+          "department": "AI Research & Engineering"
+        },
+        {
+          "title": "Research Engineer, Pretraining Scaling - London",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008",
+          "department": "AI Research & Engineering"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "The End of the Foundation Model Era: Open-Weight Models, Sovereign AI, and Inference as Infrastructure",
+          "url": "http://arxiv.org/abs/2604.06217v1",
+          "published": "2026-03-18T04:49:10Z"
+        },
+        {
+          "title": "Using physics-inspired Singular Learning Theory to understand grokking &amp; other phase transitions in modern neural networks",
+          "url": "http://arxiv.org/abs/2512.00686v3",
+          "published": "2025-11-30T01:39:27Z"
+        },
+        {
+          "title": "From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence",
+          "url": "http://arxiv.org/abs/2511.18538v5",
+          "published": "2025-11-23T17:09:34Z"
+        }
+      ],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "interpretability",
+      "jobs": 3,
+      "arxiv": 10,
+      "sampleJobs": [
+        {
+          "title": " [Expression of Interest] Research Manager, Interpretability",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
+          "department": "AI Research & Engineering"
+        },
+        {
+          "title": "Research Engineer, Interpretability",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
+          "department": "AI Research & Engineering"
+        },
+        {
+          "title": "Research Scientist, Interpretability",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
+          "department": "AI Research & Engineering"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Preference learning in shades of gray: Interpretable and bias-aware reward modeling for human preferences",
+          "url": "http://arxiv.org/abs/2604.01312v1",
+          "published": "2026-04-01T18:26:16Z"
+        },
+        {
+          "title": "Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities",
+          "url": "http://arxiv.org/abs/2602.05532v1",
+          "published": "2026-02-05T10:45:48Z"
+        },
+        {
+          "title": "Detecting Winning Arguments with Large Language Models and Persuasion Strategies",
+          "url": "http://arxiv.org/abs/2601.10660v1",
+          "published": "2026-01-15T18:30:15Z"
+        }
+      ],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "alignment_safety",
+      "jobs": 16,
+      "arxiv": 37,
+      "sampleJobs": [
+        {
+          "title": "Data Engineer, Safeguards",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5156057008",
+          "department": "Safeguards (Trust & Safety) "
+        },
+        {
+          "title": "Engineering Manager, Safeguards Data Infrastructure",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5103078008",
+          "department": "Safeguards (Trust & Safety) "
+        },
+        {
+          "title": "ML Infrastructure Engineer, Safeguards",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
+          "department": "AI Research & Engineering"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Risk Reporting for Developers' Internal AI Model Use",
+          "url": "http://arxiv.org/abs/2604.24966v1",
+          "published": "2026-04-27T20:07:09Z"
+        },
+        {
+          "title": "Evaluating Jailbreaking Vulnerabilities in LLMs Deployed as Assistants for Smart Grid Operations: A Benchmark Against NERC Standards",
+          "url": "http://arxiv.org/abs/2604.23341v1",
+          "published": "2026-04-25T15:01:12Z"
+        },
+        {
+          "title": "When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors",
+          "url": "http://arxiv.org/abs/2604.21255v1",
+          "published": "2026-04-23T03:48:56Z"
+        }
+      ],
+      "quadrant": "Q1"
+    },
+    {
+      "topic": "agents",
+      "jobs": 2,
+      "arxiv": 45,
+      "sampleJobs": [
+        {
+          "title": "Engineering Manager, Agent Prompts & Evals",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5159608008",
+          "department": "Engineering & Design - Product"
+        },
+        {
+          "title": "Prompt Engineer, Agent Prompts & Evals",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5107121008",
+          "department": "Engineering & Design - Product"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Cross-Session Threats in AI Agents: Benchmark, Evaluation, and Algorithms",
+          "url": "http://arxiv.org/abs/2604.21131v1",
+          "published": "2026-04-22T22:40:31Z"
+        },
+        {
+          "title": "HiveMind: OS-Inspired Scheduling for Concurrent LLM Agent Workloads",
+          "url": "http://arxiv.org/abs/2604.17111v1",
+          "published": "2026-04-18T18:59:33Z"
+        },
+        {
+          "title": "Skilldex: A Package Manager and Registry for Agent Skill Packages with Hierarchical Scope-Based Distribution",
+          "url": "http://arxiv.org/abs/2604.16911v1",
+          "published": "2026-04-18T08:42:11Z"
+        }
+      ],
+      "quadrant": "Q2"
+    },
+    {
+      "topic": "inference_serving",
+      "jobs": 11,
+      "arxiv": 2,
+      "sampleJobs": [
+        {
+          "title": "Engineering Manager, Cloud Inference AWS",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5141377008",
+          "department": "Software Engineering - Infrastructure"
+        },
+        {
+          "title": "Engineering Manager, Inference",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
+          "department": "AI Research & Engineering"
+        },
+        {
+          "title": "Engineering Manager, Inference Routing and Performance",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5155391008",
+          "department": "AI Research & Engineering"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "vLLM Semantic Router: Signal Driven Decision Routing for Mixture-of-Modality Models",
+          "url": "http://arxiv.org/abs/2603.04444v2",
+          "published": "2026-02-23T15:00:01Z"
+        },
+        {
+          "title": "Tail-Optimized Caching for LLM Inference",
+          "url": "http://arxiv.org/abs/2510.15152v1",
+          "published": "2025-10-16T21:22:16Z"
+        }
+      ],
+      "quadrant": "Q4"
+    },
+    {
+      "topic": "multimodal",
+      "jobs": 0,
+      "arxiv": 4,
+      "sampleJobs": [],
+      "sampleArxiv": [
+        {
+          "title": "Webscraper: Leverage Multimodal Large Language Models for Index-Content Web Scraping",
+          "url": "http://arxiv.org/abs/2603.29161v1",
+          "published": "2026-03-31T02:20:27Z"
+        },
+        {
+          "title": "From Pixels to BFS: High Maze Accuracy Does Not Imply Visual Planning",
+          "url": "http://arxiv.org/abs/2603.26839v1",
+          "published": "2026-03-27T08:10:05Z"
+        },
+        {
+          "title": "DoPE: Decoy Oriented Perturbation Encapsulation Human-Readable, AI-Hostile Documents for Academic Integrity",
+          "url": "http://arxiv.org/abs/2601.12505v1",
+          "published": "2026-01-18T17:34:29Z"
+        }
+      ],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "evaluation",
+      "jobs": 0,
+      "arxiv": 58,
+      "sampleJobs": [],
+      "sampleArxiv": [
+        {
+          "title": "Evaluating Large Language Models on Computer Science University Exams in Data Structures",
+          "url": "http://arxiv.org/abs/2604.23347v1",
+          "published": "2026-04-25T15:08:51Z"
+        },
+        {
+          "title": "Evaluating Jailbreaking Vulnerabilities in LLMs Deployed as Assistants for Smart Grid Operations: A Benchmark Against NERC Standards",
+          "url": "http://arxiv.org/abs/2604.23341v1",
+          "published": "2026-04-25T15:01:12Z"
+        },
+        {
+          "title": "Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines",
+          "url": "http://arxiv.org/abs/2604.23178v1",
+          "published": "2026-04-25T07:18:30Z"
+        }
+      ],
+      "quadrant": "Q2"
+    },
+    {
+      "topic": "compute_infra",
+      "jobs": 2,
+      "arxiv": 1,
+      "sampleJobs": [
+        {
+          "title": "Staff Engineer, Datacenter Server Lifecycle",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5131038008",
+          "department": "Software Engineering - Infrastructure"
+        },
+        {
+          "title": "Staff Engineer, Datacenter Server Lifecycle",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5139038008",
+          "department": "Software Engineering - Infrastructure"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Introducing LCOAI: A Standardized Economic Metric for Evaluating AI Deployment Costs",
+          "url": "http://arxiv.org/abs/2509.02596v1",
+          "published": "2025-08-29T14:49:37Z"
+        }
+      ],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "data_quality",
+      "jobs": 0,
+      "arxiv": 1,
+      "sampleJobs": [],
+      "sampleArxiv": [
+        {
+          "title": "From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence",
+          "url": "http://arxiv.org/abs/2511.18538v5",
+          "published": "2025-11-23T17:09:34Z"
+        }
+      ],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "security_eng",
+      "jobs": 9,
+      "arxiv": 12,
+      "sampleJobs": [
+        {
+          "title": "Application Security Engineer",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
+          "department": "Security"
+        },
+        {
+          "title": "Offensive Security Research Engineer, Safeguards",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5123011008",
+          "department": "Safeguards (Trust & Safety) "
+        },
+        {
+          "title": "Security Engineer, Detection & Response",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
+          "department": "Security"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Evaluating Jailbreaking Vulnerabilities in LLMs Deployed as Assistants for Smart Grid Operations: A Benchmark Against NERC Standards",
+          "url": "http://arxiv.org/abs/2604.23341v1",
+          "published": "2026-04-25T15:01:12Z"
+        },
+        {
+          "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
+          "url": "http://arxiv.org/abs/2604.21860v1",
+          "published": "2026-04-23T16:56:14Z"
+        },
+        {
+          "title": "Mythos and the Unverified Cage: Z3-Based Pre-Deployment Verification for Frontier-Model Sandbox Infrastructure",
+          "url": "http://arxiv.org/abs/2604.20496v1",
+          "published": "2026-04-22T12:28:23Z"
+        }
+      ],
+      "quadrant": "Q1"
+    },
+    {
+      "topic": "applied_fde",
+      "jobs": 6,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Cluster Deployment Engineer",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191638008",
+          "department": "Compute"
+        },
+        {
+          "title": "Forward Deployed Engineer",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5012991008",
+          "department": "Applied AI"
+        },
+        {
+          "title": "Forward Deployed Engineer",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121563008",
+          "department": "Applied AI"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q4"
+    }
+  ]
+}

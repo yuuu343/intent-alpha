@@ -27,6 +27,26 @@ const UA = 'IntentAlphaBot/0.2 (+https://intent-alpha.hide3desudesu.workers.dev;
 const ARXIV_DELAY_MS = 3100;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// Topic-seeded queries — used by `--topic <name>` mode to capture the broad
+// arXiv field for a topic (no author/affiliation filter), so that the Intent
+// Lattice can honestly distinguish "no Say signal" from "we sampled too narrow".
+// Scoped to cs.LG / cs.AI / cs.CL to keep noise down.
+//
+// Topics omitted (security_eng, applied_fde) are not arXiv-research topics.
+const TOPIC_QUERIES = {
+  post_training:     '(ti:"post-training" OR ti:"RLHF" OR abs:"RLHF" OR ti:"DPO" OR ti:"GRPO" OR ti:"preference modeling" OR abs:"reinforcement learning from human feedback")',
+  pre_training:      '(ti:"pre-training" OR ti:"pretraining" OR ti:"foundation model" OR ti:"scaling law")',
+  interpretability:  '(ti:"interpretability" OR ti:"sparse autoencoder" OR ti:"mechanistic interpretability" OR ti:"circuit analysis" OR ti:"representation engineering")',
+  alignment_safety:  '(ti:"alignment" OR ti:"constitutional AI" OR ti:"red-teaming" OR ti:"red teaming" OR ti:"AI safety")',
+  agents:            '(ti:"LLM agent" OR ti:"agentic" OR ti:"tool use" OR ti:"computer use" OR ti:"autonomous workflow")',
+  inference_serving: '(ti:"inference" OR ti:"serving" OR abs:"vLLM" OR abs:"TensorRT" OR ti:"speculative decoding")',
+  multimodal:        '(ti:"multimodal" OR ti:"vision-language" OR ti:"VLM")',
+  evaluation:        '(ti:"benchmark" OR ti:"evaluation" OR ti:"model assessment")',
+  compute_infra:     '(ti:"datacenter" OR abs:"GPU cluster" OR abs:"InfiniBand" OR ti:"capacity planning")',
+  data_quality:      '(ti:"data curation" OR abs:"dataset construction" OR ti:"data quality")',
+};
+const TOPIC_CAT_FILTER = '(cat:cs.LG OR cat:cs.AI OR cat:cs.CL)';
+
 // Per-entity seed config. Authors broaden capture beyond affiliation strings
 // (which arXiv does not always carry). Hand-curated for accuracy; future
 // snapshots can grow the seed list as new researchers surface in dispatches.
@@ -68,6 +88,15 @@ function buildQuery(entity, customQuery) {
   if (!seed) return `all:"${entity}"`;
   const authorClauses = seed.authors.map((n) => `au:"${n}"`);
   return `(all:"${seed.affiliation}" OR ${authorClauses.join(' OR ')})`;
+}
+
+function buildTopicQuery(topic) {
+  const q = TOPIC_QUERIES[topic];
+  if (!q) {
+    const known = Object.keys(TOPIC_QUERIES).join(', ');
+    throw new Error(`unknown topic '${topic}'. known: ${known}`);
+  }
+  return `${TOPIC_CAT_FILTER} AND ${q}`;
 }
 
 async function arxivQuery(query, start, max) {
@@ -130,18 +159,34 @@ function parseEntries(xml) {
 async function main() {
   const args = process.argv.slice(2);
   if (!args[0]) {
-    console.error('usage: node scripts/fetch-arxiv.mjs <entity> [--max N] [--query "..."]');
+    console.error('usage:');
+    console.error('  node scripts/fetch-arxiv.mjs <entity> [--max N] [--query "..."]');
+    console.error('  node scripts/fetch-arxiv.mjs --topic <topic> [--max N]');
     process.exit(1);
   }
-  const entity = args[0];
   let maxTotal = 200;
   let customQuery = null;
-  for (let i = 1; i < args.length; i++) {
-    if (args[i] === '--max') maxTotal = parseInt(args[++i], 10) || maxTotal;
-    if (args[i] === '--query') customQuery = args[++i];
+  let topic = null;
+  let entity = null;
+  if (args[0] === '--topic') {
+    topic = args[1];
+    if (!topic) {
+      console.error(`available topics: ${Object.keys(TOPIC_QUERIES).join(', ')}`);
+      process.exit(1);
+    }
+    entity = `_topic_${topic}`;
+    for (let i = 2; i < args.length; i++) {
+      if (args[i] === '--max') maxTotal = parseInt(args[++i], 10) || maxTotal;
+    }
+  } else {
+    entity = args[0];
+    for (let i = 1; i < args.length; i++) {
+      if (args[i] === '--max') maxTotal = parseInt(args[++i], 10) || maxTotal;
+      if (args[i] === '--query') customQuery = args[++i];
+    }
   }
-  const query = buildQuery(entity, customQuery);
-  console.log(`[arxiv] entity=${entity} query=${query} max=${maxTotal}`);
+  const query = topic ? buildTopicQuery(topic) : buildQuery(entity, customQuery);
+  console.log(`[arxiv] ${topic ? `topic=${topic}` : `entity=${entity}`} query=${query} max=${maxTotal}`);
 
   const pageSize = 50;
   const all = [];
@@ -162,10 +207,15 @@ async function main() {
     await sleep(ARXIV_DELAY_MS);
   }
 
-  await mkdir(path.join(ARXIV_DIR, entity), { recursive: true });
-  const file = path.join(ARXIV_DIR, entity, `${today()}.json`);
+  // Topic mode goes under _topics/<topic>/ so per-entity arxivs stay clean.
+  const outDir = topic
+    ? path.join(ARXIV_DIR, '_topics', topic)
+    : path.join(ARXIV_DIR, entity);
+  await mkdir(outDir, { recursive: true });
+  const file = path.join(outDir, `${today()}.json`);
   const out = {
-    entity,
+    entity: topic ? null : entity,
+    topic: topic ?? null,
     query,
     fetchedAt: new Date().toISOString(),
     count: all.length,

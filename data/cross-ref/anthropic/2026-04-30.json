@@ -1,0 +1,100 @@
+{
+  "entity": "anthropic",
+  "computedAt": "2026-04-30T23:12:32.225Z",
+  "sources": {
+    "jobs": "data\\snapshots\\anthropic\\2026-04-29.json",
+    "arxiv": "data\\arxiv\\anthropic\\2026-04-29.json",
+    "github": "data\\github\\anthropics\\2026-04-28.json"
+  },
+  "totals": {
+    "jobs": 445,
+    "arxiv": 200,
+    "github": 25
+  },
+  "topics": [
+    {
+      "topic": "post_training",
+      "jobs": 2,
+      "arxiv": 13,
+      "github": 0,
+      "githubAdopt": 0
+    },
+    {
+      "topic": "pre_training",
+      "jobs": 5,
+      "arxiv": 6,
+      "github": 0,
+      "githubAdopt": 0
+    },
+    {
+      "topic": "interpretability",
+      "jobs": 3,
+      "arxiv": 10,
+      "github": 0,
+      "githubAdopt": 0
+    },
+    {
+      "topic": "alignment_safety",
+      "jobs": 23,
+      "arxiv": 37,
+      "github": 0,
+      "githubAdopt": 0
+    },
+    {
+      "topic": "agents",
+      "jobs": 3,
+      "arxiv": 45,
+      "github": 7,
+      "githubAdopt": 66746
+    },
+    {
+      "topic": "inference_serving",
+      "jobs": 13,
+      "arxiv": 11,
+      "github": 1,
+      "githubAdopt": 1596
+    },
+    {
+      "topic": "multimodal",
+      "jobs": 0,
+      "arxiv": 11,
+      "github": 0,
+      "githubAdopt": 0
+    },
+    {
+      "topic": "evaluation",
+      "jobs": 0,
+      "arxiv": 79,
+      "github": 1,
+      "githubAdopt": 136
+    },
+    {
+      "topic": "compute_infra",
+      "jobs": 7,
+      "arxiv": 1,
+      "github": 0,
+      "githubAdopt": 0
+    },
+    {
+      "topic": "data_quality",
+      "jobs": 0,
+      "arxiv": 1,
+      "github": 0,
+      "githubAdopt": 0
+    },
+    {
+      "topic": "security_eng",
+      "jobs": 10,
+      "arxiv": 12,
+      "github": 1,
+      "githubAdopt": 24192
+    },
+    {
+      "topic": "applied_fde",
+      "jobs": 45,
+      "arxiv": 0,
+      "github": 0,
+      "githubAdopt": 0
+    }
+  ]
+}

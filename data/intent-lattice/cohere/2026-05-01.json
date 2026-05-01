@@ -1,0 +1,180 @@
+{
+  "lab": "cohere",
+  "computedAt": "2026-05-01T02:12:57.585Z",
+  "sources": {
+    "jobs": "data\\snapshots\\cohere\\2026-04-29.json",
+    "arxiv": null
+  },
+  "totals": {
+    "jobs": 119,
+    "researchJobs": 57,
+    "arxiv": 0
+  },
+  "thresholds": {
+    "jobs": 4,
+    "arxiv": 0
+  },
+  "topics": [
+    {
+      "topic": "post_training",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "pre_training",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "interpretability",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "alignment_safety",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "agents",
+      "jobs": 6,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Forward Deployed Engineer, Agentic Platform",
+          "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
+          "department": "Agentic Platform"
+        },
+        {
+          "title": "Applied AI Engineer – Agentic Workflows",
+          "url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
+          "department": "Modeling"
+        },
+        {
+          "title": "Applied AI Engineer - Agentic Workflows (Singapore)",
+          "url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
+          "department": "Modeling"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q4"
+    },
+    {
+      "topic": "inference_serving",
+      "jobs": 4,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Audio Inference Engineer, Model Efficiency",
+          "url": "https://jobs.ashbyhq.com/cohere/e912d84c-8399-422d-8a7d-918422a3e4b1",
+          "department": "Modeling"
+        },
+        {
+          "title": "Staff Software Engineer, Inference Infrastructure",
+          "url": "https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64",
+          "department": "Inference"
+        },
+        {
+          "title": "Full-Stack Software Engineer, Inference",
+          "url": "https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c",
+          "department": "Inference"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "multimodal",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "evaluation",
+      "jobs": 2,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Senior Research Engineer, Model Evaluation",
+          "url": "https://jobs.ashbyhq.com/cohere/cb5d588c-5637-423a-968b-bf637ee2caf9",
+          "department": "Modeling"
+        },
+        {
+          "title": "Senior Research Scientist, Model Evaluation",
+          "url": "https://jobs.ashbyhq.com/cohere/830c613b-d4bf-4673-ab33-46ccc12cc415",
+          "department": "Modeling"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "compute_infra",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "data_quality",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "security_eng",
+      "jobs": 1,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Senior Security Engineer",
+          "url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
+          "department": "Product"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "applied_fde",
+      "jobs": 12,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Forward Deployed Engineer, Infrastructure Specialist (UK/EU/ME)",
+          "url": "https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900",
+          "department": "Agentic Platform"
+        },
+        {
+          "title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
+          "url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a",
+          "department": "Agentic Platform"
+        },
+        {
+          "title": "Forward Deployed Engineer, Infrastructure Specialist",
+          "url": "https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b",
+          "department": "Agentic Platform"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q4"
+    }
+  ]
+}

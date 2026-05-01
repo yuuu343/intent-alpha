@@ -1,0 +1,165 @@
+{
+  "lab": "mistral",
+  "computedAt": "2026-05-01T02:12:57.664Z",
+  "sources": {
+    "jobs": "data\\snapshots\\mistral\\2026-04-29.json",
+    "arxiv": null
+  },
+  "totals": {
+    "jobs": 170,
+    "researchJobs": 80,
+    "arxiv": 0
+  },
+  "thresholds": {
+    "jobs": 1,
+    "arxiv": 0
+  },
+  "topics": [
+    {
+      "topic": "post_training",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "pre_training",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "interpretability",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "alignment_safety",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "agents",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "inference_serving",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "multimodal",
+      "jobs": 1,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Applied Scientist / Research Engineer - Multimodal (Come to Singapore)",
+          "url": "https://jobs.ashbyhq.com/mistral/8f467aa3-7fbf-4fdc-bfa9-595d239bea87",
+          "department": "No Department"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "evaluation",
+      "jobs": 1,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Applied AI, Evaluation Engineer",
+          "url": "https://jobs.ashbyhq.com/mistral/5d4153c4-f0cf-4e7e-ab7a-300b1c393df6",
+          "department": "No Department"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "compute_infra",
+      "jobs": 1,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Datacenter Hardware Engineer, HPC",
+          "url": "https://jobs.ashbyhq.com/mistral/0011bc22-e116-45b1-a12f-0882e393560e",
+          "department": "No Department"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "data_quality",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "security_eng",
+      "jobs": 4,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "CyberSecurity, Offensive Security Engineer",
+          "url": "https://jobs.ashbyhq.com/mistral/ec9cb4d8-2b00-4270-9e29-e40320ecd28d",
+          "department": "No Department"
+        },
+        {
+          "title": "Cybersecurity Engineer, SIEM",
+          "url": "https://jobs.ashbyhq.com/mistral/3b3287ce-d244-4195-82c0-9a336b251d54",
+          "department": "No Department"
+        },
+        {
+          "title": "CyberSecurity Engineer, DevSecOps",
+          "url": "https://jobs.ashbyhq.com/mistral/63e4b464-4a1e-4517-a863-4591e5c9a412",
+          "department": "No Department"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q4"
+    },
+    {
+      "topic": "applied_fde",
+      "jobs": 17,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal",
+          "url": "https://jobs.ashbyhq.com/mistral/0b609a1a-cda9-4dc6-86fa-98c0a17d8273",
+          "department": "No Department"
+        },
+        {
+          "title": "Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto",
+          "url": "https://jobs.ashbyhq.com/mistral/4fbad709-16bd-488b-8762-10cd8cd39e2a",
+          "department": "No Department"
+        },
+        {
+          "title": "Applied AI Engineer, Senior/Staff Devops/SRE - EMEA",
+          "url": "https://jobs.ashbyhq.com/mistral/2b2a2ad9-5832-4ec7-9198-5365f2a3dfb3",
+          "department": "No Department"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q4"
+    }
+  ]
+}

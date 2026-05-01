@@ -16,25 +16,11 @@ import { readFile, readdir, writeFile, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { TOPICS } from './_topics.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const ROOT = path.resolve(path.dirname(__filename), '..');
 const today = () => new Date().toISOString().slice(0, 10);
-
-const TOPICS = {
-  post_training:     /(post[- ]?training|preference modeling|\brlhf\b|\brlaif\b|\bdpo\b|\bgrpo\b|\bsft\b|\bppo\b)/i,
-  pre_training:      /(pre[- ]?training|foundation model|scaling law)/i,
-  interpretability:  /(interpretab|mech(?:anistic)? interp|circuit analysis|sparse autoencoder|\bsae\b|representation engineering)/i,
-  alignment_safety:  /(alignment|safeguard|constitutional ai|harm reduction|red[- ]?team|trust and safety)/i,
-  agents:            /(\bagent\b|agentic|tool use|orchestration|autonomous workflow|computer use)/i,
-  inference_serving: /(inference|model serving|tensorrt|\btrt-?llm\b|ray serve|\bvllm\b|serving infrastructure)/i,
-  multimodal:        /(multimodal|vision-?language|\bvlm\b|audio model|video model|speech model|image model)/i,
-  evaluation:        /(\beval(?:uation)?\b|benchmark|model assessment)/i,
-  compute_infra:     /(datacenter|colocation|\bgpu cluster\b|infiniband|nvlink|capex|capacity planning)/i,
-  data_quality:      /(data quality|data curation|dataset construction|filtering pipeline)/i,
-  security_eng:      /(security engineer|security research|threat model|incident response|vulnerab)/i,
-  applied_fde:       /(forward[- ]deployed|applied (?:ai|engineer|ml)|deployment engineer|customer engineer)/i,
-};
 
 async function loadLatest(dir) {
   if (!existsSync(dir)) return null;
