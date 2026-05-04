@@ -22,3 +22,8 @@ Thumbs.db
 # claude code local state
 .claude/settings.local.json
 /settings.local.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
