@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
+    "preview": "npm run build && wrangler dev",
     "astro": "astro",
     "fetch": "node scripts/fetch-jobs.mjs",
     "fetch-arxiv": "node scripts/fetch-arxiv.mjs",
@@ -15,12 +15,18 @@
     "vocab-shift": "node scripts/vocab-shift.mjs",
     "withdrawal": "node scripts/withdrawal-lifetime.mjs",
     "diffusion": "node scripts/diffusion-velocity.mjs",
-    "gh-deps": "node scripts/github-dependents.mjs"
+    "gh-deps": "node scripts/github-dependents.mjs",
+    "deploy": "npm run build && wrangler deploy",
+    "cf-typegen": "wrangler types"
   },
   "dependencies": {
-    "astro": "^5.0.0",
+    "@astrojs/cloudflare": "12",
     "@astrojs/mdx": "^4.0.0",
     "@astrojs/rss": "^4.0.0",
-    "@astrojs/sitemap": "^3.2.0"
+    "@astrojs/sitemap": "^3.2.0",
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.87.0"
   }
 }
