@@ -1,0 +1,954 @@
+{
+  "entity": "openai",
+  "topic": null,
+  "query": "(all:\"OpenAI\" OR au:\"Ilya Sutskever\" OR au:\"John Schulman\" OR au:\"Wojciech Zaremba\" OR au:\"Greg Brockman\" OR au:\"Andrej Karpathy\" OR au:\"Mark Chen\" OR au:\"Jakub Pachocki\" OR au:\"Lilian Weng\" OR au:\"Aleksander Madry\" OR au:\"Bob McGrew\")",
+  "fetchedAt": "2026-05-04T23:12:06.811Z",
+  "count": 50,
+  "papers": [
+    {
+      "arxivId": "2604.27891",
+      "url": "http://arxiv.org/abs/2604.27891v1",
+      "title": "In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks",
+      "authors": [
+        "Simon Dennis",
+        "Michael Diamond",
+        "Rivaan Patil",
+        "Kevin Shabahang",
+        "Hao Guo"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-04-30T14:07:37Z",
+      "updated": "2026-04-30T14:07:37Z",
+      "summary": "Agent orchestration frameworks -- LangGraph, CrewAI, Google ADK, OpenAI Agents SDK, and others -- place an external orchestrator above the LLM, tracking state and injecting routing instructions at every turn. We present a controlled comparison showing that for procedural tasks, this architecture is dominated by a simpler alternative: putting the entire procedure in the system prompt and letting the model self-orchestrate. Across three domains -- travel booking (14 nodes), Zoom technical support (14 nodes), and insurance claims processing (55 nodes) -- we evaluate 200 conversations per condition using LLM-as-judge scoring on five quality criteria. The in-context approach scores 4.53--5.00 on a 5-point scale while a LangGraph orchestrator using the same model scores 4.17--4.84. The orchestrated system fails on 24% of travel, 9% of Zoom, and 17% of insurance conversations, compared to 11.5%, 0.5%, and 5% for the in-context baseline. While external orchestration may have been necessary for earlier models, advances in frontier model capabilities have made it unnecessary for multi-turn conversations following a defined procedure."
+    },
+    {
+      "arxivId": "2604.27470",
+      "url": "http://arxiv.org/abs/2604.27470v1",
+      "title": "HealthBench Professional: Evaluating Large Language Models on Real Clinician Chats",
+      "authors": [
+        "Rebecca Soskin Hicks",
+        "Mikhail Trofimov",
+        "Dominick Lim",
+        "Rahul K. Arora",
+        "Foivos Tsimpourlas",
+        "Preston Bowman",
+        "Michael Sharman",
+        "Chi Tong",
+        "Kavin Karthik",
+        "Arnav Dugar",
+        "Akshay Jagadeesh",
+        "Khaled Saab",
+        "Johannes Heidecke",
+        "Ashley Alexander",
+        "Nate Gross",
+        "Karan Singhal"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-04-30T06:13:01Z",
+      "updated": "2026-04-30T06:13:01Z",
+      "summary": "Millions of clinicians use ChatGPT to support clinical care, but evaluations of the most common use cases in model-clinician conversations are limited. We introduce HealthBench Professional, an open benchmark for evaluating large language models on real tasks that clinicians bring to ChatGPT in the course of their work. The benchmark is organized around three common use cases central to clinical practice: care consult, writing and documentation, and medical research. Each example includes a physician-authored conversation with ChatGPT for Clinicians and is scored via rubrics written and iteratively adjudicated by three or more physicians across three phases. HealthBench Professional examples were carefully selected for quality, representativeness, and difficulty for OpenAI's current frontier models, to enable continued measurement of progress. Difficult examples for recent OpenAI models were enriched by roughly 3.5 times relative to the candidate pool of 15,079 examples. Additionally, about one-third of examples involve physicians conducting deliberate adversarial testing of models. As a strong baseline, we also collected human physician responses for all tasks (unbounded time, spe"
+    },
+    {
+      "arxivId": "2604.26649",
+      "url": "http://arxiv.org/abs/2604.26649v1",
+      "title": "When to Retrieve During Reasoning: Adaptive Retrieval for Large Reasoning Models",
+      "authors": [
+        "Dongxin Guo",
+        "Jikun Wu",
+        "Siu Ming Yiu"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-04-29T13:15:44Z",
+      "updated": "2026-04-29T13:15:44Z",
+      "summary": "Large reasoning models such as DeepSeek-R1 and OpenAI o1 generate extended chains of thought spanning thousands of tokens, yet their integration with retrieval-augmented generation (RAG) remains fundamentally misaligned. Current RAG systems optimize for providing context before reasoning begins, while reasoning models require evidence injection during multi-step inference chains. We introduce ReaLM-Retrieve, a reasoning-aware retrieval framework that addresses this mismatch through three key innovations: (1) a step-level uncertainty detector that identifies knowledge gaps at reasoning-step granularity rather than token or sentence level; (2) a retrieval intervention policy that learns when external evidence maximally benefits ongoing reasoning; and (3) an efficiency-optimized integration mechanism that reduces per-retrieval overhead by 3.2x compared to naive integration. Experiments on MuSiQue, HotpotQA, and 2WikiMultiHopQA demonstrate that ReaLM-Retrieve achieves on average 10.1% absolute improvement in answer F1 over standard RAG (range: 9.0-11.8% across the three benchmarks) while reducing retrieval calls by 47% compared to fixed-interval approaches like IRCoT (all improvements "
+    },
+    {
+      "arxivId": "2604.27006",
+      "url": "http://arxiv.org/abs/2604.27006v1",
+      "title": "Beyond Accuracy: LLM Variability in Evidence Screening for Software Engineering SLRs",
+      "authors": [
+        "Gilberto Sussumu Hida",
+        "Danilo Monteiro Ribeiro",
+        "Erika Yahata"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.SE",
+        "cs.AI"
+      ],
+      "published": "2026-04-29T08:55:16Z",
+      "updated": "2026-04-29T08:55:16Z",
+      "summary": "Context: Study screening in systematic literature reviews is costly, inconsistency-prone, and risk-asymmetric, since false negatives can compromise validity. Despite rapid uptake of Large Language Models (LLMs), there is limited evidence on how such models behave during the study screening phase, particularly regarding the choice of specific LLMs and their comparison with classical models. Objective: To assess LLM performance and variability in screening, quantify the impact of input metadata (abstract, title, keywords), and compare LLMs with classical classifiers under a shared protocol. Methods: We analyzed 12 LLMs from 4 providers (OpenAI, Google Gemini, Anthropic, Llama) and 4 classical models (Logistic Regression, Support Vector Classification, Random Forest, and Naive Bayes) on 2 real Systematic Literature Reviews (SLRs), totaling 518 papers. The experimental design investigated 3 critical dimensions: (i) LLMs performance variability, (ii) the impact of input feature composition (abstract, title, and keywords) on LLM performance, and (iii) the real gain of using LLMs instead of more traditional classification models. Results: LLMs exhibited substantial heterogeneity and resid"
+    },
+    {
+      "arxivId": "2604.26275",
+      "url": "http://arxiv.org/abs/2604.26275v1",
+      "title": "Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering",
+      "authors": [
+        "Happy Bhati"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.SE"
+      ],
+      "published": "2026-04-29T04:06:47Z",
+      "updated": "2026-04-29T04:06:47Z",
+      "summary": "The arrival of large language models (LLMs) capable of multi-step reasoning, tool use, and long-horizon planning has produced a qualitative shift in software engineering. Where earlier code-completion tools such as GitHub Copilot operated at the granularity of a line or function, modern agentic systems -- Claude Code, OpenAI Codex CLI, Google Jules, Devin, OpenHands, SWE-agent, MetaGPT, ChatDev, and DeepMind's AlphaEvolve -- operate at the granularity of a repository, a feature, or an algorithm. We synthesize work from Anthropic, OpenAI, Google DeepMind, Microsoft Research, Princeton, Stanford, and the broader academic community to characterize this transition. We propose a six-layer reference architecture for agentic software engineering systems, contrast a traditional Software Development Lifecycle (SDLC) with an emerging Agentic SDLC (A-SDLC), and consolidate empirical evidence on performance (a rise from 1.96% to 78.4% on SWE-bench Verified between October 2023 and April 2026), productivity (13.6%-55.8% time savings across controlled studies), and labor-market impact (49% of jobs sampled by Anthropic in 2026 saw AI used for at least a quarter of their tasks). We argue that the "
+    },
+    {
+      "arxivId": "2604.26152",
+      "url": "http://arxiv.org/abs/2604.26152v1",
+      "title": "AI Observability for Large Language Model Systems: A Multi-Layer Analysis of Monitoring Approaches from Confidence Calibration to Infrastructure Tracing",
+      "authors": [
+        "Twinkll Sisodia"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.SE"
+      ],
+      "published": "2026-04-28T22:27:54Z",
+      "updated": "2026-04-28T22:27:54Z",
+      "summary": "The deployment of large language models (LLMs) in production environments has created an urgent need for observability systems that span the full stack -- from model internals to GPU kernels. Yet existing monitoring approaches address isolated layers of this stack, and no comprehensive analysis has examined how these techniques relate, overlap, or complement each other. This paper presents a structured analysis of five recent research contributions (2025-2026) that collectively define the emerging landscape of AI observability: confidence calibration via reinforcement learning (MIT), internal state monitoring through propositional probes (UC Berkeley), chain-of-thought monitorability evaluation (OpenAI), autonomous cloud operations benchmarking (Microsoft Research, UC Berkeley, UIUC), and non-intrusive inference-level tracing (TRUFFLD). We organize these contributions into a five-layer observability taxonomy, synthesize their key findings into a unified comparison, and identify four critical gaps that remain unaddressed. We further contextualize these research directions against practical operational observability systems that translate infrastructure telemetry into actionable insi"
+    },
+    {
+      "arxivId": "2604.25370",
+      "url": "http://arxiv.org/abs/2604.25370v1",
+      "title": "GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment",
+      "authors": [
+        "Kidus Zewde",
+        "Simiao Ren",
+        "Xingyu Shen",
+        "Jenny Wu",
+        "Yuchen Zhou",
+        "Tommy Duong",
+        "Zikang Zhang",
+        "Ethan Traister"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-04-28T08:35:51Z",
+      "updated": "2026-04-28T08:35:51Z",
+      "summary": "The release of GPT-image-2 by OpenAI marks a watershed moment in AI-generated imagery: the boundary between photographic reality and synthetic content has never been more difficult to discern. We introduce the GPT-Image-2 Twitter Dataset, the first published dataset of GPT-image-2 generated images, sourced from publicly available Twitter/X posts in the immediate aftermath of the model's April 21, 2026 release. Leveraging the Twitter API v2 and a multi-stage curation pipeline spanning multilingual text heuristics (English, Japanese, and Chinese), browser-automated Twitter \"Made with AI\" badge verification, and model name variant matching, we curate 10,217 confirmed GPT-image-2 images from 27,662 collected records over a six-day window. We characterize the dataset across four analyses: CLIP-based zero-shot subject taxonomy, OCR text legibility (82.0% of images contain detectable text), face detection (59.2% of images, 22,583 total faces), and semantic clustering (137 CLIP ViT-L/14 clusters). A key negative result is that C2PA content credentials are systematically stripped by Twitter's CDN on upload, rendering cryptographic provenance verification infeasible for social-media-sourced "
+    },
+    {
+      "arxivId": "2604.25213",
+      "url": "http://arxiv.org/abs/2604.25213v1",
+      "title": "When the Forger Is the Judge: GPT-Image-2 Cannot Recognize Its Own Faked Documents",
+      "authors": [
+        "Jiaqi Wu",
+        "Yuchen Zhou",
+        "Dennis Tsang Ng",
+        "Xingyu Shen",
+        "Kidus Zewde",
+        "Ankit Raj",
+        "Tommy Duong",
+        "Simiao Ren"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-28T04:33:26Z",
+      "updated": "2026-04-28T04:33:26Z",
+      "summary": "OpenAI's GPT-Image-2 has effectively erased the visual boundary between authentic and AI-edited document images: a single number on a receipt can be replaced in under a second for a few cents. We release AIForge-Doc v2, a paired dataset of 3,066 GPT-Image-2 document forgeries with pixel-precise masks in DocTamper-compatible format, and benchmark four lines of defence: human inspectors (N=120, n=365 pair-votes via the public 2AFC site CanUSpotAI.com), TruFor (generic forensic), DocTamper (qcf-568, document-specific), and the same GPT-Image-2 model as a zero-shot self-judge -- asked, to avoid the trivial \"image is mostly real\" reading, whether any region was generated or edited by an AI image model. Human 2AFC accuracy is 0.501, indistinguishable from chance: even side-by-side, inspectors cannot tell GPT-Image-2 receipt forgeries from authentic counterparts. The three computational judges sit only modestly above (TruFor 0.599, DocTamper 0.585, self-judge 0.532). The self-judge fails consistently, not by chance: across five prompt strategies and four policies for handling ambiguous responses, AUC never rises above 0.59. To rule out the possibility that the two forensic detectors are b"
+    },
+    {
+      "arxivId": "2604.23772",
+      "url": "http://arxiv.org/abs/2604.23772v2",
+      "title": "PageGuide: Browser extension to assist users in navigating a webpage and locating information",
+      "authors": [
+        "Tin Nguyen",
+        "Thang T. Truong",
+        "Runtao Zhou",
+        "Trung Bui",
+        "Chirag Agarwal",
+        "Anh Totti Nguyen"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.HC"
+      ],
+      "published": "2026-04-26T15:49:12Z",
+      "updated": "2026-04-28T20:37:51Z",
+      "summary": "Users browsing the web daily struggle to quickly locate relevant information in cluttered pages, complete unfamiliar multi-step tasks, and stay focused amid distracting content. State-of-the-art AI assistants (e.g., ChatGPT, Gemini, Claude) and browser agents (e.g., OpenAI Operator, Browser Use) can answer questions and automate actions, yet they return answers without showing where the information comes from on the page, forcing users to manually verify results and blindly trust every automated steps. We present PageGuide, a browser extension that grounds LLM answers directly in the HTML DOM via visual overlays, addressing three core user needs: (a) Find-locating and highlighting relevant evidence in-situ so users can instantly verify answers on the page; (b) Guide-showing step-by-step instructions (e.g. how to change password) one at a time so users can follow and perform actions by themselves; and (c) Hide-hiding distracting content-giving users a chance to decide to hide an element or not. In a user study (N=94), PageGuide outperform unaided browsing across all modes: Hide accuracy improve by 26 percentage points (86.7% relative gain) and task completion time drops by 70%; Guid"
+    },
+    {
+      "arxivId": "2604.23449",
+      "url": "http://arxiv.org/abs/2604.23449v1",
+      "title": "ArguAgent: AI-Supported Real-Time Grouping for Productive Argumentation in STEM Classrooms",
+      "authors": [
+        "Jennifer Kleiman",
+        "Yizhu Gao",
+        "Xin Xia",
+        "Zhaoji Wang",
+        "Zipei Zhu",
+        "Jongchan Park",
+        "Xiaoming Zhai"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.AI",
+        "cs.HC"
+      ],
+      "published": "2026-04-25T21:38:31Z",
+      "updated": "2026-04-25T21:38:31Z",
+      "summary": "Argumentation is a core practice in STEM education, but its productivity depends on who participates and how they interact. Higher-achieving students often dominate the talk and decision-making, while lower-achieving peers may disengage, defer, or comply without contributing substantive reasoning. Forming groups strategically based on students' stances and argumentation skills could help foster inclusive, evidence-based discourse. In practice, however, teachers are constrained in implementing this grouping strategy because it requires real-time insight into students' positions and the quality of their argumentation, information that is difficult to assess reliably and at scale during instruction. We present a generative AI-powered system, ArguAgent, that creates groups optimizing for stance heterogeneity while constraining argumentation quality differences to +/-1 level on a validated learning progression. ArguAgent uses a two-component assessment pipeline: first scoring student arguments on a 0-4 rubric, then clustering positions via semantic analysis. We validated the scoring component against human expert consensus (Krippendorff's ααα = 0.817) using 200 expert-generated scores. "
+    },
+    {
+      "arxivId": "2604.23347",
+      "url": "http://arxiv.org/abs/2604.23347v1",
+      "title": "Evaluating Large Language Models on Computer Science University Exams in Data Structures",
+      "authors": [
+        "Edan Gabay",
+        "Yael Maoz",
+        "Jonathan Stahl",
+        "Naama Maoz",
+        "Abdo Amer",
+        "Orr Eilat",
+        "Hanoch Levy",
+        "Michal Kleinbort",
+        "Amir Rubinstein",
+        "Adi Haviv"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-04-25T15:08:51Z",
+      "updated": "2026-04-25T15:08:51Z",
+      "summary": "We present a comprehensive evaluation of Large Language Models (LLMs) on Computer Science (CS) Data Structure examination questions. Our work introduces a new benchmark dataset comprising exam questions from Tel Aviv University (TAU), curated to assess LLMs' abilities in handling closed and multiple-choice questions. We evaluated the performance of OpenAI's GPT 4o and Anthropic's Claude 3.5, popular LLMs, alongside two smaller LLMs, Mathstral 7B and LLaMA 3 8B, across the TAU exams benchmark. Our findings provide insight into the current capabilities of LLMs in CS education."
+    },
+    {
+      "arxivId": "2604.23341",
+      "url": "http://arxiv.org/abs/2604.23341v2",
+      "title": "Evaluating Jailbreaking Vulnerabilities in LLMs Deployed as Assistants for Smart Grid Operations: A Benchmark Against NERC Standards",
+      "authors": [
+        "Taha Hammadia",
+        "Lucas Rea",
+        "Ahmad Mohammad Saber",
+        "Amr Youssef",
+        "Deepa Kundur"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ],
+      "published": "2026-04-25T15:01:12Z",
+      "updated": "2026-04-29T23:11:20Z",
+      "summary": "The deployment of Large Language Models (LLMs) as assistants in electric grid operations promises to streamline compliance and decision-making but exposes new vulnerabilities to prompt-based adversarial attacks. This paper evaluates the risk of jailbreaking LLMs, i.e., circumventing safety alignments to produce outputs violating regulatory standards, assuming threats from authorized users, such as operators, who craft malicious prompts to elicit non-compliant guidance. Three state-of-the-art LLMs (OpenAI's GPT-4o mini, Google's Gemini 2.0 Flash-Lite, and Anthropic's Claude 3.5 Haiku) were tested against Baseline, BitBypass, and DeepInception jailbreaking methods across scenarios derived from nine NERC Reliability Standards (EOP, TOP, and CIP). In the initial broad experiment, the overall Attack Success Rate (ASR) was 33.1%, with DeepInception proving most effective at 63.17% ASR. Claude 3.5 Haiku exhibited complete resistance (0% ASR), while Gemini 2.0 Flash-Lite was most vulnerable (55.04% ASR) and GPT-4o mini moderately susceptible (44.34% ASR). A follow-up experiment refining malicious wording in Baseline and BitBypass attacks yielded a 30.6% ASR, confirming that subtle prompt a"
+    },
+    {
+      "arxivId": "2604.23178",
+      "url": "http://arxiv.org/abs/2604.23178v1",
+      "title": "Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines",
+      "authors": [
+        "Sadman Kabir Soumik"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-04-25T07:18:30Z",
+      "updated": "2026-04-25T07:18:30Z",
+      "summary": "LLM-as-a-Judge has become the dominant paradigm for evaluating language model outputs, yet LLM judges exhibit systematic biases that compromise evaluation reliability. We present a comprehensive empirical study comparing nine debiasing strategies across five judge models from four provider families (Google, Anthropic, OpenAI, Meta), three benchmarks (MT-Bench n=400, LLMBar n=200, custom n=225), and four bias types. Our key findings: (1) Style bias is the dominant bias (0.76-0.92 across all models), far exceeding position bias (&lt;= 0.04), yet has received minimal research attention. (2) All models show a conciseness preference on expansion pairs, but truncation controls confirm they correctly distinguish quality from length (0.92-1.00 accuracy), suggesting quality-sensitive evaluation rather than a simple length bias. (3) Debiasing is beneficial but model-dependent: the combined budget strategy significantly improves Claude Sonnet 4 by +11.2 pp (p &lt; 0.0001), with directionally positive trends for other models. Only 2 of 20 non-baseline configurations show decreased agreement. We release our evaluation framework, controlled dataset, and all experimental artifacts at https://gith"
+    },
+    {
+      "arxivId": "2604.21860",
+      "url": "http://arxiv.org/abs/2604.21860v1",
+      "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
+      "authors": [
+        "Naheed Rayhan",
+        "Sohely Jahan"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ],
+      "published": "2026-04-23T16:56:14Z",
+      "updated": "2026-04-23T16:56:14Z",
+      "summary": "Large language models (LLMs) are increasingly integrated into sensitive workflows, raising the stakes for adversarial robustness and safety. This paper introduces Transient Turn Injection(TTI), a new multi-turn attack technique that systematically exploits stateless moderation by distributing adversarial intent across isolated interactions. TTI leverages automated attacker agents powered by large language models to iteratively test and evade policy enforcement in both commercial and open-source LLMs, marking a departure from conventional jailbreak approaches that typically depend on maintaining persistent conversational context. Our extensive evaluation across state-of-the-art models-including those from OpenAI, Anthropic, Google Gemini, Meta, and prominent open-source alternatives-uncovers significant variations in resilience to TTI attacks, with only select architectures exhibiting substantial inherent robustness. Our automated blackbox evaluation framework also uncovers previously unknown model specific vulnerabilities and attack surface patterns, especially within medical and high stakes domains. We further compare TTI against established adversarial prompting methods and detai"
+    },
+    {
+      "arxivId": "2604.21958",
+      "url": "http://arxiv.org/abs/2604.21958v1",
+      "title": "A systematic review of generative AI usage for IT project management",
+      "authors": [
+        "Ionut Anghel",
+        "Tudor Cioara"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.SE",
+        "cs.AI"
+      ],
+      "published": "2026-04-23T11:10:37Z",
+      "updated": "2026-04-23T11:10:37Z",
+      "summary": "This paper aims to synthesize current knowledge on generative AI in IT project management using the PRISMA methodology to provide researchers with a comprehensive perspective on techniques, applications, adoption trends, limitations, and integration across project management tools and process groups. The analysis reveals a clear dominance of OpenAI's GPT in the included studies but relying primarily on prompt engineering, suggesting that research in this area remains at an exploratory stage. Finally, it identifies and discusses three promising research directions for AI-enabled project management, including process group-specific AI agents, project role-based AI agents, and hybrid collaborative networks that enable human-guided orchestration."
+    },
+    {
+      "arxivId": "2604.21433",
+      "url": "http://arxiv.org/abs/2604.21433v1",
+      "title": "ChatGPT as a Time Capsule: The Limits of Price Discovery",
+      "authors": [
+        "Sebastian Lehner",
+        "Alejandro Lopez-Lira"
+      ],
+      "affiliations": [],
+      "categories": [
+        "q-fin.GN"
+      ],
+      "published": "2026-04-23T08:49:39Z",
+      "updated": "2026-04-23T08:49:39Z",
+      "summary": "Frozen large language model (LLM) checkpoints extract information from pre-cutoff public text that is associated with future fundamentals and equity returns beyond standard contemporaneous valuation measures. Because each frozen checkpoint has a fixed knowledge cutoff, it can be interpreted as a compressed representation of publicly available textual information at a given point in time. We treat twelve OpenAI snapshots spanning 2021-2025 as time-stamped summaries of the public textual record and extract a sector-neutral LLM outlook score for roughly 7,000 U.S. equities per cross-section. The outlook score is positively associated with analyst revisions, target-price changes and one-month cross-sectional returns in both Fama-MacBeth regressions and pooled panels with model fixed effects (t = 6.02), after direct controls for market-implied valuation and standard factors. Predictability broadly increases with the return horizon, despite a non-monotonic intermediate dip, and, in the pooled panel, is stronger for firms with high analyst coverage, consistent with the view that the bottleneck is not investor inattention but the cost of aggregating dispersed qualitative information across"
+    },
+    {
+      "arxivId": "2604.20738",
+      "url": "http://arxiv.org/abs/2604.20738v1",
+      "title": "RespondeoQA: a Benchmark for Bilingual Latin-English Question Answering",
+      "authors": [
+        "Marisa Hudspeth",
+        "Patrick J. Burns",
+        "Brendan O'Connor"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-04-22T16:24:46Z",
+      "updated": "2026-04-22T16:24:46Z",
+      "summary": "We introduce a benchmark dataset for question answering and translation in bilingual Latin and English settings, containing about 7,800 question-answer pairs. The questions are drawn from Latin pedagogical sources, including exams, quizbowl-style trivia, and textbooks ranging from the 1800s to the present. After automated extraction, cleaning, and manual review, the dataset covers a diverse range of question types: knowledge- and skill-based, multihop reasoning, constrained translation, and mixed language pairs. To our knowledge, this is the first QA benchmark centered on Latin. As a case study, we evaluate three large language models -- LLaMa 3, Qwen QwQ, and OpenAI's o3-mini -- finding that all perform worse on skill-oriented questions. Although the reasoning models perform better on scansion and literary-device tasks, they offer limited improvement overall. QwQ performs slightly better on questions asked in Latin, but LLaMa3 and o3-mini are more task dependent. This dataset provides a new resource for assessing model capabilities in a specialized linguistic and cultural domain, and the creation process can be easily adapted for other languages. The dataset is available at: https"
+    },
+    {
+      "arxivId": "2604.19993",
+      "url": "http://arxiv.org/abs/2604.19993v1",
+      "title": "Algorithm and Hardware Co-Design for Efficient Complex-Valued Uncertainty Estimation",
+      "authors": [
+        "Zehuan Zhang",
+        "Mark Chen",
+        "He Li",
+        "Wayne Luk"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.AR",
+        "cs.LG"
+      ],
+      "published": "2026-04-21T21:06:00Z",
+      "updated": "2026-04-21T21:06:00Z",
+      "summary": "Complex-Valued Neural Networks (CVNNs) have significant advantages in handling tasks that involve complex numbers. However, existing CVNNs are unable to quantify predictive uncertainty. We propose, for the first time, dropout-based Bayesian Complex-Valued Neural Networks (BayesCVNNs) to enable uncertainty quantification for complex-valued applications, exhibiting broad applicability and efficiency for hardware implementation due to modularity. Furthermore, as the dual-part nature of complex values significantly broadens the design space and enables novel configurations based on layer-mixing and part-mixing, we introduce an automated search approach to effectively identify optimal configurations for both real and imaginary components. To facilitate deployment, we present a framework that generates customized FPGA-based accelerators for BayesCVNNs, leveraging a set of optimized building blocks. Experiments demonstrate the best configuration can be effectively found via the automated search, attaining higher performance with lower hardware costs compared with manually crafted models. The optimized accelerators achieve approximately 4.5x and 13x speedups on different models with less t"
+    },
+    {
+      "arxivId": "2604.19461",
+      "url": "http://arxiv.org/abs/2604.19461v1",
+      "title": "Involuntary In-Context Learning: Exploiting Few-Shot Pattern Completion to Bypass Safety Alignment in GPT-5.4",
+      "authors": [
+        "Alex Polyakov",
+        "Daniel Kuznetsov"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CR"
+      ],
+      "published": "2026-04-21T13:38:26Z",
+      "updated": "2026-04-21T13:38:26Z",
+      "summary": "Safety alignment in large language models relies on behavioral training that can be overridden when sufficiently strong in-context patterns compete with learned refusal behaviors. We introduce Involuntary In-Context Learning (IICL), an attack class that uses abstract operator framing with few-shot examples to force pattern completion that overrides safety training. Through 3479 probes across 10 OpenAI models, we identify the attack's effective components through a seven-experiment ablation study. Key findings: (1)~semantic operator naming achieves 100\\,\\% bypass rate (50/50, $p &lt; 0.001$); (2)~the attack requires abstract framing, since identical examples in direct question-and-answer format yield 0\\,\\%; (3)~example ordering matters strongly (interleaved: 76\\,\\%, harmful-first: 6\\,\\%); (4)~temperature has no meaningful effect (46--56\\,\\% across 0.0--1.0). On the HarmBench benchmark, IICL achieves 24.0\\,\\% bypass $[18.6\\%, 30.4\\%]$ against GPT-5.4 with detailed 619-word responses, compared to 0.0\\,\\% for direct queries."
+    },
+    {
+      "arxivId": "2604.18893",
+      "url": "http://arxiv.org/abs/2604.18893v1",
+      "title": "Regulating Artificial Intimacy: From Locks and Blocks to Relational Accountability",
+      "authors": [
+        "Henry Fraser",
+        "Jessica M. Szczuka",
+        "Raffaele F. Ciriello"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CY",
+        "cs.AI",
+        "cs.ET"
+      ],
+      "published": "2026-04-20T22:30:52Z",
+      "updated": "2026-04-20T22:30:52Z",
+      "summary": "A series of high-profile tragedies involving companion chatbots has triggered an unusually rapid regulatory response. Several jurisdictions, including Australia, California, and New York, have introduced enforceable regulation, while regulators elsewhere have signaled growing concern about risks posed by companion chatbots, particularly to children. In parallel, leading providers, notably OpenAI, appear to have strengthened their self-regulatory approaches. Drawing on legal textual analysis and insights from regulatory theory, psychology, and information systems research, this paper critically examines these recent interventions. We examine what is regulated and who is regulated, identifying regulatory targets, scope, and modalities. We classify interventions by method and priority, showing how emerging regimes combine \"locks and blocks\", such as access gating and content moderation, with measures addressing toxic relationship features and process-based accountability requirements. We argue that effective regulation of companion chatbots must integrate all three dimensions. More, however, is required. Current regimes tend to focus on discrete harms, narrow conceptions of vulnerabil"
+    },
+    {
+      "arxivId": "2604.18234",
+      "url": "http://arxiv.org/abs/2604.18234v1",
+      "title": "Evaluating Multi-Hop Reasoning in RAG Systems: A Comparison of LLM-Based Retriever Evaluation Strategies",
+      "authors": [
+        "Lorenz Brehme",
+        "Thomas Ströhle",
+        "Ruth Breu"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ],
+      "published": "2026-04-20T13:20:57Z",
+      "updated": "2026-04-20T13:20:57Z",
+      "summary": "Retrieval-augmented generation (RAG) enhances large language models (LLMs) with external knowledge to answer questions more accurately. However, research on evaluating RAG systems-particularly the retriever component-remains limited, as most existing work focuses on single-context retrieval rather than multi-hop queries, where individual contexts may appear irrelevant in isolation but are essential when combined. In this research, we use the HotPotQA, MuSiQue, and SQuAD datasets to simulate a RAG system and compare three LLM-as-judge evaluation strategies, including our proposed Context-Aware Retriever Evaluation (CARE). Our goal is to better understand how multi-hop reasoning can be most effectively evaluated in RAG systems. Experiments with LLMs from OpenAI, Meta, and Google demonstrate that CARE consistently outperforms existing methods for evaluating multi-hop reasoning in RAG systems. The performance gains are most pronounced in models with larger parameter counts and longer context windows, while single-hop queries show minimal sensitivity to context-aware evaluation. Overall, the results highlight the critical role of context-aware evaluation in improving the reliability and"
+    },
+    {
+      "arxivId": "2604.17431",
+      "url": "http://arxiv.org/abs/2604.17431v1",
+      "title": "The Inference Bottleneck: A Formal Model of Vertical Foreclosure in AI Markets",
+      "authors": [
+        "Gaston Besanson"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CY"
+      ],
+      "published": "2026-04-19T13:23:34Z",
+      "updated": "2026-04-19T13:23:34Z",
+      "summary": "As generative AI commercializes, competitive advantage is shifting from model training toward inference, distribution, and routing. This paper develops a formal game-theoretic model of vertical foreclosure in inference markets, as the formal-model companion to Besanson and Celani (2026). The model isolates two foreclosure mechanisms operating without predatory pricing: quality-of-service (QoS) discrimination against downstream rivals via latency, throughput, context limits, or feature access; and routing bias in assistant-layer interfaces. An extension motivated by Anthropic's April 2026 release of Claude Opus 4.7 alongside the restricted-access Claude Mythos Preview introduces a third mechanism, tier-based access discrimination, parameterized by a tier gap (tau) and partner-exclusivity (kappa). The main result gives an explicit local equilibrium characterization of the QoS gap. Under logit demand and symmetric rivals, the gap is strictly increasing in inference-quality importance (alpha) and downstream margins, and strictly decreasing in API price and rival entry elasticity. Discrimination vanishes at a joint boundary rather than at a simple threshold in alpha alone. A stylized ca"
+    },
+    {
+      "arxivId": "2604.17111",
+      "url": "http://arxiv.org/abs/2604.17111v1",
+      "title": "HiveMind: OS-Inspired Scheduling for Concurrent LLM Agent Workloads",
+      "authors": [
+        "Justice Owusu Agyemang",
+        "Jerry John Kponyo",
+        "Obed Kwasi Somuah",
+        "Elliot Amponsah",
+        "Godfred Manu Addo Boakye",
+        "Kwame Opuni-Boachie Obour Agyekum"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.DC",
+        "cs.AI"
+      ],
+      "published": "2026-04-18T18:59:33Z",
+      "updated": "2026-04-18T18:59:33Z",
+      "summary": "When multiple LLM coding agents share a rate-limited API endpoint, they exhibit resource contention patterns analogous to unscheduled OS processes competing for CPU, memory, and I/O. In a motivating incident, 3 of 11 parallel agents died from connection resets and HTTP 502 errors - a 27% failure rate - despite the API having sufficient aggregate capacity to serve all 11 sequentially. We present HIVEMIND, a transparent HTTP proxy that applies five OS-inspired scheduling primitives - admission control, rate-limit tracking, AIMD backpressure with circuit breaking, token budget management, and priority queuing - to eliminate the failure modes caused by uncoordinated parallel execution. The proxy requires zero modifications to existing agent code and supports Anthropic, OpenAI, and local model APIs via auto-detected provider profiles. Our evaluation across seven scenarios (5-50 concurrent agents) shows that uncoordinated agents fail at 72-100% rates under contention, while HIVEMIND reduces failures to 0-18% and eliminates 48-100% of wasted compute. An ablation study reveals that transparent retry - not admission control - is the single most critical primitive, but the primitives are mos"
+    },
+    {
+      "arxivId": "2604.15937",
+      "url": "http://arxiv.org/abs/2604.15937v1",
+      "title": "Polarization by Default: Auditing Recommendation Bias in LLM-Based Content Curation",
+      "authors": [
+        "Nicolò Pagan",
+        "Christopher Barrie",
+        "Chris Andrew Bail",
+        "Petter Törnberg"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.SI",
+        "cs.AI",
+        "cs.CL",
+        "cs.CY",
+        "cs.MA"
+      ],
+      "published": "2026-04-17T10:55:21Z",
+      "updated": "2026-04-17T10:55:21Z",
+      "summary": "Large Language Models (LLMs) are increasingly deployed to curate and rank human-created content, yet the nature and structure of their biases in these tasks remains poorly understood: which biases are robust across providers and platforms, and which can be mitigated through prompt design. We present a controlled simulation study mapping content selection biases across three major LLM providers (OpenAI, Anthropic, Google) on real social media datasets from Twitter/X, Bluesky, and Reddit, using six prompting strategies (\\textit{general}, \\textit{popular}, \\textit{engaging}, \\textit{informative}, \\textit{controversial}, \\textit{neutral}). Through 540,000 simulated top-10 selections from pools of 100 posts across 54 experimental conditions, we find that biases differ substantially in how structural and how prompt-sensitive they are. Polarization is amplified across all configurations, toxicity handling shows a strong inversion between engagement- and information-focused prompts, and sentiment biases are predominantly negative. Provider comparisons reveal distinct trade-offs: GPT-4o Mini shows the most consistent behavior across prompts; Claude and Gemini exhibit high adaptivity in toxi"
+    },
+    {
+      "arxivId": "2604.15725",
+      "url": "http://arxiv.org/abs/2604.15725v1",
+      "title": "Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing",
+      "authors": [
+        "Zehao Wang",
+        "Lanjun Wang"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-04-17T05:56:46Z",
+      "updated": "2026-04-17T05:56:46Z",
+      "summary": "Large Reasoning Models (LRMs) have demonstrated strong capabilities in generating step-by-step reasoning chains alongside final answers, enabling their deployment in high-stakes domains such as healthcare and education. While prior jailbreak attack studies have focused on the safety of final answers, little attention has been given to the safety of the reasoning process. In this work, we identify a novel problem that injects harmful content into the reasoning steps while preserving unchanged answers. This type of attack presents two key challenges: 1) manipulating the input instructions may inadvertently alter the LRM's final answer, and 2) the diversity of input questions makes it difficult to consistently bypass the LRM's safety alignment mechanisms and embed harmful content into its reasoning process. To address these challenges, we propose the Psychology-based Reasoning-targeted Jailbreak Attack (PRJA) Framework, which integrates a Semantic-based Trigger Selection module and a Psychology-based Instruction Generation module. Specifically, the proposed PRJA automatically selects manipulative reasoning triggers via semantic analysis and leverages psychological theories of obedienc"
+    },
+    {
+      "arxivId": "2604.15485",
+      "url": "http://arxiv.org/abs/2604.15485v1",
+      "title": "LLM4C2Rust: Large Language Models for Automated Memory-Safe Code Transpilation",
+      "authors": [
+        "Sarah Bedell",
+        "Nazanin Siavash",
+        "Armin Moin"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.SE"
+      ],
+      "published": "2026-04-16T19:33:44Z",
+      "updated": "2026-04-16T19:33:44Z",
+      "summary": "Memory safety has long been a critical challenge in software engineering, particularly for legacy systems written in memory-unsafe languages such as C and C++. Rust, one of the youngest modern programming languages, offers built-in memory-safety guarantees that make it a strong candidate for secure systems development. Consequently, transpiling C/C++ code into memory-safe Rust code has become a growing area of research. However, manual transpilation is often time-consuming and error-prone. Additionally, rule-based automated approaches are not as flexible or cost-effective as methods enabled by state-of-the-art AI models, techniques, and methods, such as those that deploy Large Language Models (LLMs), for example, Generative Pretrained Transformers (GPT). In this paper, we propose a Retrieval-Augmented Generation (RAG)-assisted framework that integrates an LLM with a Small Language Model (SLM) to perform C/C++-to-Rust transpilation with a focus on enhancing memory safety. The framework deploys a segmentation strategy that processes C/C++ code in balanced blocks, guiding the LLM with retrieved context from Rust documentation and compiler error references. Our experiments using three "
+    },
+    {
+      "arxivId": "2604.14973",
+      "url": "http://arxiv.org/abs/2604.14973v1",
+      "title": "Robustness of Vision Foundation Models to Common Perturbations",
+      "authors": [
+        "Hongbin Liu",
+        "Zhengyuan Jiang",
+        "Cheng Hong",
+        "Neil Zhenqiang Gong"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CR",
+        "cs.CV"
+      ],
+      "published": "2026-04-16T13:07:25Z",
+      "updated": "2026-04-16T13:07:25Z",
+      "summary": "A vision foundation model outputs an embedding vector for an image, which can be affected by common editing operations (e.g., JPEG compression, brightness, contrast adjustments). These common perturbations alter embedding vectors and may impact the performance of downstream tasks using these embeddings. In this work, we present the first systematic study on foundation models' robustness to such perturbations. We propose three robustness metrics and formulate five desired mathematical properties for these metrics, analyzing which properties they satisfy or violate. Using these metrics, we evaluate six industry-scale foundation models (OpenAI, Meta) across nine common perturbation categories, finding them generally non-robust. We also show that common perturbations degrade downstream application performance (e.g., classification accuracy) and that robustness values can predict performance impacts. Finally, we propose a fine-tuning approach to improve robustness without sacrificing utility."
+    },
+    {
+      "arxivId": "2604.14858",
+      "url": "http://arxiv.org/abs/2604.14858v2",
+      "title": "Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-Codex",
+      "authors": [
+        "Zhonghao Yang",
+        "Yu Li",
+        "Yanxu Zhu",
+        "Tianyi Zhou",
+        "Yuejin Xie",
+        "Haoyu Luo",
+        "Jing Shao",
+        "Xia Hu",
+        "Dongrui Liu"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.AI",
+        "cs.SE"
+      ],
+      "published": "2026-04-16T10:45:13Z",
+      "updated": "2026-04-29T07:22:20Z",
+      "summary": "As agent systems move into increasingly diverse execution settings, trajectory-level safety evaluation and diagnosis require benchmarks that evolve with them. ATBench is a diverse and realistic agent trajectory benchmark for safety evaluation and diagnosis. This report presents ATBench-Claw and ATBench-Codex, two domain-customized extensions that carry ATBench into the OpenClaw and OpenAI Codex / Codex-runtime settings. The key adaptation mechanism is to analyze each new setting, customize the three-dimensional Safety Taxonomy over risk source, failure mode, and real-world harm, and then use that customized taxonomy to define the benchmark specification consumed by the shared ATBench construction pipeline. This extensibility matters because agent frameworks remain relatively stable at the architectural level even as their concrete execution settings, tool ecosystems, and product capabilities evolve quickly. Concretely, ATBench-Claw targets OpenClaw-sensitive execution chains over tools, skills, sessions, and external actions, while ATBench-Codex targets trajectories in the OpenAI Codex / Codex-runtime setting over repositories, shells, patches, dependencies, approvals, and runtime "
+    },
+    {
+      "arxivId": "2604.14846",
+      "url": "http://arxiv.org/abs/2604.14846v1",
+      "title": "Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems",
+      "authors": [
+        "Haileab Yagersew"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-04-16T10:32:20Z",
+      "updated": "2026-04-16T10:32:20Z",
+      "summary": "Retail theft costs the global economy over \\$100 billion annually, yet existing AI-based detection systems require expensive custom model training on proprietary datasets and charge \\$200-500/month per store. We present Paza, a zero-shot retail theft detection framework that achieves practical concealment detection without training any model. Our approach orchestrates multiple existing models in a layered pipeline - cheap object detection and pose estimation running continuously, with an expensive vision-language model (VLM) invoked only when behavioral pre-filters trigger. A multi-signal suspicion pre-filter (requiring dwell time plus at least one behavioral signal) reduces VLM invocations by 240x compared to per-frame analysis, bounding calls to &lt;=10/minute and enabling a single GPU to serve 10-20 stores. The architecture is model-agnostic: the VLM component accepts any OpenAI-compatible endpoint, enabling operators to swap between models such as Gemma 4, Qwen3.5-Omni, GPT-4o, or future releases without code changes - ensuring the system improves as the VLM landscape evolves. We evaluate the VLM component on the DCSASS synthesized shoplifting dataset (169 clips, controlled env"
+    },
+    {
+      "arxivId": "2604.14493",
+      "url": "http://arxiv.org/abs/2604.14493v2",
+      "title": "Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference",
+      "authors": [
+        "Nenad Banfic",
+        "David Fan",
+        "Kunal Vaishnavi",
+        "Sam Kemp",
+        "Sunghoon Choi",
+        "Rui Ren",
+        "Sayan Shaw",
+        "Meng Tang"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-04-16T00:04:32Z",
+      "updated": "2026-04-19T17:58:49Z",
+      "summary": "Deploying high-quality automatic speech recognition (ASR) on edge devices requires models that jointly optimize accuracy, latency, and memory footprint while operating entirely on CPU without GPU acceleration. We conduct a systematic empirical study of state-of-the-art ASR architectures, encompassing encoder-decoder, transducer, and LLM-based paradigms, evaluated across batch, chunked, and streaming inference modes. Through a comprehensive benchmark of over 50 configurations spanning OpenAI Whisper, NVIDIA Nemotron, Parakeet TDT, Canary, Conformer Transducer, and Qwen3-ASR, we identify NVIDIA's Nemotron Speech Streaming as the strongest candidate for real-time English streaming on resource-constrained hardware. We then re-implement the complete streaming inference pipeline in ONNX Runtime and conduct a controlled evaluation of multiple post-training quantization strategies, including importance-weighted k-quant, mixed-precision schemes, and round-to-nearest quantization, combined with graph-level operator fusion. These optimizations reduce the model from 2.47 GB to as little as 0.67 GB while maintaining word error rate (WER) within 1% absolute of the full-precision PyTorch baseline"
+    },
+    {
+      "arxivId": "2604.13717",
+      "url": "http://arxiv.org/abs/2604.13717v2",
+      "title": "On Cost-Effective LLM-as-a-Judge Improvement Techniques",
+      "authors": [
+        "Ryan Lail",
+        "Luke Markham"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-04-15T10:52:33Z",
+      "updated": "2026-05-01T13:30:40Z",
+      "summary": "Using a language model to score or rank candidate responses has become a scalable alternative to human evaluation in reinforcement learning from human feedback (RLHF) pipelines, benchmarking, and application layer evaluations. However, output reliability depends heavily on prompting and aggregation strategy. We present an empirical investigation of four drop-in techniques -- ensemble scoring, task-specific criteria injection, calibration context, and adaptive model escalation -- for improving LLM judge accuracy on RewardBench 2, with a unifying lens of noise control on the stochastic judge: ensembling as Monte Carlo averaging over per-call noise, criteria injection as between-response discrimination sharpening, and per-response score variance as an uncertainty signal. Ensemble scoring and task-specific criteria injection (the latter virtually cost free) together reach up to 85.8% accuracy, +13.5pp over baseline. Calibration context and adaptive model escalation also improve over baseline but are dominated by criteria + ensembling on the cost-accuracy Pareto frontier. Small models benefit disproportionately from ensembling, making high-accuracy LLM judges accessible at low cost. We "
+    },
+    {
+      "arxivId": "2604.16511",
+      "url": "http://arxiv.org/abs/2604.16511v1",
+      "title": "SQL Query Engine: A Self-Healing LLM Pipeline for Natural Language to PostgreSQL Translation",
+      "authors": [
+        "Muhammad Adeel Ijaz"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.DB",
+        "cs.CL"
+      ],
+      "published": "2026-04-15T06:59:37Z",
+      "updated": "2026-04-15T06:59:37Z",
+      "summary": "We present SQL Query Engine, an open-source, self-hosted service that translates natural language questions into validated PostgreSQL queries through a two-stage LLM pipeline. The first stage performs automatic schema introspection and SQL generation; a multi-strategy response parser extracts SQL from any LLM output format (JSON, code blocks, or raw text) without requiring structured output APIs. The second stage executes the query against PostgreSQL and, upon failure or empty results, enters an iterative self-healing loop in which the LLM diagnoses the error using full SQLSTATE codes and PostgreSQL diagnostic messages. Two mechanisms prevent regressions: early-accept returns successful queries immediately without LLM re-evaluation, and best-result tracking preserves the best partial result across retries. Schema context is cached per session in Redis, progress events stream via Redis Pub/Sub and SSE, and an OpenAI-compatible /v1/chat/completions endpoint lets existing tools work without modification. All database connections are read-only at the driver level. We evaluate across five LLM backends on a synthetic benchmark (75 questions, three databases) where the self-healing loop y"
+    },
+    {
+      "arxivId": "2604.16504",
+      "url": "http://arxiv.org/abs/2604.16504v1",
+      "title": "From Handwriting to Structured Data: Benchmarking AI Digitisation of Handwritten Forms",
+      "authors": [
+        "Nicholas Pather",
+        "Joshua Fouché",
+        "Sitwala Mundia",
+        "Karl-Günter Technau",
+        "Thokozile Malaba",
+        "Alex Welte",
+        "Ushma Mehta",
+        "Bruce A. Bassett"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-04-14T17:45:22Z",
+      "updated": "2026-04-14T17:45:22Z",
+      "summary": "Manual digitisation of structured handwritten documents is slow and costly. We benchmark 17 leading frontier multi-modal large language models and open-source models against a very challenging real-world medical form that mixes dates; structured, printed text; hand-written responses and significant variability challenges. None of the smaller or older models perform well but the latest Google and OpenAI models reach accuracies around $85\\%$ with weighted F1 scores $\\simeq 90\\%$ across the discrete or predefined fields despite the very challenging nature of the responses. Clear task specific strengths emerge: GPT 5.4 excels in noisy date extraction as well as reliability with the lowest hallucination rate ($6\\%$). Claude Sonnet 4.6 had the best average performance across formatted fields (dates and numerical values), while Gemini 3.1 delivered the best overall performance, with the lowest free text error rates (WER = $0.50$ and CER = $0.31$) and the strongest results across discrete classification metrics. We further show that prompt optimisation dramatically improves macro precision, recall and F1 by over $60\\%$, but has little impact on weighted metrics (only $\\sim2-5\\%$ improvemen"
+    },
+    {
+      "arxivId": "2604.12301",
+      "url": "http://arxiv.org/abs/2604.12301v1",
+      "title": "Local-Splitter: A Measurement Study of Seven Tactics for Reducing Cloud LLM Token Usage on Coding-Agent Workloads",
+      "authors": [
+        "Justice Owusu Agyemang",
+        "Jerry John Kponyo",
+        "Elliot Amponsah",
+        "Godfred Manu Addo Boakye",
+        "Kwame Opuni-Boachie Obour Agyekum"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.DC",
+        "cs.AI",
+        "cs.SE"
+      ],
+      "published": "2026-04-14T05:19:33Z",
+      "updated": "2026-04-14T05:19:33Z",
+      "summary": "We present a systematic measurement study of seven tactics for reducing cloud LLM token usage when a small local model can act as a triage layer in front of a frontier cloud model. The tactics are: (1) local routing, (2) prompt compression, (3) semantic caching, (4) local drafting with cloud review, (5) minimal-diff edits, (6) structured intent extraction, and (7) batching with vendor prompt caching. We implement all seven in an open-source shim that speaks both MCP and the OpenAI-compatible HTTP surface, supporting any local model via Ollama and any cloud model via an OpenAI-compatible endpoint. We evaluate each tactic individually, in pairs, and in a greedy-additive subset across four coding-agent workload classes (edit-heavy, explanation-heavy, general chat, RAG-heavy). We measure tokens saved, dollar cost, latency, and routing accuracy. Our headline finding is that T1 (local routing) combined with T2 (prompt compression) achieves 45-79% cloud token savings on edit-heavy and explanation-heavy workloads, while on RAG-heavy workloads the full tactic set including T4 (draft-review) achieves 51% savings. We observe that the optimal tactic subset is workload-dependent, which we belie"
+    },
+    {
+      "arxivId": "2604.12206",
+      "url": "http://arxiv.org/abs/2604.12206v1",
+      "title": "Socially Fluent, Socially Awkward: Artificial Intelligence Relational Talk Backfires in Commercial Interactions",
+      "authors": [
+        "Stephanie Kwari Dharmaputri",
+        "Anish Nagpal",
+        "Greg Nyilasy",
+        "Jing Lei"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.HC"
+      ],
+      "published": "2026-04-14T02:34:13Z",
+      "updated": "2026-04-14T02:34:13Z",
+      "summary": "Advancements in Artificial Intelligence (AI) technologies' social fluency are being integrated into commercial interactions. As tools such as OpenAI's assistant are integrated into platforms such as Shopify, Klarna, and Visa, understanding consumer responses to AI social features become essential. One such feature is relational talk, an informal and non-obligatory social communication embedded in transactional exchanges. Across four experiments, we find: 1) a negative main effect of AI relational talk on satisfaction, mediated by expectancy violation and perceived interaction awkwardness, and 2) goal-relevant relational talk to attenuate this effect. This paper extends the literature by challenging the assumption that increased social fluency will improve satisfaction, and highlights the complexity of integrating social features into AI systems. It also identifies awkwardness as a key emotional response and barrier to effective human-AI interaction, showing that even in the absence of real social repercussions, perceived awkwardness in AI-led commercial interactions can elicit negative responses."
+    },
+    {
+      "arxivId": "2604.12102",
+      "url": "http://arxiv.org/abs/2604.12102v2",
+      "title": "Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks",
+      "authors": [
+        "Arun Sharma"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.AI",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-04-13T22:22:07Z",
+      "updated": "2026-04-15T03:29:47Z",
+      "summary": "We introduce compute-grounded reasoning (CGR), a design paradigm for spatial-aware research agents in which every answerable sub-problem is resolved by deterministic computation before a language model is asked to generate. Spatial Atlas instantiates CGR as a single Agent-to-Agent (A2A) server that handles two challenging benchmarks: FieldWorkArena, a multimodal spatial question-answering benchmark spanning factory, warehouse, and retail environments, and MLE-Bench, a suite of 75 Kaggle machine learning competitions requiring end-to-end ML engineering. A structured spatial scene graph engine extracts entities and relations from vision descriptions, computes distances and safety violations deterministically, then feeds computed facts to large language models, thereby avoiding hallucinated spatial reasoning. Entropy-guided action selection maximizes information gain per step and routes queries across a three-tier frontier model stack (OpenAI + Anthropic). A self-healing ML pipeline with strategy-aware code generation, a score-driven iterative refinement loop, and a prompt-based leak audit registry round out the system. We evaluate across both benchmarks and show that CGR yields compe"
+    },
+    {
+      "arxivId": "2604.12076",
+      "url": "http://arxiv.org/abs/2604.12076v1",
+      "title": "Narrative over Numbers: The Identifiable Victim Effect and its Amplification Under Alignment and Reasoning in Large Language Models",
+      "authors": [
+        "Syed Rifat Raiyan"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CY"
+      ],
+      "published": "2026-04-13T21:29:46Z",
+      "updated": "2026-04-13T21:29:46Z",
+      "summary": "The Identifiable Victim Effect (IVE) $-$ the tendency to allocate greater resources to a specific, narratively described victim than to a statistically characterized group facing equivalent hardship $-$ is one of the most robust findings in moral psychology and behavioural economics. As large language models (LLMs) assume consequential roles in humanitarian triage, automated grant evaluation, and content moderation, a critical question arises: do these systems inherit the affective irrationalities present in human moral reasoning? We present the first systematic, large-scale empirical investigation of the IVE in LLMs, comprising N=51,955 validated API trials across 16 frontier models spanning nine organizational lineages (Google, Anthropic, OpenAI, Meta, DeepSeek, xAI, Alibaba, IBM, and Moonshot). Using a suite of ten experiments $-$ porting and extending canonical paradigms from Small et al. (2007) and Kogut and Ritov (2005) $-$ we find that the IVE is prevalent but strongly modulated by alignment training. Instruction-tuned models exhibit extreme IVE (Cohen's d up to 1.56), while reasoning-specialized models invert the effect (down to d=-0.85). The pooled effect (d=0.223, p=2e-6)"
+    },
+    {
+      "arxivId": "2604.12064",
+      "url": "http://arxiv.org/abs/2604.12064v1",
+      "title": "LLM-Redactor: An Empirical Evaluation of Eight Techniques for Privacy-Preserving LLM Requests",
+      "authors": [
+        "Justice Owusu Agyemang",
+        "Jerry John Kponyo",
+        "Elliot Amponsah",
+        "Godfred Manu Addo Boakye",
+        "Kwame Opuni-Boachie Obour Agyekum"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CR",
+        "cs.SE"
+      ],
+      "published": "2026-04-13T21:05:42Z",
+      "updated": "2026-04-13T21:05:42Z",
+      "summary": "Coding agents and LLM-powered applications routinely send potentially sensitive content to cloud LLM APIs where it may be logged, retained, used for training, or subpoenaed. Existing privacy tooling focuses on network-level encryption and organization-level DLP, neither of which addresses the content of prompts themselves. We present a systematic empirical evaluation of eight techniques for privacy-preserving LLM requests: (A) local-only inference, (B) redaction with placeholder restoration, (C) semantic rephrasing, (D) Trusted Execution Environment hosted inference, (E) split inference, (F) fully homomorphic encryption, (G) secret sharing via multi-party computation, and (H) differential-privacy noise. We implement all eight (or a tractable research-stage subset where deployment is not yet feasible) in an open-source shim compatible with MCP and any OpenAI-compatible API. We evaluate the four practical options (A, B, C, H) and their combinations across four workload classes using a ground-truth-labelled leak benchmark of 1,300 samples with 4,014 annotations. Our headline finding is that no single technique dominates: the combination A+B+C (route locally when possible, redact and r"
+    },
+    {
+      "arxivId": "2604.11767",
+      "url": "http://arxiv.org/abs/2604.11767v2",
+      "title": "$λ_A$: A Typed Lambda Calculus for LLM Agent Composition",
+      "authors": [
+        "Qin Liu"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.PL",
+        "cs.MA",
+        "cs.SE"
+      ],
+      "published": "2026-04-13T17:39:23Z",
+      "updated": "2026-04-14T17:27:56Z",
+      "summary": "Existing LLM agent frameworks lack formal semantics: there is no principled way to determine whether an agent configuration is well-formed or will terminate. We present $λ_A$, a typed lambda calculus for agent composition that extends the simply-typed lambda calculus with oracle calls, bounded fixpoints (the ReAct loop), probabilistic choice, and mutable environments. We prove type safety, termination of bounded fixpoints, and soundness of derived lint rules, with full Coq mechanization (1,519 lines, 42 theorems, 0 Admitted). As a practical application, we derive a lint tool that detects structural configuration errors directly from the operational semantics. An evaluation on 835 real-world GitHub agent configurations shows that 94.1% are structurally incomplete under $λ_A$, with YAML-only lint precision at 54%, rising to 96--100% under joint YAML+Python AST analysis on 175 samples. This gap quantifies, for the first time, the degree of semantic entanglement between declarative configuration and imperative code in the agent ecosystem. We further show that five mainstream paradigms (LangGraph, CrewAI, AutoGen, OpenAI SDK, Dify) embed as typed $λ_A$ fragments, establishing $λ_A$ as a"
+    },
+    {
+      "arxivId": "2604.11506",
+      "url": "http://arxiv.org/abs/2604.11506v1",
+      "title": "RedShell: A Generative AI-Based Approach to Ethical Hacking",
+      "authors": [
+        "Ricardo Bessa",
+        "Rui Claro",
+        "João Trindade",
+        "João Lourenço"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CR"
+      ],
+      "published": "2026-04-13T14:10:44Z",
+      "updated": "2026-04-13T14:10:44Z",
+      "summary": "The application of Machine Learning techniques in code generation is now a common practice for most developers. Tools such as ChatGPT from OpenAI leverage the natural language processing capabilities of Large Language Models to generate machine code from natural language descriptions. In the cybersecurity field, red teams can also take advantage of generative models to build malicious code generators, providing more automation to Pentest audits. However, the application of Large Language Models in malicious code generation remains challenging due to the lack of data to train and evaluate offensive code generators. In this work, we propose RedShell, a tool that allows ethical hackers to generate malicious PowerShell code. We also introduce a ground truth dataset, combining publicly available code samples to fine-tune models in malicious PowerShell generation. Our experiments demonstrate the strong capabilities of RedShell in generating syntactically valid PowerShell, with fewer than 10% of the generated samples resulting in parse errors. Furthermore, our specialized model was able to produce samples that were semantically consistent with reference snippets, achieving a competitive p"
+    },
+    {
+      "arxivId": "2604.11307",
+      "url": "http://arxiv.org/abs/2604.11307v1",
+      "title": "PaperScope: A Multi-Modal Multi-Document Benchmark for Agentic Deep Research Across Massive Scientific Papers",
+      "authors": [
+        "Lei Xiong",
+        "Huaying Yuan",
+        "Zheng Liu",
+        "Zhao Cao",
+        "Zhicheng Dou"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-04-13T11:07:08Z",
+      "updated": "2026-04-13T11:07:08Z",
+      "summary": "Leveraging Multi-modal Large Language Models (MLLMs) to accelerate frontier scientific research is promising, yet how to rigorously evaluate such systems remains unclear. Existing benchmarks mainly focus on single-document understanding, whereas real scientific workflows require integrating evidence from multiple papers, including their text, tables, and figures. As a result, multi-modal, multi-document scientific reasoning remains underexplored and lacks systematic evaluation. To address this gap, we introduce PaperScope, a multi-modal multi-document benchmark designed for agentic deep research. PaperScope presents three advantages: (1) Structured scientific grounding. It is built on a knowledge graph of over 2,000 AI papers spanning three years, providing a structured foundation for research-oriented queries. (2) Semantically dense evidence construction. It integrates semantically related key information nodes and employs optimized random-walk article selector to sample thematically coherent paper sets, thereby ensuring adequate semantic density and task complexity. (3) Multi-task evaluation of scientific reasoning. It contains over 2,000 QA pairs across reasoning, retrieval, sum"
+    },
+    {
+      "arxivId": "2604.11003",
+      "url": "http://arxiv.org/abs/2604.11003v1",
+      "title": "Sanity Checks for Agentic Data Science",
+      "authors": [
+        "Zachary T. Rewolinski",
+        "Austin V. Zane",
+        "Hao Huang",
+        "Chandan Singh",
+        "Chenglong Wang",
+        "Jianfeng Gao",
+        "Bin Yu"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-04-13T05:11:28Z",
+      "updated": "2026-04-13T05:11:28Z",
+      "summary": "Agentic data science (ADS) pipelines have grown rapidly in both capability and adoption, with systems such as OpenAI Codex now able to directly analyze datasets and produce answers to statistical questions. However, these systems can reach falsely optimistic conclusions that are difficult for users to detect. To address this, we propose a pair of lightweight sanity checks grounded in the Predictability-Computability-Stability (PCS) framework for veridical data science. These checks use reasonable perturbations to screen whether an agent can reliably distinguish signal from noise, acting as a falsifiability constraint that can expose affirmative conclusions as unsupported. Together, the two checks characterize the trustworthiness of an ADS output, e.g. whether it has found stable signal, is responding to noise, or is sensitive to incidental aspects of the input. We validate the approach on synthetic data with controlled signal-to-noise ratios, confirming that the sanity checks track ground-truth signal strength. We then demonstrate the checks on 11 real-world datasets using OpenAI Codex, characterizing the trustworthiness of each conclusion and finding that in 6 of the datasets an a"
+    },
+    {
+      "arxivId": "2604.11840",
+      "url": "http://arxiv.org/abs/2604.11840v1",
+      "title": "When Reasoning Models Hurt Behavioral Simulation: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation",
+      "authors": [
+        "Sandro Andric"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CY",
+        "cs.MA"
+      ],
+      "published": "2026-04-12T13:36:10Z",
+      "updated": "2026-04-12T13:36:10Z",
+      "summary": "Large language models are increasingly used as agents in social, economic, and policy simulations. A common assumption is that stronger reasoning should improve simulation fidelity. We argue that this assumption can fail when the objective is not to solve a strategic problem, but to sample plausible boundedly rational behavior. In such settings, reasoning-enhanced models can become better solvers and worse simulators: they can over-optimize for strategically dominant actions, collapse compromise-oriented terminal behavior, and sometimes exhibit a diversity-without-fidelity pattern in which local variation survives without outcome-level fidelity. We study this solver-sampler mismatch in three multi-agent negotiation environments adapted from earlier simulation work: an ambiguous fragmented-authority trading-limits scenario, an ambiguous unified-opposition trading-limits scenario, and a new-domain grid-curtailment case in emergency electricity management. We compare three reflection conditions, no reflection, bounded reflection, and native reasoning, across two primary model families and then extend the same protocol to direct OpenAI runs with GPT-4.1 and GPT-5.2. Across all three ex"
+    },
+    {
+      "arxivId": "2604.09360",
+      "url": "http://arxiv.org/abs/2604.09360v1",
+      "title": "LLM-Rosetta: A Hub-and-Spoke Intermediate Representation for Cross-Provider LLM API Translation",
+      "authors": [
+        "Peng Ding"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.SE",
+        "cs.AI"
+      ],
+      "published": "2026-04-10T14:31:32Z",
+      "updated": "2026-04-10T14:31:32Z",
+      "summary": "The rapid proliferation of Large Language Model (LLM) providers--each exposing proprietary API formats--has created a fragmented ecosystem where applications become tightly coupled to individual vendors. Switching or bridging providers requires $O(N^2)$ bilateral adapters, impeding portability and multi-provider architectures. We observe that despite substantial syntactic divergence, the major LLM APIs share a common semantic core: the practical challenge is the combinatorial surface of syntactic variations, not deep semantic incompatibility. Based on this finding, we present LLM-Rosetta, an open-source translation framework built on a hub-and-spoke Intermediate Representation (IR) that captures the shared semantic core--messages, content parts, tool calls, reasoning traces, and generation controls--in a 9-type content model and 10-type stream event schema. A modular Ops-composition converter architecture enables each API standard to be added independently. LLM-Rosetta supports bidirectional conversion (provider-to-IR-to-provider) for both request and response payloads, including chunk-level streaming with stateful context management. We implement converters for four API standards "
+    },
+    {
+      "arxivId": "2604.08407",
+      "url": "http://arxiv.org/abs/2604.08407v1",
+      "title": "Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain",
+      "authors": [
+        "Hanzhi Liu",
+        "Chaofan Shou",
+        "Hongbo Wen",
+        "Yanju Chen",
+        "Ryan Jingyang Fang",
+        "Yu Feng"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CR"
+      ],
+      "published": "2026-04-09T16:06:41Z",
+      "updated": "2026-04-09T16:06:41Z",
+      "summary": "Large language model (LLM) agents increasingly rely on third-party API routers to dispatch tool-calling requests across multiple upstream providers. These routers operate as application-layer proxies with full plaintext access to every in-flight JSON payload, yet no provider enforces cryptographic integrity between client and upstream model. We present the first systematic study of this attack surface. We formalize a threat model for malicious LLM API routers and define two core attack classes, payload injection (AC-1) and secret exfiltration (AC-2), together with two adaptive evasion variants: dependency-targeted injection (AC-1.a) and conditional delivery (AC-1.b). Across 28 paid routers purchased from Taobao, Xianyu, and Shopify-hosted storefronts and 400 free routers collected from public communities, we find 1 paid and 8 free routers actively injecting malicious code, 2 deploying adaptive evasion triggers, 17 touching researcher-owned AWS canary credentials, and 1 draining ETH from a researcher-owned private key. Two poisoning studies further show that ostensibly benign routers can be pulled into the same attack surface: a leaked OpenAI key generates 100M GPT-5.4 tokens and mo"
+    },
+    {
+      "arxivId": "2604.08290",
+      "url": "http://arxiv.org/abs/2604.08290v1",
+      "title": "Tokalator: A Context Engineering Toolkit for Artificial Intelligence Coding Assistants",
+      "authors": [
+        "Vahid Farajijobehdar",
+        "İlknur Köseoğlu Sarı",
+        "Nazım Kemal Üre",
+        "Engin Zeydan"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.SE"
+      ],
+      "published": "2026-04-09T14:27:02Z",
+      "updated": "2026-04-09T14:27:02Z",
+      "summary": "Artificial Intelligence (AI)-assisted coding environments operate within finite context windows of 128,000-1,000,000 tokens (as of early 2026), yet existing tools offer limited support for monitoring and optimizing token consumption. As developers open multiple files, model attention becomes diluted and Application Programming Interface (API) costs increase in proportion to input and output as conversation length grows. Tokalator is an open-source context-engineering toolkit that includes a VS Code extension with real-time budget monitoring and 11 slash commands; nine web-based calculators for Cobb-Douglas quality modeling, caching break-even analysis, and $O(T^2)$ conversation cost proofs; a community catalog of agents, prompts, and instruction files; an MCP server and Command Line Interface (CLI); a Python econometrics API; and a PostgreSQL-backed usage tracker. The system supports 17 Large Language Models (LLMs) across three providers (Anthropic, OpenAI, Google) and is validated by 124 unit tests. An initial deployment on the Visual Studio Marketplace recorded 313 acquisitions with a 206.02\\% conversion rate as of v3.1.3. A structured survey of 50 developers across three communi"
+    },
+    {
+      "arxivId": "2604.08148",
+      "url": "http://arxiv.org/abs/2604.08148v1",
+      "title": "Clickbait detection: quick inference with maximum impact",
+      "authors": [
+        "Soveatin Kuntur",
+        "Panggih Kusuma Ningrum",
+        "Anna Wróblewska",
+        "Maria Ganzha",
+        "Marcin Paprzycki"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-04-09T12:09:14Z",
+      "updated": "2026-04-09T12:09:14Z",
+      "summary": "We propose a lightweight hybrid approach to clickbait detection that combines OpenAI semantic embeddings with six compact heuristic features capturing stylistic and informational cues. To improve efficiency, embeddings are reduced using PCA and evaluated with XGBoost, GraphSAGE, and GCN classifiers. While the simplified feature design yields slightly lower F1-scores, graph-based models achieve competitive performance with substantially reduced inference time. High ROC--AUC values further indicate strong discrimination capability, supporting reliable detection of clickbait headlines under varying decision thresholds."
+    },
+    {
+      "arxivId": "2604.07821",
+      "url": "http://arxiv.org/abs/2604.07821v1",
+      "title": "More Capable, Less Cooperative? When LLMs Fail At Zero-Cost Collaboration",
+      "authors": [
+        "Advait Yadav",
+        "Sid Black",
+        "Oliver Sourbut"
+      ],
+      "affiliations": [],
+      "categories": [
+        "cs.MA",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-04-09T05:24:27Z",
+      "updated": "2026-04-09T05:24:27Z",
+      "summary": "Large language model (LLM) agents increasingly coordinate in multi-agent systems, yet we lack an understanding of where and why cooperation failures may arise. In many real-world coordination problems, from knowledge sharing in organizations to code documentation, helping others carries negligible personal cost while generating substantial collective benefits. However, whether LLM agents cooperate when helping neither benefits nor harms the helper, while being given explicit instructions to do so, remains unknown. We build a multi-agent setup designed to study cooperative behavior in a frictionless environment, removing all strategic complexity from cooperation. We find that capability does not predict cooperation: OpenAI o3 achieves only 17% of optimal collective performance while OpenAI o3-mini reaches 50%, despite identical instructions to maximize group revenue. Through a causal decomposition that automates one side of agent communication, we separate cooperation failures from competence failures, tracing their origins through agent reasoning analysis. Testing targeted interventions, we find that explicit protocols double performance for low-competence models, and tiny sharing "
+    },
+    {
+      "arxivId": "2604.06651",
+      "url": "http://arxiv.org/abs/2604.06651v1",
+      "title": "Nesterov Flow May Travel Infinitely Long to Converge to a Minimizer",
+      "authors": [
+        "Ernest K. Ryu"
+      ],
+      "affiliations": [],
+      "categories": [
+        "math.OC"
+      ],
+      "published": "2026-04-08T03:53:04Z",
+      "updated": "2026-04-08T03:53:04Z",
+      "summary": "Recent work has established that the trajectory of the Nesterov ODE, a the continuous-time model of Nesterov's accelerated gradient method, exhibits point convergence towards a minimizer of a convex potential. A natural next question is whether this point convergence can be upgraded to rectifiability, namely whether the convergent orbit has finite path length. This work provides the answer in the negative by constructing a differentiable convex potential in $\\mathbb{R}^2$ for which the flow converges to its minimizer but still accumulates infinite path length. All proofs of this work are due entirely to an internal model at OpenAI."
+    },
+    {
+      "arxivId": "2604.06609",
+      "url": "http://arxiv.org/abs/2604.06609v1",
+      "title": "Short proofs in combinatorics, probability and number theory II",
+      "authors": [
+        "Boris Alexeev",
+        "Moe Putterman",
+        "Mehtaab Sawhney",
+        "Mark Sellke",
+        "Gregory Valiant"
+      ],
+      "affiliations": [],
+      "categories": [
+        "math.CO",
+        "math.NT",
+        "math.PR"
+      ],
+      "published": "2026-04-08T02:42:30Z",
+      "updated": "2026-04-08T02:42:30Z",
+      "summary": "We give a quintet of proofs resulting from questions posed by Erdős. These questions concern ordinary lines in planar point sets, sequences with uniformly small exponential sums, $K_4$-free $4$-critical graphs with few chords in any cycle, a counterexample to a \"fewnomial\" version of the Erdős--Turán discrepancy bound, and a finiteness theorem for integers $n$ such that $n-a k^2$ is prime for all $k\\leq \\sqrt{n/a}$ coprime to $n$ (for fixed $a\\in\\mathbb Z_+$). Each proof is due to an internal model at OpenAI."
+    }
+  ]
+}

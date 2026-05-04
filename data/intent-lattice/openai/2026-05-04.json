@@ -1,0 +1,311 @@
+{
+  "lab": "openai",
+  "computedAt": "2026-05-04T23:13:53.859Z",
+  "sources": {
+    "jobs": "data\\snapshots\\openai\\2026-04-29.json",
+    "arxiv": "data\\arxiv\\openai\\2026-05-04.json"
+  },
+  "totals": {
+    "jobs": 660,
+    "researchJobs": 379,
+    "arxiv": 50
+  },
+  "thresholds": {
+    "jobs": 5,
+    "arxiv": 5
+  },
+  "topics": [
+    {
+      "topic": "post_training",
+      "jobs": 2,
+      "arxiv": 2,
+      "sampleJobs": [
+        {
+          "title": "Research Engineer / Research Scientist, Post-Training",
+          "url": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5",
+          "department": "Research"
+        },
+        {
+          "title": "Researcher, Agentic Post-Training",
+          "url": "https://jobs.ashbyhq.com/openai/4acc3515-887f-4bc9-8c2a-00f36ae480c3",
+          "department": "Research"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference",
+          "url": "http://arxiv.org/abs/2604.14493v2",
+          "published": "2026-04-16T00:04:32Z"
+        },
+        {
+          "title": "On Cost-Effective LLM-as-a-Judge Improvement Techniques",
+          "url": "http://arxiv.org/abs/2604.13717v2",
+          "published": "2026-04-15T10:52:33Z"
+        }
+      ],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "pre_training",
+      "jobs": 1,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Researcher, Pretraining Safety",
+          "url": "https://jobs.ashbyhq.com/openai/d829b701-5ee2-414f-8596-ef94911a168a",
+          "department": "Safety Systems"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "interpretability",
+      "jobs": 1,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Researcher, Interpretability",
+          "url": "https://jobs.ashbyhq.com/openai/c44268f1-717b-4da3-9943-2557f7d739f0",
+          "department": "Safety Systems"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "alignment_safety",
+      "jobs": 5,
+      "arxiv": 5,
+      "sampleJobs": [
+        {
+          "title": "Researcher, Alignment",
+          "url": "https://jobs.ashbyhq.com/openai/941bad28-7abe-43c7-b20a-2bc7e5b3c6e8",
+          "department": "Research"
+        },
+        {
+          "title": "Researcher, Alignment Science",
+          "url": "https://jobs.ashbyhq.com/openai/fec03292-5cbe-4f58-93db-14ce7d7e2827",
+          "department": "Research"
+        },
+        {
+          "title": "Researcher, Automated Red Teaming",
+          "url": "https://jobs.ashbyhq.com/openai/bf7d2623-7846-410c-87f8-c628915ec16c",
+          "department": "Safety Systems"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Evaluating Jailbreaking Vulnerabilities in LLMs Deployed as Assistants for Smart Grid Operations: A Benchmark Against NERC Standards",
+          "url": "http://arxiv.org/abs/2604.23341v2",
+          "published": "2026-04-25T15:01:12Z"
+        },
+        {
+          "title": "Involuntary In-Context Learning: Exploiting Few-Shot Pattern Completion to Bypass Safety Alignment in GPT-5.4",
+          "url": "http://arxiv.org/abs/2604.19461v1",
+          "published": "2026-04-21T13:38:26Z"
+        },
+        {
+          "title": "Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing",
+          "url": "http://arxiv.org/abs/2604.15725v1",
+          "published": "2026-04-17T05:56:46Z"
+        }
+      ],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "agents",
+      "jobs": 6,
+      "arxiv": 13,
+      "sampleJobs": [
+        {
+          "title": "Software Engineer, Agent Infrastructure",
+          "url": "https://jobs.ashbyhq.com/openai/c1316397-25bb-4add-9e9d-0e3ea8ba929a",
+          "department": "Scaling"
+        },
+        {
+          "title": "Security Engineer, Agent Security",
+          "url": "https://jobs.ashbyhq.com/openai/e9bea775-7eb6-438a-ab96-27d5f941e69d",
+          "department": "Security"
+        },
+        {
+          "title": "Offensive Security Engineer, Agent Security",
+          "url": "https://jobs.ashbyhq.com/openai/bb97fffc-cdda-43a3-a6bc-234f9c031720",
+          "department": "Security"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks",
+          "url": "http://arxiv.org/abs/2604.27891v1",
+          "published": "2026-04-30T14:07:37Z"
+        },
+        {
+          "title": "Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering",
+          "url": "http://arxiv.org/abs/2604.26275v1",
+          "published": "2026-04-29T04:06:47Z"
+        },
+        {
+          "title": "A systematic review of generative AI usage for IT project management",
+          "url": "http://arxiv.org/abs/2604.21958v1",
+          "published": "2026-04-23T11:10:37Z"
+        }
+      ],
+      "quadrant": "Q1"
+    },
+    {
+      "topic": "inference_serving",
+      "jobs": 7,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Software Engineer, Model Inference",
+          "url": "https://jobs.ashbyhq.com/openai/83b6755d-7785-4186-9050-5ef3ad127941",
+          "department": "Scaling"
+        },
+        {
+          "title": "TL, Research Inference",
+          "url": "https://jobs.ashbyhq.com/openai/50aab80a-fa60-4fcc-882d-18ea76db5f11",
+          "department": "Research"
+        },
+        {
+          "title": "Inference Technical Lead, Sora",
+          "url": "https://jobs.ashbyhq.com/openai/3c2d1178-777f-4613-a084-75a3d37cd1af",
+          "department": "Research"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q4"
+    },
+    {
+      "topic": "multimodal",
+      "jobs": 1,
+      "arxiv": 1,
+      "sampleJobs": [
+        {
+          "title": "Engineering Manager, Multimodal (API)",
+          "url": "https://jobs.ashbyhq.com/openai/1d7f4747-54a3-4141-a39a-c6e7700e969b",
+          "department": "Applied AI"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems",
+          "url": "http://arxiv.org/abs/2604.14846v1",
+          "published": "2026-04-16T10:32:20Z"
+        }
+      ],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "evaluation",
+      "jobs": 0,
+      "arxiv": 20,
+      "sampleJobs": [],
+      "sampleArxiv": [
+        {
+          "title": "In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks",
+          "url": "http://arxiv.org/abs/2604.27891v1",
+          "published": "2026-04-30T14:07:37Z"
+        },
+        {
+          "title": "HealthBench Professional: Evaluating Large Language Models on Real Clinician Chats",
+          "url": "http://arxiv.org/abs/2604.27470v1",
+          "published": "2026-04-30T06:13:01Z"
+        },
+        {
+          "title": "When to Retrieve During Reasoning: Adaptive Retrieval for Large Reasoning Models",
+          "url": "http://arxiv.org/abs/2604.26649v1",
+          "published": "2026-04-29T13:15:44Z"
+        }
+      ],
+      "quadrant": "Q2"
+    },
+    {
+      "topic": "compute_infra",
+      "jobs": 0,
+      "arxiv": 0,
+      "sampleJobs": [],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "data_quality",
+      "jobs": 1,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Engineering Manager, Financial Data Quality",
+          "url": "https://jobs.ashbyhq.com/openai/7676e558-7700-4fb9-aedd-e311c5e8d021",
+          "department": "Applied AI"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q3"
+    },
+    {
+      "topic": "security_eng",
+      "jobs": 20,
+      "arxiv": 4,
+      "sampleJobs": [
+        {
+          "title": "Security Engineer, Application Security",
+          "url": "https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25",
+          "department": "Security"
+        },
+        {
+          "title": "Enterprise Security Engineer",
+          "url": "https://jobs.ashbyhq.com/openai/4fb47557-86d2-47c3-9c6a-909aeb561329",
+          "department": "IT"
+        },
+        {
+          "title": "Security Engineer, Detection and Response - EMEA",
+          "url": "https://jobs.ashbyhq.com/openai/2d8b30c7-afa3-42ca-b315-ead35e8457ab",
+          "department": "Security"
+        }
+      ],
+      "sampleArxiv": [
+        {
+          "title": "Evaluating Jailbreaking Vulnerabilities in LLMs Deployed as Assistants for Smart Grid Operations: A Benchmark Against NERC Standards",
+          "url": "http://arxiv.org/abs/2604.23341v2",
+          "published": "2026-04-25T15:01:12Z"
+        },
+        {
+          "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
+          "url": "http://arxiv.org/abs/2604.21860v1",
+          "published": "2026-04-23T16:56:14Z"
+        },
+        {
+          "title": "Regulating Artificial Intimacy: From Locks and Blocks to Relational Accountability",
+          "url": "http://arxiv.org/abs/2604.18893v1",
+          "published": "2026-04-20T22:30:52Z"
+        }
+      ],
+      "quadrant": "Q4"
+    },
+    {
+      "topic": "applied_fde",
+      "jobs": 82,
+      "arxiv": 0,
+      "sampleJobs": [
+        {
+          "title": "Research Engineer, Applied AI Engineering",
+          "url": "https://jobs.ashbyhq.com/openai/d44c9f70-4aef-45a4-a36a-54fb65663ccb",
+          "department": "Applied AI"
+        },
+        {
+          "title": "AI Deployment Engineer- Media Partnerships",
+          "url": "https://jobs.ashbyhq.com/openai/13fc0b60-f322-4821-82c1-4327a725b563",
+          "department": "Go To Market"
+        },
+        {
+          "title": "Manager, Forward Deployed Engineering",
+          "url": "https://jobs.ashbyhq.com/openai/5bbc43df-558a-4e4b-a0cf-83f185c664d7",
+          "department": "Model Deployment for Business"
+        }
+      ],
+      "sampleArxiv": [],
+      "quadrant": "Q4"
+    }
+  ]
+}
